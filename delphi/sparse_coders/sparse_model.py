@@ -36,6 +36,7 @@ def load_hooks_sparse_coders(
             model,
             run_cfg.sparse_model,
             run_cfg.hookpoints,
+            random=run_cfg.random,
             compile=compile,
         )
     else:
@@ -96,7 +97,8 @@ def load_sparse_coders(
             run_cfg.sparse_model,
             run_cfg.hookpoints,
             device,
-            compile,
+            random=run_cfg.random,
+            compile=compile,
         )
     else:
         # model path will always be of the form google/gemma-scope-<size>-pt-<type>/

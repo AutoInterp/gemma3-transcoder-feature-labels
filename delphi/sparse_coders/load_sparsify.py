@@ -65,6 +65,7 @@ def load_sparsify_sparse_coders(
     name: str,
     hookpoints: list[str],
     device: str | torch.device,
+    random: bool = False,
     compile: bool = False,
 ) -> dict[str, PotentiallyWrappedSparseCoder]:
     """
@@ -88,9 +89,23 @@ def load_sparsify_sparse_coders(
     name_path = Path(name)
     if name_path.exists():
         for hookpoint in hookpoints:
-            sparse_model_dict[hookpoint] = SparseCoder.load_from_disk(
-                name_path / hookpoint, device=device
+            sparse_model = SparseCoder.load_from_disk(
+                name_path / hookpoint, device="cpu"
             )
+            # if random, initialize a new sparse model with random weights
+            if random:
+                config = sparse_model.cfg
+                d_in = sparse_model.d_in
+                dtype = sparse_model.dtype
+                sparse_model = SparseCoder(
+                    d_in,
+                    config,
+                    device=device,
+                    dtype=dtype,
+                    decoder=False,
+                )
+
+            sparse_model_dict[hookpoint] = sparse_model
             if compile:
                 sparse_model_dict[hookpoint] = torch.compile(
                     sparse_model_dict[hookpoint]
@@ -98,8 +113,21 @@ def load_sparsify_sparse_coders(
     else:
         # Load on CPU first to not run out of memory
         sparse_models = SparseCoder.load_many(name, device="cpu")
+
         for hookpoint in hookpoints:
-            sparse_model_dict[hookpoint] = sparse_models[hookpoint].to(device)
+            sparse_model = sparse_models[hookpoint]
+            if random:
+                config = sparse_model.cfg
+                d_in = sparse_model.d_in
+                dtype = sparse_model.dtype
+                sparse_model = SparseCoder(
+                    d_in,
+                    config,
+                    device=device,
+                    dtype=dtype,
+                    decoder=False,
+                )
+            sparse_model_dict[hookpoint] = sparse_model.to(device)
             if compile:
                 sparse_model_dict[hookpoint] = torch.compile(
                     sparse_model_dict[hookpoint]
@@ -113,6 +141,7 @@ def load_sparsify_hooks(
     model: PreTrainedModel,
     name: str,
     hookpoints: list[str],
+    random: bool = False,
     device: str | torch.device | None = None,
     compile: bool = False,
 ) -> tuple[dict[str, Callable], bool]:
@@ -136,6 +165,7 @@ def load_sparsify_hooks(
         name,
         hookpoints,
         device,
+        random,
         compile,
     )
     hookpoint_to_sparse_encode = {}
@@ -145,7 +175,6 @@ def load_sparsify_hooks(
         path_segments = resolve_path(model, hookpoint.split("."))
         if path_segments is None:
             raise ValueError(f"Could not find valid path for hookpoint: {hookpoint}")
-
         hookpoint_to_sparse_encode[".".join(path_segments)] = partial(
             sae_dense_latents, sae=sparse_model
         )

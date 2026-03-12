@@ -120,6 +120,9 @@ class RunConfig(Serializable):
     directory containing their weights. Models must be loadable with sparsify
     or gemmascope."""
 
+    random: bool = False
+    """Whether to initialize the sparse models with random weights."""
+
     hookpoints: list[str] = list_field()
     """list of model hookpoints to attach sparse models to."""
 

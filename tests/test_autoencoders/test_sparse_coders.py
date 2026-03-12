@@ -6,14 +6,15 @@ from transformers import PreTrainedModel
 from delphi.config import RunConfig
 
 # Import the function to be tested
-from delphi.sparse_coders import load_hooks_sparse_coders
+from delphi.sparse_coders import load_hooks_sparse_coders, load_sparse_coders
 
 
 # A simple dummy run configuration for testing.
 class DummyRunConfig:
-    def __init__(self, sparse_model, hookpoints):
+    def __init__(self, sparse_model, hookpoints, random=False):
         self.sparse_model = sparse_model
         self.hookpoints = hookpoints
+        self.random = random
         # Additional required fields can be added here if needed.
         self.model = "dummy_model"
         self.hf_token = ""
@@ -62,6 +63,7 @@ def run_cfg_sparsify():
     return DummyRunConfig(
         sparse_model="EleutherAI/sae-pythia-70m-32k",
         hookpoints=["layers.4.mlp", "layers.0"],
+        random=False,
     )
 
 
@@ -75,6 +77,7 @@ def run_cfg_gemma():
             "layer_12/width_131k/average_l0_67",
             "layer_12/width_16k/average_l0_22",
         ],
+        random=False,
     )
 
 
@@ -127,3 +130,53 @@ def test_retrieve_autoencoders_from_gemma(dummy_model, run_cfg_gemma):
                 f"Autoencoder '{key}' from the Gemma branch failed when called:"
                 f"\n{repr(e)}"
             )
+
+
+def test_load_sparse_coders_forwards_random_and_compile(monkeypatch):
+    """Ensure random and compile flags are forwarded for the sparsify path."""
+    captured: dict[str, object] = {}
+
+    def fake_loader(name, hookpoints, device, random=False, compile=False):
+        captured["name"] = name
+        captured["hookpoints"] = hookpoints
+        captured["device"] = device
+        captured["random"] = random
+        captured["compile"] = compile
+        return {"layers.0": object()}
+
+    monkeypatch.setattr(
+        "delphi.sparse_coders.sparse_model.load_sparsify_sparse_coders",
+        fake_loader,
+    )
+
+    cfg = DummyRunConfig(
+        sparse_model="EleutherAI/sae-pythia-70m-32k",
+        hookpoints=["layers.0"],
+        random=True,
+    )
+
+    result = load_sparse_coders(cfg, device="cpu", compile=True)
+
+    assert isinstance(result, dict)
+    assert captured == {
+        "name": "EleutherAI/sae-pythia-70m-32k",
+        "hookpoints": ["layers.0"],
+        "device": "cpu",
+        "random": True,
+        "compile": True,
+    }
+
+
+def test_load_sparse_coders_requires_random_field():
+    """The run config must explicitly provide a random field."""
+
+    class MissingRandomRunConfig:
+        sparse_model = "EleutherAI/sae-pythia-70m-32k"
+        hookpoints = ["layers.0"]
+
+        @property
+        def __class__(self) -> type:  # type: ignore
+            return RunConfig
+
+    with pytest.raises(AttributeError):
+        load_sparse_coders(MissingRandomRunConfig(), device="cpu")
