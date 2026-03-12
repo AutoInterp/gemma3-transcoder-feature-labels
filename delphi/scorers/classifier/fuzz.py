@@ -51,7 +51,7 @@ class FuzzingScorer(Classifier, Scorer):
             temperature=temperature,
             **generation_kwargs,
         )
-
+        self.log_prob = log_prob
         self.threshold = threshold
         self.fuzz_type = fuzz_type
 

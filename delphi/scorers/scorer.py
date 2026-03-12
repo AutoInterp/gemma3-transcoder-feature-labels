@@ -14,5 +14,5 @@ class ScorerResult(NamedTuple):
 
 class Scorer(ABC):
     @abstractmethod
-    def __call__(self, record: LatentRecord) -> ScorerResult:
+    async def __call__(self, record: LatentRecord) -> ScorerResult:
         pass

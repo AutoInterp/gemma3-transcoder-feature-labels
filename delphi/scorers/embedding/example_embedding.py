@@ -118,10 +118,12 @@ class ExampleEmbeddingScorer(Scorer):
             # Split the embeddings back into their components
             n_neg = len(batch.negative_examples)
             n_pos = len(batch.positive_examples)
-            negative_examples_embeddings = all_embeddings[:n_neg]
-            positive_examples_embeddings = all_embeddings[n_neg : n_neg + n_pos]
-            positive_query_embedding = all_embeddings[-2].unsqueeze(0)
-            negative_query_embedding = all_embeddings[-1].unsqueeze(0)
+            negative_examples_embeddings = torch.tensor(all_embeddings[:n_neg])
+            positive_examples_embeddings = torch.tensor(
+                all_embeddings[n_neg : n_neg + n_pos]
+            )
+            positive_query_embedding = torch.tensor(all_embeddings[-2]).unsqueeze(0)
+            negative_query_embedding = torch.tensor(all_embeddings[-1]).unsqueeze(0)
 
             # Compute the similarity between the query and the examples
             negative_similarities = self.model.similarity(
@@ -165,9 +167,11 @@ class ExampleEmbeddingScorer(Scorer):
         # which are going to be used as "explanations"
         positive_train_examples = record.train
 
+        number_samples = min(len(positive_train_examples), len(record.not_active))
+
         # Sample from the not_active examples
         not_active_index = self.random.sample(
-            range(len(record.not_active)), len(positive_train_examples)
+            range(len(record.not_active)), number_samples
         )
         negative_train_examples = [record.not_active[i] for i in not_active_index]
 
@@ -192,6 +196,7 @@ class ExampleEmbeddingScorer(Scorer):
             positive_query_str, _ = _prepare_text(
                 positive_query, n_incorrect=0, threshold=0.3, highlighted=True
             )
+
             # Prepare the negative query
             if self.method == "default":
                 # In the default method, we just sample a random negative example
@@ -205,6 +210,7 @@ class ExampleEmbeddingScorer(Scorer):
                     threshold=0.3,
                     highlighted=True,
                 )
+
             elif self.method == "internal":
                 # In the internal method, we sample a negative example
                 # that has a different quantile as the positive query
@@ -216,13 +222,13 @@ class ExampleEmbeddingScorer(Scorer):
                         range(len(positive_test_examples)), 1
                     )[0]
                     negative_query_temp = positive_test_examples[negative_query_idx]
-                    negative_query_quantile = negative_query.distance
+                    negative_query_quantile = negative_query_temp.quantile
 
                 negative_query = NonActivatingExample(
                     str_tokens=negative_query_temp.str_tokens,
                     tokens=negative_query_temp.tokens,
                     activations=negative_query_temp.activations,
-                    distance=negative_query_temp.quantile,
+                    distance=float(negative_query_temp.quantile),
                 )
                 # Because it is a converted activating example, it will highlight
                 # the activating tokens
@@ -234,15 +240,18 @@ class ExampleEmbeddingScorer(Scorer):
             # that have the same quantile as the positive_query
             positive_examples = [
                 e
-                for e in positive_train_examples
+                for e in positive_test_examples
                 if e.quantile == positive_query.quantile
             ]
             if len(positive_examples) > 10:
-                positive_examples = self.random.sample(positive_examples, 10)
+                positive_examples = self.random.sample(positive_examples, 11)
             positive_examples_str = [
                 _prepare_text(e, n_incorrect=0, threshold=0.3, highlighted=True)[0]
                 for e in positive_examples
             ]
+            # if one example is the same as the positive query, remove it
+            if positive_query_str in positive_examples_str:
+                positive_examples_str.remove(positive_query_str)
 
             # negative examples
             if self.method == "default":
@@ -259,7 +268,7 @@ class ExampleEmbeddingScorer(Scorer):
                 # that has the same quantile as the negative_query
                 negative_examples = [
                     e
-                    for e in positive_train_examples
+                    for e in positive_test_examples
                     if e.quantile == negative_query.distance
                 ]
                 if len(negative_examples) > 10:
@@ -275,7 +284,7 @@ class ExampleEmbeddingScorer(Scorer):
                 positive_query=positive_query_str,
                 negative_query=negative_query_str,
                 quantile_positive_query=positive_query.quantile,
-                distance_negative_query=negative_query.distance,
+                distance_negative_query=float(negative_query.distance),
             )
             batches.append(batch)
         return batches

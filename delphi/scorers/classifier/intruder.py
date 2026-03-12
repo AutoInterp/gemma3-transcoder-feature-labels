@@ -170,13 +170,15 @@ class IntruderScorer(Classifier):
             active_examples = self.rng.sample(all_active_examples, num_active_examples)
 
             # highlights the active tokens with <<>> markers
-            majority_examples = []
+            formatted_examples = []
+            chosen_examples = []
             num_active_tokens = 0
             for example in active_examples:
                 text, _str_tokens = _prepare_text(
                     example, n_incorrect=0, threshold=0.3, highlighted=True
                 )
-                majority_examples.append(text)
+                formatted_examples.append(text)
+                chosen_examples.append(example)
                 num_active_tokens += (example.activations > 0).sum().item()
 
             avg_active_tokens_per_example = num_active_tokens // len(active_examples)
@@ -193,6 +195,7 @@ class IntruderScorer(Classifier):
                     threshold=0.3,
                     highlighted=True,
                 )
+
             elif self.type == "internal":
                 # randomly select a quantile to be the intruder, make sure it's not
                 # the same as the source quantile
@@ -224,10 +227,15 @@ class IntruderScorer(Classifier):
 
             # select a random index to insert the intruder sentence
             intruder_index = self.rng.randint(0, num_active_examples)
-            examples = (
-                majority_examples[:intruder_index]
+            formatted_examples = (
+                formatted_examples[:intruder_index]
                 + [intruder_sentence]
-                + majority_examples[intruder_index:]
+                + formatted_examples[intruder_index:]
+            )
+            examples = (
+                chosen_examples[:intruder_index]
+                + [intruder]
+                + chosen_examples[intruder_index:]
             )
 
             example_activations = [example.activations.tolist() for example in examples]
@@ -235,7 +243,7 @@ class IntruderScorer(Classifier):
 
             batches.append(
                 IntruderSentence(
-                    examples=examples,
+                    examples=formatted_examples,
                     intruder_index=intruder_index,
                     chosen_quantile=active_quantile,
                     activations=example_activations,

@@ -112,7 +112,7 @@ def _prepare_text(
     if n_incorrect == 0:
 
         def is_above_activation_threshold(i: int) -> bool:
-            return example.activations[i] >= abs_threshold
+            return bool((example.activations[i] >= abs_threshold).item())
 
         return _highlight(str_toks, is_above_activation_threshold), str_toks
 
@@ -137,6 +137,7 @@ def _prepare_text(
     # The activating token is always ctx_len - ctx_len//4
     # so we always highlight this one, and if num_tokens_to_highlight > 1
     # we highlight num_tokens_to_highlight - 1 random ones
+    # TODO: This is wrong
     token_pos = len(str_toks) - len(str_toks) // 4
     if token_pos in tokens_below_threshold:
         random_indices = [token_pos]

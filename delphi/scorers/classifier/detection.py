@@ -39,6 +39,7 @@ class DetectionScorer(Classifier, Scorer):
             temperature=temperature,
             **generation_kwargs,
         )
+        self.log_prob = log_prob
 
     def prompt(self, examples: str, explanation: str) -> list[dict]:
         return detection_prompt(examples, explanation)
