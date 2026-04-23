@@ -158,7 +158,7 @@ def load_gemma_transcoder_autoencoders(
         )
         sae = GemmaScopeAffineTranscoder.from_safetensors(local_path, device=device)
         sae.to(dtype=dtype)
-        saes[f"layers.{layer}.mlp"] = sae
+        saes[f"language_model.layers.{layer}.mlp"] = sae
     return saes
 
 
