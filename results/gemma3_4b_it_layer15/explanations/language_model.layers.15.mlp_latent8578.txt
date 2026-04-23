@@ -1,0 +1,1 @@
+"Various citations and references in academic papers, including journal names, volume and page numbers, and DOIs, often accompanied by activation values for specific tokens such as numbers and punctuation."

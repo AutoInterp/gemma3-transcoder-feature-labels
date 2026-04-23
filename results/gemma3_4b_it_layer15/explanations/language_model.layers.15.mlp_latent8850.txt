@@ -1,0 +1,1 @@
+"A sequence of numbers and letters representing a unique identifier for academic publications, often found at the end of a citation or reference."

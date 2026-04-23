@@ -1,0 +1,1 @@
+"Texts from various domains, including news, entertainment, education, and product descriptions, with a focus on extracting specific information, such as dates, names, and product features."

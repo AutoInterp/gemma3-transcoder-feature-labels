@@ -1,0 +1,1 @@
+"Dates and time ranges, often specifying the duration of events, conferences, or meetings."

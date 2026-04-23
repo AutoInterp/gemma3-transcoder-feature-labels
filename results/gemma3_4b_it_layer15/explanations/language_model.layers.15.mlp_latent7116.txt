@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, primarily Java and SQL, containing database schema definitions, data retrieval and manipulation, and user interface elements."

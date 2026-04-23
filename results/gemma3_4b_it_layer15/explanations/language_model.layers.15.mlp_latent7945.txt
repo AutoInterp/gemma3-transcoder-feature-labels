@@ -1,0 +1,1 @@
+"Various programming-related terms, legal phrases, and technical descriptions, often found in code comments, documentation, and licenses."

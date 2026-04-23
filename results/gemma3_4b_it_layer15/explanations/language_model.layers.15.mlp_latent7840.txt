@@ -1,0 +1,1 @@
+"Text discussing the quicksort algorithm, a sorting technique, and its properties, including its time complexity, parallelization, and relation to other algorithms."

@@ -1,0 +1,1 @@
+"HTML tags and markdown syntax used to format text, including headings, italics, colors, and links, as well as programming code and comments."

@@ -1,0 +1,1 @@
+"Token sequences often represent proper nouns, technical terms, or specific concepts, frequently appearing in formal or technical contexts, such as scientific descriptions, programming languages, and administrative divisions."

@@ -1,0 +1,1 @@
+"Locations and distances from a central point, often used to describe accessibility and convenience."

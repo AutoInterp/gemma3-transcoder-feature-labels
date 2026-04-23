@@ -1,0 +1,1 @@
+"Text describing color theory, color codes, and color perception, with a focus on RGB and CMYK color models, color combinations, and accessibility for people with color vision deficiency."

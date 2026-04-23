@@ -1,0 +1,1 @@
+"Various types of text, including financial data, news articles, and academic papers, with a focus on extracting specific information and phrases, often related to dates, locations, and technical terms."

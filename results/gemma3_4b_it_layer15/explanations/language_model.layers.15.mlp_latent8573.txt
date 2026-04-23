@@ -1,0 +1,1 @@
+"Dates in various formats, including numerical and written representations, often accompanied by other metadata such as publication information, revision history, and timestamps."

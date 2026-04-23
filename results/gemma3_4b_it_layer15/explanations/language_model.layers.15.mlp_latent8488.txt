@@ -1,0 +1,1 @@
+"Texts from various technical documentation, including programming guides, tutorials, and user manuals, often containing commands, syntax, and configuration options."

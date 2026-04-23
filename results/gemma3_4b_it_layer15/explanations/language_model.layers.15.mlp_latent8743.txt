@@ -1,0 +1,1 @@
+"The token \"till\" is used to indicate a point in time when something will happen or a condition will be met, often in a comparative or temporal sense."

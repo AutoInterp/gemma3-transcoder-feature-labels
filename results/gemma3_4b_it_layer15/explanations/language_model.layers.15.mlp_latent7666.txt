@@ -1,0 +1,1 @@
+"Text fragments often appear at the beginning or end of a passage, typically containing metadata, titles, or introductory phrases, and are frequently followed by a period or other punctuation."

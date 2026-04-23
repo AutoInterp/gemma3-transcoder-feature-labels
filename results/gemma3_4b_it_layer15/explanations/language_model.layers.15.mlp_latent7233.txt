@@ -1,0 +1,1 @@
+"Texts discussing mathematical concepts, specifically finding the Greatest Common Factor (GCF) of given numbers, and explaining various methods and algorithms for this purpose."

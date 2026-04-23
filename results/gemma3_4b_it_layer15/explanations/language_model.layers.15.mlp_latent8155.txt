@@ -1,0 +1,1 @@
+"Text snippets often appear in pairs, typically enclosed in angle brackets, and are frequently related to citations, references, or code snippets."

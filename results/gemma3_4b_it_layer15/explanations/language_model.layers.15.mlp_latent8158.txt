@@ -1,0 +1,1 @@
+"Texts containing geographical locations, often with distances and directions, frequently appearing in the format of \"X km, Y miles, Z nm\" and sometimes followed by a city or country name."

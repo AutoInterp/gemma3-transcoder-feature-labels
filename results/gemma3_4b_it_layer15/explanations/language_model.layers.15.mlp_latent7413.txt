@@ -1,0 +1,1 @@
+"Text fragments often contain URLs, product names, company names, and technical terms, indicating a focus on marketing, product information, and technical documentation."

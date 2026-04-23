@@ -1,0 +1,1 @@
+"Various types of identifiers and citations, including ISBN numbers, article references, and DOIs, often found at the end of a text or in a list of references."

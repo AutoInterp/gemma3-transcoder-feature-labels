@@ -1,0 +1,1 @@
+"Text fragments containing URLs, file paths, and other programming-related code, often embedded within a larger narrative."

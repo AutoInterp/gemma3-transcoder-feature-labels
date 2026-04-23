@@ -1,0 +1,1 @@
+"Texts often contain geographical locations, names of cities, countries, and regions, sometimes accompanied by demographic information, economic data, or cultural descriptions."

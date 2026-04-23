@@ -1,0 +1,1 @@
+"Error messages and debugging statements in code, often containing variable names, function calls, and conditional statements."

@@ -1,0 +1,1 @@
+"Text fragments often appear to be incomplete sentences or phrases, frequently containing URLs, code snippets, or technical jargon, suggesting that they are excerpts from articles, documentation, or online content."

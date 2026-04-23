@@ -1,0 +1,1 @@
+"Text fragments often contain non-essential information, such as quotes, examples, or explanations, which are set apart from the main content. These fragments can be identified by their distinct formatting, punctuation, or context."

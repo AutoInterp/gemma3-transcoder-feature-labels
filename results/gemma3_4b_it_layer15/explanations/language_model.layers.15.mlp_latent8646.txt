@@ -1,0 +1,1 @@
+"Mathematical text with various equations, formulas, and code snippets, primarily in LaTeX and programming languages such as Python and Zsh."
