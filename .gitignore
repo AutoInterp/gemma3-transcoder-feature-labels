@@ -184,3 +184,5 @@ statistics/
 .embedding_cache/
 wandb/
 uv.lock
+!results/gemma3_4b_it_layer15/explanations/
+!results/gemma3_4b_it_layer15/explanations/**
