@@ -116,6 +116,10 @@ class Offline(Client):
             prompt = self.tokenizer.apply_chat_template(
                 batch, add_generation_prompt=True, tokenize=True
             )
+            if hasattr(prompt, "input_ids"):
+                prompt = prompt["input_ids"]
+            elif isinstance(prompt, dict):
+                prompt = prompt["input_ids"]
             prompt = TokensPrompt(prompt_token_ids=prompt)
             prompts.append(prompt)
             if self.statistics:
