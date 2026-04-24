@@ -141,7 +141,7 @@ def build_labels_dict(
     explanations_path = Path(explanations_dir)
 
     items: list[tuple[int, str]] = []
-    for txt_file in sorted(explanations_path.glob("*.txt")):
+    for txt_file in explanations_path.glob("*.txt"):
         match = re.search(r"_latent(\d+)\.txt$", txt_file.name)
         if not match:
             continue
@@ -151,6 +151,9 @@ def build_labels_dict(
 
     if not items:
         raise FileNotFoundError(f"No explanation .txt files in {explanations_dir}")
+
+    # Numeric sort by feature id (not alphabetic, so latent2 comes before latent10)
+    items.sort(key=lambda x: x[0])
 
     indices = [i for i, _ in items]
     explanations = [e for _, e in items]
