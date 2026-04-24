@@ -75,6 +75,34 @@ def build_chat_prompts(explanations: list[str], tokenizer) -> list[str]:
     return prompts
 
 
+def detect_layer_name(explanations_dir: str) -> str:
+    """
+    Scan the explanations directory and extract the layer identifier
+    (e.g. 'layers.15') from the filenames. Raises if files come from
+    multiple different layers, since mixing them into one labels file
+    would be ambiguous.
+    """
+    explanations_path = Path(explanations_dir)
+    layer_pattern = re.compile(r"(layers\.\d+)")
+
+    found: set[str] = set()
+    for txt_file in explanations_path.glob("*.txt"):
+        m = layer_pattern.search(txt_file.name)
+        if m:
+            found.add(m.group(1))
+
+    if not found:
+        raise ValueError(
+            f"Could not detect a 'layers.N' segment in any filename under {explanations_dir}"
+        )
+    if len(found) > 1:
+        raise ValueError(
+            f"Explanations directory contains multiple layers: {sorted(found)}. "
+            "Run this script once per layer, or pass --output explicitly."
+        )
+    return found.pop()
+
+
 def clean_label(raw: str, max_words: int = 7) -> str:
     """Sanitize a raw model output into a clean short label."""
     label = raw.strip()
@@ -173,8 +201,10 @@ def main():
     parser.add_argument("--explanations_dir", type=str,
                         default="results/gemma3_4b_it_layer15/explanations",
                         help="Path to the delphi explanations directory")
-    parser.add_argument("--output", type=str, default="feature_labels.json",
-                        help="Output JSON file path")
+    parser.add_argument("--output", type=str, default=None,
+                        help="Output JSON path. If omitted, defaults to "
+                             "feature_labels_<layer>.json (layer auto-detected "
+                             "from filenames, e.g. 'feature_labels_layers.15.json')")
     parser.add_argument("--model", type=str,
                         default="unsloth/Meta-Llama-3.1-8B-Instruct",
                         help="Same local model used for explanation generation")
@@ -187,6 +217,12 @@ def main():
     parser.add_argument("--tensor_parallel_size", type=int, default=1,
                         help="Number of GPUs for tensor parallelism")
     args = parser.parse_args()
+
+    # Resolve output path: auto-name from detected layer if not given
+    if args.output is None:
+        layer = detect_layer_name(args.explanations_dir)
+        args.output = f"feature_labels_{layer}.json"
+        print(f"Auto-detected layer: {layer} → output: {args.output}")
 
     print(f"Loading tokenizer + model: {args.model}")
     tokenizer = AutoTokenizer.from_pretrained(args.model)
