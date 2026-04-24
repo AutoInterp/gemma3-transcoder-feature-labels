@@ -10,14 +10,28 @@ The branch used for the article [Automatically Interpreting Millions of Features
 
 Install this library as a local editable installation. Run the following command from the `delphi` directory.
 
-```pip install -e .```
+```
+pip install -e .
+pip install plotly
+
+export HUGGING_FACE_HUB_TOKEN=
+export HF_TOKEN=
+```
 
 # Getting Started
 
-To run the Gemma 3 pipeline from the command line (e.g layer15), use the following command:
+To run the Gemma 3 pipeline from the command line (e.g layer15), use the following command:  
+
+Create a new tmux session:
 ```
 tmux new -s delphi
+```
+```
+ls
+source venv/bin/activate
 
+```
+```
 python -m delphi \
   google/gemma-3-4b-it \
   mwhanna/gemma-scope-2-4b-it/transcoder_all/width_16k_l0_small_affine \
@@ -29,7 +43,11 @@ python -m delphi \
   --explainer_model_max_len 5120 \
   --name gemma3_4b_it_layer15
 ```
-
+After closing your terminal, you can reattach to the session using:
+```
+tmux attach -t delphi
+```
+---
 To run the default pipeline from the command line, use the following command:
 
 `python -m delphi EleutherAI/pythia-160m EleutherAI/Pythia-160m-SST-k32-32k --n_tokens 10_000_000 --max_latents 100 --hookpoints layers.5.mlp --scorers detection --filter_bos --name llama-3-8B`
