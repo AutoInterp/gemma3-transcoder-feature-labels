@@ -18,6 +18,22 @@ To run the default pipeline from the command line, use the following command:
 
 `python -m delphi EleutherAI/pythia-160m EleutherAI/Pythia-160m-SST-k32-32k --n_tokens 10_000_000 --max_latents 100 --hookpoints layers.5.mlp --scorers detection --filter_bos --name llama-3-8B`
 
+### To run the Gemma 3 pipeline from the command line (e.g layer15), use the following command:
+```
+tmux new -s delphi
+
+python -m delphi \
+  google/gemma-3-4b-it \
+  mwhanna/gemma-scope-2-4b-it/transcoder_all/width_16k_l0_small_affine \
+  --n_tokens 10_000_000 \
+  --max_latents 16384 \
+  --hookpoints 15 \
+  --explainer_provider offline \
+  --explainer_model "unsloth/Meta-Llama-3.1-8B-Instruct" \
+  --explainer_model_max_len 5120 \
+  --name gemma3_4b_it_layer15
+```
+  
 This command will:
 1. Cache activations for the first 10 million tokens of the default dataset, `EleutherAI/SmolLM2-135M-10B`.
 2. Generate explanations for the first 100 features of layer 5 using the default explainer model, `hugging-quants/Meta-Llama-3.1-70B-Instruct-AWQ-INT4`.
