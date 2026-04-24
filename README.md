@@ -43,6 +43,13 @@ python -m delphi \
   --explainer_model_max_len 5120 \
   --name gemma3_4b_it_layer15
 ```
+A dictionary that maps features to labels
+```
+python build_labels_dict.py \
+        --explanations_dir results/gemma3_4b_it_layer15/explanations \
+        --output feature_labels.json \
+        --model unsloth/Meta-Llama-3.1-8B-Instruct
+```
 After closing your terminal, you can reattach to the session using:
 ```
 tmux attach -t delphi
