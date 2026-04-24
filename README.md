@@ -14,11 +14,7 @@ Install this library as a local editable installation. Run the following command
 
 # Getting Started
 
-To run the default pipeline from the command line, use the following command:
-
-`python -m delphi EleutherAI/pythia-160m EleutherAI/Pythia-160m-SST-k32-32k --n_tokens 10_000_000 --max_latents 100 --hookpoints layers.5.mlp --scorers detection --filter_bos --name llama-3-8B`
-
-### To run the Gemma 3 pipeline from the command line (e.g layer15), use the following command:
+To run the Gemma 3 pipeline from the command line (e.g layer15), use the following command:
 ```
 tmux new -s delphi
 
@@ -33,6 +29,10 @@ python -m delphi \
   --explainer_model_max_len 5120 \
   --name gemma3_4b_it_layer15
 ```
+
+To run the default pipeline from the command line, use the following command:
+
+`python -m delphi EleutherAI/pythia-160m EleutherAI/Pythia-160m-SST-k32-32k --n_tokens 10_000_000 --max_latents 100 --hookpoints layers.5.mlp --scorers detection --filter_bos --name llama-3-8B`
   
 This command will:
 1. Cache activations for the first 10 million tokens of the default dataset, `EleutherAI/SmolLM2-135M-10B`.
