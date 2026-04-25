@@ -1,6 +1,7 @@
 import asyncio
 import logging
 import os
+import re
 from functools import partial
 from pathlib import Path
 from typing import Callable
@@ -110,6 +111,41 @@ def create_neighbours(
         neighbour_calculator.save_neighbour_cache(f"{neighbours_path}/{hookpoint}")
 
 
+def completed_latents(
+    hookpoint: str,
+    explanations_path: Path,
+    scores_path: Path,
+    scorers: list[str],
+) -> set[int]:
+    """Latent indices that can be skipped when resuming an interrupted run.
+
+    A latent is considered done if its explanation file exists. If scorers are
+    configured AND a `scores/<scorer>` directory already exists for every
+    scorer (i.e. scoring actually started in a previous run), we additionally
+    require that every scorer wrote a file for this latent — otherwise we'd
+    silently skip latents that are missing scores. When no scoring directory
+    exists yet, we assume the previous run died before scoring and only check
+    for the explanation file (so re-running picks up where explanations stopped
+    without re-explaining what's already on disk).
+    """
+    score_dirs_present = bool(scorers) and all(
+        (scores_path / s).is_dir() for s in scorers
+    )
+    completed: set[int] = set()
+    pattern = re.compile(rf"^{re.escape(hookpoint)}_latent(\d+)\.txt$")
+    for f in explanations_path.glob(f"{hookpoint}_latent*.txt"):
+        m = pattern.match(f.name)
+        if not m:
+            continue
+        idx = int(m.group(1))
+        if score_dirs_present:
+            safe = f"{hookpoint}_latent{idx}".replace("/", "--")
+            if not all((scores_path / s / f"{safe}.txt").exists() for s in scorers):
+                continue
+        completed.add(idx)
+    return completed
+
+
 async def process_cache(
     run_cfg: RunConfig,
     latents_path: Path,
@@ -129,9 +165,32 @@ async def process_cache(
     if latent_range is None:
         latent_dict = None
     else:
-        latent_dict = {
-            hook: latent_range for hook in hookpoints
-        }  # The latent range to explain
+        latent_dict = {}
+        for hook in hookpoints:
+            done = completed_latents(
+                hook, explanations_path, scores_path, run_cfg.scorers
+            )
+            remaining = torch.tensor(
+                [i for i in latent_range.tolist() if int(i) not in done],
+                dtype=latent_range.dtype,
+            )
+            if done:
+                print(
+                    f"[resume] {hook}: skipping {len(done)} already-processed "
+                    f"latents, {len(remaining)} remaining"
+                )
+            if len(remaining) == 0:
+                print(f"[resume] {hook}: all latents already processed, skipping")
+                continue
+            latent_dict[hook] = remaining
+
+        if not latent_dict:
+            print("[resume] nothing left to process for any hookpoint")
+            return
+
+        # Drop hookpoints that are fully done so LatentDataset doesn't try to
+        # load buffers for them.
+        hookpoints = list(latent_dict.keys())
 
     dataset = LatentDataset(
         raw_dir=latents_path,
