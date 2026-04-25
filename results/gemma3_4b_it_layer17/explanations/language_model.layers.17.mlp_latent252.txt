@@ -1,0 +1,1 @@
+"Text fragments enclosed by delimiters often contain standalone sentences or phrases, frequently with a high activation value, suggesting they are key components of the surrounding text."

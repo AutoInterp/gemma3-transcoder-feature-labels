@@ -1,0 +1,1 @@
+"Various types of text, including mathematical expressions, scientific articles, news articles, and online forum posts, with a focus on extracting specific information or quotes."

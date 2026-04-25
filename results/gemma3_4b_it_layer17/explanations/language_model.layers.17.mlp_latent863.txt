@@ -1,0 +1,1 @@
+"Various programming code snippets, mostly in JavaScript, along with some HTML and XML examples, and a few lines of Python and C code."

@@ -1,0 +1,1 @@
+"Various types of text data, including scientific articles, online content, and programming code, with a mix of numerical and textual information."

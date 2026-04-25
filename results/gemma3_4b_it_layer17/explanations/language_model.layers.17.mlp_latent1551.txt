@@ -1,0 +1,1 @@
+"Texts often contain dates, times, and specific locations, which may be used to contextualize events or provide additional information."

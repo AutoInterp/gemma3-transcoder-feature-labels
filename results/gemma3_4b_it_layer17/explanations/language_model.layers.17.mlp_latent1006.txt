@@ -1,0 +1,1 @@
+"Various types of delimiters and special characters used to separate and organize text, often found in citations, references, and metadata."

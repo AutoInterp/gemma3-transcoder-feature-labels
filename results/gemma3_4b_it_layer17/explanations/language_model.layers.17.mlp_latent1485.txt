@@ -1,0 +1,1 @@
+"Various patterns of code snippets, including programming languages, SQL queries, XPath expressions, and regular expressions, often accompanied by timestamps, comments, and error messages."

@@ -1,0 +1,1 @@
+"Texts often contain dates, specifically years, which can be found in the format \"in 1890\" or \"since time immemorial\", indicating a reference to a specific point in time."

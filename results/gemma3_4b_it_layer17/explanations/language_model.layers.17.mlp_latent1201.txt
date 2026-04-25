@@ -1,0 +1,1 @@
+"The token \"0\" and \"1\" are used to represent a range or a scale, often in a context of measurement, scoring, or rating, with \"0\" typically indicating the lowest or starting point and \"1\" indicating the highest or maximum point."

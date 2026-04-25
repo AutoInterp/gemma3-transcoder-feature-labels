@@ -1,0 +1,1 @@
+"Texts describing algorithms, data structures, and mathematical concepts, often with a focus on time and space complexity, optimization, and problem-solving strategies."

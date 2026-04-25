@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including JSON, C++, Java, Python, HTML, and Swift, highlighting syntax and data structures."

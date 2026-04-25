@@ -1,0 +1,1 @@
+"Text fragments that appear to be dates, times, or references, often in a formal or academic context, but lack significant activations, suggesting they are not the primary focus of the text."

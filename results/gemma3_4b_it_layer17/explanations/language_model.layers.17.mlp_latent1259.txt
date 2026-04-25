@@ -1,0 +1,1 @@
+"SQL queries, database operations, and programming code snippets in various languages, including MySQL, PHP, Python, and Java."

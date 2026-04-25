@@ -1,0 +1,1 @@
+"The token \"The\" is often the first word in a sentence, and sometimes the token \"said\" or \"She went\" is the last word in a quotation."

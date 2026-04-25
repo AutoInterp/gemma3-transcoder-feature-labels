@@ -1,0 +1,1 @@
+"Texts containing product names, company names, book titles, and other proper nouns, often accompanied by descriptions or reviews."

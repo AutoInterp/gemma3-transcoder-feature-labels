@@ -1,0 +1,1 @@
+"Text fragments often containing URLs, code snippets, or specific data, frequently found at the end of a paragraph or section, possibly indicating a transition to another topic or a call to action."

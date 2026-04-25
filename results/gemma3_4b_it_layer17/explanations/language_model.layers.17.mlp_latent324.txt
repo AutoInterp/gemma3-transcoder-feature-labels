@@ -1,0 +1,1 @@
+"Various mathematical and programming-related terms, including function names, variable names, and mathematical expressions, often found in code snippets and technical texts."

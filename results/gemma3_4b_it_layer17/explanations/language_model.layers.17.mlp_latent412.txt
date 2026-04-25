@@ -1,0 +1,1 @@
+"Text delimiters often appear at the beginning and end of a block of text, typically containing a self-contained idea or a quote, and sometimes a title or a heading."

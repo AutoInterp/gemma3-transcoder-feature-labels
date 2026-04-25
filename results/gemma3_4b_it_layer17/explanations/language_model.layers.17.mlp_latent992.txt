@@ -1,0 +1,1 @@
+"Temperature measurements in degrees Celsius or Fahrenheit, often accompanied by other units such as meters, kilometers, or pounds."

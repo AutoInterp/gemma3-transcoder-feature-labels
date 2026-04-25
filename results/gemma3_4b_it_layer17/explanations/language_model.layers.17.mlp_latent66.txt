@@ -1,0 +1,1 @@
+"URLs, hyperlinks, and references to external sources, often containing metadata or identifiers."

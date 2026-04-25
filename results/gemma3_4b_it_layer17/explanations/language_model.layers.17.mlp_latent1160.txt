@@ -1,0 +1,1 @@
+"Texts are often separated by a delimiter, possibly indicating the end of a post or a new entry. The delimiter is often followed by a timestamp, author information, or other metadata."

@@ -1,0 +1,1 @@
+"Texts with various topics, including news articles, book reviews, and academic papers, often contain phrases or sentences that are not directly related to the main topic, but rather provide additional information, context, or quotes. These phrases or sentences can be considered as \"noise\" or \"non-essential\" information, and are often marked by low activation values."

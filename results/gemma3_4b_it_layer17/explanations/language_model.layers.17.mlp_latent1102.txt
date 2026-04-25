@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including Python, Pygame, and Stan, with a focus on mathematical and algorithmic concepts, such as linear algebra, optimization, and machine learning."

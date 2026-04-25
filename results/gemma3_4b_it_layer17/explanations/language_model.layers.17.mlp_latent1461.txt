@@ -1,0 +1,1 @@
+"Various phrases and sentences that are incomplete or truncated, often due to the presence of a special character or a delimiter, such as a newline or a special token."

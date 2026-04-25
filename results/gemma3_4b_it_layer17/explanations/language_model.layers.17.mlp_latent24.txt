@@ -1,0 +1,1 @@
+"Dates and version numbers, often in the format of a year or a version number, sometimes followed by a period or a comma, and sometimes appearing in a list or a sequence."

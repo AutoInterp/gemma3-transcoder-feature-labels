@@ -1,0 +1,1 @@
+"The text contains a mix of programming code, literature, and articles, but a common pattern is the presence of special words or phrases that are used to denote specific concepts or functions, such as function names, class names, and method names in programming code, or idiomatic expressions and quotes in literature and articles."

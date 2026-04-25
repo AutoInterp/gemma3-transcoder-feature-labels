@@ -1,0 +1,1 @@
+"Various types of text, including articles, quotes, and conversations, with a focus on extracting specific phrases or sentences for analysis."

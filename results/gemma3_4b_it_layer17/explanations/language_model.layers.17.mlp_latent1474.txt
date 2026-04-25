@@ -1,0 +1,1 @@
+"Texts often contain phrases that indicate a shift in context, such as quotes, references, or changes in topic, which are frequently marked by phrases like \"I know\", \"you know\", or \"as far as I recall\"."

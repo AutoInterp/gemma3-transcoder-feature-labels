@@ -1,0 +1,1 @@
+"Text describing mathematical concepts, equations, and formulas, often involving geometry, algebra, and calculus, as well as programming and computer vision."

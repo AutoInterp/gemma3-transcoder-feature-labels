@@ -1,0 +1,1 @@
+"Various types of text data, including addresses, phone numbers, URLs, citations, and academic references, often found at the end of a paragraph or section."

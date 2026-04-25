@@ -1,0 +1,1 @@
+"Various types of text fragments, including dates, book titles, author names, and quotes, often found at the beginning or end of a text, and sometimes used as a delimiter to separate sections or paragraphs."
