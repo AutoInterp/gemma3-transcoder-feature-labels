@@ -4,6 +4,34 @@ A step-by-step guide to running the Delphi interpretability pipeline on a RunPod
 
 ---
 
+## GPU Requirements
+
+This pipeline loads two models simultaneously (Gemma 3 4B + Llama 3.1 8B), requiring significant VRAM. Choose a GPU with **at least 80 GB VRAM**.
+
+### Recommended (Best Value)
+
+- **A100 SXM 80 GB** 
+  - 80 GB VRAM (runs at ~79 GB peak, tight but sufficient for most layers)
+  - 16 vCPU (AMD EPYC 7742)
+  - 250 GB RAM
+  - Container disk: 500 GB
+
+### Alternative (More Headroom)
+
+- **RTX PRO 6000 96 GB** 
+  - 96 GB VRAM (16 GB extra headroom, safer for larger layers)
+  - 16 vCPU (AMD EPYC 9355)
+  - 188 GB RAM
+  - Container disk: 500 GB
+
+### Notes
+
+- Avoid GPUs with less than 80 GB VRAM (e.g., RTX 4090 48 GB) — they will run out of memory.
+- If a layer fails with an OOM error on A100, switch to RTX PRO 6000 for that layer only.
+- Set `--gpu_memory_utilization 0.9` in vLLM to leave a small buffer.
+
+---
+
 ## 1. Connect to Your Pod
 
 ```bash
@@ -108,8 +136,16 @@ After Delphi finishes, generate the labels JSON:
 ```bash
 python build_labels_dict.py \
   --explanations_dir results/gemma3_4b_it_layer15/explanations \
-  --output feature_labels.json \
   --model unsloth/Meta-Llama-3.1-8B-Instruct
+```
+
+Output is saved automatically to `feature_labels/feature_labels_layer_15.json` with the format:
+
+```json
+{
+  "0": {"explanation": {"label": "Short label here", "description": "Full explanation..."}},
+  "1": {"explanation": {"label": "Another label", "description": "Full explanation..."}}
+}
 ```
 
 ---
@@ -149,3 +185,6 @@ Open a new terminal, SSH in again, and force kill:
 ```bash
 pkill -9 -f "python -m delphi"
 ```
+
+**Out of Memory (OOM) / CUDA OOM**
+The pipeline needs ~79 GB VRAM. If you hit OOM on an A100 80 GB, switch to an RTX PRO 6000 96 GB for that layer. You can also try lowering `--gpu_memory_utilization` to `0.85` to leave more buffer.
