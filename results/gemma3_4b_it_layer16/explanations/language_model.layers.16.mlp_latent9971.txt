@@ -1,0 +1,1 @@
+"Text contains mathematical equations, formulas, and proofs, often involving algebra, geometry, and calculus, with a focus on solving systems of linear equations, quadratic equations, and inequalities, as well as manipulating matrices and vectors."

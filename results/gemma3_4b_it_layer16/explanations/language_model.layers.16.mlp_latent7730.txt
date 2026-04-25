@@ -1,0 +1,1 @@
+"Various programming code snippets, including function definitions, variable declarations, and method calls, from a range of programming languages such as C, C++, Java, and Ruby."

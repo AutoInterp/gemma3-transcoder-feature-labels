@@ -1,0 +1,1 @@
+"Text snippets often appear in pairs, with a colon or a closing quotation mark at the end, indicating a title, a section, or a quote."

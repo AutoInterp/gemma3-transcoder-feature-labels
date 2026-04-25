@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that serve as introductory statements, setting the context or tone for the rest of the passage, and frequently include the word \"the\" as a key token."

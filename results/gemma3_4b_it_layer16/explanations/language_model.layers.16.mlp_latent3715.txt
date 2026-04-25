@@ -1,0 +1,1 @@
+"Phrases and sentences that are likely to be cut off or truncated, often due to the presence of ellipses or other punctuation marks."

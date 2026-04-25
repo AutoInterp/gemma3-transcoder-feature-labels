@@ -1,0 +1,1 @@
+"Texts discussing various topics, including engineering, software, medicine, relationships, education, and more, often contain phrases or sentences that are set apart from the rest of the text, usually to provide additional context or information. These phrases or sentences are often preceded by a delimiter, such as \"<<\", and may contain a mix of formal and informal language."

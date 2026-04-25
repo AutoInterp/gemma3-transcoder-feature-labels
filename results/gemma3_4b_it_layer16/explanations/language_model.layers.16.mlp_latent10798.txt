@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, primarily C++, Python, and JavaScript, showcasing mathematical and computational concepts, such as numerical methods, algorithms, and data structures, often related to physics, engineering, and scientific computing."

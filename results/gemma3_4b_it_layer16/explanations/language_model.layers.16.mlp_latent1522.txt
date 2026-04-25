@@ -1,0 +1,1 @@
+"Texts related to software development, testing, and quality assurance, including discussions on testing frameworks, methodologies, and tools."

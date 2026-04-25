@@ -1,0 +1,1 @@
+"Distances and directions expressed in various units, often in combination with geographical locations."

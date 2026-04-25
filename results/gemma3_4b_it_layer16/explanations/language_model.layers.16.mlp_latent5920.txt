@@ -1,0 +1,1 @@
+"Texts often contain proper nouns, titles, and names that are capitalized, and interjections within a sentence are not capitalized."

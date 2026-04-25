@@ -1,0 +1,1 @@
+"Various numerical values and currency amounts, often used in pricing, measurements, and comparisons, frequently accompanied by descriptive text."

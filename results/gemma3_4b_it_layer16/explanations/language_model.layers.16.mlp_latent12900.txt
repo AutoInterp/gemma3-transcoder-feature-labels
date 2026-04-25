@@ -1,0 +1,1 @@
+"Texts often contain phone numbers, addresses, and URLs, which are frequently embedded within sentences or phrases. Additionally, there are numerous instances of product names, company names, and brand names, which are often used as part of a sentence or phrase."

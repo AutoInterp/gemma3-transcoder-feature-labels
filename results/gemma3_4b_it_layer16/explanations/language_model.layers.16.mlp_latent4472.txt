@@ -1,0 +1,1 @@
+"Texts describing medical conditions, treatments, and interactions between medications, often including warnings and side effects."

@@ -1,0 +1,1 @@
+"Texts containing warnings, cautions, and explanations of potential pitfalls or problems, often related to technical or scientific concepts, and sometimes including advice on how to avoid or mitigate these issues."

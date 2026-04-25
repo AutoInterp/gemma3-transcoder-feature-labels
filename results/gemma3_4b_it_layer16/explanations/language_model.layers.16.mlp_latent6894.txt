@@ -1,0 +1,1 @@
+"Code snippets and programming concepts, including function definitions, variable declarations, and data structures, as well as mathematical equations and formulas, and database table structures."

@@ -1,0 +1,1 @@
+"Text snippets containing various types of data, including URLs, phone numbers, email addresses, file paths, and IDs, often in a context of technical or informational content."

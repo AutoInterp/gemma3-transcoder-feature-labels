@@ -1,0 +1,1 @@
+"Texts describing various concepts, systems, and processes, often including technical details, comparisons, and explanations of how things work, with a focus on scalability, flexibility, and optimization."

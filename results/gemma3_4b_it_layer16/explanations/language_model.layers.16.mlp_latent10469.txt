@@ -1,0 +1,1 @@
+"Texts often contain phrases that indicate a recommendation or suggestion, such as \"If you want to\", \"If you're looking for\", or \"If you need something\", followed by a description of a product, service, or activity."

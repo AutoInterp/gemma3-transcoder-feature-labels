@@ -1,0 +1,1 @@
+"Texts describing error messages, troubleshooting steps, and solutions to various technical issues, often related to software, hardware, or programming."

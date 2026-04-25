@@ -1,0 +1,1 @@
+"Numerical values and percentages are often presented in a specific format, such as with decimal points, percentages, or dollar signs, and are frequently used in financial and statistical contexts."

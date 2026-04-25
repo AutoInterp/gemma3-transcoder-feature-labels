@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that have been truncated or cut off, indicated by a lack of activation for the rest of the sentence."

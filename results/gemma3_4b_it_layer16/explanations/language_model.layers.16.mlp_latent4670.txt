@@ -1,0 +1,1 @@
+"Texts often contain phrases indicating a change in location, time, or situation, such as \"to\", \"from\", \"in\", \"on\", and \"at\", which can be used to establish context and provide additional information."

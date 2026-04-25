@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are cut off or truncated, indicated by the presence of ellipses (...) or other punctuation marks, suggesting that the text is a quote or a snippet from a larger work."

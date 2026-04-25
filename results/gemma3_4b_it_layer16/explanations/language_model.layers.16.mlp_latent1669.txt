@@ -1,0 +1,1 @@
+"Texts often contain specific phrases or sentences that serve as headings, titles, or introductory statements, frequently accompanied by activation values indicating their importance. Additionally, the presence of code snippets, technical terms, and specialized vocabulary suggests a focus on technical or educational content."

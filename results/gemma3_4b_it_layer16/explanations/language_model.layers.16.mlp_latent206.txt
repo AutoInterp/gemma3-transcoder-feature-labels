@@ -1,0 +1,1 @@
+"Text fragments often appear to be standalone sentences or phrases, but are actually part of a larger text, sometimes with a different context or meaning. These fragments are often used to provide additional information, examples, or explanations, and may be separated from the main text by a delimiter or a new paragraph."

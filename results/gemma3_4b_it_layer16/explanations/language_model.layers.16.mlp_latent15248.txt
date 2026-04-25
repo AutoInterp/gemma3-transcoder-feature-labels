@@ -1,0 +1,1 @@
+"Code snippets and programming-related text, including syntax, error messages, and debugging information, often containing special characters, variable names, and function calls."

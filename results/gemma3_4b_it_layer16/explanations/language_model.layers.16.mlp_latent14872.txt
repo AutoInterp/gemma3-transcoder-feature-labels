@@ -1,0 +1,1 @@
+"Texts often contain proper nouns, abbreviations, and technical terms, which are sometimes enclosed in quotation marks or preceded by a specific phrase, indicating a definition or explanation."

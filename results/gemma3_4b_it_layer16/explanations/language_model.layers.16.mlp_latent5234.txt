@@ -1,0 +1,1 @@
+"Various mathematical and scientific constants, such as pi (3.1415), the golden ratio, and physical constants like the speed of light, are frequently used in the text."

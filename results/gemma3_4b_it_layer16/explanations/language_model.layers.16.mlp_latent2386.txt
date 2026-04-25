@@ -1,0 +1,1 @@
+"SQL code snippets, mostly related to database table creation and modification, with some PHP, Java, and JavaScript code."

@@ -1,0 +1,1 @@
+"Dates and times, often in conjunction with event descriptions, such as meeting times, opening hours, or competition schedules."

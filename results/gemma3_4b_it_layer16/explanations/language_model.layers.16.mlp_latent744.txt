@@ -1,0 +1,1 @@
+"Texts enclosed in double angle brackets << >> often contain quotes, citations, or references, and are frequently followed by a sequence of text with low activation values, suggesting they are not as important for the overall meaning."

@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including bash, Python, JavaScript, and C++, with a focus on configuration files, scripts, and command-line interfaces."

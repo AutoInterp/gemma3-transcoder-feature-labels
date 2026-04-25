@@ -1,0 +1,1 @@
+"Various types of text data, including product information, company details, book reviews, scientific articles, and advertisements, often containing technical specifications, prices, and contact information."

@@ -1,0 +1,1 @@
+"Text snippets often appear in a programming or technical context, but are frequently interrupted by unrelated text, possibly indicating a mix of code and comments, or a data dump from a database."

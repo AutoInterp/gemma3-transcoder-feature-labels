@@ -1,0 +1,1 @@
+"Texts describing technical issues, solutions, and consequences, often using complex vocabulary and referencing specific systems or protocols."

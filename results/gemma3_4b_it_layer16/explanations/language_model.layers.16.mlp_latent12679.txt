@@ -1,0 +1,1 @@
+"Journal article citations and references, often including volume, page numbers, and publication years, frequently accompanied by activation values for specific words or phrases, suggesting a focus on extracting or analyzing citation information."

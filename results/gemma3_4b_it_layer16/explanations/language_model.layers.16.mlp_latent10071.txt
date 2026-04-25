@@ -1,0 +1,1 @@
+"Code snippets in various programming languages, often JavaScript, embedded within a larger text."

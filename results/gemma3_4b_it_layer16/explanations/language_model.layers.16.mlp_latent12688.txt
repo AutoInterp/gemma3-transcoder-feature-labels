@@ -1,0 +1,1 @@
+"Text snippets that are likely to be boilerplate or placeholder text, often containing variable names, function calls, or other programming-related elements, and sometimes including specific dates, times, or other contextual information."

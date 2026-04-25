@@ -1,0 +1,1 @@
+"Texts discussing statistical concepts, research methods, and data analysis, including correlation, regression, hypothesis testing, and confidence intervals, often referencing specific statistical tests and formulas."

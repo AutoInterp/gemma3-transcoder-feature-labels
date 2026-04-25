@@ -1,0 +1,1 @@
+"Code snippets and programming concepts, including function parameters, file names, and programming languages, often accompanied by comments and documentation."

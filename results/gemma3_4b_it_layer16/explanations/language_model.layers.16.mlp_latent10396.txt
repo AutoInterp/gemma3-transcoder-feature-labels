@@ -1,0 +1,1 @@
+"Code snippets and database schema definitions, often with SQL syntax, and various programming languages such as Java, Python, and C."

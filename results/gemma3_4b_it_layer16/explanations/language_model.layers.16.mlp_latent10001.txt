@@ -1,0 +1,1 @@
+"Text snippets enclosed in delimiters are often standalone sentences, paragraphs, or quotes, possibly indicating a change in context or a new topic."

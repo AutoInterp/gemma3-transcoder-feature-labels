@@ -1,0 +1,1 @@
+"Texts containing programming code, commands, and configuration files in various programming languages and environments, including JavaScript, Java, C, C++, Ruby, Python, and others."

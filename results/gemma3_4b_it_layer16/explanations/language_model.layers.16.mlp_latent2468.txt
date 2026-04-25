@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are set apart from the rest of the text, usually to indicate a quote, a definition, or a separate idea. These phrases or sentences can be marked by a change in formatting, such as a new paragraph or a different font style, and are often preceded by a delimiter like \"<<\" or \"Edit\"."

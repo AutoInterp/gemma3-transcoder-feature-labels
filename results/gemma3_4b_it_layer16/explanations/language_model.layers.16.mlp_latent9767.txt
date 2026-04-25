@@ -1,0 +1,1 @@
+"Texts often end with a delimiter, and the delimiter is sometimes followed by a period. The delimiter is sometimes used to separate a sentence or a paragraph from the next one."

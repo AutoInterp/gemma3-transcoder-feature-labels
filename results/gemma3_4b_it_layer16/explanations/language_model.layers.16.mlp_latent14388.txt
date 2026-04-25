@@ -1,0 +1,1 @@
+"Text fragments often appear in a specific format, typically denoting a title or a heading, and are usually followed by a period or a comma."

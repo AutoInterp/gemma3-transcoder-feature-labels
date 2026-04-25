@@ -1,0 +1,1 @@
+"Texts often contain links to external resources, frequently asked questions, and articles, which are typically denoted by phrases such as \"Frequently Asked Questions\", \"How to\", or \"What is\". These phrases often precede a title or a question, and are frequently accompanied by activation values indicating the importance of the surrounding text."

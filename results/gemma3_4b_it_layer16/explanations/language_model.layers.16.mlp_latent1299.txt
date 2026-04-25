@@ -1,0 +1,1 @@
+"Texts containing technical or specialized information, often related to programming, engineering, or scientific concepts, frequently including variable names, function calls, and technical terminology."

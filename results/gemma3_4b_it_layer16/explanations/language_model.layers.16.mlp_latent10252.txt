@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including Python, JavaScript, C++, SQL, and others, with activations indicating the importance of specific lines or functions."

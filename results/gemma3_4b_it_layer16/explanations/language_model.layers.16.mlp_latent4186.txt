@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including Java, SQL, and JavaScript, with a focus on method definitions, variable declarations, and function calls."

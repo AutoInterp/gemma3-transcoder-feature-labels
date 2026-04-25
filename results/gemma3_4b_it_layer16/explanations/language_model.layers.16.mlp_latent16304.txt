@@ -1,0 +1,1 @@
+"Measurements and dimensions of various objects, often in multiple units (e.g., inches, centimeters, millimeters), presented in a formal and technical manner."

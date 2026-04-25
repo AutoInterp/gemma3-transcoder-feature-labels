@@ -1,0 +1,1 @@
+"Timestamps in various formats, often accompanied by geographical information, and sometimes followed by a sequence of characters representing a URL or a code snippet."

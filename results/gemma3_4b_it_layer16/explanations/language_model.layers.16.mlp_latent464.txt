@@ -1,0 +1,1 @@
+"Instructions, troubleshooting guides, and technical explanations often contain lists of steps or actions to be taken, frequently in a numbered or ordered format, and may include warnings, cautions, or recommendations for further assistance."

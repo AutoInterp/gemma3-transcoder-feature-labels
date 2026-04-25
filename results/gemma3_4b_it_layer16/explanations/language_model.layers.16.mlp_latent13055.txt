@@ -1,0 +1,1 @@
+"Texts often contain incomplete or truncated sentences, likely due to the removal of unnecessary words or phrases, and sometimes include quotes or dialogue."

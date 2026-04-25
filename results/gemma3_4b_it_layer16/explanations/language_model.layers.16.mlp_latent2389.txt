@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are not directly related to the main topic, such as references, citations, or side comments, which are typically denoted by a change in formatting or a distinct keyword."

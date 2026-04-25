@@ -1,0 +1,1 @@
+"Text fragments often start with \"From\" and are followed by a source or reference, indicating a transition to a new section or a citation."

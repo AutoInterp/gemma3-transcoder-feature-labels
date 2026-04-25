@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are interrupted or appended with additional information, such as explanations, examples, or qualifications, which are typically set off by phrases like \"although\", \"in other words\", or \"for example\"."

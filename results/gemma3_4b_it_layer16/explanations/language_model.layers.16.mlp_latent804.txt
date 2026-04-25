@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, primarily used for algorithmic and mathematical expressions, with a focus on loops, conditional statements, and data manipulation."

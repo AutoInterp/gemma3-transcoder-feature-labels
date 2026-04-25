@@ -1,0 +1,1 @@
+"Texts often contain numerical values, such as years, amounts, or quantities, which are frequently used to convey information or emphasize a point. Additionally, the text may include lists of items, ideas, or concepts, often presented in a structured or sequential manner."

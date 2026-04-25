@@ -1,0 +1,1 @@
+"Texts from various sources, including news articles, product descriptions, and personal messages, with a focus on extracting specific information such as dates, locations, and product details."

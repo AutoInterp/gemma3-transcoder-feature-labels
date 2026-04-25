@@ -1,0 +1,1 @@
+"Texts within delimiters often contain instructions, explanations, or descriptions of complex processes, frequently related to technical or scientific topics."

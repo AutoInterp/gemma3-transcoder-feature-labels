@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including Java, Python, C++, JavaScript, and others, highlighting conditional statements, function calls, and variable assignments."

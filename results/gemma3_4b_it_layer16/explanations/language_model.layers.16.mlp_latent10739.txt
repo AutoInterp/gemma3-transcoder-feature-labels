@@ -1,0 +1,1 @@
+"ISBN numbers, which are unique identifiers for books, and other publication-related information such as publisher names, dates, and page numbers."

@@ -1,0 +1,1 @@
+"Various programming languages and frameworks, including Java, Python, C++, JavaScript, and C#, with a focus on importing libraries and classes, and using annotations and decorators for functionality."

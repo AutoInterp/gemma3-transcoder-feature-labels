@@ -1,0 +1,1 @@
+"Text snippets from various programming and development contexts, including code comments, license agreements, and setup instructions."

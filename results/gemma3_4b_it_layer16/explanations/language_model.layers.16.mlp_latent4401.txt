@@ -1,0 +1,1 @@
+"Ranges of values for various physical quantities, such as blood sugar levels, pH levels, and credit scores, often used for comparison or diagnosis."

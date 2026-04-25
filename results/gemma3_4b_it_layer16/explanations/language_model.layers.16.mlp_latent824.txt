@@ -1,0 +1,1 @@
+"Various programming languages and their syntax, including JavaScript, Java, C#, and SQL, as well as snippets of code in different languages."

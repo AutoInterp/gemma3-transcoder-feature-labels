@@ -1,0 +1,1 @@
+"Various types of text data, including citations, references, and metadata, often in a format that is not typical of natural language."

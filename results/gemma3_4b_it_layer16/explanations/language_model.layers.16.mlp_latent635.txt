@@ -1,0 +1,1 @@
+"Texts from various sources, including programming code, academic papers, and everyday conversations, with a focus on extracting specific words or phrases. The extracted words or phrases often appear to be identifiers, variable names, or keywords from programming languages, as well as proper nouns, titles, and domain-specific terminology."

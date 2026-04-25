@@ -1,0 +1,1 @@
+"A collection of academic references with various metadata, including author names, publication years, and journal titles, often with DOI or PubMed IDs."

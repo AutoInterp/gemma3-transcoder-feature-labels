@@ -1,0 +1,1 @@
+"Technical text discussing computer networks, internet protocols, and cybersecurity, including concepts such as VPNs, IP addresses, DNS, and malware."

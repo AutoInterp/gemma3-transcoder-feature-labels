@@ -1,0 +1,1 @@
+"Texts often contain proper nouns, such as names of organizations, locations, and people, which are frequently mentioned in conjunction with other information. Additionally, there are instances of technical or specialized terms, like \"PFAS\" and \"K-10S (AS-2 Kipper) cruise missile\", which are used in specific contexts."

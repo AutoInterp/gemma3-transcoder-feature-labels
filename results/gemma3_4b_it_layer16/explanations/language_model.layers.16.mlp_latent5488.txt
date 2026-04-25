@@ -1,0 +1,1 @@
+"HTML code snippets with various elements such as divs, spans, images, buttons, and lists, often containing text descriptions and attributes."

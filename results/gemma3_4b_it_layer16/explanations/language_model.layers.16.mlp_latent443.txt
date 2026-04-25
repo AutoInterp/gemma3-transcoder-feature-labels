@@ -1,0 +1,1 @@
+"Text fragments ending with a special delimiter, often indicating the end of a document or a section, and sometimes used to separate code from surrounding text."

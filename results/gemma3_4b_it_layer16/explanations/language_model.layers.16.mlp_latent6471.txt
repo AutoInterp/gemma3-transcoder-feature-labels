@@ -1,0 +1,1 @@
+"Various mathematical and programming expressions, including equations, algorithms, and data structures, often involving arrays, trees, and graphs."

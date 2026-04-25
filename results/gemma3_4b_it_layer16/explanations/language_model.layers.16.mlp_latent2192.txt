@@ -1,0 +1,1 @@
+"Texts are often separated by distinct phrases or sentences, sometimes with a specific format or structure, such as a title, a date, or a link. These phrases often contain metadata, like names, types, or IDs, and may be followed by a period or a comma."

@@ -1,0 +1,1 @@
+"Various programming languages, frameworks, and software development concepts, including Java, Python, JavaScript, and SQL, as well as design and prototyping tools, and data structures such as dictionaries and vectors."

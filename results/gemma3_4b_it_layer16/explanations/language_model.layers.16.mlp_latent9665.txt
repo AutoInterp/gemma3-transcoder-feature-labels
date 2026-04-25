@@ -1,0 +1,1 @@
+"SQL queries and database table schema definitions."

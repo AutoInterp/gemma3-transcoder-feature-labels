@@ -1,0 +1,1 @@
+"A collection of academic and scientific article titles, references, and citations, often including author names, publication years, and journal names, with varying levels of activation across different tokens."

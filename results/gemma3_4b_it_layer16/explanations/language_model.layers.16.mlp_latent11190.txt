@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, primarily focused on algorithmic problems and data structures, with some examples of string manipulation and mathematical operations."

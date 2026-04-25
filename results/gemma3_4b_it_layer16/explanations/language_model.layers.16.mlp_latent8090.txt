@@ -1,0 +1,1 @@
+"Color descriptions in hexadecimal format, including RGB values, decimal values, and color space conversions, often accompanied by explanations of color properties such as hue, saturation, and lightness."

@@ -1,0 +1,1 @@
+"Texts discussing various mathematical, scientific, and technical concepts, including order theory, cohomology, vector spaces, dimensional analysis, Hamming distance, encryption, and machine learning, often using formal notation and terminology."

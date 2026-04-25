@@ -1,0 +1,1 @@
+"Texts from various programming and technical documentation, including installation instructions, API documentation, and error messages, often containing code snippets, variable names, and technical terms."

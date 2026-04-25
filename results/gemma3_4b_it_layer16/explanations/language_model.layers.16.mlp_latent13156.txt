@@ -1,0 +1,1 @@
+"Text fragments containing bibliographic information, such as book or article titles, author names, publication dates, and ISBN numbers, often found at the end of a paragraph or section."

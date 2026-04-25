@@ -1,0 +1,1 @@
+"Text snippets often appear at the beginning or end of a larger text block, frequently containing a title, author, or reference information."

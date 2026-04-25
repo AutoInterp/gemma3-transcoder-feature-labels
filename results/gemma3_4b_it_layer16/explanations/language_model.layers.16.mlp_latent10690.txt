@@ -1,0 +1,1 @@
+"Text contains a mix of mathematical problems, explanations, and code snippets, with a focus on finding greatest common factors (GCF), least common multiples (LCM), and performing arithmetic operations with decimals."

@@ -1,0 +1,1 @@
+"Phrases indicating a connection or relationship between two entities, such as \"and\", \"as\", \"with\", or \"in\", often used to introduce a consequence, a condition, or a supporting detail."

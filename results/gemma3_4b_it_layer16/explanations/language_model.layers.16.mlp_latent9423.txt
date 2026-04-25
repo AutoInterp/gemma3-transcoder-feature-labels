@@ -1,0 +1,1 @@
+"Error messages and codes from various systems, often including HTTP response codes, technical descriptions, and troubleshooting instructions."

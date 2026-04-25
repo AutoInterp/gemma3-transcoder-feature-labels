@@ -1,0 +1,1 @@
+"The token \"<<\" at the beginning and \">>\" at the end of a citation or reference, often indicating a link to external information or a source."

@@ -1,0 +1,1 @@
+"Text snippets containing product information, such as product IDs, categories, brands, and in-stock status, often found in e-commerce contexts."

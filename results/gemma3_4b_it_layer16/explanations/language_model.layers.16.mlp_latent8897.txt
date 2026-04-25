@@ -1,0 +1,1 @@
+"Code snippets in various programming languages, including bash, C, Java, Python, and Go, with a focus on conditional statements, loops, and functions."

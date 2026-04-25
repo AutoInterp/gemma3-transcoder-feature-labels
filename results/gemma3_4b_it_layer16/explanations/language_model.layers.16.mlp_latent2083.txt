@@ -1,0 +1,1 @@
+"Text fragments that appear to be code snippets, often from programming languages such as Python, JavaScript, or HTML, and sometimes from other technical or scientific contexts."

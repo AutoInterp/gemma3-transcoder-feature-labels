@@ -1,0 +1,1 @@
+"Technical text discussing algorithms, specifically quicksort, and mathematical concepts, often referencing complexity, time and space efficiency, and theoretical bounds."

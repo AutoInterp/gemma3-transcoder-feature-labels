@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, primarily Java, Python, and C/C++. The patterns found in these snippets include loops, conditional statements, function calls, and variable assignments, indicating a focus on algorithmic and computational aspects."

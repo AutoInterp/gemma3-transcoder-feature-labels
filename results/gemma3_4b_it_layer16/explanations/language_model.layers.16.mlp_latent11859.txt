@@ -1,0 +1,1 @@
+"Texts describing technical concepts, programming, and mathematical ideas, often using formal language and referencing specific equations, models, and algorithms."

@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are set apart from the rest of the text, typically to provide additional context or information, and are usually denoted by a specific delimiter. These phrases or sentences often contain complex or technical information, and may be related to various topics such as science, technology, or social issues."

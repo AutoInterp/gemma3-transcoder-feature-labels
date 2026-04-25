@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including Python, Java, and C#, with a focus on GUI elements, such as buttons, labels, and listboxes, as well as database interactions and data visualization."

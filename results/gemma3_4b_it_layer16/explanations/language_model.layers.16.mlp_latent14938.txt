@@ -1,0 +1,1 @@
+"Text snippets from various programming languages, scripts, and configuration files, including shell commands, Makefiles, Python scripts, and assembly code."

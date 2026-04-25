@@ -1,0 +1,1 @@
+"A mix of scientific article metadata, references, and abstracts, with a focus on PubMed IDs, article titles, and author names."

@@ -1,0 +1,1 @@
+"Conditional phrases and clauses used to provide additional information or exceptions, often starting with words like \"if\", \"then\", or \"unless\"."

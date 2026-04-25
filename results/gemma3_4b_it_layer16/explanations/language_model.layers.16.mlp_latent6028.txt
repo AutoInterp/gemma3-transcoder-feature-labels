@@ -1,0 +1,1 @@
+"Paths to files and directories, often used in commands or code snippets, frequently found in Unix-like systems and programming contexts."

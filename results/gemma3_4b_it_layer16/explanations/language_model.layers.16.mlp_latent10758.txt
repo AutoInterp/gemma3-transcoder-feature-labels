@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, primarily Java, with annotations and comments indicating method parameters, return types, and other metadata."

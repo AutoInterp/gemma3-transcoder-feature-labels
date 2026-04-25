@@ -1,0 +1,1 @@
+"Text fragments often containing URLs, article titles, or specific information, frequently found at the beginning or end of a text snippet."

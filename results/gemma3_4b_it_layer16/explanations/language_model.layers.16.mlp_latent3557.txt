@@ -1,0 +1,1 @@
+"Texts often contain titles, names, and headings, which are frequently followed by a period. Additionally, there are instances of product names, company names, and brand names, which are often accompanied by a period."

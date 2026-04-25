@@ -1,0 +1,1 @@
+"A collection of book titles, authors, and publication information, often with page numbers, indicating a database or catalog of books."

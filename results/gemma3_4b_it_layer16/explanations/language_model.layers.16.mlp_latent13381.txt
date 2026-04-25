@@ -1,0 +1,1 @@
+"Text contains various measurements and dimensions in different units, such as pixels, inches, feet, and meters, often used to describe the size of objects, displays, or spaces."

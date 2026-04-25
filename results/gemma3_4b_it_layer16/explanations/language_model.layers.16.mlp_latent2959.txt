@@ -1,0 +1,1 @@
+"Various time expressions, including dates, times of day, and time ranges, often in the format of a 24-hour clock."

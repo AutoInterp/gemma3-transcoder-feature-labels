@@ -1,0 +1,1 @@
+"Various online article and book references, often with DOI or PubMed IDs, and sometimes accompanied by a brief description or title."

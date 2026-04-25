@@ -1,0 +1,1 @@
+"Numerical values and ranges frequently appear in text, often used to describe quantities, durations, or frequencies, such as time (e.g., 7-10 days, 2-3 hours), sizes (e.g., 5-6 feet, 300-400 calories), and percentages (e.g., 5-18% adoption rate)."

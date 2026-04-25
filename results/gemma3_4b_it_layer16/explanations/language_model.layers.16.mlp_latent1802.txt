@@ -1,0 +1,1 @@
+"Various types of identifiers, such as UUIDs, IDs, and asset IDs, often used in technical or programming contexts."

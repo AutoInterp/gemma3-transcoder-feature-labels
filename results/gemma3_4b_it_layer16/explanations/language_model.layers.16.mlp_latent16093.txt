@@ -1,0 +1,1 @@
+"Code snippets and documentation from various programming languages and frameworks, including SQL, Java, C, and XML, with a focus on function and method declarations, data types, and syntax."

@@ -1,0 +1,1 @@
+"Ranges of values, durations, and quantities, often used to describe measurements, time intervals, and statistical data."

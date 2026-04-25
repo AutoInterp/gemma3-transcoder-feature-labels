@@ -1,0 +1,1 @@
+"Texts often contain dates in the format of year only, or year and month, or year and month and day."

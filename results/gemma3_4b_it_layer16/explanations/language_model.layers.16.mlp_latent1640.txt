@@ -1,0 +1,1 @@
+"Dividing a dataset into training and testing sets at a certain ratio allows for the evaluation of a model's performance on unseen data, preventing overfitting and providing a more accurate assessment of its generalizability."

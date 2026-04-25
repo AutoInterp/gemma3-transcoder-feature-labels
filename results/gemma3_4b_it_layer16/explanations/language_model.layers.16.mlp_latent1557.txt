@@ -1,0 +1,1 @@
+"Text segments that are cut off or truncated, often in the middle of a sentence, and frequently followed by a new paragraph or section."

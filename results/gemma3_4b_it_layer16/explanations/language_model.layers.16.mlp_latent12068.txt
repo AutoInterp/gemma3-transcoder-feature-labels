@@ -1,0 +1,1 @@
+"Scientific article titles and references, often containing numerical values, author names, and publication information, with varying levels of activation across different components."

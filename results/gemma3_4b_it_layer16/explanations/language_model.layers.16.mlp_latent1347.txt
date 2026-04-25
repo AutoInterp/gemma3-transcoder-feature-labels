@@ -1,0 +1,1 @@
+"Text snippets often contain proper nouns, such as city names, company names, and personal names, which are frequently used to provide context and identify specific locations or entities."

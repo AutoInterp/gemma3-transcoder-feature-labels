@@ -1,0 +1,1 @@
+"Various programming languages and code snippets, including console logs, error messages, and function calls, often in a context of debugging or testing."

@@ -1,0 +1,1 @@
+"Various types of text data, including sports results, news articles, book titles, and product information, with a focus on extracting specific information such as names, locations, and product details."

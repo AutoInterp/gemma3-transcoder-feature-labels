@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are set apart from the rest of the text, usually to provide additional context or explanation, and are typically marked by a delimiter. These phrases or sentences often have a similar structure and are usually around 6 words long."

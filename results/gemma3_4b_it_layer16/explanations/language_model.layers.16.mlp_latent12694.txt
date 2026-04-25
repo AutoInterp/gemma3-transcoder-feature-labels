@@ -1,0 +1,1 @@
+"Text fragments often contain incomplete sentences, possibly due to being extracted from larger documents or being part of a conversation. The fragments frequently lack context and may be related to various topics, including technology, politics, and personal experiences."

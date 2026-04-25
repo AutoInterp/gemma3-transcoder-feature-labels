@@ -1,0 +1,1 @@
+"Various types of addresses, locations, and directions, including physical addresses, landmarks, and travel instructions."

@@ -1,0 +1,1 @@
+"SQL code snippets, including table creations, queries, and database operations, showcasing various database management systems and programming languages."

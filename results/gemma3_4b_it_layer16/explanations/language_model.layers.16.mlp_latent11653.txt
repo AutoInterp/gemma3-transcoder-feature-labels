@@ -1,0 +1,1 @@
+"Text often contains incomplete or truncated sentences, likely due to character or word limit constraints, resulting in phrases or words being cut off or replaced with ellipses."

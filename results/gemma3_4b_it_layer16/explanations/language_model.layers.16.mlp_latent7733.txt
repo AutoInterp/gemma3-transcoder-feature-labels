@@ -1,0 +1,1 @@
+"Text snippets often contain special characters such as \"<<\" and \">>\" or \"!\" and \">>\" which are used to denote the start and end of a quote, announcement, or other special content."

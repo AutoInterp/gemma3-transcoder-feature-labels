@@ -1,0 +1,1 @@
+"Texts often contain phrases that appear to be quotes, sometimes with a question mark at the end, and are frequently followed by a response or explanation."

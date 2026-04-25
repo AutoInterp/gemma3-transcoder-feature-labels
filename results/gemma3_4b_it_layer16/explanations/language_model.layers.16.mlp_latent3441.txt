@@ -1,0 +1,1 @@
+"Various programming languages and frameworks, including JavaFX, Tkinter, Android, Pygame, and Pytorch, with a focus on GUI components, layout management, and animation."

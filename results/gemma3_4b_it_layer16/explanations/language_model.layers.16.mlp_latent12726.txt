@@ -1,0 +1,1 @@
+"Various units of measurement, including lengths, weights, temperatures, and currency values, often presented in both metric and imperial systems."

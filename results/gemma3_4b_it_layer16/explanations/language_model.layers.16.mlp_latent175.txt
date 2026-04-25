@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, often containing repetitive or boilerplate code, and sometimes with comments or debugging information."

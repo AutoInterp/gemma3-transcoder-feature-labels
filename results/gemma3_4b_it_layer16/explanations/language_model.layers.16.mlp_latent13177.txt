@@ -1,0 +1,1 @@
+"Texts describing technical instructions, software installation, and configuration processes, often including command lines and file paths."

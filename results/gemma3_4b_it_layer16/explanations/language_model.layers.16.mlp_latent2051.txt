@@ -1,0 +1,1 @@
+"Text contains various numerical values, often in the format of a specific number followed by a unit (e.g., dollars, inhabitants, etc.), and sometimes accompanied by mathematical operations or formulas."

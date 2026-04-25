@@ -1,0 +1,1 @@
+"Numbers representing financial values, such as salaries, market worth, investments, and expenses, often used to convey economic information or illustrate a point."

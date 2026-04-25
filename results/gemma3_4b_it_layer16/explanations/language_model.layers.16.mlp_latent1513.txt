@@ -1,0 +1,1 @@
+"Text snippets containing various types of identifiers, such as cryptographic hash values, UUIDs, and GUIDs, often used in programming and technical contexts."

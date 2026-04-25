@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including Java, C++, PHP, and Python, with a focus on mathematical and algorithmic concepts, such as geometry, trigonometry, and sorting."

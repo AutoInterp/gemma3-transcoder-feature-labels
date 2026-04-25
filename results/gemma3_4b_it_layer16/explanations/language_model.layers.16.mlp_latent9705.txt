@@ -1,0 +1,1 @@
+"Various programming languages and frameworks, including Java, C++, JavaScript, Ruby, Python, and others, with a focus on syntax and structure."

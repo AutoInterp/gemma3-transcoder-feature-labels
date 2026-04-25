@@ -1,0 +1,1 @@
+"Journal article citations and references, often with DOI links, and sometimes accompanied by abstracts or summaries."

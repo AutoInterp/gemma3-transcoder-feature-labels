@@ -1,0 +1,1 @@
+"A pattern of academic citations in the format of a digital object identifier (DOI) or a PubMed ID, often accompanied by a reference or a link to a scholarly article."

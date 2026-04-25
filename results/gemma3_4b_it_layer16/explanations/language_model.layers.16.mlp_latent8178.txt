@@ -1,0 +1,1 @@
+"Text snippets containing geographical information, including locations, distances, and directions, often in the format of a weather or flight update."

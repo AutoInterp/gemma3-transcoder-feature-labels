@@ -1,0 +1,1 @@
+"Text fragments containing various types of information, including mathematical equations, programming code, and formal descriptions, often with a high activation value, indicating their importance in the text."

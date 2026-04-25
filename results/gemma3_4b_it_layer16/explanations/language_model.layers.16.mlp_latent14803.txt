@@ -1,0 +1,1 @@
+"Text fragments containing specific dates, often in the format of a day, month, and year, or a month and year, and sometimes accompanied by a descriptive phrase."

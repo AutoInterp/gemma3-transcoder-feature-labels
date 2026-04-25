@@ -1,0 +1,1 @@
+"HTML and XML code snippets, primarily from web development and user interface design contexts, containing various elements such as divs, spans, tables, and labels, often with associated attributes and properties."

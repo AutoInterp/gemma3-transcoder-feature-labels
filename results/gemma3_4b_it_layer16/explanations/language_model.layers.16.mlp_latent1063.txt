@@ -1,0 +1,1 @@
+"Text fragments with low activation values often appear to be incomplete sentences or phrases, possibly due to truncation or context removal."

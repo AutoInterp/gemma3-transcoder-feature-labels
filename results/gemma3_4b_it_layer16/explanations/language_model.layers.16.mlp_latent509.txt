@@ -1,0 +1,1 @@
+"Text segments enclosed in delimiters often represent standalone sentences, paragraphs, or quotes, possibly indicating a shift in context or a separate idea within the main text."

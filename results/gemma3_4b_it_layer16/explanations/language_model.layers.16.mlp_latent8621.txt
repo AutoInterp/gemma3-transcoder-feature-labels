@@ -1,0 +1,1 @@
+"Locations, such as countries, cities, buildings, and sites, are often mentioned in the text."

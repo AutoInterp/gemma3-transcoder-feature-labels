@@ -1,0 +1,1 @@
+"Texts often contain lists of items, such as rankings, steps, or points, which are frequently preceded by a number or a letter. Additionally, there are instances of incomplete or truncated sentences, possibly due to formatting or editing issues."

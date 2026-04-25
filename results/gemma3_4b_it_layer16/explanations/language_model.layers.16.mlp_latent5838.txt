@@ -1,0 +1,1 @@
+"Texts containing various types of notifications, such as confirmation emails, payment information, and responses to user actions, often including dates, times, and instructions."

@@ -1,0 +1,1 @@
+"Code snippets and programming documentation, including function parameters, return types, and usage examples, often with links to external resources."

@@ -1,0 +1,1 @@
+"Texts often contain phrases that indicate a condition or requirement, such as \"if\" or \"if not\", and phrases that describe a consequence or outcome, such as \"then\" or \"otherwise\"."

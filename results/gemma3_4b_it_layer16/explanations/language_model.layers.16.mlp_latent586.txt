@@ -1,0 +1,1 @@
+"Year numbers and dates in the format of \"20XX\" or \"201X\" are often used to represent a specific year, and sometimes followed by additional information such as months or days."

@@ -1,0 +1,1 @@
+"Texts from various programming languages, including SQL, Python, Java, and JavaScript, as well as snippets from technical documentation, research papers, and online forums. The patterns found in these texts include code syntax, variable names, function calls, and mathematical expressions, indicating a focus on technical and computational topics."

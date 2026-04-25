@@ -1,0 +1,1 @@
+"Text fragments often appear at the beginning or end of a paragraph, and are typically longer than a single sentence, sometimes containing multiple sentences or even a short passage. They often seem to be a separate entity from the rest of the text, possibly serving as a standalone quote, a reference, or a citation."

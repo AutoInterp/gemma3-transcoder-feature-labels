@@ -1,0 +1,1 @@
+"URLs, DOIs, and PubMed IDs, often used for citations and references, are frequently found in the text."

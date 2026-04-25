@@ -1,0 +1,1 @@
+"Texts often contain dates, names, and locations, which are frequently used as identifiers or references. Additionally, there are instances of idiomatic expressions, quotes, and references to external sources, which are used to provide context or support arguments."

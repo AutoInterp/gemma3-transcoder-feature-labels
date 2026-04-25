@@ -1,0 +1,1 @@
+"Various types of delimiters and special characters, including numbers, symbols, and punctuation marks, often used to separate or denote specific information, such as dates, times, or numerical values."

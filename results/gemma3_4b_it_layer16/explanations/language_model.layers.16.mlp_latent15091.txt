@@ -1,0 +1,1 @@
+"Code snippets and log lines from various programming languages and systems, including SQL, JSON, and Unix commands, with a focus on error messages, execution times, and output logs."

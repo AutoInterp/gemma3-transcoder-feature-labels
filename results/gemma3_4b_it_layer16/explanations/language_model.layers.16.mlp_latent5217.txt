@@ -1,0 +1,1 @@
+"Various types of text data, including numbers, measurements, URLs, HTML code, and text in different languages, with no clear common pattern."

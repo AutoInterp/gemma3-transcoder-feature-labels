@@ -1,0 +1,1 @@
+"Mathematical expressions and equations, often involving complex variables, functions, and operations, frequently accompanied by activation values indicating the importance of specific tokens or phrases within the equations."

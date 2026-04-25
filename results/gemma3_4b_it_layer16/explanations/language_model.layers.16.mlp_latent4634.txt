@@ -1,0 +1,1 @@
+"Various dates and sources are often mentioned in a format that includes a year, a description, and sometimes a URL or a reference."

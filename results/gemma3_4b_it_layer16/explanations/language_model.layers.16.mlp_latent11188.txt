@@ -1,0 +1,1 @@
+"Text fragments that appear to be code snippets, often in programming languages, and are embedded within a larger narrative or conversation."

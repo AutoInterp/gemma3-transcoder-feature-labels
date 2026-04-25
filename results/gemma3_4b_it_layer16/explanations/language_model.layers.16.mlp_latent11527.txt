@@ -1,0 +1,1 @@
+"Texts often contain incomplete sentences or phrases, sometimes due to truncation, and may be followed by a quotation mark or a new sentence."

@@ -1,0 +1,1 @@
+"Text snippets often appear to be comments, explanations, or descriptions, sometimes containing code or technical information, and frequently found at the end of a block of text."

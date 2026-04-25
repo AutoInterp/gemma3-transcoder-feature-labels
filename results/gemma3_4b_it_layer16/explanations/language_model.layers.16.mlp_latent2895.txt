@@ -1,0 +1,1 @@
+"Texts from various sources, including academic papers, news articles, product descriptions, and social media posts, with a focus on extracting specific information such as titles, author names, dates, and keywords."

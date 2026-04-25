@@ -1,0 +1,1 @@
+"Text contains a mix of numerical data, scientific information, and various types of text, including articles, book excerpts, and programming code."

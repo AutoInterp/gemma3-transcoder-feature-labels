@@ -1,0 +1,1 @@
+"Various numerical values and ranges, often used to describe quantities, measurements, or frequencies, such as prices, salaries, times, and wavelengths."

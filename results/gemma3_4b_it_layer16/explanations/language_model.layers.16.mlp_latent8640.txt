@@ -1,0 +1,1 @@
+"Text fragments often contain proper nouns, names, and locations, which are frequently associated with significant events, people, or places."

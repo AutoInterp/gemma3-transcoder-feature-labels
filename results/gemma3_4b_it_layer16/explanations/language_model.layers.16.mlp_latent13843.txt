@@ -1,0 +1,1 @@
+"The token \"ed\" at the end of a verb, often indicating a past participle or a verb form in the past tense, and the token \"to\" used as an infinitive marker."

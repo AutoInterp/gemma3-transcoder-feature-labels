@@ -1,0 +1,1 @@
+"Mathematical and programming-related text, including equations, function definitions, and algorithm implementations, often involving set theory, algebra, and numerical computations."

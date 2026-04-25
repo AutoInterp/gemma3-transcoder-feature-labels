@@ -1,0 +1,1 @@
+"Text fragments that appear to be cut off or truncated, often with a ellipsis or a \"<eos>\" marker, indicating a possible incomplete or interrupted thought."

@@ -1,0 +1,1 @@
+"SQL code snippets, database schema definitions, and database query statements, including insert, update, and select operations, as well as data retrieval and manipulation."

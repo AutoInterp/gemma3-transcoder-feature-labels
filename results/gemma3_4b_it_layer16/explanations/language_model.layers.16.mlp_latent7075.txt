@@ -1,0 +1,1 @@
+"Various units of measurement, including distances, speeds, temperatures, pressures, and weights, often presented in a scientific or technical context."

@@ -1,0 +1,1 @@
+"Texts often contain technical terms, proper nouns, and idiomatic expressions, but the most common patterns found in the examples are instructions or explanations on how to perform a task, describe a process, or provide information on a specific topic."

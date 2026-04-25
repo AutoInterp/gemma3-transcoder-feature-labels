@@ -1,0 +1,1 @@
+"Text fragments containing numerical values, abbreviations, and technical specifications, often used to describe system requirements, product features, or educational qualifications."

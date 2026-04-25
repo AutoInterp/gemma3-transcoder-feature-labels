@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are set apart from the rest of the text, usually to highlight a key point, provide additional information, or offer a contrasting view. These phrases or sentences are often enclosed in quotation marks or other delimiters, and are typically marked with a higher activation value, indicating their importance in the text."

@@ -1,0 +1,1 @@
+"Texts describing technical concepts, computer science, and programming, often referencing specific programming languages, protocols, and data structures, with a focus on explaining complex ideas in a clear and concise manner."

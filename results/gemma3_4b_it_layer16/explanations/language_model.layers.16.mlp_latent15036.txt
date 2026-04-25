@@ -1,0 +1,1 @@
+"HTML and JavaScript code snippets, often containing function calls, variable declarations, and conditional statements, frequently found in web development contexts."

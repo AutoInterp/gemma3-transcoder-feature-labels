@@ -1,0 +1,1 @@
+"Texts often contain dosages, frequencies, and durations of treatments or activities, such as medication intake, exercise, or financial transactions, which are typically specified in terms of units of time (e.g., hours, days, weeks, years)."

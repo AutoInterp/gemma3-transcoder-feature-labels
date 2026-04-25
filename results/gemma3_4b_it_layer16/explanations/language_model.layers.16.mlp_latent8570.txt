@@ -1,0 +1,1 @@
+"Texts with varying levels of formatting, including dates, times, and URLs, often accompanied by metadata or activation values, suggesting a collection of digital artifacts or a dataset."

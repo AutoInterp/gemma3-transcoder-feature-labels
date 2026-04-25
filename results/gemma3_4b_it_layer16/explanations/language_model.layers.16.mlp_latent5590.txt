@@ -1,0 +1,1 @@
+"Text describing technical concepts, programming, and scientific information, often including code snippets, formulas, and explanations of data types and storage."

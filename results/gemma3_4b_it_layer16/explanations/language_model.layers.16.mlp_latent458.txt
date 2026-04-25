@@ -1,0 +1,1 @@
+"Text excerpts often appear in a standalone format, sometimes with a preceding or following delimiter, and are frequently related to formal or technical writing, including academic, scientific, or instructional content."

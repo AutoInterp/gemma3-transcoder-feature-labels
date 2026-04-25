@@ -1,0 +1,1 @@
+"Text fragments often begin with a quotation mark, sometimes preceded by a blank line or a short phrase, and may be followed by a blank line or a short phrase."

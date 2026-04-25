@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are set apart from the rest of the text, usually to convey a sense of emphasis or to provide additional information. These phrases or sentences can be preceded by a delimiter, and may contain a variety of content, including idioms, comparisons, or descriptive language."

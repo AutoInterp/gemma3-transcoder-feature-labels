@@ -1,0 +1,1 @@
+"Texts often contain URLs, citations, and references to external sources, as well as quotes and references to other works. Additionally, there are instances of informal descriptions, comparisons, and personal anecdotes. The text also includes technical and formal language, such as mathematical equations, programming code, and scientific terminology."

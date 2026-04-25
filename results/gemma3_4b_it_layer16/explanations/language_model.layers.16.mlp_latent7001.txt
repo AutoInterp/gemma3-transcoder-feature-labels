@@ -1,0 +1,1 @@
+"Color codes and their corresponding RGB and CMYK values, along with information about color theory concepts such as complementary, triadic, and tetradic colors."

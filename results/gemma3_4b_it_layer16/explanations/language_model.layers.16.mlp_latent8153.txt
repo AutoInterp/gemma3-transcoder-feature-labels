@@ -1,0 +1,1 @@
+"Mathematical text with various concepts and theorems from linear algebra, calculus, probability, and computer science, including equations, formulas, and code snippets."

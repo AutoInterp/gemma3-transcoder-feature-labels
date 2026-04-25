@@ -1,0 +1,1 @@
+"Various numerical values and units, including currency (€, £, $), measurements (mmol/l, kg, μL), and quantities (number of flights, destinations, etc.), often used in the context of financial transactions, scientific research, or technical specifications."

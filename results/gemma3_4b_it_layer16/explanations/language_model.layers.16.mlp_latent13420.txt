@@ -1,0 +1,1 @@
+"Texts often contain long, complex sentences with multiple clauses, and sometimes quotes or references to other texts, which can make the activation patterns less clear. However, the presence of certain words and phrases, such as \"the\", \"a\", and \"of\", is common across many examples, indicating a general structure of English sentences."

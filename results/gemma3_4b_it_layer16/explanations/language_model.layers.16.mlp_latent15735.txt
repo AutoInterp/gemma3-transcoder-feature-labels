@@ -1,0 +1,1 @@
+"Text fragments that appear to be standalone sentences or paragraphs, often with a complete thought or idea, but lacking a clear connection to the surrounding text."

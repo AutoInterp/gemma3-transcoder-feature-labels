@@ -1,0 +1,1 @@
+"Texts often contain proper nouns, such as names of places, people, and organizations, which are capitalized. Additionally, technical terms, abbreviations, and acronyms are frequently used, and phrases with specific meanings, like idioms and colloquial expressions, are present."

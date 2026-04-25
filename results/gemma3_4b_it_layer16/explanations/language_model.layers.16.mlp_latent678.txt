@@ -1,0 +1,1 @@
+"Code snippets and programming-related text, including error messages, comments, and code documentation."

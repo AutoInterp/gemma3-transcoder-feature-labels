@@ -1,0 +1,1 @@
+"Various types of text data, including addresses, phone numbers, email addresses, URLs, and code snippets, often appearing at the end of a text block, possibly indicating a delimiter or a new section."

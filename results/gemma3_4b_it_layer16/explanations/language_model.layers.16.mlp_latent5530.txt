@@ -1,0 +1,1 @@
+"Text fragments that appear to be metadata or supplementary information, often containing dates, times, references, or citations, frequently found at the end of a paragraph or article."

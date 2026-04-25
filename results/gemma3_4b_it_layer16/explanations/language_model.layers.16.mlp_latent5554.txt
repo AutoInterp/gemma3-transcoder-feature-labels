@@ -1,0 +1,1 @@
+"URLs and code snippets, often containing parameters, function calls, or database connections, frequently found in programming and technical contexts."

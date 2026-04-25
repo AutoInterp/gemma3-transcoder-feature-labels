@@ -1,0 +1,1 @@
+"Texts containing metadata, such as book information, article details, and event descriptions, often including titles, authors, dates, locations, and other relevant details."

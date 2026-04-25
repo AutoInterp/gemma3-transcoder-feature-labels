@@ -1,0 +1,1 @@
+"Text snippets often contain URLs, quotes, or other external references, sometimes with accompanying explanations or context."

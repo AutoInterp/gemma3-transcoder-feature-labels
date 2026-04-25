@@ -1,0 +1,1 @@
+"Time expressions and durations, including hours, days, and weeks, often used to describe events, activities, or periods of time."

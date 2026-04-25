@@ -1,0 +1,1 @@
+"Various programming languages, code snippets, and technical documentation, including comments, function definitions, and data structures."

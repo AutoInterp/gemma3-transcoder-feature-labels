@@ -1,0 +1,1 @@
+"Text fragments often contain specific phrases or sentences that are not directly related to the main content, such as advertisements, disclaimers, and metadata. These fragments can be identified by their distinct formatting, language, and structure, which often deviate from the surrounding text."

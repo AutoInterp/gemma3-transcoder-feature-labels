@@ -1,0 +1,1 @@
+"Texts containing URLs, hexadecimal codes, or other non-standard characters, often indicating a link or a reference, and sometimes embedded in a larger sentence or paragraph."

@@ -1,0 +1,1 @@
+"Texts describing various mathematical concepts, algorithms, and statistical methods, including sorting, regression, and hypothesis testing, often accompanied by formal notation and equations."

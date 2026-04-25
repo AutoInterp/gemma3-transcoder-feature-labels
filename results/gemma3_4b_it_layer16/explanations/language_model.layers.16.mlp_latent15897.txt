@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, mostly in C, Java, Python, and Perl, with a focus on mathematical and algorithmic problems, including number theory, geometry, and optimization."

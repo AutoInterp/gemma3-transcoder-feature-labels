@@ -1,0 +1,1 @@
+"Various programming-related terms and concepts, including function definitions, data structures, and algorithms, as well as snippets of code in multiple programming languages."

@@ -1,0 +1,1 @@
+"Text fragments that are not intended to be read out by screen readers, often denoted by HTML attributes or other markup."

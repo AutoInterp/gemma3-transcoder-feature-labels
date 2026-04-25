@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including SQL, PHP, JavaScript, and C++, as well as configuration files and documentation from projects and organizations."

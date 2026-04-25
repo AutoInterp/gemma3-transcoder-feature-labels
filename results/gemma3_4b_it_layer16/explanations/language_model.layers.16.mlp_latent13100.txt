@@ -1,0 +1,1 @@
+"Texts from various domains, including technical, financial, marketing, and news articles, with a focus on extracting specific information, such as technical specifications, financial data, and event details."

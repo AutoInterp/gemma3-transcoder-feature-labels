@@ -1,0 +1,1 @@
+"Text snippets often contain specific dates, times, locations, and technical information, which may be presented in a formal or informal manner, and sometimes include code snippets, equations, or references to external sources."

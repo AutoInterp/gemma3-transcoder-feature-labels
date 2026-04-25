@@ -1,0 +1,1 @@
+"Text snippets containing error messages, instructions, or technical information, often related to software development, debugging, or troubleshooting."

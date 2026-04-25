@@ -1,0 +1,1 @@
+"Various units of measurement, currency, and technical terms are used to convey information about quantities, prices, and performance."

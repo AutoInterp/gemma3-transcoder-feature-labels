@@ -1,0 +1,1 @@
+"Various programming and system-related terms, including file paths, network protocols, and system commands, as well as snippets of code in multiple programming languages."

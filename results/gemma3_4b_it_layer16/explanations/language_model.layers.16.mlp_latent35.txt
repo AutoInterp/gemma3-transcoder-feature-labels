@@ -1,0 +1,1 @@
+"Particles in names of persons, such as \"de\", \"da\", \"della\", \"den\", and \"d'\"."

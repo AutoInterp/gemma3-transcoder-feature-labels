@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including SQL, Java, Python, and Erlang, as well as text from technical documentation, user manuals, and online forums."

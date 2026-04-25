@@ -1,0 +1,1 @@
+"Texts are often terminated with a delimiter, likely indicating the end of a document or a block of text, and are frequently followed by metadata or other information."

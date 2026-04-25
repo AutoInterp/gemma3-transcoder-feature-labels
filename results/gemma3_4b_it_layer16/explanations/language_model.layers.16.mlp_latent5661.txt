@@ -1,0 +1,1 @@
+"Code comments and license information, often containing legal language and metadata about the software, such as author names, dates, and copyright information."

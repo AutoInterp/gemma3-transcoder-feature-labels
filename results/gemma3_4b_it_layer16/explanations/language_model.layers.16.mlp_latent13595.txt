@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are set apart from the rest of the text, sometimes indicating a change in tone, a quote, or a separate thought. These phrases or sentences are often marked by a higher activation value, suggesting they are more important or attention-grabbing."

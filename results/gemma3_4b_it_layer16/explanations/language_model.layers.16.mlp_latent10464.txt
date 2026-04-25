@@ -1,0 +1,1 @@
+"SQL code snippets, including table definitions, data types, and field names, primarily in MySQL syntax."

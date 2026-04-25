@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, primarily Java, C++, and JavaScript, with varying levels of activation indicating different parts of the code."

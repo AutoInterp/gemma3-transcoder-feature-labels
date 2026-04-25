@@ -1,0 +1,1 @@
+"Text snippets often appear to be incomplete or truncated, possibly due to the removal of context or irrelevant information, and frequently contain technical or formal language, suggesting they are from programming code, academic papers, or official documents."

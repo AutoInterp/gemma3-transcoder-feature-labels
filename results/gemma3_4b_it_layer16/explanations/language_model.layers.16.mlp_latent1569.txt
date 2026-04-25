@@ -1,0 +1,1 @@
+"Various types of text data, including phone numbers, addresses, email addresses, URLs, academic papers, research articles, product descriptions, recipes, and social media posts, often containing specific keywords and phrases related to their respective contexts."

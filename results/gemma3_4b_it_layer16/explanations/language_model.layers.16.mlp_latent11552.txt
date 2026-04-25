@@ -1,0 +1,1 @@
+"Text segments often appear in pairs, with the first segment being a statement or a question, and the second segment being a response or an explanation, often with a quote or a citation."

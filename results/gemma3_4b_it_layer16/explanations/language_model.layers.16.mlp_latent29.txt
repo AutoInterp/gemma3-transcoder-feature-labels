@@ -1,0 +1,1 @@
+"Texts from various sources, including articles, books, and online content, with a focus on extracting specific information or answering questions. The texts often contain technical or specialized language, and the activations suggest that the model is identifying key terms or concepts within the text."

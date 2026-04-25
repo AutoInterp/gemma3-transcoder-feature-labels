@@ -1,0 +1,1 @@
+"Various commands, functions, and operations related to file management, process control, and system administration, often involving closing or terminating processes, files, or sessions."

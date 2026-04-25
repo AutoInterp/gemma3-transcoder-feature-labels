@@ -1,0 +1,1 @@
+"Texts that are not the main content, often providing context, explanations, or disclaimers, and are frequently marked by a lower activation score."

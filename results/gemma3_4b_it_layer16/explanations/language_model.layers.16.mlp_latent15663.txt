@@ -1,0 +1,1 @@
+"Texts often contain book-related information, such as ISBN numbers, publication dates, and author names, as well as promotional language and links to external resources."

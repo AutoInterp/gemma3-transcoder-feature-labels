@@ -1,0 +1,1 @@
+"Code snippets in various programming languages, primarily Python and C/C++, with a focus on color representation and manipulation, including RGB and CMYK values."

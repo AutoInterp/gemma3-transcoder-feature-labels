@@ -1,0 +1,1 @@
+"Variable declarations and type definitions in various programming languages."

@@ -1,0 +1,1 @@
+"Text fragments enclosed in various types of brackets, often containing specific information such as IDs, dates, or references."

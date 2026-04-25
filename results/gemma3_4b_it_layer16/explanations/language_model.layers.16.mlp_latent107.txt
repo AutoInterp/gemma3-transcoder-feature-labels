@@ -1,0 +1,1 @@
+"Text fragments that are not part of the main content, often consisting of incomplete sentences, phrases, or standalone words, likely due to truncation or incomplete parsing."

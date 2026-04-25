@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, primarily C/C++ and JavaScript, with a focus on mathematical and graphical operations, including color representation and image manipulation."

@@ -1,0 +1,1 @@
+"Text fragments that appear to be citations, references, or bibliographic information, often containing author names, publication dates, and page numbers, frequently found at the end of a paragraph or section."

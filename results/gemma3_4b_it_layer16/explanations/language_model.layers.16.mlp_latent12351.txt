@@ -1,0 +1,1 @@
+"Text fragments that are likely to be quotes or excerpts from various sources, often with a low activation score, indicating they may be less relevant or less important in the overall context."

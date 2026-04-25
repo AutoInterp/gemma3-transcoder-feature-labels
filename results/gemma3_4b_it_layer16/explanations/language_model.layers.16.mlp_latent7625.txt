@@ -1,0 +1,1 @@
+"Various programming and technical terms, including syntax, error messages, and code snippets, often in the context of explaining complex concepts or debugging issues."

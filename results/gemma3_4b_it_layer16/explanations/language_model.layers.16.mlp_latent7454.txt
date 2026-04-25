@@ -1,0 +1,1 @@
+"Text describing file formats, file operations, and software functionality, often including technical details and specifications."

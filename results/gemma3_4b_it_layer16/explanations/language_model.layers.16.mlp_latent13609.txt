@@ -1,0 +1,1 @@
+"Text contains a mix of various data types, including code snippets, mathematical expressions, and natural language text, often with different formatting and syntax."

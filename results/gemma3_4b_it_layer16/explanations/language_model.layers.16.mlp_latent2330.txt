@@ -1,0 +1,1 @@
+"Texts describing technical processes, programming concepts, and scientific explanations, often including code snippets, mathematical formulas, and data analysis."

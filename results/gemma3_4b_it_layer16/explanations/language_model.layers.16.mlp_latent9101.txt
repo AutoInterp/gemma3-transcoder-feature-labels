@@ -1,0 +1,1 @@
+"Code snippets in various programming languages, often with error messages or comments, interspersed with regular text."

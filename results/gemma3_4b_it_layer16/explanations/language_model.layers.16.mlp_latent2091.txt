@@ -1,0 +1,1 @@
+"Text snippets containing unique identifiers, URLs, or citations, often in a scientific or academic context, and code snippets in programming languages."

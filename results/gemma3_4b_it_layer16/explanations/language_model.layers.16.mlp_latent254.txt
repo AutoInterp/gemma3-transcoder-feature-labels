@@ -1,0 +1,1 @@
+"Texts that contain phrases or sentences that are often cut off or truncated, often due to the presence of a link or a quote, and sometimes followed by additional information or context."

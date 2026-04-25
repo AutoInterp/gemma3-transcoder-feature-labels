@@ -1,0 +1,1 @@
+"Numbers representing monetary values, including prices, amounts, and exchange rates, often used in financial and economic contexts."

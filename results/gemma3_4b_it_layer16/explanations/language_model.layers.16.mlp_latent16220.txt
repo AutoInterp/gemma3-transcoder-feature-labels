@@ -1,0 +1,1 @@
+"Texts containing mathematical expressions, programming code, and technical descriptions, often related to data analysis, algorithms, and problem-solving."

@@ -1,0 +1,1 @@
+"Texts often contain phrases that provide context or instructions, such as setting up a space, following steps, or considering challenges, which are typically preceded by phrases like \"select an area\", \"following these steps\", or \"consider the challenges associated with it\"."

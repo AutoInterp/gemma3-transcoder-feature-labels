@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are appended to the main content, typically providing additional information, explanations, or context, and are often set off by a delimiter."

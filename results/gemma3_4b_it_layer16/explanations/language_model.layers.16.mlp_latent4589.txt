@@ -1,0 +1,1 @@
+"The token \"the\" is often present in the context of a sentence, but its activation is relatively low, suggesting it's a common function word. Other tokens, such as names, proper nouns, and specific words related to the topic, have higher activations, indicating they are more important for the behavior."

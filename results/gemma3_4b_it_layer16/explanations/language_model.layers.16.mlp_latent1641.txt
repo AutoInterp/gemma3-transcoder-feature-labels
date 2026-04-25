@@ -1,0 +1,1 @@
+"The text contains a mix of shared and non-shared field values across languages and versions, with shared field values being common across supported languages and versions. The text also exhibits a go/no-go methodology, where certain points are marked as shared or non-shared based on the consistency of field values."

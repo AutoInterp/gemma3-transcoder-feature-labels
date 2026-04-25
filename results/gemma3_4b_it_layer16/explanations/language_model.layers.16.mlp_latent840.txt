@@ -1,0 +1,1 @@
+"The text contains a mix of various data types, including HTML, SQL, programming code, and plain text. The activations are mostly related to database queries, programming syntax, and text formatting."

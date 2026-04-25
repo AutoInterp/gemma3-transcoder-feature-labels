@@ -1,0 +1,1 @@
+"Text snippets containing programming code, license agreements, and SQL queries, often with specific keywords and phrases."

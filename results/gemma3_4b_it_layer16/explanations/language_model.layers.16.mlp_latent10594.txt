@@ -1,0 +1,1 @@
+"Numerical ranges and values are often used to describe quantities, such as sizes, capacities, prices, and time intervals, providing a sense of variability and uncertainty."

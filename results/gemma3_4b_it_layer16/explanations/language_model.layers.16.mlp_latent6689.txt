@@ -1,0 +1,1 @@
+"Texts enclosed in << >> are often quotes or phrases that are being referenced or discussed, frequently with a low activation value, suggesting they are not the primary focus of the text."

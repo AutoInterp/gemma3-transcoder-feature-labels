@@ -1,0 +1,1 @@
+"Various programming languages and frameworks, including Java, C++, Python, and Spring, as well as database-related code, such as MySQL and Hibernate. The text also includes mathematical and scientific concepts, like arithmetic progressions and Loeb's Theorem, and snippets of code from different libraries and APIs, including Mockito and OkHttp."

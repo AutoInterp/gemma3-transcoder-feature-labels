@@ -1,0 +1,1 @@
+"Various text patterns including temperature units, mathematical equations, programming code, and scientific data, often in a format that is easily machine-readable."

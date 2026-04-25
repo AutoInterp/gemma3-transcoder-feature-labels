@@ -1,0 +1,1 @@
+"Text snippets often appear within delimiters, frequently containing quotes, titles, or article excerpts, and sometimes representing a specific context or theme."

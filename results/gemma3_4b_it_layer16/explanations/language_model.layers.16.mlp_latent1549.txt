@@ -1,0 +1,1 @@
+"URLs, book titles, and other metadata from online sources, often containing information about publications, authors, and ISBN numbers."

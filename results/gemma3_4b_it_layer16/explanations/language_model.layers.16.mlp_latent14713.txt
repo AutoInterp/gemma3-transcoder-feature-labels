@@ -1,0 +1,1 @@
+"Mathematical and computational concepts, including limit superior and inferior, ordinal numbers, exponential decay, and asymptotic behavior, as well as programming code snippets in various languages."

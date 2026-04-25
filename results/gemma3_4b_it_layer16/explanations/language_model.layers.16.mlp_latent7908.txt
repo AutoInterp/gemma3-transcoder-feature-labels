@@ -1,0 +1,1 @@
+"Text snippets often contain URLs, file paths, or other technical information, sometimes accompanied by error messages or code snippets."

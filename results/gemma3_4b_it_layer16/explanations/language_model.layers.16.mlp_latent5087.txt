@@ -1,0 +1,1 @@
+"Texts containing phrases or sentences that are likely to be cut off or truncated, often due to the presence of special characters or formatting, such as HTML tags, URLs, or code snippets."

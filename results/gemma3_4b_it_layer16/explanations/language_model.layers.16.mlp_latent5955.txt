@@ -1,0 +1,1 @@
+"URLs and URLs with query parameters, often used for tracking or referencing specific content."

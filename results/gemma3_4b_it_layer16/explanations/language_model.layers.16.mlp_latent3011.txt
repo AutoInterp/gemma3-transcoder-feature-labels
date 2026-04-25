@@ -1,0 +1,1 @@
+"Various types of text, including articles, product descriptions, and code snippets, often contain specific words or phrases that are not crucial to the overall meaning, but are present to provide additional context or information. These words or phrases are often enclosed in delimiters, and their importance is measured by their activation values."

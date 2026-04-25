@@ -1,0 +1,1 @@
+"Various dates and years in the format of \"month/day/year\" or \"year\", often used to provide context or reference a specific event."

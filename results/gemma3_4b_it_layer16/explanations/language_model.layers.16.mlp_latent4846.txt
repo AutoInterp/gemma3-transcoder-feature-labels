@@ -1,0 +1,1 @@
+"Mathematical expressions and equations from various fields, including linear algebra, calculus, probability theory, and optimization. The text contains matrix operations, vector calculations, and function definitions, often with specific mathematical notation and terminology."

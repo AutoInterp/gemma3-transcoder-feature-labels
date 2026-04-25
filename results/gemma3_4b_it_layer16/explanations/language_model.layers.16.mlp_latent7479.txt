@@ -1,0 +1,1 @@
+"Texts often contain lists of items, steps, or points, frequently presented in a structured format with headings, subheadings, and bullet points."

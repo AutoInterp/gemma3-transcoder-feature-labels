@@ -1,0 +1,1 @@
+"Texts often contain proper nouns, such as names of people, places, organizations, and dates, which are frequently mentioned in conjunction with other contextual information. Additionally, there are instances of phrases and sentences that are set apart from the rest of the text, often indicating a change in topic or a quotation."

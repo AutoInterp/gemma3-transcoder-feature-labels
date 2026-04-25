@@ -1,0 +1,1 @@
+"Texts containing programming code, technical documentation, and user manuals, often with specific formatting and syntax highlighting."

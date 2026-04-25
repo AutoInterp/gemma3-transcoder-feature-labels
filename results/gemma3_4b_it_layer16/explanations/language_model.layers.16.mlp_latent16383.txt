@@ -1,0 +1,1 @@
+"Text fragments often appear between figures, tables, and other visual elements, sometimes containing key information or summaries."

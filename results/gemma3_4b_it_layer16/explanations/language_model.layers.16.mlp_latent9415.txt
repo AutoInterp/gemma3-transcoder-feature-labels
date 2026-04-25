@@ -1,0 +1,1 @@
+"Texts discussing character encoding, specifically UTF-8, and its use in various contexts such as databases, URIs, and file formats, highlighting its importance for internationalization and correct representation of characters."

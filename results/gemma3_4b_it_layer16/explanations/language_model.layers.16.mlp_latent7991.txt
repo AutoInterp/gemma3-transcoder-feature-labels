@@ -1,0 +1,1 @@
+"Texts containing dates and times, often in the format of hours and minutes, and sometimes accompanied by other contextual information."

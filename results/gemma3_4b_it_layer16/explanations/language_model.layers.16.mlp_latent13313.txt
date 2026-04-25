@@ -1,0 +1,1 @@
+"Ranges of values, prices, and quantities in text, often used to convey variability, uncertainty, or comparison."

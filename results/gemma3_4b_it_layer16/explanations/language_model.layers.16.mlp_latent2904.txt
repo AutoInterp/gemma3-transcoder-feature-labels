@@ -1,0 +1,1 @@
+"Various types of dates and times, including specific hours, days, months, years, and ranges of dates, often used in scheduling, appointments, and events."

@@ -1,0 +1,1 @@
+"Text fragments containing lists of items, often describing symptoms, side effects, or characteristics, and also text fragments containing instructions, explanations, or definitions."

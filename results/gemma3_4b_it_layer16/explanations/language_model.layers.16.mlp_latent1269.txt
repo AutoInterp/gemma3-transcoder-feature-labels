@@ -1,0 +1,1 @@
+"Text fragments often appear at the beginning or end of a paragraph, sometimes containing a reference, a quote, or a citation, and are usually separated from the main text by a blank line."

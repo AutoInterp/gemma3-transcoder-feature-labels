@@ -1,0 +1,1 @@
+"Various paths and directories in different programming languages and operating systems, often used for file operations, configuration, or caching."

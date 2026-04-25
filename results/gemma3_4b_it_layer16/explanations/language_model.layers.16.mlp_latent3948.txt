@@ -1,0 +1,1 @@
+"The token \"s\" is often used to denote possession or a singular noun, and the token \"a\" is often used to denote a singular indefinite article."

@@ -1,0 +1,1 @@
+"Code snippets with loops iterating over arrays or collections, often with indices starting from 0 and incrementing by 1."

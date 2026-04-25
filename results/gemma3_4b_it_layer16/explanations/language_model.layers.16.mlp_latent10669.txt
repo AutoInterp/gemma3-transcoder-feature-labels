@@ -1,0 +1,1 @@
+"Texts often contain proper nouns, such as names of people, places, and organizations, which are frequently highlighted due to their importance in the context. Additionally, phrases and sentences that convey irony, sarcasm, or reversal of meaning are also frequently highlighted."

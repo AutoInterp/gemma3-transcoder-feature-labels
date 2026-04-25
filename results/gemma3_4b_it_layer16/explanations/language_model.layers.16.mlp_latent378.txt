@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, often containing error messages, exception handling, or debugging information."

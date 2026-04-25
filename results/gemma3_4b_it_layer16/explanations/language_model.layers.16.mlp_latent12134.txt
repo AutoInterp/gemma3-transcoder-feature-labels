@@ -1,0 +1,1 @@
+"SQL queries and programming code snippets, likely from various programming languages and frameworks, including C#, Java, and Python."

@@ -1,0 +1,1 @@
+"Various types of data and text, including numerical values, units, dates, times, URLs, IP addresses, file paths, and text from articles, books, and online forums."

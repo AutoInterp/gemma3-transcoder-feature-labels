@@ -1,0 +1,1 @@
+"Text primarily composed of mathematical notation and formal definitions, with a focus on abstract algebra, operator theory, and category theory."

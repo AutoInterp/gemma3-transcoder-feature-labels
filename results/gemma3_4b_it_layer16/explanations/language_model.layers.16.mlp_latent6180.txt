@@ -1,0 +1,1 @@
+"Texts that contain phrases or sentences that are set apart from the rest of the text, often to convey a distinct idea or to provide additional context. These phrases or sentences often have lower activation values, suggesting that they may be less central to the main idea of the text."

@@ -1,0 +1,1 @@
+"Shell commands and scripts, including command-line arguments, file paths, and variable assignments, often used for system administration, debugging, and automation."

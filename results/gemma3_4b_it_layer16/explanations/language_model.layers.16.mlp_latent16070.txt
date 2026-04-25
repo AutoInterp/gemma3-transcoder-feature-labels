@@ -1,0 +1,1 @@
+"Various programming languages and code snippets, primarily in Java, Perl, and Python, with a focus on syntax and logic."

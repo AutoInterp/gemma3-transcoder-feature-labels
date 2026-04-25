@@ -1,0 +1,1 @@
+"Various programming constructs and syntax elements, including function definitions, variable declarations, conditional statements, loops, and data structures."

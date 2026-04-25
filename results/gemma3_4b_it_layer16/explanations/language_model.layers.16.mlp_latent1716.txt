@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, often containing method or function definitions, variable declarations, and assertions, likely used for testing purposes."

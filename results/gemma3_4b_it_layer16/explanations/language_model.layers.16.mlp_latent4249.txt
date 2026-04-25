@@ -1,0 +1,1 @@
+"Various programming and system-related instructions, including file paths, directory structures, and command-line arguments, often used in tutorials or documentation for software development and deployment."

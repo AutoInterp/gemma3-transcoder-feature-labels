@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that provide additional information or context, such as explanations of medical procedures, descriptions of geographical locations, or definitions of technical terms, which are typically marked by a higher activation value."

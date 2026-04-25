@@ -1,0 +1,1 @@
+"Texts containing mathematical concepts, problems, and solutions, often involving algebra, geometry, calculus, and number theory, as well as explanations of programming concepts and data structures."

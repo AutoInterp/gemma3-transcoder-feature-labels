@@ -1,0 +1,1 @@
+"Text snippets often contain special words or phrases that are not directly related to the main topic, but rather serve as a transition, a reference, or a side note, such as names, locations, dates, or technical terms."

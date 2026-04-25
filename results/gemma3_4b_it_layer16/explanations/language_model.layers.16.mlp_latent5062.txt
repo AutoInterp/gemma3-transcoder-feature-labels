@@ -1,0 +1,1 @@
+"Textual patterns include citations, references, and academic or official document information, such as ISBNs, authors, and publication dates, often accompanied by activation values indicating their importance in the text."

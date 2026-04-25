@@ -1,0 +1,1 @@
+"Phrases and sentences that are often cut off or truncated, likely due to the presence of a delimiter, and are followed by a continuation of the text."

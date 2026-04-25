@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are conditional, provide instructions, or convey a sense of uncertainty, frequently using words like \"unless\", \"if\", \"when\", \"until\", and \"except\"."

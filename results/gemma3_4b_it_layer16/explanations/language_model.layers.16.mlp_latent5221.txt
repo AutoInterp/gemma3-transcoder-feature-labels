@@ -1,0 +1,1 @@
+"Technical instructions and troubleshooting guides often contain nested blocks of text that provide additional information or steps, typically denoted by a delimiter. These blocks frequently contain specific details about hardware, software, or system configurations, and may include warnings, tips, or recommendations."

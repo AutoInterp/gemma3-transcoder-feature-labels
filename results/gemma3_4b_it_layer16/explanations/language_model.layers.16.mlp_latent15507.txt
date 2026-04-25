@@ -1,0 +1,1 @@
+"Various types of text data, including addresses, lists of items, names, quotes, and descriptions of events or places, often with specific formatting and punctuation."

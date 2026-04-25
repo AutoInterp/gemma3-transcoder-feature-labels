@@ -1,0 +1,1 @@
+"Text snippets enclosed in angle brackets << >> often represent code, mathematical equations, or technical terms, while standalone text is typically a narrative or descriptive content."

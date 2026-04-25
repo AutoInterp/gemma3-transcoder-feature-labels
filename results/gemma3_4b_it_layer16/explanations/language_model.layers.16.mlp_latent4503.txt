@@ -1,0 +1,1 @@
+"Dates in the format of month and year, often used to provide context or specify a particular event or time period."

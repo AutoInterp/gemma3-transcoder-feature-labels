@@ -1,0 +1,1 @@
+"Texts that are not actual sentences or meaningful phrases, but rather fragments of text that seem to be used as placeholders or examples, often with low activation values."

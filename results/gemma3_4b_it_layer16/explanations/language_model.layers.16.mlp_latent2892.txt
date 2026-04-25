@@ -1,0 +1,1 @@
+"Texts discussing the Quicksort algorithm, its implementation, and its properties, including time complexity, stability, and variants such as dual pivot Quicksort."

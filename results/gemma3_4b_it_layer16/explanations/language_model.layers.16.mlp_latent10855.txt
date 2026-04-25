@@ -1,0 +1,1 @@
+"Various types of text fragments, including article citations, references, and metadata, often containing numerical values, dates, and URLs."

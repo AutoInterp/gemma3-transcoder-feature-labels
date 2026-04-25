@@ -1,0 +1,1 @@
+"Text containing numerical values, currency symbols, and hexadecimal color codes, often in the context of data or programming."

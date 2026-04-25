@@ -1,0 +1,1 @@
+"Text fragments containing dates, URLs, and specific times, often used to provide context or reference information."

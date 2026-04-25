@@ -1,0 +1,1 @@
+"A pattern of a specific numerical value or a range of numbers, often accompanied by a colon, followed by a year, a volume or issue number, and page numbers, typically in a scientific or academic citation format."

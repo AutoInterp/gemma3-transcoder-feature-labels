@@ -1,0 +1,1 @@
+"Various programming constructs and syntax elements, including switch statements, conditional statements, loops, function calls, and variable assignments, often with specific keywords or identifiers."

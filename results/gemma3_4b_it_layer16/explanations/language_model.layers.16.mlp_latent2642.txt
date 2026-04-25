@@ -1,0 +1,1 @@
+"Text describing color theory concepts, color codes, and color combinations, often including RGB, CMYK, and hex values."

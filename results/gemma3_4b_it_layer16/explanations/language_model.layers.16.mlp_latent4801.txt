@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are enclosed in delimiters, which may indicate a quote, a title, or a specific section of text. These enclosed phrases or sentences can be used to provide context or highlight important information."

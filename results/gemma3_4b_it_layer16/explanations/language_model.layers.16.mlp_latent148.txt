@@ -1,0 +1,1 @@
+"Various dates and times, often in a format of year, month, day, and sometimes hour, frequently appearing at the beginning of a text snippet."

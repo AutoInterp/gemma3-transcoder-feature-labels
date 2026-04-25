@@ -1,0 +1,1 @@
+"Code snippets from various programming languages and database queries, often with comments and explanations."
