@@ -147,7 +147,21 @@ Output is saved automatically to `feature_labels/feature_labels_layer_15.json` w
   "1": {"explanation": {"label": "Another label", "description": "Full explanation..."}}
 }
 ```
-
+**For lower VRAM usage:**
+1. Qwen2.5-1.5B-Instruct (~3 GB VRAM)
+```
+python build_labels_dict.py \
+  --explanations_dir results/gemma3_4b_it_layer15/explanations \
+  --model Qwen/Qwen2.5-1.5B-Instruct \
+  --max_model_len 2048
+```
+2. Qwen2.5-3B-Instruct (~6 GB VRAM)
+```
+python build_labels_dict.py \
+  --explanations_dir results/gemma3_4b_it_layer15/explanations \
+  --model Qwen/Qwen2.5-3B-Instruct \
+  --max_model_len 2048
+```
 ---
 
 ## 8. tmux Cheat Sheet
