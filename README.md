@@ -11,6 +11,9 @@ The branch used for the article [Automatically Interpreting Millions of Features
 Install this library as a local editable installation. Run the following command from the `delphi` directory.
 
 ```
+python -m venv venv
+source venv/bin/activate
+
 pip install -e .
 pip install plotly
 
@@ -30,6 +33,24 @@ tmux new -s delphi
 ls
 source venv/bin/activate
 
+```
+To avoid cache error
+```
+# 1. Create the persistent cache directories
+mkdir -p /workspace/.cache/huggingface/datasets
+
+# 2. Set environment variables for this session + future ones
+echo 'export HF_HOME=/workspace/.cache/huggingface' >> ~/.bashrc
+echo 'export HF_DATASETS_CACHE=/workspace/.cache/huggingface/datasets' >> ~/.bashrc
+source ~/.bashrc
+
+# 3. Symlink so anything hardcoded to /root/.cache still works
+rm -rf /root/.cache/huggingface
+ln -sf /workspace/.cache/huggingface /root/.cache/huggingface
+
+# 4. Verify
+echo "HF_HOME=$HF_HOME"
+ls -la /root/.cache/huggingface/
 ```
 ```
 python -m delphi \
