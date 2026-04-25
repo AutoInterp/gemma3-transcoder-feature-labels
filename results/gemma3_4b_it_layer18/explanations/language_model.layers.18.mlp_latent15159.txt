@@ -1,0 +1,1 @@
+"The token \"as\" used to indicate a comparison or equivalence in various contexts, including size, speed, time, and other attributes."

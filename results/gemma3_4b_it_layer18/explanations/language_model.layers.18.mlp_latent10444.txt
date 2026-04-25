@@ -1,0 +1,1 @@
+"Text segments that appear to be standalone paragraphs or sections, often with a clear topic or theme, and sometimes with a specific structure or format, such as a list or a quote."

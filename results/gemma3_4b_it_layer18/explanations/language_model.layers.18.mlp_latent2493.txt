@@ -1,0 +1,1 @@
+"The token \"%\" is used to represent a percentage value in text, often used to describe a proportion or amount of something."

@@ -1,0 +1,1 @@
+"Various phrases and sentences that are incomplete or truncated, often due to the presence of special characters or programming code, such as HTML, PHP, or programming language syntax."

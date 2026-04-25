@@ -1,0 +1,1 @@
+"HTML and SQL code snippets with various attributes, properties, and syntax highlighting."

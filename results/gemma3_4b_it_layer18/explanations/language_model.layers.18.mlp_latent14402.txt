@@ -1,0 +1,1 @@
+"Texts often end with a delimiter, followed by a new paragraph or section, indicating a separation or transition in the content."

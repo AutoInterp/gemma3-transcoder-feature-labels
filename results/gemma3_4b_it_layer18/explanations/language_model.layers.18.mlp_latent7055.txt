@@ -1,0 +1,1 @@
+"Various phrases and sentences that are often found at the end of a text, such as citations, references, links, and closing statements, often with a low activation score indicating they are not crucial to the main content."

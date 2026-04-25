@@ -1,0 +1,1 @@
+"Various regular expressions used for pattern matching and string manipulation in programming languages."

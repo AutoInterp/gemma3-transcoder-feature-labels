@@ -1,0 +1,1 @@
+"Various scientific article metadata and citations, including journal names, author names, publication years, and PubMed IDs."

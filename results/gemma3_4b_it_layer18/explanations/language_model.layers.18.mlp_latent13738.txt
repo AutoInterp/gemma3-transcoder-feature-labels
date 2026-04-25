@@ -1,0 +1,1 @@
+"Texts often contain product descriptions, book titles, and author names, as well as various types of information such as instructions, quotes, and news headlines."

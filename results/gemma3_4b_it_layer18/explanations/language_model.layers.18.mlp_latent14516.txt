@@ -1,0 +1,1 @@
+"Text fragments often contain citations, references, or links, which are frequently denoted by numbers in square brackets."

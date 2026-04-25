@@ -1,0 +1,1 @@
+"Various error messages and responses from web applications, APIs, and systems, including HTTP status codes, validation errors, and exceptions."

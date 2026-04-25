@@ -1,0 +1,1 @@
+"Text snippets containing variable names, function parameters, and data types, often used in programming contexts."

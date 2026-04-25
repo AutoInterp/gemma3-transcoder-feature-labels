@@ -1,0 +1,1 @@
+"Code snippets and comments in programming languages, including Java, XML, and JavaScript, as well as text describing licenses and URI syntax."

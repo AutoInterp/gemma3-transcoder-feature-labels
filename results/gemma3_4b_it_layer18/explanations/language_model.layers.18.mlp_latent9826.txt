@@ -1,0 +1,1 @@
+"Annotations and keywords used in programming languages, including Java, Spring, and JavaFX, as well as other frameworks and libraries."

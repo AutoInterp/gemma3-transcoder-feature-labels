@@ -1,0 +1,1 @@
+"Texts containing lists of items, often with a title or heading, and sometimes with a call to action or a link."

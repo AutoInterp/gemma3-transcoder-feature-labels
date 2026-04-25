@@ -1,0 +1,1 @@
+"Various types of text data, including addresses, scientific articles, mathematical sequences, and news articles, often containing specific information such as dates, locations, and numerical values."

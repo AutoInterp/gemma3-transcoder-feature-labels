@@ -1,0 +1,1 @@
+"SQL code snippets, primarily database schema definitions and queries, highlighting foreign key constraints, indexing, and query optimization considerations."

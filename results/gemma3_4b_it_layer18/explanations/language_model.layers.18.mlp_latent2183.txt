@@ -1,0 +1,1 @@
+"Various types of text data, including scientific articles, book references, programming code, and user comments, with a focus on dates, citations, and URLs."

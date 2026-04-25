@@ -1,0 +1,1 @@
+"Texts often contain long sequences of words that are not crucial to the main idea, but provide additional context or information, such as quotes, descriptions, or explanations. These sequences are often marked by a significant drop in activation values for other words, indicating that they are secondary to the main topic."

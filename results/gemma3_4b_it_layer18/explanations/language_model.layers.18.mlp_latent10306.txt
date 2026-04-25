@@ -1,0 +1,1 @@
+"The presence of boolean values and conditional statements in code, often used to determine the outcome of a function or method."

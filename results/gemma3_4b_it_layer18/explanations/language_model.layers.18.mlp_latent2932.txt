@@ -1,0 +1,1 @@
+"Texts containing numerical values, often in scientific or technical contexts, such as measurements, weights, temperatures, and distances."

@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are set aside or interrupted by other content, such as quotes, links, or external references, which are denoted by delimiters."

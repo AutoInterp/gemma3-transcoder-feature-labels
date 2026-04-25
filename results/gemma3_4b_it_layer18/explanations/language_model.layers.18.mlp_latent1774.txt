@@ -1,0 +1,1 @@
+"Text snippets from various programming languages, documentation, and technical specifications, including code comments, function definitions, and version information."

@@ -1,0 +1,1 @@
+"Texts from various programming languages, including R, Python, and JavaScript, as well as mathematical and scientific notation, and technical documentation. The patterns found include code snippets, function calls, variable declarations, and mathematical expressions, indicating a focus on computational and analytical tasks."

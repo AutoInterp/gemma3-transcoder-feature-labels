@@ -1,0 +1,1 @@
+"Dates in the format of year-month-day or year, sometimes with additional information such as age at death, are embedded within the text."

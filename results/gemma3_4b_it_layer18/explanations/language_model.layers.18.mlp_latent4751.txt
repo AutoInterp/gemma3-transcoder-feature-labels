@@ -1,0 +1,1 @@
+"Code snippets in various programming languages, including PHP, Java, and Perl, with comments and variable names in English."

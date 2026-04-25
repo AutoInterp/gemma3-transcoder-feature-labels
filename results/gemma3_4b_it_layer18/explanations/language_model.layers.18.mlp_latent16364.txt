@@ -1,0 +1,1 @@
+"Text fragments that appear to be instructions, directions, or step-by-step guides, often found in tutorials, manuals, or online help resources."

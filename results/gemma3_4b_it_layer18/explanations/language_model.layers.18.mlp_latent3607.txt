@@ -1,0 +1,1 @@
+"Various programming languages and frameworks, including C#, Java, Python, and Android, with a focus on system and application development, error handling, and user interface design."

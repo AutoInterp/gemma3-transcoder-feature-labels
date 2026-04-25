@@ -1,0 +1,1 @@
+"Phrases and sentences that are often cut off or truncated, likely due to the presence of a marker or delimiter, often indicating a continuation of the text in a different format, such as a link or a citation."

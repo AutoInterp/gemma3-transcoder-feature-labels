@@ -1,0 +1,1 @@
+"Code snippets and mathematical expressions often appear within a specific delimiter, indicating a block of code or a mathematical formula."

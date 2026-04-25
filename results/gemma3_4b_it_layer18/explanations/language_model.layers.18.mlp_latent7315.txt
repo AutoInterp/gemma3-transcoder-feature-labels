@@ -1,0 +1,1 @@
+"The token \"while\" is a common indicator of a loop in programming code, often used to repeat a block of code until a certain condition is met."

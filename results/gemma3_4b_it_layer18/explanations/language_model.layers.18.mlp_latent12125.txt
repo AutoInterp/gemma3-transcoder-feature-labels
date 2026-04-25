@@ -1,0 +1,1 @@
+"Various programming and technical terms, including function calls, variable names, and command-line options, as well as mathematical and scientific expressions, and database queries."

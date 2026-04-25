@@ -1,0 +1,1 @@
+"Various types of text data, including dates, times, names, locations, and phrases, often in the context of articles, stories, or other written content."

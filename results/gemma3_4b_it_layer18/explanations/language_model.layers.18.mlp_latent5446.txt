@@ -1,0 +1,1 @@
+"Various types of numbers and identifiers, including ISBNs, phone numbers, DOIs, and account numbers, often found in contexts such as product information, academic publications, and contact details."

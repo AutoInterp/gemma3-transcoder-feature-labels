@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including C, C++, JavaScript, and SQL, as well as text from articles, books, and online content. The patterns found in the examples suggest a mix of technical and non-technical writing, with a focus on conveying complex information in a clear and concise manner."

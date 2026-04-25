@@ -1,0 +1,1 @@
+"Text snippets often contain URLs, citations, or references, sometimes embedded within a larger paragraph, and are frequently found at the end of a sentence or paragraph."

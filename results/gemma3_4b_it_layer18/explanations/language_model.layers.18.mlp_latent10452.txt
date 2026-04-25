@@ -1,0 +1,1 @@
+"Various sequences of numbers, often representing dates, years, or numerical values, sometimes appearing in a list or as a range."

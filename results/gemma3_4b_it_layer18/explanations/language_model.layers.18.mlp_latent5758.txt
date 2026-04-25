@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including HTML, CSS, JavaScript, PHP, and Ruby, with a focus on UI components, state management, and debugging tools."

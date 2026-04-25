@@ -1,0 +1,1 @@
+"The text contains a mix of programming code, HTML, and natural language, with a focus on technical topics such as web development, programming languages (e.g. Ruby, JavaScript), and data storage (e.g. JSON)."

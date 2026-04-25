@@ -1,0 +1,1 @@
+"Various numerical values and ranges, often used for measurements, quantities, or percentages, frequently appearing in contexts such as financial costs, nutritional information, and demographic data."

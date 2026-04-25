@@ -1,0 +1,1 @@
+"Geographic locations, including countries, cities, states, and specific addresses, often used as context for other information."

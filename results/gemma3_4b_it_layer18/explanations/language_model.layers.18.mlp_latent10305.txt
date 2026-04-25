@@ -1,0 +1,1 @@
+"The token \"allowed\" is often used in the context of permissions, rules, or exceptions, frequently preceding a condition or a limitation."

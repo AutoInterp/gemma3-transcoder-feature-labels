@@ -1,0 +1,1 @@
+"Various types of text data, including code snippets, scientific articles, marketing materials, and personal stories, often containing numerical values, variable names, and function calls."

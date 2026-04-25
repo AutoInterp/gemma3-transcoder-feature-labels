@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including SQL, Java, C#, and JavaScript, containing database schema definitions, trigger creation, data validation rules, and entity definitions."

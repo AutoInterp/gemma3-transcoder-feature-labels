@@ -1,0 +1,1 @@
+"Texts often contain conditional phrases and clauses, such as \"if\" and \"when\", used to express uncertainty, possibility, or exception."

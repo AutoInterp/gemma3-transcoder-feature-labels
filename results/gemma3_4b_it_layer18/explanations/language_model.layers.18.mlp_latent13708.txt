@@ -1,0 +1,1 @@
+"Texts related to user authentication, password management, and security, including login processes, password reset, and database interactions."

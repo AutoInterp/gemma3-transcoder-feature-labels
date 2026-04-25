@@ -1,0 +1,1 @@
+"Texts often contain titles, subtitles, and other metadata, such as author names, dates, and subjects, which are typically enclosed in angle brackets or other delimiters."

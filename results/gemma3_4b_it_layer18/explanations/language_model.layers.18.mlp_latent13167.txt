@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are translations, titles, or quotes, which are frequently marked by a low activation score, indicating they are not the primary focus of the text."

@@ -1,0 +1,1 @@
+"Texts often contain URLs, specific dates, and names of people, places, and organizations, which are frequently highlighted in the given examples."

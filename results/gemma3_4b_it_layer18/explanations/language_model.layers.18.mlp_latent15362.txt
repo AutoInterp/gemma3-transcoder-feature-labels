@@ -1,0 +1,1 @@
+"Text excerpts often contain long sentences or paragraphs that are enclosed within delimiters, indicating a block of text that is being referenced or quoted."

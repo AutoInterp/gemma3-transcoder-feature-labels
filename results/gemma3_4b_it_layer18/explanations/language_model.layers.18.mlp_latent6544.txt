@@ -1,0 +1,1 @@
+"Technical text describing mathematical concepts, specifically fiber bundles, operator algebras, and Hilbert spaces, with a focus on abstract definitions, theorems, and lemmas."

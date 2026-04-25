@@ -1,0 +1,1 @@
+"Texts containing lists of items, often with multiple sub-items, and sometimes with additional information or explanations."

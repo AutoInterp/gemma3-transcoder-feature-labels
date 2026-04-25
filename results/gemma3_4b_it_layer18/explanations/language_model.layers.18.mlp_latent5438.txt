@@ -1,0 +1,1 @@
+"Statistical text discussing hypothesis testing, significance levels, and various statistical methods, including Chi-Square tests, t-statistics, and discriminatory analysis, often in the context of medical or scientific research."

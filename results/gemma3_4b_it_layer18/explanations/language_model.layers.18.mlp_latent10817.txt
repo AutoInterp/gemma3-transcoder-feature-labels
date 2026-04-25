@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are enclosed in delimiters, which appear to be explanations, descriptions, or examples, and are often related to a specific topic or concept."

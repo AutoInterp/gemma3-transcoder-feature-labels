@@ -1,0 +1,1 @@
+"The token \"until\" is used to indicate a point in time or a condition that must be met before something else can happen, often used in phrases describing a sequence of events or a state of being."

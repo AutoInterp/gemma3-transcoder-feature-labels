@@ -1,0 +1,1 @@
+"Chinese characters and variable names in Java code, with some English comments and variable names."

@@ -1,0 +1,1 @@
+"Dates and years in various formats, including numerical values, written out, and in conjunction with other information such as events or financial data."

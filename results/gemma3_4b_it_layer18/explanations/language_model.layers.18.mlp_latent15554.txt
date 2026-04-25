@@ -1,0 +1,1 @@
+"Code snippets and programming concepts, including class definitions, method calls, and variable declarations, often with a focus on Java and Scala."

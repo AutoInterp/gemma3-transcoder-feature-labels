@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that describe a relationship between two entities, such as comparisons, contrasts, or interactions, often using words like \"both\", \"two\", \"each other\", or \"both sides\"."

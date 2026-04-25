@@ -1,0 +1,1 @@
+"Texts often contain technical or specialized information, such as programming concepts, mathematical formulas, and scientific explanations, which are frequently accompanied by code snippets, diagrams, and images."

@@ -1,0 +1,1 @@
+"Conditional statements and logical operations used to describe specific scenarios, often with a focus on exceptions or edge cases."

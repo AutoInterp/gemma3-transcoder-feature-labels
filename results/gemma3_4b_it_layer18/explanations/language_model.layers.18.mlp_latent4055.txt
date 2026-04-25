@@ -1,0 +1,1 @@
+"The token \"all\" is often used to indicate a complete set or group, such as \"all the users\", \"all the data\", \"all the users in the channel\", or \"all the files and folders\"."

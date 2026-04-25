@@ -1,0 +1,1 @@
+"The token \"depend\" and its variations, often used in the context of object-oriented programming principles, such as dependency inversion, and in general language to convey a relationship of reliance or reliance on something."

@@ -1,0 +1,1 @@
+"Street addresses, names of locations, and specific dates."

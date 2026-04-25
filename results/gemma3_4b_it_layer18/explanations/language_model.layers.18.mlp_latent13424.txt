@@ -1,0 +1,1 @@
+"Dates and time periods in the format of \"year(s) to year(s)\" or \"from year to year\", often used to describe a range or duration."

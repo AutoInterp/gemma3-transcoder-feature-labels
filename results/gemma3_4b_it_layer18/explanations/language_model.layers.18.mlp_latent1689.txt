@@ -1,0 +1,1 @@
+"Texts often contain dates, times, locations, and event information, frequently in the context of announcements, schedules, or descriptions of activities."

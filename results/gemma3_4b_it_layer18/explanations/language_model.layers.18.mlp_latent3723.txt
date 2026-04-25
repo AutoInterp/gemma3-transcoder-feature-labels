@@ -1,0 +1,1 @@
+"Various types of identifiers, such as ISBN numbers, DOIs, URLs, and publication dates, often found in academic or technical contexts."

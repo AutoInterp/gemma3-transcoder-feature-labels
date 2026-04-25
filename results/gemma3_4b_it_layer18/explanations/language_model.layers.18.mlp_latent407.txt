@@ -1,0 +1,1 @@
+"Text fragments enclosed by delimiters often represent quotes, citations, or references, and are typically set apart from the main text."

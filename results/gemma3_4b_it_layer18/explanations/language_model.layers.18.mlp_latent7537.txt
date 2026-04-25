@@ -1,0 +1,1 @@
+"Text snippets containing technical instructions, error messages, and configuration settings, often related to software development, system administration, and troubleshooting."

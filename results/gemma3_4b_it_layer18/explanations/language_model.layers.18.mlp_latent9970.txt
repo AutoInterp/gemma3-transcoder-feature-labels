@@ -1,0 +1,1 @@
+"Texts often contain specific time-related phrases, such as dates, durations, and frequencies, which are used to convey information about schedules, events, and activities."

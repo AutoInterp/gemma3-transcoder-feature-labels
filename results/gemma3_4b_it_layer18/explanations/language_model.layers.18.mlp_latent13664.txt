@@ -1,0 +1,1 @@
+"Code snippets in various programming languages, including HTML, JavaScript, PHP, and Python, with a focus on software development, data modeling, and database management."

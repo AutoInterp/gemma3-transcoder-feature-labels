@@ -1,0 +1,1 @@
+"Code snippets in various programming languages, often with string formatting and variable interpolation, used for logging, printing, or displaying data."

@@ -1,0 +1,1 @@
+"Code snippets and programming concepts, including variable assignments, function calls, and conditional statements, often used in software development and testing."

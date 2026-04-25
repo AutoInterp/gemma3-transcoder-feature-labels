@@ -1,0 +1,1 @@
+"Code snippets and output logs from a computational environment, likely a Jupyter notebook or a similar interactive computing platform."

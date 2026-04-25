@@ -1,0 +1,1 @@
+"Various numerical values and dates in different formats, including time, money, and coordinates, often used in technical, financial, or geographical contexts."

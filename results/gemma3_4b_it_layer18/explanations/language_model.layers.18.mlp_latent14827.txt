@@ -1,0 +1,1 @@
+"Various numerical values, including ITIN numbers, quantities, and measurements, often presented in a specific format, such as with commas or decimal points."

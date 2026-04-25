@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including C++, C#, and HTML, with varying levels of activation indicating different types of code elements, such as function calls, variable declarations, and string literals."

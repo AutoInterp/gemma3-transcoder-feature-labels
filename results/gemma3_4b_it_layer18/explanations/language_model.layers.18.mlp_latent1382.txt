@@ -1,0 +1,1 @@
+"Code snippets and programming concepts, including variable declarations, function calls, and data structures, as well as technical documentation and user guides."

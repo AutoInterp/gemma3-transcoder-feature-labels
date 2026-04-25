@@ -1,0 +1,1 @@
+"Code snippets and text examples that involve generating random numbers or selecting random elements from a set, often for the purpose of simulation, testing, or data analysis."

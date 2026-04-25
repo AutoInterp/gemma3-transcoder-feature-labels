@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are cut off or truncated, sometimes due to the end of a document or a conversation, and sometimes due to a deliberate choice to omit information."

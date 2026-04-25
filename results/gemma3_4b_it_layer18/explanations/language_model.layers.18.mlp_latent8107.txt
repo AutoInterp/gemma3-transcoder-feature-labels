@@ -1,0 +1,1 @@
+"Texts that are likely instructions, explanations, or descriptions, often found in technical or educational contexts, frequently contain phrases that indicate a process or a sequence of actions, such as \"how to\", \"what to do\", or \"step-by-step\"."

@@ -1,0 +1,1 @@
+"Texts containing numerical values, often used for comparisons, measurements, or quantities, such as ages, sizes, numbers of people, or years."

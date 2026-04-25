@@ -1,0 +1,1 @@
+"Technical text discussing internet protocols, network security, and online services, including IP addresses, VPNs, DNS, and web accelerators."

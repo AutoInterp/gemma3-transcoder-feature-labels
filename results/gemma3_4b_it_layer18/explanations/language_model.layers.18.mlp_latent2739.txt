@@ -1,0 +1,1 @@
+"Various types of text data, including geographical coordinates, product descriptions, addresses, dates, mathematical problems, news articles, and programming code, with no clear common pattern."

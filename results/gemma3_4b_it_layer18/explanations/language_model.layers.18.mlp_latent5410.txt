@@ -1,0 +1,1 @@
+"Text fragments often appear between delimiters, which seem to be used to indicate a pause or a shift in the narrative, and may contain additional information or context."

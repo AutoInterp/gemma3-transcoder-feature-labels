@@ -1,0 +1,1 @@
+"Text fragments often found in instructional or technical documentation, such as step-by-step guides, configuration instructions, and code snippets."

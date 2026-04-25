@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, primarily Java and Python, containing test cases, assertions, and mock object setups, indicating a focus on software testing and development."

@@ -1,0 +1,1 @@
+"Texts describing technical specifications, product features, and image dimensions, often including measurements in pixels, inches, or millimeters."

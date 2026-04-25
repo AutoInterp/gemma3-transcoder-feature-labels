@@ -1,0 +1,1 @@
+"Various code snippets, URLs, and formatting elements, often used for documentation, navigation, or technical purposes, such as links, code blocks, and HTML tags."

@@ -1,0 +1,1 @@
+"Texts describing mathematical problems, equations, and solutions, often in the context of physics, engineering, and computer science, with a focus on optimization, minimization, and problem-solving techniques."

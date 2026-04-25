@@ -1,0 +1,1 @@
+"Code snippets and documentation from various programming languages and frameworks, including HTML, CSS, JavaScript, and Java, with a focus on user interface and user experience elements, such as buttons, menus, and list views."

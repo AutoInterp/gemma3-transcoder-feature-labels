@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are cut off or truncated, frequently due to the presence of a link or a quote, and sometimes due to a change in topic or a new paragraph."

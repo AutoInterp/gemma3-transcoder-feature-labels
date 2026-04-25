@@ -1,0 +1,1 @@
+"Text fragments often appear in a format of a list, with a title or a heading preceding the list. The list items are typically numbered and may contain a brief description or a link."

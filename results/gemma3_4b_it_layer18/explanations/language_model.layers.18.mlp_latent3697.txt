@@ -1,0 +1,1 @@
+"Error messages and technical output from various programming languages and systems, including compiler errors, runtime errors, and system logs."

@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including SQL, Java, Python, and C++, as well as text from books, articles, and online content. The patterns found in these examples include code syntax, variable names, function calls, and data structures, as well as linguistic patterns such as sentence structure, idioms, and figurative language."

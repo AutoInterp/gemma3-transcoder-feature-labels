@@ -1,0 +1,1 @@
+"Numerical values representing time, temperature, or quantities, often used in scientific or technical contexts, such as hours, days, years, degrees Celsius, or percentages."

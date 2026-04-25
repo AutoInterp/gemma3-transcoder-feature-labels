@@ -1,0 +1,1 @@
+"Empty or non-existent text segments, often denoted by a lack of activations or a low activation value, indicating a possible omission or removal of content."

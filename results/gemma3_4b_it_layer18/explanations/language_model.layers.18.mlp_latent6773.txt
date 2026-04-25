@@ -1,0 +1,1 @@
+"Various text snippets, mostly containing dates, times, locations, and references, often in a format that appears to be extracted from digital logs or database queries."

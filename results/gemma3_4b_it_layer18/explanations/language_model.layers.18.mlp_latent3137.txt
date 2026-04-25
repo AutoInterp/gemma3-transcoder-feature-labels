@@ -1,0 +1,1 @@
+"Texts containing quotes, citations, or references, often with low activation values, indicating they may be less relevant to the main content."

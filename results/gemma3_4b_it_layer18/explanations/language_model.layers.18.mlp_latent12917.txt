@@ -1,0 +1,1 @@
+"Empty lines or lines containing only a single character, often indicating a code comment or a blank line in a programming context."

@@ -1,0 +1,1 @@
+"Texts from various programming languages, including PHP, C#, Java, and Python, as well as snippets from SQL queries, and articles on statistical analysis, data processing, and machine learning."

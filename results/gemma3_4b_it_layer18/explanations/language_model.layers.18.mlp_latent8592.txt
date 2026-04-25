@@ -1,0 +1,1 @@
+"Texts are composed of boilerplate content, which is often separated by code, punctuation, or other structural elements."

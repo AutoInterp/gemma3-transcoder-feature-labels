@@ -1,0 +1,1 @@
+"Text fragments that are not part of the main content, often serving as metadata, navigation, or supplementary information, such as article citations, ratings, and related links."

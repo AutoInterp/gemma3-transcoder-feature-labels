@@ -1,0 +1,1 @@
+"Text sequences containing numerical data, often in the form of tables, statistics, or schedules, frequently accompanied by dates and times."

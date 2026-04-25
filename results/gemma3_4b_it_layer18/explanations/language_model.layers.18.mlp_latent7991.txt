@@ -1,0 +1,1 @@
+"Various types of text fragments, including lists of locations, company names, product names, and institutional affiliations, often appearing in a specific context such as a news article, product description, or academic paper."

@@ -1,0 +1,1 @@
+"Various types of delimiters and special characters, including quotes, commas, and angle brackets, used to denote code, data, or other types of text in programming, documentation, and online content."

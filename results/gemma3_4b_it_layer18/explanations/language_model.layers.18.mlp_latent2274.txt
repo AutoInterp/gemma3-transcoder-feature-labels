@@ -1,0 +1,1 @@
+"Various types of text fragments, including page numbers, citations, URLs, and book titles, often found at the end of a sentence or paragraph, and sometimes used as a delimiter for a quotation or a reference."

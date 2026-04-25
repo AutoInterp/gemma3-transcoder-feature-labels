@@ -1,0 +1,1 @@
+"Various programming code snippets and HTML templates from different programming languages and frameworks, including Python, JavaScript, CoffeeScript, and Java, as well as HTML, CSS, and SQL."

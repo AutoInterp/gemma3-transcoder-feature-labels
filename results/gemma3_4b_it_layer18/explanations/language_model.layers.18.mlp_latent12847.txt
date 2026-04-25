@@ -1,0 +1,1 @@
+"Instructions and guides for software installation, configuration, and usage, often including platform-specific steps for Windows, macOS, and Linux."

@@ -1,0 +1,1 @@
+"Texts containing addresses, phone numbers, and URLs, often in a format that includes geographic locations, company names, and property references."

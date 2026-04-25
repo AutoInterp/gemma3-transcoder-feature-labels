@@ -1,0 +1,1 @@
+"Texts containing dates, times, and locations, often in the format of a title, heading, or metadata, and sometimes accompanied by other contextual information such as author names, email addresses, or URLs."

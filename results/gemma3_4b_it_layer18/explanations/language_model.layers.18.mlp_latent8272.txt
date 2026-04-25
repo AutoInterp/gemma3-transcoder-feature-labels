@@ -1,0 +1,1 @@
+"Sequences of numbers, often in a specific format, with various mathematical operations and comparisons."

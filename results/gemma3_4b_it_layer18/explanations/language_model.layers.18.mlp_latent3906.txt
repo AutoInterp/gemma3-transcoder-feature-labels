@@ -1,0 +1,1 @@
+"Error messages and log statements in various programming languages, often containing specific error codes or descriptions."

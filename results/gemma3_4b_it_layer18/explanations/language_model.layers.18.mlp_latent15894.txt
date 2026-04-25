@@ -1,0 +1,1 @@
+"Java code snippets with various annotations and classes, likely from a Spring Boot application, including database models, REST controllers, and test classes."

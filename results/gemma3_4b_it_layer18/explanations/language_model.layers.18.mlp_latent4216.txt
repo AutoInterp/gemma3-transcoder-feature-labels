@@ -1,0 +1,1 @@
+"Texts often contain dates, names, and locations, which are frequently mentioned in conjunction with other words like \"year\", \"month\", \"day\", \"hour\", and \"minute\". Additionally, there are instances of citations, references, and academic studies, which are typically denoted by specific formatting and punctuation."

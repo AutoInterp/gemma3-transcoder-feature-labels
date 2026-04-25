@@ -1,0 +1,1 @@
+"Text fragments often contain links, phone numbers, or other contact information, frequently found at the end of a passage, and sometimes preceded by a call to action."

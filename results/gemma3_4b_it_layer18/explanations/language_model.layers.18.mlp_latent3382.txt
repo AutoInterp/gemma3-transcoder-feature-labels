@@ -1,0 +1,1 @@
+"Various types of text data, including addresses, phone numbers, database information, programming code, and written content, often containing specific patterns such as numerical data, geographical locations, and technical terminology."

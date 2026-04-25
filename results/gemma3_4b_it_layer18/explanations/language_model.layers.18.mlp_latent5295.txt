@@ -1,0 +1,1 @@
+"URLs, IDs, and other unique identifiers, often used for referencing or linking to external sources, such as web pages, documents, or images."

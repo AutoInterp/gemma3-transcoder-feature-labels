@@ -1,0 +1,1 @@
+"Relative URIs, programming code snippets, and text fragments often contain colons (:), slashes (/), and other special characters, which are used to separate components, denote directories, or indicate syntax."

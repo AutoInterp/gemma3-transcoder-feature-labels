@@ -1,0 +1,1 @@
+"Code snippets and comments from various programming languages and documents, including Java, C#, and Python, as well as text from articles, books, and online content. The patterns found in these examples include code syntax, variable declarations, function calls, and comments, as well as text structures such as paragraphs, sentences, and quotes."

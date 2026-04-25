@@ -1,0 +1,1 @@
+"Texts describing technical processes, software installation, and troubleshooting, often including commands and instructions for managing systems, installing applications, and resolving issues."

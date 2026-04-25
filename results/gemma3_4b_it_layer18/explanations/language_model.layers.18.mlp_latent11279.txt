@@ -1,0 +1,1 @@
+"Texts often contain proper nouns, such as names of people, places, and organizations, which are frequently mentioned in conjunction with other words like \"University\", \"Office\", \"Repository\", and \"Society\". Additionally, phrases indicating a change of location or situation, like \"I moved to\", \"I left after\", and \"Let us go away\", are common."

@@ -1,0 +1,1 @@
+"Texts describing mathematical concepts, statistical models, and programming code, often involving numerical ranges, probability distributions, and optimization problems."

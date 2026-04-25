@@ -1,0 +1,1 @@
+"Texts containing legal disclaimers, software licenses, and copyright notices, often found in code comments or at the beginning of documents."

@@ -1,0 +1,1 @@
+"Texts containing various programming code snippets, mostly in Perl, with some PHP and other languages, and a few paragraphs of prose."

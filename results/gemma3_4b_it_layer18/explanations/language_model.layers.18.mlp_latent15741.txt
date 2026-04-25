@@ -1,0 +1,1 @@
+"Ranges of time, quantities, and temperatures are commonly expressed in text."

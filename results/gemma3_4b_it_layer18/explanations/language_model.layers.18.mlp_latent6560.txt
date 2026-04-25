@@ -1,0 +1,1 @@
+"The token \"#\" is used to denote a variety of things, including HTML/CSS color codes, CSS classes, and programming language syntax, such as in Ruby or C. It is also used in URLs and as a prefix for commands in Unix-like systems."

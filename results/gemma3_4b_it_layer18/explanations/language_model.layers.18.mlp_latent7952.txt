@@ -1,0 +1,1 @@
+"Text contains various types of geographical information, including latitude and longitude coordinates, country names, city names, and addresses."

@@ -1,0 +1,1 @@
+"Various programming-related text, including code snippets, function definitions, and explanations of programming concepts, often in the context of specific programming languages such as Python, Java, and Ruby."

@@ -1,0 +1,1 @@
+"Text containing non-ASCII characters, likely representing non-English languages, and possibly containing special characters or formatting codes."

@@ -1,0 +1,1 @@
+"Texts describing technical or complex concepts, often including formal definitions, mathematical equations, and programming code, frequently referencing specific standards, theorems, or academic papers."

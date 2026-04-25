@@ -1,0 +1,1 @@
+"Texts often contain long sequences of words that are not grammatically related, likely representing copied or quoted content, such as news articles, financial reports, or product descriptions."

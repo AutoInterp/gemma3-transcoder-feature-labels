@@ -1,0 +1,1 @@
+"Mathematical and scientific concepts, including geometric shapes, manifolds, curvature, and fractals, as well as programming and algorithmic ideas, such as sorting, graph traversal, and data structures."

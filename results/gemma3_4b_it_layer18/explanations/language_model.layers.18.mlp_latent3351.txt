@@ -1,0 +1,1 @@
+"URLs, image file paths, and other types of links or references to external content."

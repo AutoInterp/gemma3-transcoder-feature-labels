@@ -1,0 +1,1 @@
+"SQL code snippets, mostly related to database creation and management, and various programming code snippets in different languages, including Java, C++, and SQL."

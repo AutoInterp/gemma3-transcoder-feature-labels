@@ -1,0 +1,1 @@
+"SQL code snippets, including table structures, queries, and data insertions, primarily in MySQL and Oracle dialects."

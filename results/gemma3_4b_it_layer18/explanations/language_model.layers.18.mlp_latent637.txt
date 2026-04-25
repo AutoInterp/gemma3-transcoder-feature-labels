@@ -1,0 +1,1 @@
+"The token \"who\" is used to refer to a person or people being discussed, often in a question or relative clause, and the token \"whom\" is used as the object of a verb or preposition, but in this text, \"who\" is used in both cases."

@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, primarily Java, Python, and C++, with a focus on setting properties, attributes, and variables."

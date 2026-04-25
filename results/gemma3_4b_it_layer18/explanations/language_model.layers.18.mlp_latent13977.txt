@@ -1,0 +1,1 @@
+"Text snippets from various sources, including programming code, database queries, web pages, and documents, showcasing a diverse range of languages, including SQL, HTML, CSS, JavaScript, R, and Java."

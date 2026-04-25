@@ -1,0 +1,1 @@
+"Texts with low activation values are often fragments, incomplete sentences, or unrelated phrases, while higher activation values are associated with coherent sentences or meaningful phrases."

@@ -1,0 +1,1 @@
+"Various identifiers and codes, including DOIs, PMID, ISBN, NAICS codes, and hex color codes, often used to reference or describe specific items, such as research papers, products, or websites."

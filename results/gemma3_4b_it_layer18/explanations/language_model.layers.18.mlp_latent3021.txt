@@ -1,0 +1,1 @@
+"Text snippets containing various types of data, including phone numbers, email addresses, URLs, dates, times, and activation values, often in a format that suggests they are being used for data analysis or machine learning purposes."

@@ -1,0 +1,1 @@
+"Texts containing measurements, often in a format of \"length x width\" or \"height x diameter\", typically used to describe physical spaces or objects."

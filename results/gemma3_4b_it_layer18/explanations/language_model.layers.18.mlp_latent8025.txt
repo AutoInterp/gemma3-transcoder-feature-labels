@@ -1,0 +1,1 @@
+"Text describing technical instructions, troubleshooting, or how-to guides, often including step-by-step procedures, software or hardware configurations, and troubleshooting tips."

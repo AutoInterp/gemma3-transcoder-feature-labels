@@ -1,0 +1,1 @@
+"Texts often contain quotes, names, and proper nouns, which are typically capitalized and have high activation values. Additionally, idioms and phrases related to emotions, food, and money are common, as well as discussions about personal experiences, health, and education."

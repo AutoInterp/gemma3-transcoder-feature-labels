@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including conditional statements, loops, function calls, and object-oriented programming constructs, often with variable names and function parameters."

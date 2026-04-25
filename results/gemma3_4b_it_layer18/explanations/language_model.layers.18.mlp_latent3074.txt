@@ -1,0 +1,1 @@
+"Texts that are contained within a larger text, often with a distinct purpose or meaning, such as explanations, examples, or quotes, and are typically separated from the main text by a blank line or a delimiter."

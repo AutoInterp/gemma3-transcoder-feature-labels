@@ -1,0 +1,1 @@
+"Various patterns of text, including regular expressions, programming code, and HTML, as well as snippets of natural language text. The patterns found include string manipulation, lexical analysis, and data processing, indicating a collection of code snippets and technical documentation."

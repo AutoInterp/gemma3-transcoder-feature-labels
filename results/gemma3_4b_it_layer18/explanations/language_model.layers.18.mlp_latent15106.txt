@@ -1,0 +1,1 @@
+"Code snippets in various programming languages, including JavaScript, PHP, and SQL, with a focus on syntax and data structures."

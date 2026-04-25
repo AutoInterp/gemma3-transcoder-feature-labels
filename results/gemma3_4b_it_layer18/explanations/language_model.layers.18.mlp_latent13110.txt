@@ -1,0 +1,1 @@
+"Technical and programming-related text, often including code snippets, error messages, and explanations of complex concepts, frequently involving binary data, network protocols, and low-level system operations."

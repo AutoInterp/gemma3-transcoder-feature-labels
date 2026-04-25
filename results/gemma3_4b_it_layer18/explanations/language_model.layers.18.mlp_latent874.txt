@@ -1,0 +1,1 @@
+"Long blocks of text describing complex information, often related to technical or academic topics, with low activation values for most tokens, suggesting a lack of emphasis on specific words or phrases."

@@ -1,0 +1,1 @@
+"Given a context, the token often appears at the beginning of a sentence, clause, or phrase, indicating a condition, assumption, or premise."

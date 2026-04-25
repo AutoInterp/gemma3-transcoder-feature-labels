@@ -1,0 +1,1 @@
+"Tokens that indicate inability or impossibility, such as \"can't\", \"couldn't\", \"can\", and \"cannot\", often used to express limitations or restrictions."

@@ -1,0 +1,1 @@
+"Text segments that are likely to be external links or references, often containing URLs, website names, or other navigational information."

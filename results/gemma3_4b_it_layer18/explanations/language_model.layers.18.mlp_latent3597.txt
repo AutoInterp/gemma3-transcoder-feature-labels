@@ -1,0 +1,1 @@
+"Text fragments often appear at the end of a sentence or paragraph, sometimes indicating a pause or a transition to a new topic, and are frequently denoted by a closing delimiter such as \">>\" or a quotation mark."

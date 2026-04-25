@@ -1,0 +1,1 @@
+"Texts from various sources, including academic papers, news articles, product descriptions, and Wikipedia entries, with a focus on extracting specific words or phrases from the text."

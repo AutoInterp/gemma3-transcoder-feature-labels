@@ -1,0 +1,1 @@
+"Texts about finding the greatest common factor (GCF) of two numbers, often involving examples and explanations of various methods such as prime factorization, Euclidean algorithm, and long division."

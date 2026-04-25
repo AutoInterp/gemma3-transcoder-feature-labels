@@ -1,0 +1,1 @@
+"Texts often contain conditional statements, comparisons, and logical reasoning, frequently using phrases like \"if this, then that\" to convey ideas and make arguments."

@@ -1,0 +1,1 @@
+"Various types of metadata and formatting information, including citations, references, URLs, dates, times, and identifiers, often in a scientific or technical context."

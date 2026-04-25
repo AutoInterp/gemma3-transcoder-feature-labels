@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are not essential to the main message, but provide additional information or context, such as dates, locations, and explanations. These phrases are often marked by a lack of strong activation values for the surrounding words, indicating that they are not crucial to the overall meaning."

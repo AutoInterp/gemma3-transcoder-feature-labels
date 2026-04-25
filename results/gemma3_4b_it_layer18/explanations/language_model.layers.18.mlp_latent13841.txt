@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, often containing method definitions, function calls, or loop structures."

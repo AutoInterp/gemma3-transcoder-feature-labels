@@ -1,0 +1,1 @@
+"Various programming and technical terms, including network protocols (TCP, TLS, HTTP), data formats (JSON, XML), and programming languages (JavaScript, Python), as well as technical concepts (encryption, compression, caching)."

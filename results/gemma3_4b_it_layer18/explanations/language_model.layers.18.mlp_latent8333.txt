@@ -1,0 +1,1 @@
+"Code snippets and instructions for various programming and system-related tasks, including terminal commands, SQL queries, and software installation."

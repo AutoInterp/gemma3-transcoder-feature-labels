@@ -1,0 +1,1 @@
+"A collection of street addresses, often in a format of \"Street address, City, Country\" or \"City, Country\", frequently including postal codes and other geographical information."

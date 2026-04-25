@@ -1,0 +1,1 @@
+"Tokens indicating absence or non-existence, such as \"no\", \"none\", \"nothing\", \"not\", and \"no more\", often used to convey a lack or negation."

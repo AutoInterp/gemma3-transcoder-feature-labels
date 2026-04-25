@@ -1,0 +1,1 @@
+"Texts discussing mathematical concepts, algorithms, and formulas, often involving complex equations and functions, with a focus on time and space complexity, convergence, and optimization."

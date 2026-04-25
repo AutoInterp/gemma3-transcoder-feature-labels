@@ -1,0 +1,1 @@
+"File paths, variable names, and function names in code snippets."

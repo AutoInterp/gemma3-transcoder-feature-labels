@@ -1,0 +1,1 @@
+"Code snippets and programming concepts, including function calls, variable declarations, and data types, often with a focus on specific programming languages such as Python, Java, and SQL."

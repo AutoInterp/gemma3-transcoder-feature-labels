@@ -1,0 +1,1 @@
+"The token \"<<\" often precedes a secondary or alternative option, plan, or strategy, while the token \">>\" marks the end of this alternative."

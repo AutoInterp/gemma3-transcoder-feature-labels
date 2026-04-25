@@ -1,0 +1,1 @@
+"Text snippets from various log files, configuration files, and command outputs, often containing error messages, file paths, and system information."

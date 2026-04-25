@@ -1,0 +1,1 @@
+"The token \"+\" is used to indicate a search query or a filter, often in the context of finding or selecting something, while the token \"-\" is used to exclude or negate something."

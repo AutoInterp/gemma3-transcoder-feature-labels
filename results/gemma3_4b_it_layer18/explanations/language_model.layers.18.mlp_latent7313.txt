@@ -1,0 +1,1 @@
+"Code snippets and programming concepts, including conditional statements, loops, and functions, often used in conjunction with specific keywords and syntax."

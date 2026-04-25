@@ -1,0 +1,1 @@
+"Texts describing technical topics, including hardware, software, and programming, often with a focus on troubleshooting, installation, and optimization."

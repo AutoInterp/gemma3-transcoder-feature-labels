@@ -1,0 +1,1 @@
+"Code snippets and command lines, often with specific parameters or options, used for various purposes such as executing programs, solving equations, or configuring systems."

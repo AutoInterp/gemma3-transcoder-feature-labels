@@ -1,0 +1,1 @@
+"Various scientific references and citations in the format of a digital object identifier (DOI), PubMed ID (PMID), or a URL, often accompanied by a year, volume, and page numbers."

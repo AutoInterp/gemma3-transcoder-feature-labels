@@ -1,0 +1,1 @@
+"Text fragments often appear between delimiters, which may indicate a change in topic, a quotation, or a parenthetical remark."

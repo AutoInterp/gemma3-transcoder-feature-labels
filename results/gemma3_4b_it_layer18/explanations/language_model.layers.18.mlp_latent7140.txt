@@ -1,0 +1,1 @@
+"Code snippets with comments and documentation, often describing default values, parameters, and behaviors of functions, classes, and variables."

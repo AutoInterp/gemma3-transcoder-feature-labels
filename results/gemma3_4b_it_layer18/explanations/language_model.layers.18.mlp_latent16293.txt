@@ -1,0 +1,1 @@
+"Text fragments often found in digital interfaces, such as website comments, forums, and social media platforms, including links, HTML tags, and JavaScript code."

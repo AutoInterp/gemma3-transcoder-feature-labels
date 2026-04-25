@@ -1,0 +1,1 @@
+"Numerical values and dates often appear in the context of comparisons, explanations, or descriptions, frequently used to provide context or illustrate a point."

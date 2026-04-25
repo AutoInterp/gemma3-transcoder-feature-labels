@@ -1,0 +1,1 @@
+"Text snippets often contain specific phrases or sentences that are not directly related to the main topic, such as citations, references, or acknowledgments, which are typically marked by a low activation value."

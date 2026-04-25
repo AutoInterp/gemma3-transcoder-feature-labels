@@ -1,0 +1,1 @@
+"URLs, file paths, and domain names."

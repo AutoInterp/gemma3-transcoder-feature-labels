@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including C, C++, PHP, and Python, containing mathematical expressions, conditional statements, and variable assignments."

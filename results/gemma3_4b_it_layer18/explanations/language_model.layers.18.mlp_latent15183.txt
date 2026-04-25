@@ -1,0 +1,1 @@
+"Various types of text, including articles, passages, and conversations, with a focus on extracting specific information, such as statistics, names, and quotes."

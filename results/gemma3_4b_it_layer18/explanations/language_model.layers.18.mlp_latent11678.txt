@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, primarily Java and SQL, showing database operations, data retrieval, and object creation."

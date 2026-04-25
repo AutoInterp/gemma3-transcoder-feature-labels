@@ -1,0 +1,1 @@
+"Text describing color information, including hex codes, RGB values, and color combinations, often with explanations of color theory concepts such as tints, tones, and shades."

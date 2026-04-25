@@ -1,0 +1,1 @@
+"Text snippets often contain special characters, such as ASCII art, emojis, and HTML tags, used for formatting and decoration."

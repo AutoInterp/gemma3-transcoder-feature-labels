@@ -1,0 +1,1 @@
+"Texts containing phrases or sentences that are cut off or truncated, often due to the presence of a delimiter or a new paragraph, with the remaining text continuing on a new line."

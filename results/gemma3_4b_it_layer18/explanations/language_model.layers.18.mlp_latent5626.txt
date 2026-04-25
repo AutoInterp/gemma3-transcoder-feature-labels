@@ -1,0 +1,1 @@
+"Text fragments that are likely to be boilerplate or placeholder text, often containing generic phrases or sentences that are repeated in various contexts."

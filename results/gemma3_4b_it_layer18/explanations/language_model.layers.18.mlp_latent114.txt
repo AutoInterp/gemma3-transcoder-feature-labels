@@ -1,0 +1,1 @@
+"Large numbers and numerical values, often in scientific notation, are frequently found in the text."

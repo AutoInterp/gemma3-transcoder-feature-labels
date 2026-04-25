@@ -1,0 +1,1 @@
+"Various programming and technical terms, including function and variable names, data types, and mathematical operations, as well as snippets of code in different programming languages."

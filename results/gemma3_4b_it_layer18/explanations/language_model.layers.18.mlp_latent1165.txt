@@ -1,0 +1,1 @@
+"Text snippets from various sources, including system logs, error messages, and online content, often containing technical information, error codes, and debugging data."

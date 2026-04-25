@@ -1,0 +1,1 @@
+"Texts with low activation values are likely to be non-essential or background information, such as citations, article titles, and metadata."

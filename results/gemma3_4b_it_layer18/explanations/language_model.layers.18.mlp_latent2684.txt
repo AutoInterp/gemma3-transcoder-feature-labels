@@ -1,0 +1,1 @@
+"HTML and CSS code snippets, often containing class names, IDs, and attributes, which are used to style and structure web pages."

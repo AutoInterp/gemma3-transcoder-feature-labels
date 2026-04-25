@@ -1,0 +1,1 @@
+"Code snippets and programming concepts, including variable names, function calls, and conditional statements, often found in programming languages such as Python, Java, and C++."

@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including Ruby, JavaScript, C, C++, Java, and others, often with context and explanations."

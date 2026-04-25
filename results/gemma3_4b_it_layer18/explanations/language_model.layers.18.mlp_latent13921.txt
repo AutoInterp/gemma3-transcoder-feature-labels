@@ -1,0 +1,1 @@
+"Texts often contain titles, headings, and section breaks denoted by phrases like \"Counting\", \"Ninety-nine or Bust\", and \"2. The TeX Directory Structure\", which serve as organizational markers."

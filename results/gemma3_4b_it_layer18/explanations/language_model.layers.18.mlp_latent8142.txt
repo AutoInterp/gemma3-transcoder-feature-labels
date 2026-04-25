@@ -1,0 +1,1 @@
+"Texts containing numerical values, often in scientific notation, and their corresponding written forms, as well as various types of data, such as ISBN numbers, URLs, and mathematical expressions."

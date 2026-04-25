@@ -1,0 +1,1 @@
+"Texts often contain proper nouns, such as names of people, places, and organizations, which are frequently mentioned in conjunction with other words like \"of\", \"in\", \"the\", and \"and\". These proper nouns often serve as key identifiers in the context, and their presence can significantly impact the meaning and tone of the surrounding text."

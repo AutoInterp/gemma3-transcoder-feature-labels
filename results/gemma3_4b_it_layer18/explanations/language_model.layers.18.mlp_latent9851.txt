@@ -1,0 +1,1 @@
+"Strings of characters that appear to be unique identifiers, possibly used for tracking or referencing purposes, often containing a mix of letters, numbers, and special characters."

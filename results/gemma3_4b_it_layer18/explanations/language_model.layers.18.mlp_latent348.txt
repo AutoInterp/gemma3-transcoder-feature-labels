@@ -1,0 +1,1 @@
+"Texts containing various types of metadata, such as HTML codes, JavaScript, and links, often embedded within larger blocks of text."

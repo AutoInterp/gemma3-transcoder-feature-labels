@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including JavaScript, Java, and PHP, as well as configuration files and text from articles and books."

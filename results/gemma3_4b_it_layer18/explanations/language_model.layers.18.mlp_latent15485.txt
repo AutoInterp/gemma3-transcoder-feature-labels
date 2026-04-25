@@ -1,0 +1,1 @@
+"PHP code snippets embedded in various programming languages, often used for configuration, setup, or execution of specific tasks."

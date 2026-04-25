@@ -1,0 +1,1 @@
+"Text segments describing large quantities, often exceeding thousands or millions, and sometimes referencing specific numbers, such as 19 million, 33,000, or 320,000."

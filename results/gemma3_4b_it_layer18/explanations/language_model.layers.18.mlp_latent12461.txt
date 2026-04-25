@@ -1,0 +1,1 @@
+"XML schema definitions and attribute declarations, including element restrictions and attribute types."

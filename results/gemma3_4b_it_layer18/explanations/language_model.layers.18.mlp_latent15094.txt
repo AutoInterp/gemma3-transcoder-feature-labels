@@ -1,0 +1,1 @@
+"Code snippets from various Android development projects, including Java and C++ code, Android SDK documentation, and tutorials on Android development, rooting, and debugging."

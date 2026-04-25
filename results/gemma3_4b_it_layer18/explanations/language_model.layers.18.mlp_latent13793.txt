@@ -1,0 +1,1 @@
+"Text snippets that are likely to be part of a larger document or article, possibly containing technical or formal language, and often related to programming, mathematics, or scientific concepts."

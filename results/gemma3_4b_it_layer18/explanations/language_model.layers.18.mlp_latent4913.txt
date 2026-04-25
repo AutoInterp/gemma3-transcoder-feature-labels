@@ -1,0 +1,1 @@
+"Text snippets containing numerical data, such as page numbers, ISBNs, dates, times, and percentages, often in conjunction with citations, references, or academic contexts."

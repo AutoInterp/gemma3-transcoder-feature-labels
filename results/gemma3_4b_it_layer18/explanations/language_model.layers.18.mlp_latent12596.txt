@@ -1,0 +1,1 @@
+"Code snippets, SQL queries, and programming documentation, often with specific syntax and formatting, and sometimes including comments or explanations."

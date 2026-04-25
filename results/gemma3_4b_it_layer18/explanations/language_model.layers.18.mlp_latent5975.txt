@@ -1,0 +1,1 @@
+"Text contains a wide variety of numerical values, including measurements, percentages, and monetary amounts, often in scientific notation or with decimal points."

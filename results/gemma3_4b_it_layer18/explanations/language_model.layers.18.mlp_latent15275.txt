@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are separated by a delimiter, indicating a change in topic or a new idea. These phrases or sentences may be standalone or part of a larger narrative."

@@ -1,0 +1,1 @@
+"Various types of text fragments, including sentences, phrases, and words, often indicating a change in topic, a new idea, or a conclusion, marked by the presence of the \"<eos>\" token."

@@ -1,0 +1,1 @@
+"For loops in various programming languages, used for repetitive execution of a block of code."

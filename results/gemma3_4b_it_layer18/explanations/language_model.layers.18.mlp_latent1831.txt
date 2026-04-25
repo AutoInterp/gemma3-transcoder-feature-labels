@@ -1,0 +1,1 @@
+"Texts containing URLs, code snippets, and technical terms, often in the context of programming, data analysis, or scientific research."

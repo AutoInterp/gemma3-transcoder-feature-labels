@@ -1,0 +1,1 @@
+"Texts often contain incomplete sentences or phrases that are cut off by the delimiter, suggesting that the delimiter is used to truncate or represent a pause in the text."

@@ -1,0 +1,1 @@
+"URLs, domain names, and file paths, often used to provide additional information or context, and sometimes used to link to external resources."

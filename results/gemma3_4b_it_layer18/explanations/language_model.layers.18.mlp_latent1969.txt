@@ -1,0 +1,1 @@
+"Various types of bibliographic information, including book titles, authors, publication dates, page numbers, and ISBNs, often accompanied by phone numbers, email addresses, and URLs."

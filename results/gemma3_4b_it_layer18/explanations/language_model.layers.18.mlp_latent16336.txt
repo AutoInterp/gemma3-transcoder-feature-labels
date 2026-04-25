@@ -1,0 +1,1 @@
+"The token \"single\" often preceding a noun, indicating a unique or individual instance, and the token \"individually\" describing a process or product tailored to each person or item."

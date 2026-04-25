@@ -1,0 +1,1 @@
+"Shell scripts and commands, including configuration files, function definitions, and usage examples, primarily written in Bash."

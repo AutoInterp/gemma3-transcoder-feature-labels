@@ -1,0 +1,1 @@
+"Texts containing geographical locations, such as city names, street addresses, and country codes, often accompanied by dates, times, and phone numbers."

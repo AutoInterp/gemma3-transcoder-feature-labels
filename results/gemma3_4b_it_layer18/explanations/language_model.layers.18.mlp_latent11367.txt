@@ -1,0 +1,1 @@
+"The token \"or\" is often used to indicate a choice between two options, and the token \"and\" is used to indicate a conjunction of two or more items."

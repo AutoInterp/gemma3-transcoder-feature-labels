@@ -1,0 +1,1 @@
+"Texts that are not part of the main content, such as quotes, citations, and external links, often appear as separate sentences or phrases with low activation values, indicating they are not central to the main idea or narrative."

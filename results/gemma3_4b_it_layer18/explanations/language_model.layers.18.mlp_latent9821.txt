@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are not directly related to the main topic, but rather serve as tangents, asides, or non-sequiturs, which can be identified by their low activation values. These phrases may be quotes, references, or personal anecdotes that interrupt the flow of the main narrative."

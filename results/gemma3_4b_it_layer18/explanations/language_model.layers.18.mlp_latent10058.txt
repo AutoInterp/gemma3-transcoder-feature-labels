@@ -1,0 +1,1 @@
+"Text fragments containing programming code, database schema, and XML/HTML elements, often with comments and documentation."

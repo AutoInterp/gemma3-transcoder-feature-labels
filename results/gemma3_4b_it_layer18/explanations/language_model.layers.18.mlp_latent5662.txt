@@ -1,0 +1,1 @@
+"Time intervals, specifically weeks, days, and years, used to measure duration or frequency of events."

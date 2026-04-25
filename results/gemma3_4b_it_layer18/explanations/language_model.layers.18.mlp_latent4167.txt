@@ -1,0 +1,1 @@
+"The token \"any\" is used as a quantifier to indicate a general or unspecified instance, often preceding a noun or a phrase describing a condition or a possibility."

@@ -1,0 +1,1 @@
+"Texts often contain lists, instructions, or explanations with specific formatting, such as numbered or bulleted points, and sometimes accompanied by warnings or disclaimers."

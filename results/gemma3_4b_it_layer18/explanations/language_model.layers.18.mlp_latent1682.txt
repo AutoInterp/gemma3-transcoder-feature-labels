@@ -1,0 +1,1 @@
+"Various programming and technical terms, including function names, variable names, data structures, and file paths, as well as mathematical and scientific concepts, and idiomatic expressions related to programming and software development."

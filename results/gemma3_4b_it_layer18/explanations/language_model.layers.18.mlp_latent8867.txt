@@ -1,0 +1,1 @@
+"Text fragments that are not part of the main content, likely representing code snippets, quotes, or other non-relevant information."

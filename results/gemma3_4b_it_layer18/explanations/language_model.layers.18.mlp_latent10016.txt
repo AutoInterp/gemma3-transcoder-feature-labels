@@ -1,0 +1,1 @@
+"Large numbers and hexadecimal codes, often appearing in the context of technical or programming-related text, such as IP addresses, UUIDs, and numerical values."

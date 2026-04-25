@@ -1,0 +1,1 @@
+"Numerical values representing measurements, temperatures, distances, and frequencies, often used in scientific or technical contexts."

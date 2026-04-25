@@ -1,0 +1,1 @@
+"Texts often contain proper nouns, names of people, places, and organizations, which are frequently associated with high activation values. Additionally, technical terms, jargon, and specialized vocabulary in fields like science, philosophy, and spirituality tend to have high activation values, indicating their importance in the context."

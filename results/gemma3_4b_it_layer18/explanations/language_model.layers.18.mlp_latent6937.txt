@@ -1,0 +1,1 @@
+"Dates and times, often in the format of a news article or blog post, with varying levels of activation for different tokens."

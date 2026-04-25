@@ -1,0 +1,1 @@
+"Texts with incomplete or truncated sentences, often ending with a specific delimiter, such as \"<eos>\", indicating the end of a sequence or a document."

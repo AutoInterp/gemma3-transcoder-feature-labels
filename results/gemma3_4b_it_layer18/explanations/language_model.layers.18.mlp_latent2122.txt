@@ -1,0 +1,1 @@
+"Text fragments often containing a title or a name, followed by a period or an exclamation mark, and sometimes a link or a reference."

@@ -1,0 +1,1 @@
+"Texts from various programming and technical documentation, including code snippets, commit messages, and explanations of software functionality."

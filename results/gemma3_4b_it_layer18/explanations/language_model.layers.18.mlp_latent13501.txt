@@ -1,0 +1,1 @@
+"Various types of data and information, including numerical values, ISBNs, DOIs, phone numbers, addresses, and URLs, often appearing in a context that suggests they are being referenced or cited."

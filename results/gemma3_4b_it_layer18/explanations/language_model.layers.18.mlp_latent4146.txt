@@ -1,0 +1,1 @@
+"Mathematical expressions and equations, including integrals, Fourier transforms, and differential equations, often involving complex variables, matrices, and vector operations."

@@ -1,0 +1,1 @@
+"Texts often contain metadata such as duration, language, and views, typically found in video descriptions."

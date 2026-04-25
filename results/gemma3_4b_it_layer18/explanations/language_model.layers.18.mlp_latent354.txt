@@ -1,0 +1,1 @@
+"Texts containing specific time-related phrases, such as \"years\", \"months\", \"minutes\", and \"centuries\", often used to describe duration, age, or elapsed time."

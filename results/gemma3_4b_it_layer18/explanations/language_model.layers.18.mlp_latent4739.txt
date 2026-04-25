@@ -1,0 +1,1 @@
+"Text snippets that are not part of the main content, often containing metadata, programming code, or irrelevant information."

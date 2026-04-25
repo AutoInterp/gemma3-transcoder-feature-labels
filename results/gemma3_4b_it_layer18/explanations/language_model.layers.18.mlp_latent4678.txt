@@ -1,0 +1,1 @@
+"Texts often contain titles, names, and phrases that are not directly related to the main content, such as song titles, book titles, and quotes. Additionally, there are instances of product names, company names, and URLs, which suggest a mix of informative and promotional content."

@@ -1,0 +1,1 @@
+"End of a code block or a file, often denoted by a closing tag or a delimiter, typically found at the end of a programming code snippet."

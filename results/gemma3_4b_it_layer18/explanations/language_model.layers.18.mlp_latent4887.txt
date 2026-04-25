@@ -1,0 +1,1 @@
+"Text snippets often appear in a specific format, typically indicating a review or rating, with phrases like \"Reviewed on\" or \"Rated this photo\", followed by a brief description or a link to a full review."

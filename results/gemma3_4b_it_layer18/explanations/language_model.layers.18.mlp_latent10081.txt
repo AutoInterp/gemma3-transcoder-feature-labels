@@ -1,0 +1,1 @@
+"The token \"set\" or \"array\" of objects being divided into smaller sets or subarrays, often for the purpose of analysis, comparison, or manipulation."

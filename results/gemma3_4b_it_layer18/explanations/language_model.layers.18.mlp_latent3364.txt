@@ -1,0 +1,1 @@
+"Texts often contain hyperlinks, references to external sources, or embedded content, which are frequently denoted by phrases like \"you can read more about it here\" or \"visit us in person\"."

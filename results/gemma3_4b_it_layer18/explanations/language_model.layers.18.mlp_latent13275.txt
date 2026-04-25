@@ -1,0 +1,1 @@
+"Code snippets in various programming languages, including configuration files, shell commands, and source code, often related to web development, networking, and system administration."

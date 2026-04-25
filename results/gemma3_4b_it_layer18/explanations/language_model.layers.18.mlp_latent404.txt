@@ -1,0 +1,1 @@
+"Text segments enclosed in delimiters often represent citations, references, URLs, email addresses, code snippets, or other types of metadata, and are typically not relevant to the main content of the text."

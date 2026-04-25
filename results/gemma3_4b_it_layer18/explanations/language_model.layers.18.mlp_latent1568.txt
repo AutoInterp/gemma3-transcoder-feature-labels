@@ -1,0 +1,1 @@
+"Texts often contain hyperlinks, references, or citations, which are frequently denoted by phrases such as \"for more information\", \"see\", or \"click here\". These phrases often precede URLs, book titles, or other sources of additional information."

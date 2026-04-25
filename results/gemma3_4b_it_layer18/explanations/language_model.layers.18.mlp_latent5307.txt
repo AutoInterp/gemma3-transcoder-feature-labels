@@ -1,0 +1,1 @@
+"The token \"address\" is used to refer to a location, a problem, or a question that needs to be answered or resolved, often in a formal or official context."

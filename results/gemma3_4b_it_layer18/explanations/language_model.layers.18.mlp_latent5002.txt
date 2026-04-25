@@ -1,0 +1,1 @@
+"Text snippets from various programming languages, including SQL, Python, Java, and C#, as well as text from scientific papers, news articles, and other sources. The patterns found in the text include code snippets, variable names, function calls, and data types, indicating a mix of technical and informative content."

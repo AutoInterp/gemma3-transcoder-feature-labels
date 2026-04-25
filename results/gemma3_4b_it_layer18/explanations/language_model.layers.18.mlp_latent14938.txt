@@ -1,0 +1,1 @@
+"The token \"is\" is often used as a delimiter to indicate the start of a definition or explanation, and is frequently followed by a colon."

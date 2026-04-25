@@ -1,0 +1,1 @@
+"Various types of text, including articles, emails, and online content, with a focus on extracting specific phrases or sentences that may be relevant to the context."

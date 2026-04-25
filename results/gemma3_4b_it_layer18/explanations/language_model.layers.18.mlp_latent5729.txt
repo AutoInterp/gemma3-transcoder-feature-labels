@@ -1,0 +1,1 @@
+"Text fragments containing URLs, product information, and reviews from e-commerce websites, often with specific details such as product dimensions, prices, and shipping information."

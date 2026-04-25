@@ -1,0 +1,1 @@
+"Text fragments enclosed by delimiters often represent a separate section or a new idea, and are sometimes used to indicate a change in topic or a new piece of information."

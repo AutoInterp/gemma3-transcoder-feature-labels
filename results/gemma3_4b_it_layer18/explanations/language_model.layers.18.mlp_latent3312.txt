@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including C++, Java, Swift, and Objective-C, with a focus on syntax and function calls."

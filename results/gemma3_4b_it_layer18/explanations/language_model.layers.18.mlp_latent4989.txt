@@ -1,0 +1,1 @@
+"Text fragments enclosed by angle brackets, often containing metadata, citations, or additional information, and sometimes preceding or following a main text."

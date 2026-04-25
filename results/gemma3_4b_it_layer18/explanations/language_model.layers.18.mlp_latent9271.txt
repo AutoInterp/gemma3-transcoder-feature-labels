@@ -1,0 +1,1 @@
+"Various numerical values and units, including dates, lengths, altitudes, and frequencies, often used to describe scientific or historical phenomena."

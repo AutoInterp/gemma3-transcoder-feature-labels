@@ -1,0 +1,1 @@
+"Texts often contain URLs, email addresses, and other types of links, which are typically formatted with specific characters or words to distinguish them from regular text."

@@ -1,0 +1,1 @@
+"Various programming languages, frameworks, and development tools, including C++, Java, Python, and JavaScript, as well as database queries and system commands."

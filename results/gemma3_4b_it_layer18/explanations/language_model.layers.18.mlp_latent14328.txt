@@ -1,0 +1,1 @@
+"Various technical documentation and programming guides, often with specific syntax and usage examples, detailing functions, parameters, and attributes of programming languages, software, and file systems."

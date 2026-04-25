@@ -1,0 +1,1 @@
+"Text segments that appear to be citations, references, or external information, often containing dates, names, and technical terms, frequently found at the end of a paragraph or section."

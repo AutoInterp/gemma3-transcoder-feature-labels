@@ -1,0 +1,1 @@
+"Code snippets and file paths, often used in programming and development contexts, frequently containing directory names, file extensions, and command-line instructions."

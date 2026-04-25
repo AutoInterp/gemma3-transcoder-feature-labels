@@ -1,0 +1,1 @@
+"URLs, ISBN numbers, and publication dates often appear in text, frequently accompanied by other metadata such as category and author information."

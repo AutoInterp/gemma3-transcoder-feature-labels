@@ -1,0 +1,1 @@
+"Various types of text, including articles, quotes, and code snippets, with a focus on extracting specific information or patterns from the text."

@@ -1,0 +1,1 @@
+"Time durations in minutes or months, often used to describe a process or waiting period."

@@ -1,0 +1,1 @@
+"Text snippets often start with a specific time format, such as \"AM\", \"PM\", or a 24-hour clock, and sometimes include a date or a specific location."

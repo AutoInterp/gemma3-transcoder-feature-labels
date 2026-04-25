@@ -1,0 +1,1 @@
+"Texts often contain special cases, exceptions, or unique situations that require a different approach or solution, frequently marked by phrases such as \"it's a pretty special case\" or \"that's a very good suggestion\"."

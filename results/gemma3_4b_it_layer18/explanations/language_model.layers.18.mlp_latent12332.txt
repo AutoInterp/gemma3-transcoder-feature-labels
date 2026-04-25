@@ -1,0 +1,1 @@
+"Various text snippets containing hexadecimal color codes, RGB values, and color names, often used to describe or set colors in digital contexts."

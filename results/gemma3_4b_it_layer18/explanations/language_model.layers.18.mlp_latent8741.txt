@@ -1,0 +1,1 @@
+"Various types of bracketed text, including code snippets, URLs, and quoted text, often containing technical or informative content."

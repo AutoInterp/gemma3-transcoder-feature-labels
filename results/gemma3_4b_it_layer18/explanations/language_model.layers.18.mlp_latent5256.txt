@@ -1,0 +1,1 @@
+"Text fragments often appear at the end of a sentence or paragraph, denoting the end of a section or a transition to a new topic, marked by the presence of the word \"eos\" or a similar delimiter."

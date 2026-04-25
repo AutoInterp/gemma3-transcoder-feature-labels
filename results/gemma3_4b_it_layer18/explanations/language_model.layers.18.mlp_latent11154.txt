@@ -1,0 +1,1 @@
+"Various programming and technical terms, including file formats, programming languages, and software packages, often used in context of development, deployment, and maintenance of software applications."

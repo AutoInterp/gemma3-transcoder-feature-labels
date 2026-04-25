@@ -1,0 +1,1 @@
+"Texts from various programming and technical documentation, including code snippets, comments, and explanations, often referencing specific concepts, functions, and variables."

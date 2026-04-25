@@ -1,0 +1,1 @@
+"Technical text describing various concepts, algorithms, and data structures, often with a focus on computer science, mathematics, and engineering. The text frequently includes code snippets, diagrams, and equations, and is characterized by a formal and technical tone."

@@ -1,0 +1,1 @@
+"Code snippets and technical explanations, often related to programming, computer hardware, or software, frequently including variable names, function calls, and data types."

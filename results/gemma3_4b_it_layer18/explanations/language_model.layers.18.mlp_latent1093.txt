@@ -1,0 +1,1 @@
+"Text snippets containing file paths, configuration files, and command lines, often used for programming, development, or system administration tasks."

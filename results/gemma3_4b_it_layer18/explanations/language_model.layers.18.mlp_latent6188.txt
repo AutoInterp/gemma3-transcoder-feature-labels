@@ -1,0 +1,1 @@
+"Text excerpts often contain external links, quotes, or references to other sources, which are frequently marked by delimiters."

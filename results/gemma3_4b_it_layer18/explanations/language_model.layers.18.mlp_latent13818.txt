@@ -1,0 +1,1 @@
+"Addresses and locations, often in a format of street number, street name, city, and country, frequently followed by additional information such as business names, event details, or other contextual data."

@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, primarily Java, Python, and C++, with annotations and comments indicating class, method, and variable names, as well as function parameters and return types."

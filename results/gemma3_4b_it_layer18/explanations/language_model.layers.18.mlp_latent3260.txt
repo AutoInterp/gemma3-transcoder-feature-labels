@@ -1,0 +1,1 @@
+"Code snippets and text fragments, often containing programming languages, variable names, and function calls, frequently appearing in a context of error messages, debugging, or technical discussions."

@@ -1,0 +1,1 @@
+"Code comments in multiple programming languages, including Java, PHP, JavaScript, and C++. The comments provide information about the code, such as function or method descriptions, variable explanations, and author credits."

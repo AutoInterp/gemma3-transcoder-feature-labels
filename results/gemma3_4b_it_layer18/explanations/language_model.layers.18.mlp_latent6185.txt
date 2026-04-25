@@ -1,0 +1,1 @@
+"URLs, file paths, and timestamps, often in the context of technical or informative text."

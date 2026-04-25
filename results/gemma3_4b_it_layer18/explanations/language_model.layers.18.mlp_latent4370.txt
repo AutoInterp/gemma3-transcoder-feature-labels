@@ -1,0 +1,1 @@
+"Texts containing lists of items, often with numerical values, and recipes with ingredients and quantities."

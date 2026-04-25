@@ -1,0 +1,1 @@
+"Text fragments often contain book or movie titles, names of people, places, and organizations, as well as technical terms and product names. These fragments frequently appear at the beginning or end of a text, and sometimes are followed by a period or an ellipsis."

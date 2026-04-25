@@ -1,0 +1,1 @@
+"Variable declarations and assignments in code, often used to define and initialize variables before they are used in a program."

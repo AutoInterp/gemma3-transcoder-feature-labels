@@ -1,0 +1,1 @@
+"Texts containing lists of items, often related to products or services, and sometimes enclosed in HTML tags or other markup."

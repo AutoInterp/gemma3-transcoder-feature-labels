@@ -1,0 +1,1 @@
+"The token \"less than\" and \"more than\" used in comparisons, often in conjunction with percentages or numbers, to describe changes or differences."

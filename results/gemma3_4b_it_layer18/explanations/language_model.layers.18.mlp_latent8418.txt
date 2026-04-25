@@ -1,0 +1,1 @@
+"Code snippets in various programming languages, including C, C++, Java, and Python, as well as HTML, CSS, and JavaScript, with a focus on syntax and structure."

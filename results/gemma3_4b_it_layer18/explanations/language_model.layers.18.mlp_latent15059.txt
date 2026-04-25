@@ -1,0 +1,1 @@
+"URLs of images, often used to display visual content, and sometimes accompanied by alt text or other metadata."

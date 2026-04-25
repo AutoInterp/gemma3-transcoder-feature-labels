@@ -1,0 +1,1 @@
+"Various types of text fragments, including URLs, email addresses, phone numbers, addresses, and dates, often found in informational or commercial contexts."

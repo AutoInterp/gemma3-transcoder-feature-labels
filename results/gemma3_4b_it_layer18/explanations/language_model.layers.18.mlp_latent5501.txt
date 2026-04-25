@@ -1,0 +1,1 @@
+"Texts from various programming languages, including Java, Python, C++, and SQL, as well as snippets from articles, research papers, and online content, showcasing a wide range of programming concepts, data structures, and algorithms."

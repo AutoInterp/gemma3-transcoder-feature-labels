@@ -1,0 +1,1 @@
+"Texts describing potential problems, failures, or unexpected events, often with a focus on mitigating consequences or understanding the impact of such occurrences."

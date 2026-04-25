@@ -1,0 +1,1 @@
+"Dates and times in various formats, including year-month-day, month-day-year, and 24-hour clock, often used to represent timestamps or log entries."

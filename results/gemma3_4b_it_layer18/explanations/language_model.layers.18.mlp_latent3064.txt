@@ -1,0 +1,1 @@
+"The presence of code snippets and programming concepts within natural language text, indicating the use of technical jargon and potentially the translation of programming concepts into human language."

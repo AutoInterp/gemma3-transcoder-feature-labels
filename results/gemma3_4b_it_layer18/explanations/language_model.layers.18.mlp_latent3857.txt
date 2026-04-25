@@ -1,0 +1,1 @@
+"Various programming languages and frameworks, including Java, C++, Android, Spring, and JUnit, with a focus on class and method declarations, variable definitions, and function implementations."

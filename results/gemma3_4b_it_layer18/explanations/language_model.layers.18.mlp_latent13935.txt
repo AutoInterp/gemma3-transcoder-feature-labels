@@ -1,0 +1,1 @@
+"Texts containing bold formatting, often used for emphasis, and variable names or descriptions in programming contexts."

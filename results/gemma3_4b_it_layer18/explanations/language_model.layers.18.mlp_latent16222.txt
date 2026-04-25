@@ -1,0 +1,1 @@
+"Texts often contain product names, technical terms, and proper nouns, which are frequently mentioned in a context that requires explanation or clarification."

@@ -1,0 +1,1 @@
+"Text fragments that appear to be citations, references, or academic sources, often containing author names, publication titles, and dates."

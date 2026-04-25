@@ -1,0 +1,1 @@
+"Text segments often containing technical or formal language, frequently referencing scientific concepts, mathematical formulas, or programming terminology, and sometimes including citations or references."

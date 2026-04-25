@@ -1,0 +1,1 @@
+"Text fragments often appear at the beginning or end of a sentence, sometimes indicating a quote or a parenthetical remark, and are frequently found in programming code or technical writing."

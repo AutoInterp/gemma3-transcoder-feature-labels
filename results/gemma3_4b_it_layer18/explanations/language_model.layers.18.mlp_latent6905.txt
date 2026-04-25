@@ -1,0 +1,1 @@
+"Various switch statements and if-else conditions used for decision-making in different programming languages and contexts."

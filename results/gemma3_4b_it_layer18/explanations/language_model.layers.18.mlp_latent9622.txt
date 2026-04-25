@@ -1,0 +1,1 @@
+"HTML elements and CSS classes used for styling and layout, often containing descriptions of their purpose or functionality."

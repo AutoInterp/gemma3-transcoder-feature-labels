@@ -1,0 +1,1 @@
+"Various programming languages and frameworks, including JavaScript, TypeScript, C#, Java, Python, and SQL, with a focus on code snippets and function definitions."

@@ -1,0 +1,1 @@
+"Dates and timestamps, often used to indicate the last update or modification of a webpage or document."

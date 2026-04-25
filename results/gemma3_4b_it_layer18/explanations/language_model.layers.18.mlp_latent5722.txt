@@ -1,0 +1,1 @@
+"Various types of structured data, including metadata, technical specifications, and product information, often presented in a formal or technical format."

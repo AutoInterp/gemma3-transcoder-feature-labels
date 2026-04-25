@@ -1,0 +1,1 @@
+"Mathematical text with various concepts and theorems from algebra, analysis, and probability theory, including discussions of ordinals, quotient C*-algebras, and probabilistic automata."

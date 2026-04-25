@@ -1,0 +1,1 @@
+"Texts often contain ratings or scores on a scale, typically from 1 to 10, or a percentage, used to evaluate the quality, performance, or similarity of something."

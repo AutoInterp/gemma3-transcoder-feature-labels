@@ -1,0 +1,1 @@
+"The token \"large\" or \"very large\" is used to describe quantities, sizes, or numbers that are significantly big, often in a way that affects performance, complexity, or behavior."

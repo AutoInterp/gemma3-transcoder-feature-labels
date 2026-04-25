@@ -1,0 +1,1 @@
+"SQL code snippets, primarily database table creations and column definitions, along with some Java and Spring framework code, and a few lines of plain text."

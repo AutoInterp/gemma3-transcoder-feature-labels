@@ -1,0 +1,1 @@
+"HTML and JavaScript code snippets, primarily containing elements, attributes, and functions used in web development, such as buttons, links, forms, and scripts."

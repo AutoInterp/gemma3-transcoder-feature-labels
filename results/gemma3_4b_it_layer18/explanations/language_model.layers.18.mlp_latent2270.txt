@@ -1,0 +1,1 @@
+"Timestamps in the format \"date-time\" or \"date-time+/-offset\" often found at the end of a block of text."

@@ -1,0 +1,1 @@
+"Texts containing proper nouns, such as city names (e.g. New York, Los Angeles, Chicago), company names (e.g. A.I.G.), and personal names (e.g. Kathryn Erbe, Andrew Sullivan, Gertrude Stein), often in the context of news articles, biographies, or historical references."

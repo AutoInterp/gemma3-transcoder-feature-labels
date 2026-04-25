@@ -1,0 +1,1 @@
+"Text snippets often contain book titles, authors, or publication information, sometimes followed by a brief description or a quote."

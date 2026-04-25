@@ -1,0 +1,1 @@
+"Various code snippets and text fragments from different programming languages and domains, including JavaScript, PHP, Java, C++, and SQL, as well as English text from books and articles. The patterns found in these examples include code syntax, variable and function names, and English phrases and sentences."

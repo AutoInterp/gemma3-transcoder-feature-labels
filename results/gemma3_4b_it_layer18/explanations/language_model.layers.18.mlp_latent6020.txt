@@ -1,0 +1,1 @@
+"Text snippets often appear in pairs, with the first part being a numerical value or a specific phrase, and the second part being a description, explanation, or a reference."

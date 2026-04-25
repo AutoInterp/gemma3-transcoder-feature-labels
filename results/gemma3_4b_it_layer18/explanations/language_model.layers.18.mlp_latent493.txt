@@ -1,0 +1,1 @@
+"Text fragments that are likely to be boilerplate or placeholder content, often containing generic information, instructions, or examples."

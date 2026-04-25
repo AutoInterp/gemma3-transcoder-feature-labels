@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, primarily C, C++, and Perl, with a focus on algorithmic and mathematical concepts, such as prime number generation, sorting, graph traversal, and dynamic programming."

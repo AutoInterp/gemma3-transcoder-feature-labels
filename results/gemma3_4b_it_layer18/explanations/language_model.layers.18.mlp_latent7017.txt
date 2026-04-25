@@ -1,0 +1,1 @@
+"Text fragments often appear in a standalone manner, sometimes at the beginning or end of a sentence, and are frequently used to provide additional context or information, such as explanations, examples, or quotes."

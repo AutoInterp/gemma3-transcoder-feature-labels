@@ -1,0 +1,1 @@
+"The token \"left\" often appears in phrases indicating a remaining quantity or time, such as \"left in the period\", \"left in the game\", \"left in stock\", or \"left to wait\"."

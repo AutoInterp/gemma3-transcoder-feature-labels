@@ -1,0 +1,1 @@
+"Various programming languages and database query syntax, including SQL, Java, C++, Python, and YQL, as well as code snippets from different frameworks and libraries, such as Unity and Alpha Anywhere."
