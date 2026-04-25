@@ -10,7 +10,7 @@ temp/*
 saved*
 .nfs*
 
-.D.DS_Store
+.DS_Store
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -177,9 +177,9 @@ cython_debug/
 
 
 # Development artifacts
-results/
 .vscode/
 statistics/
 .embedding_cache/
 wandb/
 uv.lock
+
