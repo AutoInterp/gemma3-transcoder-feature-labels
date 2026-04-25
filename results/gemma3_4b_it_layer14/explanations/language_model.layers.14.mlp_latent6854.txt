@@ -1,1 +1,1 @@
-"Code snippets from various programming languages, highlighting syntax, variable names, and function calls, as well as text from documentation, tutorials, and articles, showcasing formatting styles for code, emphasis, and literal text."
+"Code snippets from various programming languages, highlighting syntax, variable names, and function calls, as well as text from documentation, tutorials, and online resources, showcasing formatting styles for code, emphasis, and literal text."

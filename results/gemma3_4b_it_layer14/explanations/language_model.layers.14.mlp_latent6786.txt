@@ -1,1 +1,1 @@
-"Various text snippets from different sources, including articles, news, and websites, with a focus on extracting specific information or quotes."
+"Various text snippets containing specific information, such as names, dates, locations, and technical details, often in the context of news articles, biographies, and educational content."
