@@ -183,3 +183,8 @@ statistics/
 wandb/
 uv.lock
 
+# Results — keep only explanations
+results/**/latents/
+results/**/scores/
+results/**/visualize/
+results/**/statistics/
