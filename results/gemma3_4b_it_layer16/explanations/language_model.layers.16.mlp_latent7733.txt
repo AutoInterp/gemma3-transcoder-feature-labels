@@ -1,1 +1,1 @@
-"Text snippets often contain special characters such as \"<<\" and \">>\" or \"!\" and \">>\" which are used to denote the start and end of a quote, announcement, or other special content."
+"Text snippets often begin with a title or a heading, followed by a brief description or a quote, and sometimes a link or a reference. The text frequently includes special characters such as \"!\", \"*\", and \"$\", and sometimes contains code snippets or programming-related terms. The tone of the text varies, ranging from informative to conversational."

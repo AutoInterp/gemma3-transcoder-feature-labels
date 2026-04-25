@@ -1,1 +1,1 @@
-"Texts often contain phrases indicating the source of information, such as blog posts, websites, or social media, and sometimes include links or references to external sources."
+"Texts often contain phrases indicating the source of information, such as blog posts, websites, or publications, and sometimes include links or references to external sources."

@@ -1,1 +1,1 @@
-"Texts containing mathematical calculations, comparisons, and conversions, often involving large numbers and various units of measurement, with a focus on explaining and illustrating complex concepts."
+"Texts containing mathematical calculations, comparisons, and conversions, often involving large numbers, percentages, and units of measurement, with a focus on explaining concepts and providing examples."

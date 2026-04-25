@@ -1,1 +1,1 @@
-"Texts containing specific phrases or sentences that are likely to be cut off or truncated, often due to the end of a paragraph or a quote, and sometimes followed by a continuation or a new sentence."
+"Texts containing specific phrases or sentences that are likely to be cut off or truncated, often due to a change in topic, a new development, or a shift in narrative."

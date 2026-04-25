@@ -1,1 +1,1 @@
-"Texts often contain examples or explanations that illustrate a point, using phrases such as \"for example\" or \"for instance\" to introduce a specific case. These examples can be used to clarify a concept, demonstrate a principle, or provide a concrete illustration of an idea."
+"Texts often contain examples or explanations that illustrate a point, using phrases such as \"for example\" or \"for instance\" to introduce a specific case. These examples are used to clarify complex concepts or ideas, making the text more relatable and easier to understand."

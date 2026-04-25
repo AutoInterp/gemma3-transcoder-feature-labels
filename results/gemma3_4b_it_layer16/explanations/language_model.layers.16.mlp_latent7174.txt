@@ -1,1 +1,1 @@
-"A collection of text snippets containing addresses, locations, and business information primarily from the United Kingdom and other countries, often including street names, city names, and postal codes."
+"A collection of text snippets containing addresses, locations, and business information primarily from the United Kingdom, with some from other countries."

@@ -1,1 +1,1 @@
-"Code snippets from various programming languages, primarily Java and Python, containing method signatures, class definitions, and test cases, often with annotations and comments."
+"Code snippets from various programming languages, primarily Java, C#, and Python, containing test methods, class definitions, and function implementations, often with annotations or decorators indicating testing or setup/teardown functionality."

@@ -1,1 +1,1 @@
-"Texts often contain phrases or sentences that are cut off or truncated, sometimes with an ellipsis (...) or a period (.) followed by a delimiter such as \">>\" or \"<eos>\", indicating a break in the text."
+"Texts often contain phrases or sentences that are cut off or truncated, sometimes with an ellipsis (...) or a period (.) followed by a delimiter such as \">>\" or \"<eos>\"."

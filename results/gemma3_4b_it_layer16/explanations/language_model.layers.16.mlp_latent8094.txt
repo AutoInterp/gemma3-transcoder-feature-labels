@@ -1,1 +1,1 @@
-"Dates in the format of year, month, day, often in the context of historical events, birthdays, or deaths."
+"Dates in the format of year, month, day, often used to specify the occurrence of an event."

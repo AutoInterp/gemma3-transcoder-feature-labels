@@ -1,1 +1,1 @@
-"Texts describing locations, directions, and travel information, often including addresses, landmarks, and navigation instructions."
+"Texts describing locations, directions, and navigation, often including addresses, landmarks, and instructions for reaching a particular place."

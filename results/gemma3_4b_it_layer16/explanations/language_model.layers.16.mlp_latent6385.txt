@@ -1,1 +1,1 @@
-"Code snippets from various programming languages, primarily Java, JavaScript, and C++, with a focus on method implementations, function calls, and variable assignments."
+"Code snippets from various programming languages, including JavaScript, Java, C++, Python, and PHP, with a focus on function definitions, method calls, and variable declarations."

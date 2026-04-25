@@ -1,1 +1,1 @@
-"Various programming code snippets and data structures, including HTML, JavaScript, Python, Java, and JSON, showcasing different programming concepts and syntax."
+"Code snippets from various programming languages, including HTML, JavaScript, Java, and Python, with a focus on variable and function names, data types, and syntax."

@@ -1,1 +1,1 @@
-"Boolean values and conditional statements in various programming languages."
+"Boolean values and conditional statements in various programming languages, often used to control the flow of a program or to return a result."

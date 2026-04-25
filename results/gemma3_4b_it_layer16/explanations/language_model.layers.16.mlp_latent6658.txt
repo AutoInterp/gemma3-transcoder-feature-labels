@@ -1,1 +1,1 @@
-"The token \"<<\" often marks the beginning of a question, quiz, or educational content, and the token \">>\" marks the end, indicating a transition to a new topic or section."
+"The token \"<<\" often marks the beginning of a question, quiz, or educational content, and the token \">>\" marks the end of it, indicating a transition to a new topic or section."

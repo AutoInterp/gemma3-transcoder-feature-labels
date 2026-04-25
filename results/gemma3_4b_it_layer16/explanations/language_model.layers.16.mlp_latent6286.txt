@@ -1,1 +1,1 @@
-"Dates and time periods mentioned in text, often used to provide context or specify a particular event or deadline."
+"Texts often contain phrases or sentences that are set apart from the rest of the text, typically indicating a change in topic, a quote, or additional information. These phrases or sentences are often preceded by a delimiter, such as a period or a dash, and may be followed by a quotation mark or other punctuation."

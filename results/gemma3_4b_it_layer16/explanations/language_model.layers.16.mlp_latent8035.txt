@@ -1,1 +1,1 @@
-"Various programming code snippets in different languages, including JavaScript, Java, C++, SQL, and Python, showcasing a wide range of programming concepts and syntax."
+"Various programming code snippets in different languages, including JavaScript, SQL, Java, C++, Python, and PHP, showcasing a wide range of programming concepts and syntax."

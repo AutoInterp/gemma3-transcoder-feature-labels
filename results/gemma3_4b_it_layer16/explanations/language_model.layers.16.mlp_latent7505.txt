@@ -1,1 +1,1 @@
-"Texts often contain idiomatic phrases, proper nouns, and technical terms that are crucial for understanding the context and meaning. These important tokens can be found in various forms, such as phrases describing emotions or actions, names of people, places, or organizations, and specialized vocabulary related to specific domains or industries."
+"Texts discussing various topics, including business, education, art, music, social movements, politics, and personal experiences, often using idioms and phrases to convey meaning."

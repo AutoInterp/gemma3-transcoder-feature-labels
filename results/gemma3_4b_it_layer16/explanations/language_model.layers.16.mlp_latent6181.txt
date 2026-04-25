@@ -1,1 +1,1 @@
-"Code snippets from various programming languages, including JavaScript, Python, Java, and SQL, showcasing different syntax and structures."
+"Code snippets from various programming languages, including JavaScript, Python, Java, and SQL, with a focus on function calls, variable declarations, and data manipulation."

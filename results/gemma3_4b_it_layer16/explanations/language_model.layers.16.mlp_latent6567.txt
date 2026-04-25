@@ -1,1 +1,1 @@
-"Texts often contain examples or instances to illustrate a point, with the word \"for example\" or similar phrases used to introduce them. These examples can be used to explain complex concepts, provide additional information, or support an argument."
+"Texts often contain examples or instances to illustrate a point, with phrases like \"for instance\", \"for example\", or \"e.g.\" used to introduce them. These examples can be used to explain complex concepts, provide additional information, or make a point more relatable."

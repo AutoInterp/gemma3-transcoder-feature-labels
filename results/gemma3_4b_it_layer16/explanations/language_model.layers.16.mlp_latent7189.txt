@@ -1,1 +1,1 @@
-"The token \"hope\" is frequently used in text to express a positive sentiment or a desire for a particular outcome, often accompanied by phrases such as \"I hope\", \"we hope\", or \"hopefully\"."
+"The token \"hope\" and its variations are used frequently in the text, often preceding a statement of optimism, expectation, or desire."

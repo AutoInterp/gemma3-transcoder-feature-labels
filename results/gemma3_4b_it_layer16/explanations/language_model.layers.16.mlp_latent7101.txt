@@ -1,1 +1,1 @@
-"Various programming code snippets in different languages, including Java, Python, PHP, JavaScript, and others, showcasing a range of programming concepts and syntax."
+"Code snippets from various programming languages, including Java, Python, JavaScript, and PHP, with a focus on method definitions, class implementations, and function declarations."

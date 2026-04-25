@@ -1,1 +1,1 @@
-"Large blocks of text, often code or mathematical expressions, are present in the examples, indicating a focus on technical or computational content."
+"Large blocks of text, often mathematical or programming code, and sometimes quotes or explanations, separated by delimiters."

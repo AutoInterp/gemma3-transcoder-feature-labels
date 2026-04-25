@@ -1,1 +1,1 @@
-"Texts containing a mix of unrelated topics, including articles, product descriptions, recipes, and technical information, often with a lack of cohesion between paragraphs."
+"Texts containing a mix of unrelated topics, including articles, product descriptions, recipes, and technical information, often with a lack of coherence between paragraphs."

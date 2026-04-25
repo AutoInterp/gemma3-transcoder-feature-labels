@@ -1,1 +1,1 @@
-"Text fragments that appear to be cut off or truncated, often with a ellipsis or a \"<eos>\" marker, indicating a possible incomplete or interrupted thought."
+"Text fragments that are no longer relevant or have been discontinued, often accompanied by suggestions for related products or alternatives."

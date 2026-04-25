@@ -1,1 +1,1 @@
-"Texts often contain estimates, predictions, and calculations of various quantities, such as death tolls, economic values, and physical dimensions, which are frequently based on incomplete or uncertain information."
+"Texts often contain estimates, predictions, and calculations of various quantities, such as death tolls, economic values, and physical measurements, which are frequently used to convey uncertainty and provide a sense of scale."

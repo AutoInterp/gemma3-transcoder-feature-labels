@@ -1,1 +1,1 @@
-"Code snippets from various programming languages, including SQL, Java, C, Python, and others, showcasing syntax, functions, and data structures."
+"Code snippets from various programming languages, including SQL, Java, C, Python, and others, showcasing different syntax, functions, and data types."

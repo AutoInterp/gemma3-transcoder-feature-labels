@@ -1,1 +1,1 @@
-"Texts from various sources, including articles, conference papers, and online content, showcasing a wide range of topics and writing styles."
+"Texts from various sources, including articles, conference papers, and online content, with a focus on extracting key phrases and sentences. The extracted phrases often relate to specific topics, such as science, technology, education, health, and social issues."

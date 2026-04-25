@@ -1,1 +1,1 @@
-"Various programming code snippets and text from different domains, including but not limited to, computer science, law, medicine, and literature."
+"Various programming code snippets in different languages, including Java, C++, Python, JavaScript, and SQL, showcasing a range of concepts and functions."

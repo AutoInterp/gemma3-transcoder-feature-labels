@@ -1,1 +1,1 @@
-"Code snippets in various programming languages, often containing conditional statements, loops, and function definitions, with a focus on mathematical and logical operations."
+"Comparisons of Unicode values, mathematical operations, and logical conditions in programming code."

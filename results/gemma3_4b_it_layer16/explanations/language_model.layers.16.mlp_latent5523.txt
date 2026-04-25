@@ -1,1 +1,1 @@
-"Text fragments enclosed in quotation marks or other delimiters, often containing informal or conversational language, and sometimes representing direct speech or quotes."
+"Text fragments enclosed in quotation marks or other delimiters, often containing direct speech, quotes, or citations, frequently with a low activation value, suggesting they are not crucial to the overall meaning of the text."

@@ -1,1 +1,1 @@
-"Code snippets in various programming languages, likely from a machine learning or natural language processing context, with some text describing concepts or results."
+"Code snippets in various programming languages, likely from documentation or tutorials, often with comments and explanations."

@@ -1,1 +1,1 @@
-"Various programming code snippets from different languages, including Java, C#, C++, Python, JavaScript, and others, showcasing a range of programming concepts, methods, and functions."
+"Various programming code snippets in different languages, including Java, C#, C++, Python, and others, showcasing methods, functions, classes, and interfaces."

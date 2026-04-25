@@ -1,1 +1,1 @@
-"Code snippets from various programming languages, highlighting specific syntax, functions, and data structures."
+"Various programming code snippets and technical descriptions, including mathematical formulas, algorithm explanations, and programming language syntax."

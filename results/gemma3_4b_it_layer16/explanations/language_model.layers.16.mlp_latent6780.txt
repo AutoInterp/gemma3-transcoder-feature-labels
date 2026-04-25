@@ -1,1 +1,1 @@
-"Text fragments often appear at the beginning or end of a sentence, providing context or additional information, and are frequently related to explanations, examples, or clarifications."
+"Texts that are not part of the main content, often providing additional information, explanations, or context, frequently found at the beginning or end of a passage."

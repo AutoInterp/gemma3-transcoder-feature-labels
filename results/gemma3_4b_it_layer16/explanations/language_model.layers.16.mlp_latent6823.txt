@@ -1,1 +1,1 @@
-"Text snippets often appear in isolation, likely representing quotes or excerpts from various sources, with no clear connection to the surrounding text."
+"Text snippets often appear in isolation, likely representing quotes or excerpts from various sources, with no clear connection between them."

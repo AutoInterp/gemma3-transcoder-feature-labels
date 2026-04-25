@@ -1,1 +1,1 @@
-"Texts often contain phrases or sentences that are set off by delimiters, typically indicating a quote, a parenthetical remark, or a separate thought."
+"Texts often contain phrases or sentences that are set apart from the rest of the text, usually to indicate a change in tone, style, or content. These phrases can be quotes, explanations, or additional information, and are often used to provide context or clarify a point."

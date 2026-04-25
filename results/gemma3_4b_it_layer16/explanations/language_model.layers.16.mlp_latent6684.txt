@@ -1,1 +1,1 @@
-"Geographic locations, particularly regions and directions, are often mentioned in the text, with a focus on the Northeast, North, South, and West. These locations are frequently used to describe the context of events, businesses, or cultural influences."
+"Geographic locations, particularly regions and directions, are frequently mentioned in the text, often in relation to other locations or events."

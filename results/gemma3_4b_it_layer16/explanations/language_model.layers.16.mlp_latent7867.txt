@@ -1,1 +1,1 @@
-"Texts from various sources, including news articles, books, and online content, with a focus on the structure and formatting of paragraphs, sentences, and quotes."
+"Texts from various sources, including news articles, books, and online content, with a focus on extracting specific phrases or sentences that convey information or opinions."

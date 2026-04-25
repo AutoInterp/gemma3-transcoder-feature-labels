@@ -1,1 +1,1 @@
-"Text snippets containing URLs, programming code, and special characters, often indicating external links, citations, or technical information."
+"Text snippets containing URLs, programming code, or other technical information, often found in online articles, forums, or documentation."

@@ -1,1 +1,1 @@
-"Texts containing technical information, programming code, and software instructions, often with specific versions, requirements, and troubleshooting steps."
+"Texts containing technical information, programming code, and software-related instructions, often with specific version numbers, commands, and system requirements."

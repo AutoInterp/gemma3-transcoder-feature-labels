@@ -1,1 +1,1 @@
-"Code snippets from various programming languages, including Python, Java, JavaScript, SQL, and others, with varying levels of activation indicating the importance of different tokens in the code."
+"Code snippets from various programming languages, including Python, Java, JavaScript, SQL, and others, with varying levels of activation indicating the importance of specific tokens or keywords in the code."

@@ -1,1 +1,1 @@
-"Various types of text, including addresses, citations, and articles, often containing specific keywords or phrases, but lacking a clear pattern or common theme."
+"Various types of text, including addresses, citations, and articles, often contain sequences of characters that are not words, such as numbers, symbols, and punctuation marks, which are not analyzed in the given activations."

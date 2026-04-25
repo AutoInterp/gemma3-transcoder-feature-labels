@@ -1,1 +1,1 @@
-"Code snippets from various programming languages, primarily C++, Java, and Python, showcasing mathematical and algorithmic concepts, data structures, and problem-solving techniques."
+"Code snippets from various programming languages, primarily C++, Java, and Python, with a focus on mathematical and algorithmic concepts, including vector operations, distance calculations, and data structures."

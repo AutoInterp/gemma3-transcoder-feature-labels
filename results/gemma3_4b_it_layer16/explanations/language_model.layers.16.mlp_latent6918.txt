@@ -1,1 +1,1 @@
-"Text contains various mathematical expressions, equations, and formulas, often involving algebra, calculus, and statistics, with a focus on problem-solving and solution derivation."
+"Text contains various mathematical expressions, equations, and formulas, often involving algebra, calculus, and probability, as well as scientific and technical concepts, such as chemistry, physics, and statistics."

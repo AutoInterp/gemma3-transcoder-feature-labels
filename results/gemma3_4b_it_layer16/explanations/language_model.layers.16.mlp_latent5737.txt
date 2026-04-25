@@ -1,1 +1,1 @@
-"Code snippets, log messages, and debugging information from various programming contexts, including error messages, bug reports, and technical documentation."
+"Code snippets, programming-related text, and technical documentation, often including version numbers, bug reports, and debugging information."

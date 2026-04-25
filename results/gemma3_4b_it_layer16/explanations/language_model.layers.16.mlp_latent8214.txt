@@ -1,1 +1,1 @@
-"Code snippets from various programming languages, including Python, JavaScript, and Go, with a focus on function and method definitions, variable declarations, and syntax highlighting."
+"Code snippets from various programming languages, including Python, JavaScript, Java, and others, with a focus on function and method definitions, variable declarations, and syntax highlighting."

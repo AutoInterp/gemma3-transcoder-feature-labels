@@ -1,1 +1,1 @@
-"Code snippets from various programming languages, including JavaScript, Python, PHP, and others, with a focus on variable and function names, syntax, and data types."
+"Code snippets from various programming languages, including JavaScript, Python, PHP, and others, with a focus on variable and function names, data types, and syntax."

@@ -1,1 +1,1 @@
-"Locations of various places, landmarks, and cultural attractions, often serving as the main subject of a text."
+"Names of cities, towns, and locations, often serving as the main subject or context for the surrounding text."

@@ -1,1 +1,1 @@
-"Texts describing complex concepts, often in technical or scientific fields, frequently contain phrases denoting a specific location or layer, such as \"inner Helmholtz plane\" or \"Sylvian Fissue\", and sometimes references to historical events or contexts."
+"Texts describing complex concepts, often in technical or scientific fields, frequently contain phrases denoting a specific object, location, or concept, and sometimes a quotation or a reference to a figure."

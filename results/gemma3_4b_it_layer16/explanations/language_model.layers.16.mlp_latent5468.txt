@@ -1,1 +1,1 @@
-"A collection of code snippets from various programming languages, including Java, C++, and JavaScript, showcasing different programming concepts, data structures, and algorithms."
+"A collection of code snippets from various programming languages, including Java, C++, and PHP, showcasing different programming concepts, data structures, and algorithms."

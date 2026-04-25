@@ -1,1 +1,1 @@
-"Texts often contain phrases or sentences that are cut off or incomplete, frequently due to the presence of a delimiter such as a period or a semicolon, indicating a continuation of the thought or a transition to a new idea."
+"Texts often contain phrases or sentences that are cut off or incomplete, frequently due to the context of online communication, such as social media, forums, or websites, where users may not always read or write in full sentences."

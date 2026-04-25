@@ -1,1 +1,1 @@
-"Text fragments often appear at the beginning or end of a sentence, sometimes containing a complete thought, and are frequently followed by a quotation mark."
+"Text fragments often appear at the beginning or end of a sentence, and are frequently followed by a quotation mark or a period."

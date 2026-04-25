@@ -1,1 +1,1 @@
-"Texts from various sources, including news articles, academic papers, and code snippets, with a focus on extracting specific phrases or sentences that may be relevant to the analysis."
+"Texts containing quotes, citations, and references, often from news articles, academic papers, and official documents, frequently found in the context of discussing politics, international relations, and scientific research."

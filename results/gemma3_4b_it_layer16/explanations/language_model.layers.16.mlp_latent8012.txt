@@ -1,1 +1,1 @@
-"Texts often contain phrases or sentences that provide additional information, explanations, or disclaimers, usually set apart from the main content with a delimiter. These phrases may include instructions, warnings, recommendations, or details about a product or service."
+"Texts often contain phrases or sentences that provide additional information, explanations, or disclaimers, usually set apart from the main content with a delimiter. These phrases may include instructions, warnings, or recommendations, and are often used to clarify or provide context to the main message."

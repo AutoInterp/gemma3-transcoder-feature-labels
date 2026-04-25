@@ -1,1 +1,1 @@
-"Various numerical values and units, including distances, weights, percentages, and orbital periods, often used in scientific or technical contexts."
+"Various numerical values, including percentages, distances, weights, and ages, often used in scientific, financial, or descriptive contexts."

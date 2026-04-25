@@ -1,1 +1,1 @@
-"Code snippets from various programming languages, primarily focusing on variable declarations, function calls, and conditional statements."
+"Code snippets from various programming languages, primarily focusing on variable declarations, data manipulation, and control flow."

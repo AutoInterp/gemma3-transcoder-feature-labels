@@ -1,1 +1,1 @@
-"Various programming languages and code snippets, including functions, classes, and loops, showcasing different syntax and structures."
+"Various programming languages and code snippets, including functions, methods, and conditional statements, showcasing different syntax and structures."
