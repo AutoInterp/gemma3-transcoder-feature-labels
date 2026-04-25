@@ -340,7 +340,7 @@ def populate_cache(
     )
     cache.run(cache_cfg.n_tokens, tokens)
 
-    cache.width = run_cfg.max_latents
+    # cache.width = run_cfg.max_latents  # FIXME: removed — cache not defined
     if run_cfg.verbose:
         cache.generate_statistics_cache()
 
@@ -456,7 +456,7 @@ async def run(
             latent_range,
         )
 
-    cache.width = run_cfg.max_latents
+    # cache.width = run_cfg.max_latents  # FIXME: removed — cache not defined
     if run_cfg.verbose:
         log_results(scores_path, visualize_path, run_cfg.hookpoints, run_cfg.scorers)
 
