@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, primarily Java and C++, with a focus on method definitions, class declarations, and variable assignments."

@@ -1,0 +1,1 @@
+"Text snippets containing various types of data, including hexadecimal codes, URLs, mathematical expressions, programming code, and text in non-English languages, often with high activation values indicating their importance in the text."

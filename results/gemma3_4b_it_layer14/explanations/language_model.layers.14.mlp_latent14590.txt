@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are used to introduce a topic, provide context, or transition between ideas, such as \"A good example of this is\", \"Speaking of\", \"In fact\", and \"Notably\". Additionally, texts may include phrases that are used to conclude or summarize a point, such as \"In conclusion\", \"Therefore\", and \"As a result\"."

@@ -1,0 +1,1 @@
+"The token \"reset\" is associated with various actions such as restarting a game, clearing data, or returning to a default state."

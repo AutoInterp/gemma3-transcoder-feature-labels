@@ -1,0 +1,1 @@
+"A collection of addresses, primarily in the format of \"street number, street name, city, state, postal code\", often with additional information such as phone numbers, fax numbers, or website URLs."

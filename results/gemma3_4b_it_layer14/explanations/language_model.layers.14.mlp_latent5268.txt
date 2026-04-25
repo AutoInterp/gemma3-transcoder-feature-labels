@@ -1,0 +1,1 @@
+"Numbers and lists often represent enumerations of items, such as rankings, steps, or items in a sequence."

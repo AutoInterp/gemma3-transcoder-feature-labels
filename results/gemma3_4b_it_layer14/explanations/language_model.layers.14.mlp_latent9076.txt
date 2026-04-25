@@ -1,0 +1,1 @@
+"Text containing color-related information, including color names, hex codes, RGB values, and descriptions of color combinations and effects."

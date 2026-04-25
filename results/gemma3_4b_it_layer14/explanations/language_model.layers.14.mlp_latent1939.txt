@@ -1,0 +1,1 @@
+"Text fragments often appear to be cut off or truncated, with some sentences or phrases ending abruptly. This is likely due to the presence of programming code or other non-textual content, which is being treated as text and included in the analysis."

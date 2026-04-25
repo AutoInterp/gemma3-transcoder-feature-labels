@@ -1,0 +1,1 @@
+"Text fragments containing dates, times, and locations, often in a format that includes specific details such as hours, minutes, and timezone."

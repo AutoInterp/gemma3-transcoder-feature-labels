@@ -1,0 +1,1 @@
+"Text contains a large number of proper nouns, specifically names of universities, researchers, and institutions, indicating a high frequency of academic or research-related content."

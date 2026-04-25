@@ -1,0 +1,1 @@
+"Various types of text data, including programming code, license agreements, technical documentation, and online content, with a focus on extracting specific information such as version numbers, dates, and activation values."

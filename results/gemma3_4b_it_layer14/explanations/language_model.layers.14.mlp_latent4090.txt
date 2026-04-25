@@ -1,0 +1,1 @@
+"Text fragments often contain proper nouns, technical terms, and specific names, which are frequently found in the middle of sentences."

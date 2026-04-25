@@ -1,0 +1,1 @@
+"Text snippets from various programming languages, including C++, Python, Java, and SQL, as well as snippets from other languages such as Haskell, and mathematical expressions."

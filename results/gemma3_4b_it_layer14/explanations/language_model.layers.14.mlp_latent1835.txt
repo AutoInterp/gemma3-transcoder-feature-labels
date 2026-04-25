@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including SQL, Python, Java, and C++, as well as configuration files and command-line interfaces."

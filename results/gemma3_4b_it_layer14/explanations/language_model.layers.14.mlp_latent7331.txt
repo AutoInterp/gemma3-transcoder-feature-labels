@@ -1,0 +1,1 @@
+"Large numbers, often in the format of a specific quantity followed by a unit of measurement, such as thousands, millions, or billions, are frequently used in the text to convey significant amounts or values."

@@ -1,0 +1,1 @@
+"Texts are often terminated with a special token, likely indicating the end of a document or a section, denoted as \"<eos>\"."

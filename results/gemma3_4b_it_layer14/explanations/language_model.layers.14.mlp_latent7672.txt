@@ -1,0 +1,1 @@
+"Tokens indicating future or upcoming events, such as \"later\", \"soon\", \"in the future\", and \"next time\", often used to signal a continuation of a conversation or a delay in providing more information."

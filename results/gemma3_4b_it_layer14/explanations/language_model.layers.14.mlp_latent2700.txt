@@ -1,0 +1,1 @@
+"Texts from various sources, including articles, conversations, and biographies, with a focus on sentiment analysis and extracting relevant information."

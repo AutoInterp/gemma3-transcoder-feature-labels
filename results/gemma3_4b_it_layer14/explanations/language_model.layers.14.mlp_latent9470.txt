@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including C, C++, and Python, with a focus on mathematical and algorithmic concepts, such as exponential decay, probability calculations, and data analysis."

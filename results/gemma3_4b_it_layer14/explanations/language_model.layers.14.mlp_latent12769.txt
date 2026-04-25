@@ -1,0 +1,1 @@
+"Various types of metadata and formatting information, including dates, times, phone numbers, fax numbers, email addresses, URLs, and publication information."

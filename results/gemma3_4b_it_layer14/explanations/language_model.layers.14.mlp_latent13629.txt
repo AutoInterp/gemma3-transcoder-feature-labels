@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, primarily mathematical and logical operations, and variable assignments."

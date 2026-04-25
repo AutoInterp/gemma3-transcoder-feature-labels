@@ -1,0 +1,1 @@
+"The token \"as\" is used to introduce a comparative or a condition, and the token \"a\" is used as an indefinite article."

@@ -1,0 +1,1 @@
+"Text snippets often contain specific phrases, sentences, or code segments that are not necessarily idiomatic expressions, but rather technical or informative content, such as explanations, instructions, or programming code."

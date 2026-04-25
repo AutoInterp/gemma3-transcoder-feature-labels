@@ -1,0 +1,1 @@
+"Text fragments often contain links to external information, instructions, or additional content, frequently denoted by phrases like \"Click HERE for more information\" or \"Go to All ICE Cases\"."

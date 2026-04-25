@@ -1,0 +1,1 @@
+"Text snippets from academic papers, often containing citations, references, and abstracts, with varying levels of activation across different tokens."

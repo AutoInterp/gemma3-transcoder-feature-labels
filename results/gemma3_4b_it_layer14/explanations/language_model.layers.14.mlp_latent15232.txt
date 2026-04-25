@@ -1,0 +1,1 @@
+"Text fragments often appear to be cut off mid-sentence, suggesting that the text is being truncated or clipped at a specific point."

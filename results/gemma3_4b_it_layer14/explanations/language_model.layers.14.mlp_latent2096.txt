@@ -1,0 +1,1 @@
+"Code snippets and programming concepts, including variable declarations, function calls, and data structures, often in the context of programming languages such as Java, Python, and JavaScript."

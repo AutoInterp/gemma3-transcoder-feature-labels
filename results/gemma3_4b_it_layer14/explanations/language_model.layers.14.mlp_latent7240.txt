@@ -1,0 +1,1 @@
+"Text snippets often appear in isolation, sometimes with a brief context, but frequently without a clear connection to the surrounding text."

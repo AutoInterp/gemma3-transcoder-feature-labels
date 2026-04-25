@@ -1,0 +1,1 @@
+"Code snippets, programming syntax, and technical specifications, often containing variable names, function calls, and mathematical expressions."

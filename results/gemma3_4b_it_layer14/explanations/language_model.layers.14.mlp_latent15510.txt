@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, showing conditional statements, function calls, and variable assignments."

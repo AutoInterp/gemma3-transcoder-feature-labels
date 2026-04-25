@@ -1,0 +1,1 @@
+"Texts with high activation values are often quotes, paragraphs, or sections of text that are being referenced or analyzed, often in a critical or academic context."

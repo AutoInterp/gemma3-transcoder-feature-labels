@@ -1,0 +1,1 @@
+"The token \"throw\" is used to indicate an exception or error in the code, often followed by a variable or a message describing the error."

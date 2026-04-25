@@ -1,0 +1,1 @@
+"Various programming languages and their syntax, including function definitions, variable declarations, and data types, as well as code snippets from different programming languages and frameworks."

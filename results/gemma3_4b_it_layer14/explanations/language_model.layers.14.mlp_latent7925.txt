@@ -1,0 +1,1 @@
+"Texts often contain numerical values, such as amounts, percentages, and quantities, which are used to convey information about size, scale, or magnitude. These values can be used to describe various aspects, including financial data, population sizes, and physical properties."

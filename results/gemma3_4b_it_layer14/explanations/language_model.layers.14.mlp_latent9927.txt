@@ -1,0 +1,1 @@
+"Texts containing a mix of various data types, including numerical values, dates, times, and coded messages, often in the context of scientific or technical information, but also including everyday conversations and stories."

@@ -1,0 +1,1 @@
+"Journal article citations and references, often containing year, volume, and page numbers, as well as DOI links."

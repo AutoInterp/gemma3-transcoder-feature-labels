@@ -1,0 +1,1 @@
+"Various text snippets, including code, data, and written content, often with specific formatting, such as RGB color codes, foreign key references, and mathematical expressions."

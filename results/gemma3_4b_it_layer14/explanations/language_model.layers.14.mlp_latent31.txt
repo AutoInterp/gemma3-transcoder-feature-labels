@@ -1,0 +1,1 @@
+"Texts from various sources, including articles, product descriptions, and personal stories, with a mix of formal and informal language, and a wide range of topics. The common thread is the presence of specific keywords and phrases that are not necessarily related to the overall meaning of the text, but rather serve as a trigger for the model to analyze and identify patterns."

@@ -1,0 +1,1 @@
+"Various types of text fragments, including citations, references, footnotes, and external links, often containing URLs, dates, and author names."

@@ -1,0 +1,1 @@
+"Various code snippets and technical terms from programming languages, XML, and scientific articles, often containing URLs, function names, and references."

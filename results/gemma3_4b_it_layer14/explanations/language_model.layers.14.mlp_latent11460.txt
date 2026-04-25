@@ -1,0 +1,1 @@
+"The token \"email\" is a common term used to represent a user's electronic mail address in various contexts, including user registration, login, and contact information."

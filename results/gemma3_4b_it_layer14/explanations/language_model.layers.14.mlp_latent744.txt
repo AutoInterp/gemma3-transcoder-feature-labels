@@ -1,0 +1,1 @@
+"Text snippets often contain links, images, or other embedded content, and may include special characters, formatting, or code snippets."

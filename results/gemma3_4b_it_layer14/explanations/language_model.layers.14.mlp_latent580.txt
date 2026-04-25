@@ -1,0 +1,1 @@
+"End of text or section markers, often denoted by the symbol \"<eos>\" and sometimes accompanied by other punctuation marks."

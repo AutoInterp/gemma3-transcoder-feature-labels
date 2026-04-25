@@ -1,0 +1,1 @@
+"Texts often contain proper nouns, such as names of people, places, and organizations, which are frequently associated with high activation values. Additionally, texts may include idiomatic expressions, quotes, and phrases in foreign languages, which can be indicative of cultural or linguistic diversity."

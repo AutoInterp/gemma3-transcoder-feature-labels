@@ -1,0 +1,1 @@
+"Various database table schema definitions, SQL queries, and programming code snippets in multiple languages, including SQL, Java, C++, PHP, and Python."

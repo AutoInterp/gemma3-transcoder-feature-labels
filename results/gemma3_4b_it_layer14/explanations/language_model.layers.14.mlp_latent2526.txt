@@ -1,0 +1,1 @@
+"Text snippets often contain proper nouns, titles, and names, which are frequently found in the middle of sentences, and sometimes they are followed by a period or a question mark."

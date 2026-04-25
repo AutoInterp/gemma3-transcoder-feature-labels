@@ -1,0 +1,1 @@
+"The token \"#\" is used to indicate the start of a comment or a preprocessor directive in C/C++ code, often followed by an include statement or a macro definition."

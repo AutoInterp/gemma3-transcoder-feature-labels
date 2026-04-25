@@ -1,0 +1,1 @@
+"Text snippets often contain dates, names, and technical terms, but the most notable pattern is the presence of URLs, which are frequently embedded within the text, often without being properly formatted or linked."

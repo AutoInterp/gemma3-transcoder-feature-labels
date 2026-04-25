@@ -1,0 +1,1 @@
+"Text snippets often contain unique identifiers, codes, or references, which are not necessarily related to the main content, and may be used for tracking, referencing, or other purposes."

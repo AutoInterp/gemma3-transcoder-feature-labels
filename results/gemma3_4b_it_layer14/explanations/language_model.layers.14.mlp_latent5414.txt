@@ -1,0 +1,1 @@
+"Text fragments that are likely code snippets, technical descriptions, or specific instructions, often related to programming, software development, or technical concepts."

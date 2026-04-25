@@ -1,0 +1,1 @@
+"Various programming-related terms, file paths, and URLs, often used in a context of code snippets or documentation."

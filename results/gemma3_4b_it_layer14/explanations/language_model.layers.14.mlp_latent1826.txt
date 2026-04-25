@@ -1,0 +1,1 @@
+"Texts from various sources, including articles, emails, and code, with a focus on extracting specific phrases or sentences that may be relevant to the task. The extracted phrases often contain proper nouns, idioms, or technical terms, and may be used to identify patterns or relationships within the text."

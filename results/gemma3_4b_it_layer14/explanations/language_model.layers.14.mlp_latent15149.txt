@@ -1,0 +1,1 @@
+"Text snippets containing bibliographic information, such as article titles, authors, and publication details, as well as URLs, phone numbers, and addresses."

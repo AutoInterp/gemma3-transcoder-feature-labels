@@ -1,0 +1,1 @@
+"Text fragments often appear in pairs, typically with a delimiter at the beginning and end, and sometimes with a colon or other punctuation in between. These pairs often contain a title or heading, followed by a description or content."

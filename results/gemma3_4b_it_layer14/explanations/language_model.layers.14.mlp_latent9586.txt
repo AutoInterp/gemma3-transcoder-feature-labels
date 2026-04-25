@@ -1,0 +1,1 @@
+"Code snippets and programming-related text, including comments, variable names, function calls, and programming concepts, often with a focus on specific programming languages such as Python, Java, JavaScript, and Swift."

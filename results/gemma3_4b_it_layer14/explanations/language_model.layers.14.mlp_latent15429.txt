@@ -1,0 +1,1 @@
+"Texts containing mathematical and programming concepts, including equations, algorithms, and data structures, often with a focus on optimization, complexity, and computational efficiency."

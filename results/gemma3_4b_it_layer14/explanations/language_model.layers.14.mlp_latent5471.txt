@@ -1,0 +1,1 @@
+"Code comments and documentation, including function signatures, parameter descriptions, and return values, written in various programming languages and styles."

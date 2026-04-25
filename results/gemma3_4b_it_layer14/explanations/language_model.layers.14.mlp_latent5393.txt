@@ -1,0 +1,1 @@
+"Code snippets and programming-related text, including variable names, function calls, and error messages, often in the context of programming languages such as Java, Python, and SQL."

@@ -1,0 +1,1 @@
+"Various numerical values and units, including measurements in inches, centimeters, grams, and dollars, as well as percentages and fractions."

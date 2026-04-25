@@ -1,0 +1,1 @@
+"Text fragments often appear in a format that seems to be a quote or a block of text, but is actually a part of a larger text, possibly a conversation, article, or book. These fragments are often used to provide additional context or information, and may be separated from the main text by a delimiter."

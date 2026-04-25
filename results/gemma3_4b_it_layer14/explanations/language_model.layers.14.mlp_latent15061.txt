@@ -1,0 +1,1 @@
+"Code snippets in various programming languages, including C, C++, Java, JavaScript, PHP, and others, demonstrating array and list operations, such as initialization, manipulation, and iteration."

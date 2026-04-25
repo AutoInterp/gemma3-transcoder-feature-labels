@@ -1,0 +1,1 @@
+"Various programming code snippets, licenses, and documentation comments from software projects, including Java, C++, Python, and PHP."

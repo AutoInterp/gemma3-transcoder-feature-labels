@@ -1,0 +1,1 @@
+"Code snippets and output logs from a computational environment, including function definitions, variable assignments, and execution results."

@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, primarily used to illustrate specific functions, methods, or logic, often with a focus on conditional statements, loops, and error handling."

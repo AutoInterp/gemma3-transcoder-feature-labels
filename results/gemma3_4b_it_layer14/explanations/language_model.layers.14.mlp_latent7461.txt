@@ -1,0 +1,1 @@
+"Code snippets with loops iterating over arrays or collections, often performing operations such as summing, comparing, or manipulating elements."

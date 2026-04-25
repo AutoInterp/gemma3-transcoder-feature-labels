@@ -1,0 +1,1 @@
+"Texts often contain command lines, code snippets, and technical descriptions, frequently interrupted by narrative or conversational passages."

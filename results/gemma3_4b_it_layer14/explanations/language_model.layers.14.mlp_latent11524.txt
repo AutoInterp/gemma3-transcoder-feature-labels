@@ -1,0 +1,1 @@
+"Texts often contain phrases that indicate exceptions or conditions under which a rule or action is permitted, such as \"unless\", \"if\", \"only if\", or \"absolutely must\". These phrases are often used to convey nuanced or specific circumstances that modify the general rule or action."

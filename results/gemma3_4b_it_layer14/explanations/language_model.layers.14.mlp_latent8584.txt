@@ -1,0 +1,1 @@
+"Texts that are cut off mid-sentence or mid-paragraph, often with a phrase or sentence that seems to be a continuation of the previous text, but is actually a separate entity, possibly from a different source or context."

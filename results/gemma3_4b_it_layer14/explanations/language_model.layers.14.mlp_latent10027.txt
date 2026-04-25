@@ -1,0 +1,1 @@
+"Various numerical values and units, including percentages, amounts in dollars, grams, milliliters, and square miles, often used in scientific, economic, or geographical contexts."

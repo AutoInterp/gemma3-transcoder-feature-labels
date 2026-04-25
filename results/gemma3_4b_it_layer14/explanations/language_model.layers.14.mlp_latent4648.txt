@@ -1,0 +1,1 @@
+"Text contains a mix of geographical locations, company names, product names, and technical terms, often in the context of news articles, research papers, and product descriptions."

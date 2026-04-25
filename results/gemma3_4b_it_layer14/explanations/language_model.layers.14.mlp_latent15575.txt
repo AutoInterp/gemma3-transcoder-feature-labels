@@ -1,0 +1,1 @@
+"Texts often contain proper nouns, titles, and names, which are capitalized. Additionally, quotes and citations are frequently used, and technical terms and jargon are present in various fields, such as programming, law, and philosophy."

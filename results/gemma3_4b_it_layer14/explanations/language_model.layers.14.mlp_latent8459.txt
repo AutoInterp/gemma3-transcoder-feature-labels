@@ -1,0 +1,1 @@
+"Text fragments enclosed by delimiters often represent a complete sentence or a phrase, sometimes with a specific context or purpose, such as a definition, a quote, or a list item."

@@ -1,0 +1,1 @@
+"Texts often contain a sequence of sentences or phrases that are separated by a delimiter, typically at the beginning or end of a paragraph, and are often used to provide additional context or information."

@@ -1,0 +1,1 @@
+"Texts containing various types of data, including geographical coordinates, technical specifications, and mathematical equations, often accompanied by code snippets and programming language syntax."

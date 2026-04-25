@@ -1,0 +1,1 @@
+"Text segments often appear between delimiters, which are typically used to indicate a quote, a code snippet, or a formal statement, and are frequently found in programming, legal, or academic contexts."

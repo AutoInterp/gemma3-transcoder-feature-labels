@@ -1,0 +1,1 @@
+"Text fragments often appear to be cut off or truncated, with a high activation score for the last few words or phrases, suggesting that these are the most important or relevant parts of the text."

@@ -1,0 +1,1 @@
+"Texts often contain book titles, proper nouns, and specific names, which are frequently highlighted in the given examples. Additionally, there are instances of technical terms, abbreviations, and foreign words, which may indicate a focus on informative or educational content."

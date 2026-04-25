@@ -1,0 +1,1 @@
+"Web addresses and URLs are a common latent in the text, often used to provide additional information, links, or references."

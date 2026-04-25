@@ -1,0 +1,1 @@
+"Various types of text data, including programming code, mathematical expressions, and natural language, often with specific formatting or syntax."

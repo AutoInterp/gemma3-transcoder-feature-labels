@@ -1,0 +1,1 @@
+"Texts containing SQL queries, programming code, and technical documentation, often referencing specific software, hardware, or methodologies."

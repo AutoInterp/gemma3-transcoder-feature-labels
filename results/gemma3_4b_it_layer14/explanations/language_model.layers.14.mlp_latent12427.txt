@@ -1,0 +1,1 @@
+"The token \"date\" is often used to represent a specific point in time, and is frequently accompanied by other tokens such as \"time\", \"year\", \"month\", and \"day\"."

@@ -1,0 +1,1 @@
+"Various digital object identifiers (DOIs) and URLs, often used to cite academic papers or provide references, are embedded in the text."

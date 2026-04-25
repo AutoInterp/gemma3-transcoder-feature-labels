@@ -1,0 +1,1 @@
+"Various programming-related terms and concepts, including database schema, SQL queries, data types, function signatures, and programming languages."

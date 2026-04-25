@@ -1,0 +1,1 @@
+"Text fragments often appear in a specific format, typically enclosed in angle brackets, and contain a mix of formal and informal language, including citations, references, and quotes. These fragments often represent code snippets, academic or technical writing, and sometimes appear in a list or as a standalone block of text."

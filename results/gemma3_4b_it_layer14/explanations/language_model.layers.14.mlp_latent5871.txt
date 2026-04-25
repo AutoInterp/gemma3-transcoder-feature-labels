@@ -1,0 +1,1 @@
+"Geographic locations, such as cities, countries, and regions, often used as context for events or descriptions."

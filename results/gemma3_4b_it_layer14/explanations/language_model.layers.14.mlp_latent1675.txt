@@ -1,0 +1,1 @@
+"Text fragments containing numerical data, scientific formulas, and technical information, often in a format that appears to be copied and pasted from various sources."

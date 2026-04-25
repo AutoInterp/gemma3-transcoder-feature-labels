@@ -1,0 +1,1 @@
+"Various types of text data, including scientific papers, academic articles, book information, and online content, often containing specific information such as page numbers, ISBNs, publication dates, and author details."

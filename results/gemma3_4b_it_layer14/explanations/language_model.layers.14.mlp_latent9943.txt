@@ -1,0 +1,1 @@
+"Various numerical values and ranges, including weights, sizes, prices, temperatures, pressures, and other measurements, often used in technical or scientific contexts."

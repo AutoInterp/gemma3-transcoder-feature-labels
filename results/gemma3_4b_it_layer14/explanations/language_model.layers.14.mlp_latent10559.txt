@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are enclosed in delimiters, which may indicate a quote, a title, or a separate section of text. These enclosed phrases can be book titles, song names, or other forms of creative content."

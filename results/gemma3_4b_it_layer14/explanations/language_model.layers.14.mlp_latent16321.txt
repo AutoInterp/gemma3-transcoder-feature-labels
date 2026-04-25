@@ -1,0 +1,1 @@
+"Various programming languages and frameworks are used to write code, with different syntax and structures. The code snippets are mostly from Java, Python, C++, and SQL, with some JavaScript and HTML."

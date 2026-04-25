@@ -1,0 +1,1 @@
+"Texts containing legal and licensing information, such as copyright notices, open-source licenses, and terms of use."

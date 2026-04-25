@@ -1,0 +1,1 @@
+"Code snippets in various programming languages, primarily Java and JavaScript, with annotations and comments in Chinese and English, representing a mix of API documentation, function definitions, and method implementations."

@@ -1,0 +1,1 @@
+"Texts containing mathematical concepts, formulas, and theorems, often related to algebra, geometry, and calculus, as well as programming code and algorithm descriptions."

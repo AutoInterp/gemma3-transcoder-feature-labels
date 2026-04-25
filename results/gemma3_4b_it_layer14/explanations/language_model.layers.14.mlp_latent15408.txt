@@ -1,0 +1,1 @@
+"Priority queues enforcing various rules to manage node insertion and retrieval, often related to graph algorithms, such as finding minimum spanning trees, shortest paths, or topological sorting, and ensuring efficient exploration of nodes with lower bounds or distances."

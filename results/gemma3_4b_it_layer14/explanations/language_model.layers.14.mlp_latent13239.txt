@@ -1,0 +1,1 @@
+"Texts often contain long, complex sentences with multiple clauses, and sometimes quotes or references to other sources. The activation patterns suggest that the model is paying attention to specific phrases or sentences that convey a sense of complexity, nuance, or depth, such as metaphors, idioms, or abstract concepts."

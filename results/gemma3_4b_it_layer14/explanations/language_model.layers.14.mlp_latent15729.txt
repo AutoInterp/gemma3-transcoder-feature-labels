@@ -1,0 +1,1 @@
+"Text contains a mix of various data types, including numbers, words, and phrases, often in the context of programming, statistics, or technical writing."

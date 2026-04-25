@@ -1,0 +1,1 @@
+"Various programming languages and frameworks, including Java, C#, JavaScript, and SQL, with a focus on data structures, algorithms, and user interface elements."

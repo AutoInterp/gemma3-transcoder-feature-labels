@@ -1,0 +1,1 @@
+"Numerical values representing measurements in various units, such as length, temperature, weight, and speed, often used in scientific or technical contexts."

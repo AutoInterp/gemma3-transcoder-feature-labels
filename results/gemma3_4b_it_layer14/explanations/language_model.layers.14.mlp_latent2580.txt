@@ -1,0 +1,1 @@
+"Text fragments often contain links, references, or citations, which are typically denoted by specific keywords or phrases, and sometimes accompanied by a URL or a specific format."

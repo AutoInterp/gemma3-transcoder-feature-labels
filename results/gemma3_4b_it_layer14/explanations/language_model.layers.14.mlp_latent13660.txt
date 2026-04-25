@@ -1,0 +1,1 @@
+"Texts about database management systems, including MySQL, SQL Server, and SQLite, discussing topics such as encryption, querying, and data storage."

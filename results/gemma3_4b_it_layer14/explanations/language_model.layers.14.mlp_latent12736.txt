@@ -1,0 +1,1 @@
+"Code snippets related to session management in web applications, including setting and getting attributes, logging out, and using sessions to store user data and cart items."

@@ -1,0 +1,1 @@
+"Text fragments often contain references to external sources, such as books, articles, or quotes, which are frequently denoted by a specific marker, and sometimes accompanied by a list of authors or a brief description."

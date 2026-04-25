@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are enclosed in a specific delimiter, which may indicate a change in tone, a quotation, or a shift in context. These enclosed phrases can be complete sentences, idioms, or even entire paragraphs, and they are often used to convey a specific idea or emotion."

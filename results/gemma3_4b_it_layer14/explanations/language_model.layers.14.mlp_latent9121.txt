@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are split into two parts, with the second part being a continuation or an explanation of the first part, often with a delimiter such as a comma or a period."

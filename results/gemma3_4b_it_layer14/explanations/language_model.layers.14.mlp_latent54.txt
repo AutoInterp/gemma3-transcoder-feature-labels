@@ -1,0 +1,1 @@
+"Texts often contain long sequences of words that are not necessarily important for the overall meaning, but rather serve as a context or background information. These sequences can be followed by a key phrase or sentence that conveys the main idea or point."

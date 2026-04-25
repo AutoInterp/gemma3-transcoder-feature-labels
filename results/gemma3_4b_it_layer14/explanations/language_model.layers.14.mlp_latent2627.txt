@@ -1,0 +1,1 @@
+"Text snippets often contain phone numbers, email addresses, URLs, and other contact information, as well as code snippets, mathematical expressions, and foreign language text."

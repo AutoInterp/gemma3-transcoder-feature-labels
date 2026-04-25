@@ -1,0 +1,1 @@
+"Text containing technical information about algorithms, specifically quicksort, and its time and space complexity, as well as programming-related topics such as data structures and programming languages."

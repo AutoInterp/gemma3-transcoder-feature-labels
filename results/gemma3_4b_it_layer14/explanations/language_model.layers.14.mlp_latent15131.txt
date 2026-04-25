@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including C, C++, Java, Python, JavaScript, and others, with a focus on conditional statements, loops, and function calls."

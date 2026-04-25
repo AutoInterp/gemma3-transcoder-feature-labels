@@ -1,0 +1,1 @@
+"Various programming languages and markup languages, including HTML, CSS, JavaScript, and Python, with a focus on code snippets and syntax highlighting."

@@ -1,0 +1,1 @@
+"Comments in programming languages, including Java, C, and PHP, with various metadata such as author, date, and copyright information."

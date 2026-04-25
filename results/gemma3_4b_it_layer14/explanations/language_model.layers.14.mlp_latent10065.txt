@@ -1,0 +1,1 @@
+"Various types of addresses, including physical locations, email addresses, and online platform addresses, often used as identifiers or references."

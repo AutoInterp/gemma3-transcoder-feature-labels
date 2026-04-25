@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are set apart from the rest of the text, typically to provide additional context or information, and are usually denoted by a specific delimiter. These phrases or sentences can be longer or shorter than the surrounding text and may contain complex information or explanations."

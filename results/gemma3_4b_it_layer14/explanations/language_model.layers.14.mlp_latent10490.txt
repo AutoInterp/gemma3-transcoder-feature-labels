@@ -1,0 +1,1 @@
+"Various numerical values, including prices, dates, and quantities, often in a format of a range or a specific amount."

@@ -1,0 +1,1 @@
+"Various types of URLs, image sources, and file paths, often used as attributes or properties in programming code."

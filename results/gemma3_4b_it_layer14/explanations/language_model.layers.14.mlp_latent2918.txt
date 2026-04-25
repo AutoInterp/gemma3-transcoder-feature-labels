@@ -1,0 +1,1 @@
+"Texts often contain quotes, citations, or references to external sources, which are frequently marked with a specific phrase or abbreviation, such as \"cert.\" or \"review\", and sometimes accompanied by a mention of a related resource or link."

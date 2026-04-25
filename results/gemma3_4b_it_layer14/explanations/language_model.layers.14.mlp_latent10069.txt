@@ -1,0 +1,1 @@
+"Texts containing technical information, such as system requirements, mathematical formulas, and scientific data, often accompanied by version numbers, dates, and references to publications."

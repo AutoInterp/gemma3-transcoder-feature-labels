@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including Java, C++, and Python, with some text from articles and research papers. The patterns found in these examples include code comments, function definitions, variable declarations, and error messages."

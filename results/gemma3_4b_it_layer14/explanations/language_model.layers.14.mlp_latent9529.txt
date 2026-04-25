@@ -1,0 +1,1 @@
+"Texts often contain proper nouns, such as names of people, places, and organizations, which are frequently capitalized. Additionally, technical and scientific terms, like \"Helmholtz plane\" and \"Julian calendar\", are also commonly found in these texts."

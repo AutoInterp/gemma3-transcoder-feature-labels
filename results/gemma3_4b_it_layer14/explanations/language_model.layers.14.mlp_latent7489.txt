@@ -1,0 +1,1 @@
+"Time expressions and schedules, often in the format of dates and times, frequently accompanied by event descriptions or locations."

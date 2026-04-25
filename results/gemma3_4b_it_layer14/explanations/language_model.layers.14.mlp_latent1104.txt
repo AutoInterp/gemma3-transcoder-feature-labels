@@ -1,0 +1,1 @@
+"Various types of text data, including technical specifications, financial information, news articles, and mathematical problems, often containing specific numbers, dates, and technical terms."

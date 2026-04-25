@@ -1,0 +1,1 @@
+"Texts containing citations, references, or academic sources, often in the format of a year and publication title, frequently accompanied by a DOI or other identifier."

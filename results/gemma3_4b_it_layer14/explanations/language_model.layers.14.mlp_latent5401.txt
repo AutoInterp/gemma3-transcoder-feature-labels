@@ -1,0 +1,1 @@
+"Text fragments containing URLs, usernames, commodity numbers, IDs, and other unique identifiers, often found in online content, such as YouTube videos, articles, and comments."

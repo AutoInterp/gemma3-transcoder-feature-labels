@@ -1,0 +1,1 @@
+"Various programming languages and frameworks, including Java, C#, Python, PHP, and Swift, with a focus on package and namespace declarations, import statements, and class definitions."

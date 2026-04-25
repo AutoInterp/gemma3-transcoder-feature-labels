@@ -1,0 +1,1 @@
+"Various mathematical and programming concepts, including norms, Banach spaces, linear forms, activation energies, free energies, potential differences, projected vertex positions, corners, vectors, and statistical distributions."

@@ -1,0 +1,1 @@
+"Instructions and recipes often contain sequential steps, with each step described in a similar format, typically starting with a number and a verb, followed by a description of the action to be taken."

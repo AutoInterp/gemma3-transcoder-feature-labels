@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are set apart from the rest of the text, typically to provide additional information, context, or explanation. These phrases or sentences are often preceded by a delimiter, such as a dash or a colon, and may contain a link to further information or a reference to a specific topic."

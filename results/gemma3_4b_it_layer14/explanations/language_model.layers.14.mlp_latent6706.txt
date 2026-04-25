@@ -1,0 +1,1 @@
+"Texts containing programming code, mathematical equations, and technical descriptions, often involving random number generation, permutations, and statistical analysis."

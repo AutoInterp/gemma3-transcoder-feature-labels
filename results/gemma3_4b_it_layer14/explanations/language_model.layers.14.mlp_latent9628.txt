@@ -1,0 +1,1 @@
+"Texts with various formatting and styling information, including hexadecimal color codes, font colors, and background colors, often used to highlight or distinguish specific sections of text."

@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are cut off or truncated, frequently denoted by a symbol or a delimiter, indicating the end of a quote, a code snippet, or a piece of information."

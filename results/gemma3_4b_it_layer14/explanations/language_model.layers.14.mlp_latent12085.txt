@@ -1,0 +1,1 @@
+"Phrases indicating a relationship between two entities, such as a container and its contents, or a comparison between two things, often used to provide additional context or explanation."

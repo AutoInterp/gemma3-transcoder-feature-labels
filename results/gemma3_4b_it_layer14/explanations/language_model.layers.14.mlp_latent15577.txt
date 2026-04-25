@@ -1,0 +1,1 @@
+"Long blocks of text, often containing complex information, are enclosed in delimiters, indicating a specific context or purpose, such as explanations, instructions, or definitions."

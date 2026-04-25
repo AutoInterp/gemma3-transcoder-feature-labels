@@ -1,0 +1,1 @@
+"Text snippets often appear in a code-like format, possibly indicating programming or technical content, but are frequently interrupted by unrelated text, suggesting a mix of programming and narrative."

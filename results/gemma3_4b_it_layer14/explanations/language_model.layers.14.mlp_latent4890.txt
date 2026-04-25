@@ -1,0 +1,1 @@
+"Texts often contain phrases that indicate a transition to a new topic, such as \"However\", \"In fact\", \"In addition\", or \"In contrast\", and sometimes a specific state or location is mentioned."

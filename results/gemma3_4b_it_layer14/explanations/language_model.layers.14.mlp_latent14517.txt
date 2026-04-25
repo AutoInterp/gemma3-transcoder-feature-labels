@@ -1,0 +1,1 @@
+"Texts often contain proper nouns, names of people, places, and events, which are frequently highlighted due to their importance in the context. Additionally, phrases and sentences that are particularly notable or significant, such as quotes, titles, and key information, are also frequently highlighted."

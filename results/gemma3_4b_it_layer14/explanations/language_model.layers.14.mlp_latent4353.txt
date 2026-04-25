@@ -1,0 +1,1 @@
+"Various types of identifiers, including DOIs, PubMed IDs, ORCID IDs, and phone numbers, as well as URLs, and other unique codes."

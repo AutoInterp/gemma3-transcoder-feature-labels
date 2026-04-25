@@ -1,0 +1,1 @@
+"Code snippets in various programming languages, including Python, JavaScript, Ruby, and others, with a focus on syntax and execution."

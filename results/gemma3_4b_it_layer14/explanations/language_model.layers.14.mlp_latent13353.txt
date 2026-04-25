@@ -1,0 +1,1 @@
+"Phone numbers, addresses, and URLs are often presented in a specific format, typically with country codes, area codes, and other geographical information."

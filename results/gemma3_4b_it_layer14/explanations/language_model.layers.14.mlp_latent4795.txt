@@ -1,0 +1,1 @@
+"Various programming and technical documentation snippets, including code examples, API references, and configuration files, often with links to external resources."

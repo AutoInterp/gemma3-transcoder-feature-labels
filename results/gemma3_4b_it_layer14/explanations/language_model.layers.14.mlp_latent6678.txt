@@ -1,0 +1,1 @@
+"Strings of text enclosed in double quotes, often used to represent a key, value, or a specific phrase, frequently found in programming code, data, or text with a formal tone."

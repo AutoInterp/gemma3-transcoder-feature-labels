@@ -1,0 +1,1 @@
+"Texts containing URLs, file paths, or specific data, often used for reference or citation, and sometimes embedded in a larger context."

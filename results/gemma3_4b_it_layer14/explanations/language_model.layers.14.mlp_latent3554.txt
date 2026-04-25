@@ -1,0 +1,1 @@
+"Code snippets and technical documentation, including SQL queries, programming code, and database schema, often with foreign keys and constraints."

@@ -1,0 +1,1 @@
+"Text snippets containing various types of data, including numerical values, dates, times, locations, and lists of items, often in a structured or tabular format."

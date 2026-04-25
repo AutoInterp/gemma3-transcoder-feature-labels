@@ -1,0 +1,1 @@
+"SQL commands and database table structures, along with programming code snippets in various languages, including Java and Python."

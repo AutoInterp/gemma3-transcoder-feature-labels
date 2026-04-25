@@ -1,0 +1,1 @@
+"Text containing numerical values, often representing quantities or measurements, such as time, amounts, or rankings."

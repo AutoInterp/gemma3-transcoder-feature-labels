@@ -1,0 +1,1 @@
+"Various numerical values and currency amounts, often used to describe prices, costs, or financial transactions."

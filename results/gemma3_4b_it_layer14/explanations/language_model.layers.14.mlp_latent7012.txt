@@ -1,0 +1,1 @@
+"Color codes in hexadecimal format, often used to represent colors in digital design, such as background colors, text colors, and border colors."

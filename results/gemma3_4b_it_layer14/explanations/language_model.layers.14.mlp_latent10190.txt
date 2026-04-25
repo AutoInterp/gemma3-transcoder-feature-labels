@@ -1,0 +1,1 @@
+"Text snippets containing bibliographic information, such as book titles, authors, publication dates, and ISBN numbers, often accompanied by metadata like page counts, prices, and formats."

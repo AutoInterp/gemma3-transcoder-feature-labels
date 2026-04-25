@@ -1,0 +1,1 @@
+"Texts are mostly scientific articles or academic papers, with citations and references in a specific format, often including journal names, volume numbers, page ranges, and DOIs."

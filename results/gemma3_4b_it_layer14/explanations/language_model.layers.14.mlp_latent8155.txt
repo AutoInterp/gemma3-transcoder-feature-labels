@@ -1,0 +1,1 @@
+"Text snippets containing numerical values, percentages, and dates, often used to provide context or support a statement."

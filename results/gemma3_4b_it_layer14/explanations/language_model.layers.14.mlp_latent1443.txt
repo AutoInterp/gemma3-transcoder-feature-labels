@@ -1,0 +1,1 @@
+"Texts are a collection of news articles, each with a unique topic, but often sharing a common structure, including a headline, a brief summary, and a detailed report."

@@ -1,0 +1,1 @@
+"Various phrases and sentences are cut off by the token \"<eos>\" indicating the end of a text segment, often used in data preprocessing or tokenization."

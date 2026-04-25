@@ -1,0 +1,1 @@
+"A collection of academic and technical references, including journal articles, book chapters, and conference proceedings, often with DOI or PMID identifiers, and sometimes accompanied by citations or references."

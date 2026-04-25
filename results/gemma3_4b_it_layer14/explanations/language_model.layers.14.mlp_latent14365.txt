@@ -1,0 +1,1 @@
+"Texts containing geographic coordinates, often in the format of latitude and longitude, frequently used in conjunction with other spatial information such as distances, directions, and locations."

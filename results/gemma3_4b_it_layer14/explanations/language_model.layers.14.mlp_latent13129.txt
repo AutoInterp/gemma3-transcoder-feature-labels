@@ -1,0 +1,1 @@
+"Various types of geographical coordinates and measurements, including latitude, longitude, altitude, and distances, often presented in a formal or technical format."

@@ -1,0 +1,1 @@
+"Text segments that appear to be addresses, locations, or geographical descriptions, often containing street names, city names, and country names."

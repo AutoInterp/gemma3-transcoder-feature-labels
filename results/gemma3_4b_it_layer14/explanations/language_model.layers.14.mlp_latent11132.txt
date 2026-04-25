@@ -1,0 +1,1 @@
+"Texts containing command-line options, technical instructions, and domain-specific terminology, often related to programming, software development, and computer science."

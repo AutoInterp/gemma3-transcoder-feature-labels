@@ -1,0 +1,1 @@
+"Texts often contain proper nouns, names of locations, organizations, and people, which are frequently mentioned in conjunction with dates, events, and other contextual information."

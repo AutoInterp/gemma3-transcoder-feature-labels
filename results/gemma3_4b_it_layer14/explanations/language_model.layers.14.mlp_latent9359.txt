@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including Java, C++, and Python, with varying levels of activation indicating different types of code elements, such as variable names, function calls, and mathematical expressions."

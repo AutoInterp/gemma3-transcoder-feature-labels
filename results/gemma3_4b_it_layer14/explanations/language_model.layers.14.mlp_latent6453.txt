@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, primarily Java, C#, and JavaScript, with a focus on conditional statements, method calls, and object manipulation."

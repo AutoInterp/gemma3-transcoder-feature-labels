@@ -1,0 +1,1 @@
+"Text snippets containing URLs, code, and scientific or technical information, often accompanied by metadata and activation values."

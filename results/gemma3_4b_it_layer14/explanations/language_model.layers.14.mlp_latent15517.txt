@@ -1,0 +1,1 @@
+"Texts containing login and registration prompts, account management, and password recovery, often accompanied by activation or sign-up instructions."

@@ -1,0 +1,1 @@
+"The token \"username\" is a data property that is used to identify a user in various contexts, such as logging in to a website or authenticating with a password."

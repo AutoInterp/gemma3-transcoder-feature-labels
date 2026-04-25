@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including HTML, CSS, JavaScript, Python, SQL, and Java, with varying levels of activation indicating different elements such as keywords, variables, and function calls."

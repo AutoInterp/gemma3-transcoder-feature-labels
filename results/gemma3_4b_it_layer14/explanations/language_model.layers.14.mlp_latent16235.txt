@@ -1,0 +1,1 @@
+"Text snippets often appear to be unrelated to the surrounding context, possibly indicating extracted or quoted information, such as code snippets, academic papers, news articles, or social media posts."

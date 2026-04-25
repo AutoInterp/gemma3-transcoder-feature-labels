@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are enclosed in delimiters, which appear to be quotes or descriptions of a scene, and are often followed by a change in topic or a new idea."

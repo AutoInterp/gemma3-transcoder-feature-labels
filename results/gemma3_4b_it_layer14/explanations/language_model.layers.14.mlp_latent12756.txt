@@ -1,0 +1,1 @@
+"Dates in the format of day/month/year, often used as a delimiter to separate text into distinct events or periods."

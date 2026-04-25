@@ -1,0 +1,1 @@
+"Code snippets in multiple programming languages, primarily Java and PHP, with various annotations and comments."

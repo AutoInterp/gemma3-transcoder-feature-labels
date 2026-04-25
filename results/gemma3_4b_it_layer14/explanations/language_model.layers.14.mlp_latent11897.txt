@@ -1,0 +1,1 @@
+"Texts about programming, data formats, and technical concepts, including JSON, XML, and image file formats, with a focus on parsing, transformation, and data representation."

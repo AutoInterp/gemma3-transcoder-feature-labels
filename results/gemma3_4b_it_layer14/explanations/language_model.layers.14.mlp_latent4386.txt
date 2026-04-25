@@ -1,0 +1,1 @@
+"Various types of data, including geographical locations, technical specifications, financial information, and text from articles and books, often with specific formatting or delimiters."

@@ -1,0 +1,1 @@
+"Quotes and phrases within code comments, documentation, or text explaining technical concepts, often used to provide additional information or context."

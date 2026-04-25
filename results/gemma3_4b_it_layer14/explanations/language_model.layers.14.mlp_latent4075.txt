@@ -1,0 +1,1 @@
+"Numerical values representing quantities, such as years, percentages, amounts of money, and statistics, often used in comparisons or to convey information about trends or achievements."

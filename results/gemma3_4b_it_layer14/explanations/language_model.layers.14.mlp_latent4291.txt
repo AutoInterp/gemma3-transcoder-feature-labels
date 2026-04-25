@@ -1,0 +1,1 @@
+"Texts containing technical terms, programming code, and scientific concepts, often with specific formatting and syntax."

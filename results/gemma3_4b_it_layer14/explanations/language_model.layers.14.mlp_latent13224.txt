@@ -1,0 +1,1 @@
+"Various programming code snippets and UI elements from different programming languages and frameworks, including Java, Python, JavaScript, HTML, and CSS."

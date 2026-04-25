@@ -1,0 +1,1 @@
+"Text fragments often contain dates, times, and specific locations, which are frequently used to contextualize events or conversations."

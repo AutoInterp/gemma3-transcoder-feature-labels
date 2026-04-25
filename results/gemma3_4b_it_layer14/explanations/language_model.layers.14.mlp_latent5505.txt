@@ -1,0 +1,1 @@
+"Various dates and times in different formats, often accompanied by geographical coordinates, URLs, or other metadata."

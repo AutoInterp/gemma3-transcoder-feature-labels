@@ -1,0 +1,1 @@
+"Text fragments containing legal and technical information, such as licenses, copyright notices, and programming code, often found in the footer or metadata of documents."

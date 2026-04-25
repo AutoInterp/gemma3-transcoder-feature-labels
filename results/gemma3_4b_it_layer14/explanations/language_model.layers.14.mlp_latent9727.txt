@@ -1,0 +1,1 @@
+"Text fragments that appear to be cut off or truncated, often at the end of a sentence or paragraph, with a high activation value for the last token before the cut-off."

@@ -1,0 +1,1 @@
+"Texts with low activation values are often fragments, quotes, or citations, while those with higher activation values are typically coherent sentences or paragraphs."

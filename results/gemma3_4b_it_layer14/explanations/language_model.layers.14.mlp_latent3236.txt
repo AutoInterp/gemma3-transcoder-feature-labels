@@ -1,0 +1,1 @@
+"Text snippets often contain dates, times, and metadata, such as author information, timestamps, and file names, which are not necessarily relevant to the main content."

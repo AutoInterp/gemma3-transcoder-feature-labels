@@ -1,0 +1,1 @@
+"HTML code snippets, including tags, attributes, and classes, often used for layout, styling, and functionality in web development."

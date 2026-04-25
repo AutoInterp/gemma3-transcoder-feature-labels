@@ -1,0 +1,1 @@
+"Code snippets and comments from various programming languages, including Java, C++, JavaScript, and others, with a focus on function and method definitions, parameter descriptions, and variable declarations."

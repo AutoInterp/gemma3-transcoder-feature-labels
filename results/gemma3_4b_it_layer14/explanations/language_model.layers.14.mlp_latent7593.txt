@@ -1,0 +1,1 @@
+"Text fragments containing page numbers, navigation links, and other metadata, often found at the end of a document or post."

@@ -1,0 +1,1 @@
+"Numerical values representing quantities, such as percentages, numbers of people, or amounts of money, often used for comparison or to convey information about a situation."

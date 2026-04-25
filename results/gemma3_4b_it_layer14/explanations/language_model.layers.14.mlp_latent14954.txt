@@ -1,0 +1,1 @@
+"Text fragments that appear to be instructions, forms, or templates, often containing blank fields or placeholders, and sometimes followed by a block of text that seems to be a continuation of the previous content."

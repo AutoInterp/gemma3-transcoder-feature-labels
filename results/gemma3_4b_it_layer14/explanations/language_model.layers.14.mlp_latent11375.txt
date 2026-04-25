@@ -1,0 +1,1 @@
+"Texts often contain links to external sources, such as Wikipedia articles, academic papers, or websites, which are embedded in the text using HTML tags. These links are typically denoted by a URL or a reference number."

@@ -1,0 +1,1 @@
+"Various programming languages and their syntax, including class definitions, function calls, and variable declarations, as well as snippets of code in different languages such as Python, Java, JavaScript, and Ruby."

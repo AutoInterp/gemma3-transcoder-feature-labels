@@ -1,0 +1,1 @@
+"Dates and times, often in the format of a specific day of the week, followed by a period of time, and sometimes accompanied by a location."

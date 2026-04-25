@@ -1,0 +1,1 @@
+"Dates and years, often in the format of a four-digit number, frequently appear in the text, often in conjunction with other information such as events, locations, or names."

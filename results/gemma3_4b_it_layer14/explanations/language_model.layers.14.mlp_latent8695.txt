@@ -1,0 +1,1 @@
+"Various tables and data structures in different formats, including CSV, SQL, and JSON, often containing information about products, market data, and technical specifications."

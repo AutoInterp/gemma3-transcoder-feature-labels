@@ -1,0 +1,1 @@
+"Text segments enclosed by these delimiters often contain quotes, citations, or references to external sources, and sometimes represent a change in speaker or a shift in context."

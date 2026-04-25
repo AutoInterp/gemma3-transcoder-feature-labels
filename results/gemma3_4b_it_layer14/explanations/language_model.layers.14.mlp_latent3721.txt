@@ -1,0 +1,1 @@
+"Text fragments often appear at the beginning or end of a sentence, and sometimes within a quotation, and are typically enclosed in delimiters. These fragments are often titles, subtitles, or references to external sources, and may be used to provide additional context or information."

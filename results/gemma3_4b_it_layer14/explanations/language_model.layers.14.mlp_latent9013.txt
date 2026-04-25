@@ -1,0 +1,1 @@
+"Texts containing programming code snippets, mathematical expressions, and algorithmic descriptions, often involving data structures, functions, and operations."

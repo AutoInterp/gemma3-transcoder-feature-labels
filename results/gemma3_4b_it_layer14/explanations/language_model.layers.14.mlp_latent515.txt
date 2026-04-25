@@ -1,0 +1,1 @@
+"Texts containing lists of items, often with a specific structure and formatting, such as bullet points, numbered lists, or paragraphs with a clear topic and subtopics."

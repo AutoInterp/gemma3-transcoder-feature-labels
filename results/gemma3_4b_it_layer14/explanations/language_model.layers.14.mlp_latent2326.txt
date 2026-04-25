@@ -1,0 +1,1 @@
+"Email addresses, URLs, and file paths are common in the text, often used for contact information, references, or links to external resources."

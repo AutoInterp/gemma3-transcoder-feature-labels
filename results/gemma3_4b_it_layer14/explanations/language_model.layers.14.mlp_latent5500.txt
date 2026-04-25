@@ -1,0 +1,1 @@
+"Various code snippets, mostly in Java, with some XML and HTML, and a few lines of text in different languages, likely from academic papers, articles, or books."

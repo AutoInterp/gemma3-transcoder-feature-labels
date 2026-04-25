@@ -1,0 +1,1 @@
+"Texts often contain dates in the format of year, sometimes with additional information such as month or day, and sometimes with a specific time or era."

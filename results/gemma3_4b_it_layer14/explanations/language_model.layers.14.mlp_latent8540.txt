@@ -1,0 +1,1 @@
+"Texts from various sources, including articles, blog posts, and code snippets, with a focus on programming concepts, object-oriented programming, and system design."

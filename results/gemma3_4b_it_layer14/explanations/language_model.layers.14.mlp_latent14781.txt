@@ -1,0 +1,1 @@
+"Texts from various sources, including articles, books, and code, with a focus on extracting specific phrases or sentences that may be relevant to the analysis. The patterns found in these examples include citations, references, and URLs, as well as code snippets and mathematical expressions."

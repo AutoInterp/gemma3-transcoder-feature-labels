@@ -1,0 +1,1 @@
+"Text fragments that appear to be comments, notes, or additional information, often providing context or explanations, frequently found at the end of a section or paragraph."

@@ -1,0 +1,1 @@
+"Texts containing URLs, article titles, or specific phrases that are likely to be extracted as metadata or keywords, often related to news, finance, or product information."

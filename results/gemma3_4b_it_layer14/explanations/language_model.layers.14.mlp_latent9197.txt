@@ -1,0 +1,1 @@
+"Various types of text, including articles, code snippets, and quotes, with a focus on extracting specific information such as URLs, function names, and variable names."

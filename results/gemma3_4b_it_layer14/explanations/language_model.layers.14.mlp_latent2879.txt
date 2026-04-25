@@ -1,0 +1,1 @@
+"Text snippets often contain URLs, product names, or specific instructions, frequently appearing at the end of a passage or as a standalone block of text."

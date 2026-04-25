@@ -1,0 +1,1 @@
+"Various numerical values, including prices, quantities, and measurements, often in a format that includes currency symbols, percentages, and units of measurement."

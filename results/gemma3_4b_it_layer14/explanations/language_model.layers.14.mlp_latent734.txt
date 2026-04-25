@@ -1,0 +1,1 @@
+"Various programming code snippets and text from documentation, setup manuals, and source code files, including Java, C++, XAML, and XML."

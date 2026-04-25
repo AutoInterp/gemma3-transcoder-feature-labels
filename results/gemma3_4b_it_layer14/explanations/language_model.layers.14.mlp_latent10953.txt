@@ -1,0 +1,1 @@
+"Texts often contain tangential information, quotes, or unrelated sentences, which can be identified by their low activation values."

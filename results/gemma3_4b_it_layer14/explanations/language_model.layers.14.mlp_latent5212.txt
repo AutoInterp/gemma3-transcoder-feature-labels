@@ -1,0 +1,1 @@
+"Text fragments representing geographical locations, public transportation routes, or travel information, often used to provide context or specify a particular area."

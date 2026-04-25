@@ -1,0 +1,1 @@
+"Text segments often appear between delimiters, typically describing recipes, instructions, or crafting processes, and are frequently followed by a new segment that continues the narrative or provides additional information."

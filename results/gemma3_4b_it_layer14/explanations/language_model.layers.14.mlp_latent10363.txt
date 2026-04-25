@@ -1,0 +1,1 @@
+"Text fragments containing legal or technical information, such as license agreements, copyright notices, and technical specifications, often found in code or documentation."

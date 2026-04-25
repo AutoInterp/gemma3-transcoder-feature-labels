@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including SQL, PHP, Go, and Java, as well as text from documentation, comments, and human rights reports."

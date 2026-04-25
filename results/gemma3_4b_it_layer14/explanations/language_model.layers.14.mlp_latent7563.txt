@@ -1,0 +1,1 @@
+"Texts from various sources, including scientific articles, programming code, and online content, with a focus on extracting specific phrases and words. The patterns found include: technical terms and jargon, programming language syntax, and idiomatic expressions. The texts also exhibit a mix of formal and informal language, with varying levels of complexity and technicality."

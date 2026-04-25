@@ -1,0 +1,1 @@
+"Texts containing geographical information, such as latitude and longitude, addresses, and locations, often in the context of real estate, travel, or scientific data."

@@ -1,0 +1,1 @@
+"Text fragments containing special characters, HTML tags, and code snippets, often indicating technical or formal content."

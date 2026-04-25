@@ -1,0 +1,1 @@
+"Texts often contain phrases and sentences that describe various concepts, such as size (\"wide\", \"er\"), objects (\"house\", \"box\", \"way\"), emotions (\"cruelty-free\", \"delicious\", \"devastating\"), and characteristics (\"healthy\", \"loyal\", \"good\", \"brave\"), as well as comparisons and contrasts (\"more\", \"less\", \"better\", \"worse\")."

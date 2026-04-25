@@ -1,0 +1,1 @@
+"Numerical values representing time, scores, or distances in various contexts, often used to describe the progression of a game, match, or competition."

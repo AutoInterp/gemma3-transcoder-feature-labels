@@ -1,0 +1,1 @@
+"Texts that are not part of the main content, such as headers, footers, or unrelated information, often have low activation values."

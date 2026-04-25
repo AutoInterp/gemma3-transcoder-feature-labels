@@ -1,0 +1,1 @@
+"Various types of identifiers, codes, and numbers, including ISBNs, publication dates, page numbers, prices, and other metadata, often found at the end of a text block or in a specific format."

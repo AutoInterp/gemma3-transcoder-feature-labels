@@ -1,0 +1,1 @@
+"Various phrases and sentences that are either ignored or truncated, often due to the presence of special characters or formatting."

@@ -1,0 +1,1 @@
+"Various types of text fragments, including titles, subtitles, and phrases, often used to introduce or explain a concept, and sometimes containing mathematical equations or programming code."

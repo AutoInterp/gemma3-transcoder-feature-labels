@@ -1,0 +1,1 @@
+"Texts containing various types of metadata, such as copyright information, licensing agreements, and references to external sources, often accompanied by activation values indicating their presence or relevance."

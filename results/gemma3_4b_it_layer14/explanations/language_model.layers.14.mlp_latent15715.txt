@@ -1,0 +1,1 @@
+"SQL code snippets, likely from database schema definitions, queries, or data manipulation scripts, containing various data types, table structures, and function calls."

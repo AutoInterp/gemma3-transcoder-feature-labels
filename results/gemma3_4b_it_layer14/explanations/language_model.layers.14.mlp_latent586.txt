@@ -1,0 +1,1 @@
+"Various sequences of numbers, often representing lists or arrays, and sometimes appearing in code snippets or mathematical contexts."

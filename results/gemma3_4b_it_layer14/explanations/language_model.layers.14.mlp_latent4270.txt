@@ -1,0 +1,1 @@
+"Various file paths and directory listings, often containing file names and extensions, and sometimes accompanied by programming code or text from articles and research papers."

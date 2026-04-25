@@ -1,0 +1,1 @@
+"Various programming code snippets, database schema, and text data in multiple languages, including SQL, Java, and English."

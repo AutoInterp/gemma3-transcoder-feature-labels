@@ -1,0 +1,1 @@
+"Texts often contain sequences of numbers and letters, possibly representing identifiers, codes, or other types of data. Additionally, there are instances of formal or technical language, such as programming code, legal terminology, and academic jargon."

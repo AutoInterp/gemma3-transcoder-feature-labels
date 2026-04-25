@@ -1,0 +1,1 @@
+"Text fragments that appear to be article titles, headings, or section breaks, often followed by a brief description or a list of keywords."

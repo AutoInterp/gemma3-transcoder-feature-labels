@@ -1,0 +1,1 @@
+"Various programming code snippets, including Java, Python, C++, SQL, and JSON, as well as text from scientific papers, religious texts, and general text."

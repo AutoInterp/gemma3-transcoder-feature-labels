@@ -1,0 +1,1 @@
+"Mathematical and programming-related text with various formulas, equations, and code snippets, often involving optimization, sparse coding, and numerical computations."

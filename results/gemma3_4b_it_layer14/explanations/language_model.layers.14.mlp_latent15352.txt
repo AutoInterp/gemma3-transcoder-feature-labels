@@ -1,0 +1,1 @@
+"Code snippets from various programming languages and markup languages, including HTML, CSS, and JavaScript, as well as SQL queries and text descriptions of programming concepts and variables."

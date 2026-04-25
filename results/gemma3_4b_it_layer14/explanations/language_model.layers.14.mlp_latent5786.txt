@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including Java, Python, and JavaScript, as well as text from articles, blog posts, and other written content. The patterns found in these examples include code syntax, variable declarations, function calls, and logical operators, as well as grammatical structures and sentence patterns from written language."

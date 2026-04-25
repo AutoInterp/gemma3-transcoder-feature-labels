@@ -1,0 +1,1 @@
+"Various numerical values and units representing quantities, such as rates, amounts, and frequencies, often used for comparison or to convey information about time, money, or physical properties."

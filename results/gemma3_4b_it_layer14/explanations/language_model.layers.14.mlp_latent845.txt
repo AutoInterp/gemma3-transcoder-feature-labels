@@ -1,0 +1,1 @@
+"Various types of delimiters and special characters used to separate or denote specific information, such as HTML tags, XML tags, programming syntax, and punctuation."

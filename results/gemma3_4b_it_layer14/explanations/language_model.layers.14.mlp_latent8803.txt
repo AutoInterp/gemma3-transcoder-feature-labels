@@ -1,0 +1,1 @@
+"Text fragments containing non-standard or encoded characters, likely representing errors or corrupted data."

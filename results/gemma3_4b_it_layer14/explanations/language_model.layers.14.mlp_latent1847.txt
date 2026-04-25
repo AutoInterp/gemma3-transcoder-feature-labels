@@ -1,0 +1,1 @@
+"Various types of text data, including articles, product descriptions, and mathematical expressions, with a focus on numerical values, units, and mathematical operations."

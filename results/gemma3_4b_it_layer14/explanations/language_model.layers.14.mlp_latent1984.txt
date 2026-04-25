@@ -1,0 +1,1 @@
+"Text fragments enclosed in angle brackets, often indicating code, technical terms, or specific data, and sometimes used to denote the start or end of a section or a quotation."

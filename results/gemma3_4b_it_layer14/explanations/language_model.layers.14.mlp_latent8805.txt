@@ -1,0 +1,1 @@
+"Code snippets and programming concepts, including mathematical formulas, data structures, and algorithmic implementations, often related to computer graphics, game development, and scientific computing."

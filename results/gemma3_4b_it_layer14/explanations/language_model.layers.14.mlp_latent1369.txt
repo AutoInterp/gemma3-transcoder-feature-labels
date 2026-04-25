@@ -1,0 +1,1 @@
+"Various types of text, including academic citations, articles, and online forum posts, with a focus on extracting specific information and formatting."

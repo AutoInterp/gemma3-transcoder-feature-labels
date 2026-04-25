@@ -1,0 +1,1 @@
+"Long sequences of text that are not necessarily grammatically correct or coherent, but rather appear to be extracted from various sources, often with a focus on specific keywords or phrases. These sequences may be used to train language models or for other purposes such as information retrieval."

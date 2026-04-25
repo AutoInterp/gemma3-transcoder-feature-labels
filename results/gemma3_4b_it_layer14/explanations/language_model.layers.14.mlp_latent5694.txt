@@ -1,0 +1,1 @@
+"Text fragments that are likely to be the end of a sentence or a paragraph, often containing a transition or a conclusion, frequently found at the end of a block of text."

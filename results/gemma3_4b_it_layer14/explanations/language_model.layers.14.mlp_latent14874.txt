@@ -1,0 +1,1 @@
+"Text fragments that are likely to be quotes, often preceded by phrases like \"If you\", \"As is my pleasure\", or \"If a business letter\", and sometimes followed by a reference or a link."

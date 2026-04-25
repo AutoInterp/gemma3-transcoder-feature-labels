@@ -1,0 +1,1 @@
+"Texts from various sources, including articles, poems, and product descriptions, with a focus on extracting specific phrases and words. The patterns found include product specifications (e.g., height, weight), poetic descriptions, and formal language used in articles and essays."

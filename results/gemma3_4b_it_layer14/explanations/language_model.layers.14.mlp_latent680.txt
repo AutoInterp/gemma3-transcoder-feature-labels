@@ -1,0 +1,1 @@
+"Texts often contain long, complex sentences or phrases that are enclosed in delimiters, which may indicate a quote, a parenthetical remark, or a separate thought. These enclosed sections often have lower activation values, suggesting they may be less central to the main idea or may be added as an afterthought."

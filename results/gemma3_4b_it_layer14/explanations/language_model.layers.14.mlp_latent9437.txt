@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are set off by delimiters, which may indicate a quote, a separate idea, or a distinct section of text. These phrases or sentences can be used to provide additional context, contrast, or emphasis to the surrounding text."

@@ -1,0 +1,1 @@
+"The token \"even\" used to indicate a comparison or an exception, often used to soften the tone of a statement."

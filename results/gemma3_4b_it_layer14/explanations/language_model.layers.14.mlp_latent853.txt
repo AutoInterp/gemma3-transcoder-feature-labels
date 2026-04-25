@@ -1,0 +1,1 @@
+"Texts from various sources, including news articles, product descriptions, and social media posts, with a focus on extracting specific information, such as dates, times, locations, and numerical values."

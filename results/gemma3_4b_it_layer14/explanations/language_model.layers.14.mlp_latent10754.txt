@@ -1,0 +1,1 @@
+"Various programming concepts and terminology, including functional programming, closures, lambda functions, and object-oriented programming, as well as mathematical and scientific concepts, and recipes."

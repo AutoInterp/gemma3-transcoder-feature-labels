@@ -1,0 +1,1 @@
+"Text fragments containing numerical values, mathematical expressions, and scientific formulas, often related to technical or academic topics."

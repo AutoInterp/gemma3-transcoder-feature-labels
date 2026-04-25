@@ -1,0 +1,1 @@
+"Text fragments often appear in pairs, typically enclosed by delimiters, and are frequently related to the content that follows or precedes them."

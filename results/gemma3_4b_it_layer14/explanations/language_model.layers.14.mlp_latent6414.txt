@@ -1,0 +1,1 @@
+"Text fragments containing dates, times, and other metadata, often in a formal or structured format, such as email headers, post dates, and timestamps."

@@ -1,0 +1,1 @@
+"Various Unix commands and scripts, including file system operations, package management, and server setup, with a focus on Linux and Git."

@@ -1,0 +1,1 @@
+"Various programming-related terms, including function names, variable names, and data structures, as well as technical concepts and error messages."

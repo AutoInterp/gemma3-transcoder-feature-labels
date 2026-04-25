@@ -1,0 +1,1 @@
+"Texts describing mathematical concepts, formulas, and algorithms, often with a focus on computer science and programming, including examples of code in various programming languages."

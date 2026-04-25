@@ -1,0 +1,1 @@
+"Sequences of numbers and strings representing various data types, such as file names, vectors, arrays, and lists, often used in programming and data analysis contexts."

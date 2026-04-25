@@ -1,0 +1,1 @@
+"Texts often contain phrases and expressions that are not essential to the main meaning, such as idioms, colloquialisms, and extraneous words or phrases, which can be identified by their low activation values."

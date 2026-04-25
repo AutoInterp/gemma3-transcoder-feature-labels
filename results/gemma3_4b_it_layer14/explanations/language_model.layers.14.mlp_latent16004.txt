@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that provide additional information, such as disclaimers, warnings, or explanations, which are typically set apart from the main content. These phrases often appear at the end of a sentence or paragraph and may be preceded by a delimiter or a transition word."

@@ -1,0 +1,1 @@
+"Texts containing dates in various formats, including specific dates, years, and time stamps, often accompanied by other metadata such as author information, tags, and publication details."

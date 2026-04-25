@@ -1,0 +1,1 @@
+"Code snippets and command line outputs, often in a programming language such as bash, and sometimes in a specific programming framework or library."

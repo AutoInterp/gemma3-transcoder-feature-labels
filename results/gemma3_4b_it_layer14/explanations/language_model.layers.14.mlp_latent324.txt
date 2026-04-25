@@ -1,0 +1,1 @@
+"Code snippets in various programming languages, highlighting data types, variable declarations, and function definitions."

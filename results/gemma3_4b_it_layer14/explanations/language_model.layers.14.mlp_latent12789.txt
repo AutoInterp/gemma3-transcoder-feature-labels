@@ -1,0 +1,1 @@
+"Texts containing lists, often with a numerical prefix, and sometimes followed by a colon or a description."

@@ -1,0 +1,1 @@
+"Text contains a mix of coherent and incoherent content, including fragments of articles, book reviews, and personal thoughts, often with low activation values indicating lack of importance or relevance."

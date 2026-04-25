@@ -1,0 +1,1 @@
+"Texts from various programming and technical documentation, including code snippets, configuration files, and user guides, often with a focus on command-line interfaces, file operations, and software installation."

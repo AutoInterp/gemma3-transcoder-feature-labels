@@ -1,0 +1,1 @@
+"Various text snippets related to user authentication, login, and authorization, including login forms, API keys, session tokens, and authentication tokens."

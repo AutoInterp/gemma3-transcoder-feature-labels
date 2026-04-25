@@ -1,0 +1,1 @@
+"Texts with various lengths, often containing incomplete or fragmented sentences, and sometimes including URLs, dates, and other metadata."

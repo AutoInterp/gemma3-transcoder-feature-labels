@@ -1,0 +1,1 @@
+"Texts often contain long sequences of words that are not crucial to the main idea, but provide additional context or information, such as citations, references, or tangential thoughts. These sequences can be identified by their lower activation values compared to the main topic."

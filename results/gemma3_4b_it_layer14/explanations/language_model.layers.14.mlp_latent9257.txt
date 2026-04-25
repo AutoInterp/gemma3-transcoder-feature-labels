@@ -1,0 +1,1 @@
+"Text snippets containing log output, error messages, and technical information, often with a specific format and structure."

@@ -1,0 +1,1 @@
+"The token \"negative\" is used to indicate the opposite of the original inequality holds true, often in the context of solving algebraic expressions or inequalities."

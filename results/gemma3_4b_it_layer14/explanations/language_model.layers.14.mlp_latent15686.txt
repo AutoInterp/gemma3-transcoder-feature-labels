@@ -1,0 +1,1 @@
+"Text snippets often appear between delimiters, sometimes containing URLs, product names, or specific instructions, and are frequently accompanied by low activation values, suggesting they are not the primary focus of the text."

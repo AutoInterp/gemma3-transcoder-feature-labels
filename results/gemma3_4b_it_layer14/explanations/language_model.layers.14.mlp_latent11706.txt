@@ -1,0 +1,1 @@
+"CIDR block range is a continuous 16-character string with no spaces in between, typically starting with \"user_id=\" and containing a unique identifier."

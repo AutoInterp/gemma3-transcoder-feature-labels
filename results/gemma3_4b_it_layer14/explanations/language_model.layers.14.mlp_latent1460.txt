@@ -1,0 +1,1 @@
+"Various programming and technical terms, including file paths, executable names, and command-line arguments, often used in a context of software development, system administration, or data analysis."

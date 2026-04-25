@@ -1,0 +1,1 @@
+"Phrases indicating time periods, often with a specific start and end date, or a range of years."

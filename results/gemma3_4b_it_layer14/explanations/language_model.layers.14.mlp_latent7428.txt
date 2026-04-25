@@ -1,0 +1,1 @@
+"Various technical terms and concepts related to software development, computer hardware, and operating systems, including programming languages, IDEs, and compatibility issues."

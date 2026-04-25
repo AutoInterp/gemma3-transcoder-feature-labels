@@ -1,0 +1,1 @@
+"Email addresses and phone numbers are often embedded in plain text, frequently at the end of a sentence or paragraph, and sometimes preceded by phrases like \"please contact\" or \"email us\"."
