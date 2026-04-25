@@ -1,6 +1,6 @@
 """
 Build a dictionary mapping feature indices to:
-    {id: {"short_label": <=7 words, "long_explanation": full text}}
+    {id: {"explanation": {"label": <=7 words, "description": full text}}}
 
 Uses the SAME local model that produced the delphi explanations
 (unsloth/Meta-Llama-3.1-8B-Instruct) via vLLM for fast batched inference.
@@ -8,7 +8,6 @@ Uses the SAME local model that produced the delphi explanations
 Usage:
     python build_labels_dict.py \
         --explanations_dir results/gemma3_4b_it_layer15/explanations \
-        --output feature_labels.json \
         --model unsloth/Meta-Llama-3.1-8B-Instruct
 
 Requires:
@@ -78,9 +77,7 @@ def build_chat_prompts(explanations: list[str], tokenizer) -> list[str]:
 def detect_layer_name(explanations_dir: str) -> str:
     """
     Scan the explanations directory and extract the layer identifier
-    (e.g. 'layers.15') from the filenames. Raises if files come from
-    multiple different layers, since mixing them into one labels file
-    would be ambiguous.
+    (e.g. 'layers.15') from the filenames.
     """
     explanations_path = Path(explanations_dir)
     layer_pattern = re.compile(r"(layers\.\d+)")
@@ -98,24 +95,26 @@ def detect_layer_name(explanations_dir: str) -> str:
     if len(found) > 1:
         raise ValueError(
             f"Explanations directory contains multiple layers: {sorted(found)}. "
-            "Run this script once per layer, or pass --output explicitly."
+            "Run this script once per layer."
         )
     return found.pop()
+
+
+def detect_layer_number(explanations_dir: str) -> int:
+    """Extract just the layer number (e.g. 15) from filenames."""
+    layer_name = detect_layer_name(explanations_dir)
+    return int(layer_name.split(".")[-1])
 
 
 def clean_label(raw: str, max_words: int = 7) -> str:
     """Sanitize a raw model output into a clean short label."""
     label = raw.strip()
-    # Keep only the first non-empty line (defense against model yapping)
     for line in label.splitlines():
         if line.strip():
             label = line.strip()
             break
-    # Remove any "Short label:" prefix the model might repeat
     label = re.sub(r"^\s*short label\s*[:\-]\s*", "", label, flags=re.IGNORECASE)
-    # Strip surrounding quotes and trailing punctuation
     label = label.strip().strip('"').strip("'").rstrip(".!?,;:")
-    # Safety net: enforce the 7-word cap
     words = label.split()
     if len(words) > max_words:
         label = " ".join(words[:max_words])
@@ -132,21 +131,16 @@ def summarize_labels_batch(
     tokenizer,
     max_words: int = 7,
 ) -> list[str]:
-    """
-    Summarize a whole batch of long explanations into short labels.
-    vLLM handles continuous batching internally — passing everything
-    at once is far faster than one-by-one generation.
-    """
+    """Summarize a batch of long explanations into short labels."""
     prompts = build_chat_prompts(explanations, tokenizer)
 
     sampling_params = SamplingParams(
-        temperature=0.0,          # deterministic
-        max_tokens=32,            # 7 words is tiny
+        temperature=0.0,
+        max_tokens=32,
         stop=["\n\n", "<|eot_id|>"],
     )
 
     outputs = llm.generate(prompts, sampling_params)
-    # vLLM preserves input order
     return [clean_label(o.outputs[0].text, max_words=max_words) for o in outputs]
 
 
@@ -161,10 +155,7 @@ def build_labels_dict(
 ) -> dict[int, dict]:
     """
     Read all explanation .txt files and build:
-        {feature_index: {"short_label": str, "long_explanation": str}}
-
-    File naming convention (from delphi):
-        language_model.layers.15.mlp_latent{INDEX}.txt
+        {feature_index: {"explanation": {"label": str, "description": str}}}
     """
     explanations_path = Path(explanations_dir)
 
@@ -180,7 +171,6 @@ def build_labels_dict(
     if not items:
         raise FileNotFoundError(f"No explanation .txt files in {explanations_dir}")
 
-    # Numeric sort by feature id (not alphabetic, so latent2 comes before latent10)
     items.sort(key=lambda x: x[0])
 
     indices = [i for i, _ in items]
@@ -190,39 +180,47 @@ def build_labels_dict(
     short_labels = summarize_labels_batch(explanations, llm, tokenizer)
 
     labels = {
-        idx: {"short_label": short, "long_explanation": long_exp}
+        idx: {"explanation": {"label": short, "description": long_exp}}
         for idx, short, long_exp in zip(indices, short_labels, explanations)
     }
     return dict(sorted(labels.items()))
 
 
 def main():
-    parser = argparse.ArgumentParser(description="Build {id: {short_label, long_explanation}} dict")
-    parser.add_argument("--explanations_dir", type=str,
-                        default="results/gemma3_4b_it_layer15/explanations",
-                        help="Path to the delphi explanations directory")
-    parser.add_argument("--output", type=str, default=None,
-                        help="Output JSON path. If omitted, defaults to "
-                             "feature_labels_<layer>.json (layer auto-detected "
-                             "from filenames, e.g. 'feature_labels_layers.15.json')")
-    parser.add_argument("--model", type=str,
-                        default="unsloth/Meta-Llama-3.1-8B-Instruct",
-                        help="Same local model used for explanation generation")
-    parser.add_argument("--max_model_len", type=int, default=4096,
-                        help="Max sequence length for vLLM")
-    parser.add_argument("--gpu_memory_utilization", type=float, default=0.9,
-                        help="Fraction of GPU memory vLLM may use")
-    parser.add_argument("--dtype", type=str, default="bfloat16",
-                        help="bfloat16 | float16 | auto")
-    parser.add_argument("--tensor_parallel_size", type=int, default=1,
-                        help="Number of GPUs for tensor parallelism")
+    parser = argparse.ArgumentParser(
+        description="Build {id: {explanation: {label, description}}} dict"
+    )
+    parser.add_argument(
+        "--explanations_dir", type=str,
+        default="results/gemma3_4b_it_layer15/explanations",
+        help="Path to the delphi explanations directory",
+    )
+    parser.add_argument(
+        "--output_dir", type=str, default="feature_labels",
+        help="Output directory (created if it doesn't exist)",
+    )
+    parser.add_argument(
+        "--model", type=str,
+        default="unsloth/Meta-Llama-3.1-8B-Instruct",
+        help="Same local model used for explanation generation",
+    )
+    parser.add_argument("--max_model_len", type=int, default=4096)
+    parser.add_argument("--gpu_memory_utilization", type=float, default=0.9)
+    parser.add_argument("--dtype", type=str, default="bfloat16")
+    parser.add_argument("--tensor_parallel_size", type=int, default=1)
     args = parser.parse_args()
 
-    # Resolve output path: auto-name from detected layer if not given
-    if args.output is None:
-        layer = detect_layer_name(args.explanations_dir)
-        args.output = f"feature_labels_{layer}.json"
-        print(f"Auto-detected layer: {layer} → output: {args.output}")
+    # Auto-detect layer number
+    layer_num = detect_layer_number(args.explanations_dir)
+    print(f"Auto-detected layer: {layer_num}")
+
+    # Create output directory if it doesn't exist
+    output_path = Path(args.output_dir)
+    output_path.mkdir(parents=True, exist_ok=True)
+    print(f"Output directory: {output_path}")
+
+    # Output file named by layer
+    output_file = output_path / f"feature_labels_layer_{layer_num}.json"
 
     print(f"Loading tokenizer + model: {args.model}")
     tokenizer = AutoTokenizer.from_pretrained(args.model)
@@ -240,17 +238,18 @@ def main():
         tokenizer=tokenizer,
     )
 
-    with open(args.output, "w", encoding="utf-8") as f:
+    with open(output_file, "w", encoding="utf-8") as f:
         json.dump(labels, f, indent=2, ensure_ascii=False)
 
     print(f"\nTotal features labeled: {len(labels)}")
-    print(f"Saved to: {args.output}")
+    print(f"Saved to: {output_file}")
 
     print("\nExamples:")
     for k, v in list(labels.items())[:5]:
-        print(f"  [{k}] {v['short_label']}")
-        print(f"       └─ {v['long_explanation'][:90]}...")
+        print(f"  [{k}] {v['explanation']['label']}")
+        print(f"       └─ {v['explanation']['description'][:90]}...")
 
 
 if __name__ == "__main__":
     main()
+    
