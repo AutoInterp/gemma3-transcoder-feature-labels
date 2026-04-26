@@ -1,0 +1,1 @@
+"Texts containing URLs, database queries, and programming code, often in a context of online articles, research papers, or technical documentation."

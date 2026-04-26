@@ -1,0 +1,1 @@
+"Enclosed strings in code, often used for variable names, function parameters, or method calls, and sometimes for error messages or output."

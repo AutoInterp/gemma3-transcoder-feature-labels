@@ -1,0 +1,1 @@
+"Text fragments enclosed in parentheses or other delimiters, often containing code snippets, technical terms, or philosophical concepts, which are used to illustrate or explain a point in the surrounding text."

@@ -1,0 +1,1 @@
+"Various programming languages and frameworks, including Java, Python, JavaScript, and C, with a focus on error handling, debugging, and logging."

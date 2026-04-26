@@ -1,0 +1,1 @@
+"Time-related expressions and units, including seconds, minutes, hours, and days, often used in conjunction with specific events, actions, or comparisons."

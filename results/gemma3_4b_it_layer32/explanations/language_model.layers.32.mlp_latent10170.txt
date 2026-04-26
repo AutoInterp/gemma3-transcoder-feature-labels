@@ -1,0 +1,1 @@
+"Texts from various sources, including news articles, product descriptions, and social media posts, with a focus on extracting specific phrases or sentences that may be relevant to the task. The extracted phrases often contain proper nouns, locations, and specific events, suggesting that the task may be related to information retrieval or entity extraction."

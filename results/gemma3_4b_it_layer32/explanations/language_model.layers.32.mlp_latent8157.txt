@@ -1,0 +1,1 @@
+"Texts containing various types of information, including product names, song titles, book titles, movie titles, and names of people, places, and organizations, often accompanied by activation values indicating their importance in the text."

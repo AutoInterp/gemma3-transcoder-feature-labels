@@ -1,0 +1,1 @@
+"Various technical and informative texts discussing programming, networking, and other technical concepts, often including code snippets and explanations of specific features or protocols."

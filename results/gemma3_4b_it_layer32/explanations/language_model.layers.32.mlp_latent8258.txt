@@ -1,0 +1,1 @@
+"Texts containing various types of data, including numbers, dates, times, mathematical expressions, programming code, and natural language sentences, often with specific formatting and syntax."

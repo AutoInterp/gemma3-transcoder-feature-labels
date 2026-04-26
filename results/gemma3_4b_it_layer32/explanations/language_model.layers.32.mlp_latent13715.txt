@@ -1,0 +1,1 @@
+"Texts from various sources, including articles, stories, and code snippets, with a focus on Chinese language and culture. The patterns found include discussions on education, technology, and societal changes, as well as examples of object-oriented programming in Python."

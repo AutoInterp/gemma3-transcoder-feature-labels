@@ -1,0 +1,1 @@
+"Texts containing programming-related information, including code snippets, compiler versions, and installation instructions, as well as technical documentation and research papers."

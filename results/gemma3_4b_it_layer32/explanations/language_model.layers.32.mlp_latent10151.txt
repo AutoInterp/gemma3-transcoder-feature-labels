@@ -1,0 +1,1 @@
+"Timestamps in various formats, including date and time, often used to indicate when a post or message was made, and sometimes used as a delimiter in code or text."

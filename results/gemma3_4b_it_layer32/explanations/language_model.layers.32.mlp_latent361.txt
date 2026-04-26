@@ -1,0 +1,1 @@
+"Text fragments often appear at the beginning or end of a sentence, and are typically separated from the rest of the text by a delimiter. These fragments can be quotes, citations, or other types of references, and are often used to provide additional context or information."

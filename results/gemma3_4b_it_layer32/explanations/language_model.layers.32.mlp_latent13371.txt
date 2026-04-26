@@ -1,0 +1,1 @@
+"Numbers representing various physical quantities, such as temperatures, percentages, rates, and measurements, often in scientific or technical contexts."

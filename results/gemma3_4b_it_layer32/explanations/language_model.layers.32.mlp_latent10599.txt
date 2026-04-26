@@ -1,0 +1,1 @@
+"Texts containing programming commands, instructions, and tips for setting up development environments, debugging, and testing, often with a focus on version control systems, package managers, and command-line interfaces."

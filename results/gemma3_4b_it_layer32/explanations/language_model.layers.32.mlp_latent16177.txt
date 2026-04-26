@@ -1,0 +1,1 @@
+"Texts discussing linear concepts, including linear equations, linear regression, linear programming, and linear data representation, often in the context of mathematics, computer science, and engineering."

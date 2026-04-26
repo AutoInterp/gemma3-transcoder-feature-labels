@@ -1,0 +1,1 @@
+"Technical documentation and programming code snippets, often with specific syntax and terminology related to various programming languages and data structures."

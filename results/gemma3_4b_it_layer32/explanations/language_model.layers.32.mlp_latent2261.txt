@@ -1,0 +1,1 @@
+"Texts containing programming code, technical documentation, and various types of data, including SQL queries, JSON objects, and mathematical formulas, often accompanied by comments and explanations in multiple languages."

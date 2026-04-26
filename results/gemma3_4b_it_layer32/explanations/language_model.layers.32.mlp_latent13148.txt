@@ -1,0 +1,1 @@
+"Frequent mentions of various software and technology terms, including operating systems (NetBSD, DragonFly, FreeBSD, MacOS X, Windows XP), programming languages and frameworks (NetBeans, Eclipse, IntelliJ, Apache Shiro), network protocols and tools (Nmap, Netrc, Curl), and other technical concepts (pkgsrc, ports mechanism, virtual hosts, network scanning, security auditing)."

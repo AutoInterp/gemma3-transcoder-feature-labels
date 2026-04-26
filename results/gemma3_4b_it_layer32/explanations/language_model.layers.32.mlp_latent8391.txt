@@ -1,0 +1,1 @@
+"Text fragments often appear at the beginning or end of a sentence, and are typically related to the content that follows or precedes them, such as setting the context, providing additional information, or transitioning to a new topic."

@@ -1,0 +1,1 @@
+"Text primarily consists of mathematical expressions and algorithms, with a focus on computational complexity, probability, and combinatorics."

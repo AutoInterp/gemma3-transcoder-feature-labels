@@ -1,0 +1,1 @@
+"Code snippets and programming concepts, including variable names, function calls, and error handling, often found in programming documentation and online forums."

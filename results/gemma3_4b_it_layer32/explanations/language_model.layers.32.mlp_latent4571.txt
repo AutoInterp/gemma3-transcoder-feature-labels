@@ -1,0 +1,1 @@
+"Texts containing technical and programming-related content, including code snippets, mathematical expressions, and explanations of algorithms and data structures."

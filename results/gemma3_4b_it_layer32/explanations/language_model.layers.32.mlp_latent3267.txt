@@ -1,0 +1,1 @@
+"Texts from various programming languages, documentation, and online content, including comments, code snippets, and error messages."

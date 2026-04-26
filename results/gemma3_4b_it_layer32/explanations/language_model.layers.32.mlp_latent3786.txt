@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are truncated or abbreviated, typically to save space, such as \"TV\" for \"television\" or \"CBSE\" for \"Central Board of Secondary Education\"."

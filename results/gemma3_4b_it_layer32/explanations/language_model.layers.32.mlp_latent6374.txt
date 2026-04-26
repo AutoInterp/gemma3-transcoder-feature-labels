@@ -1,0 +1,1 @@
+"Texts discussing file operations, including copying, uploading, and accessing files from various locations, such as local directories, network-attached storage (NAS) devices, and cloud storage."

@@ -1,0 +1,1 @@
+"The token \"ins\" or \"in\" followed by a word that starts with the sound \"s\" or is a word that means \"within\" or \"inside\"."

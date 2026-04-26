@@ -1,0 +1,1 @@
+"Texts containing various types of errors, inconsistencies, or issues, often related to technical or programming contexts, and sometimes accompanied by explanations or solutions."

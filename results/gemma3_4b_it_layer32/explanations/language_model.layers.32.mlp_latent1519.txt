@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including Ruby, Java, JavaScript, and SQL, as well as HTML and XML fragments, and text from articles and books."

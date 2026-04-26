@@ -1,0 +1,1 @@
+"Technical text with various mathematical and scientific concepts, including fiber bundles, Lie groups, and conditional probability, often accompanied by code snippets and programming-related terminology."

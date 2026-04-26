@@ -1,0 +1,1 @@
+"Java and Spring framework code snippets, primarily annotations, classes, and methods, used for web development, database interactions, and testing."

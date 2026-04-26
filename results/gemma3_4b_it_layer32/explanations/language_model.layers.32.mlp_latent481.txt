@@ -1,0 +1,1 @@
+"Various types of text enclosed in angle brackets, often containing file names, URLs, or other metadata, sometimes interrupting the main text flow."

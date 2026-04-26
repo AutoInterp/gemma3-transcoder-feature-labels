@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are set apart from the rest of the narrative, sometimes to convey a sense of importance, to provide additional context, or to create a sense of drama. These phrases or sentences often have higher activation values, indicating their significance in the text."

@@ -1,0 +1,1 @@
+"Text contains a mix of numerical data, measurements, and units, often in the form of tables, lists, or scientific notation, frequently accompanied by technical or scientific terminology."

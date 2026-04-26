@@ -1,0 +1,1 @@
+"Texts often contain geographical locations, proper nouns, and specific names, which are frequently embedded in sentences or phrases describing events, places, or people."

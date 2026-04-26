@@ -1,0 +1,1 @@
+"The token \"package\" is often used in the context of software development, referring to a collection of related files and libraries, as well as in everyday language to describe a set of items or services offered together."

@@ -1,0 +1,1 @@
+"Text primarily consists of technical descriptions of mathematical and physical concepts, including equations, models, and algorithms, often related to fields such as fluid dynamics, mechanics, and physics."

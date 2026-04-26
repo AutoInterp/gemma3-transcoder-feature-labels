@@ -1,0 +1,1 @@
+"Texts with various topics, including medical information, historical events, and scientific concepts, often contain long sequences of text without any special words, followed by a short sequence of text with high activation values, typically indicating a key term or concept."

@@ -1,0 +1,1 @@
+"The text contains various numerical values, often used to describe quantities, percentages, or amounts, such as percentages (e.g. 66%, 50%), numbers of items (e.g. 3 ties, 3.6 grams), and quantities of time (e.g. 24-hour, 30 years)."

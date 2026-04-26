@@ -1,0 +1,1 @@
+"HTML and PHP code snippets, with emphasis on HTML tags and PHP variables, functions, and syntax."

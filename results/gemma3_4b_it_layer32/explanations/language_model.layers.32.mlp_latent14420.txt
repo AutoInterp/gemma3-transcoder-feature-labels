@@ -1,0 +1,1 @@
+"Texts often contain proper nouns, such as names of places, organizations, and people, which are frequently mentioned in conjunction with other words like \"of\", \"the\", and \"and\". Additionally, technical terms and jargon from various fields like medicine, finance, and science are commonly used, often accompanied by citations or references."

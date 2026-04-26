@@ -1,0 +1,1 @@
+"Text fragments that appear to be titles, headings, or captions, often containing specific information such as names, dates, locations, or descriptions."

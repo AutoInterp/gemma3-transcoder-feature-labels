@@ -1,0 +1,1 @@
+"HTML tags and attributes used in text, including single tags, matching tags, and attributes for styling and formatting."

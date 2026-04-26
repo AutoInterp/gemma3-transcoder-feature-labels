@@ -1,0 +1,1 @@
+"Code snippets in various programming languages, including C#, JavaScript, and Python, with a focus on data structures, algorithms, and software development."

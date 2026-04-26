@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are set apart from the rest of the text, usually to indicate a change in location, a quotation, or a separate idea. These phrases or sentences can be preceded by a delimiter, and may contain important information about the context or setting."

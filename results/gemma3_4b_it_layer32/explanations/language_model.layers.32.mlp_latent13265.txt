@@ -1,0 +1,1 @@
+"Numerical values representing monetary amounts, often used in financial or economic contexts, such as prices, costs, fees, and savings."

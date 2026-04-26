@@ -1,0 +1,1 @@
+"Texts describing programming concepts, data encryption, and SQL queries, often with examples and code snippets."

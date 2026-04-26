@@ -1,0 +1,1 @@
+"Various types of text data, including domain-specific articles, technical documentation, and online content, with a focus on extracting specific information or patterns."

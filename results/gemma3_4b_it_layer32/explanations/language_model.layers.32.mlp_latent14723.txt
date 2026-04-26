@@ -1,0 +1,1 @@
+"Text fragments that are likely code snippets or programming language syntax, often containing variable names, function calls, and data types."

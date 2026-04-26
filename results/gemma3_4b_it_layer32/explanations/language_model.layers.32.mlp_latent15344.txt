@@ -1,0 +1,1 @@
+"Code snippets in various programming languages, often Java, and XML or JSON data structures, embedded within a larger text."

@@ -1,0 +1,1 @@
+"Text fragments containing numerical data, statistics, or technical information, often presented in a structured or tabular format."

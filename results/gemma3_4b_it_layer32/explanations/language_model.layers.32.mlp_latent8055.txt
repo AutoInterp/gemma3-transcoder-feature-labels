@@ -1,0 +1,1 @@
+"Texts that are not part of the main narrative, often providing additional context, explanations, or background information, and are typically denoted by a lower activation score."

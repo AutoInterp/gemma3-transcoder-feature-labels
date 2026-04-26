@@ -1,0 +1,1 @@
+"Various types of addresses, including physical locations, URLs, and phone numbers, often presented in a formal or structured format."

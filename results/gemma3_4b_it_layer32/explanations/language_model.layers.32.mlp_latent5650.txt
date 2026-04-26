@@ -1,0 +1,1 @@
+"Text fragments often appear at the beginning or end of a sentence, sometimes containing instructions, commands, or specific information, and are frequently used in programming or technical contexts."

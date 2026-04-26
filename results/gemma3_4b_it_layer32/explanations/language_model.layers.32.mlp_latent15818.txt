@@ -1,0 +1,1 @@
+"Texts are often fragmented and contain various types of information, including medical explanations, job advertisements, and personal anecdotes, which are sometimes interrupted by delimiters."

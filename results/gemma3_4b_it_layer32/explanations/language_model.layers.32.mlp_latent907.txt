@@ -1,0 +1,1 @@
+"Text snippets often contain addresses, business names, and event information, frequently appearing in a specific format, such as street names, city names, and zip codes."

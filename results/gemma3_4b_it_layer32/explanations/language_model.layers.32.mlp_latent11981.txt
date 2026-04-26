@@ -1,0 +1,1 @@
+"SQL code snippets, primarily focusing on database table creation, trigger setup, and data type specification, particularly the distinction between geography and geometry data types."

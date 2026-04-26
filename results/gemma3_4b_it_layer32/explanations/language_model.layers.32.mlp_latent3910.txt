@@ -1,0 +1,1 @@
+"Texts containing error messages, warnings, or instructions, often related to programming, software, or technical issues."

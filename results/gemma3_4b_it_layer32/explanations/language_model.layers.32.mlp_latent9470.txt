@@ -1,0 +1,1 @@
+"Text fragments often containing a colon (:) followed by a title, reference, or explanation, typically indicating a transition to a new topic or a citation."

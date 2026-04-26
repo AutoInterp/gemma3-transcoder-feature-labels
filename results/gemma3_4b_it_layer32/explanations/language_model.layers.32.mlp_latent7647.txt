@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are incomplete or truncated, likely due to the presence of ellipses or other punctuation marks not provided in the input."

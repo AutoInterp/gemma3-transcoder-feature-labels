@@ -1,0 +1,1 @@
+"Texts from various sources, including articles, news reports, and online content, with a focus on extracting and analyzing specific phrases, sentences, or code snippets. The extracted phrases often relate to idioms, quotes, or technical terms, while the code snippets appear to be from programming languages such as Java, Python, and Zsh."

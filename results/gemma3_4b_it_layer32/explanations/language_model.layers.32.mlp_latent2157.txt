@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are enclosed in delimiters, which appear to be article titles, subtitles, or additional information. These enclosed texts frequently have lower activation values, suggesting they are secondary or supplementary information."

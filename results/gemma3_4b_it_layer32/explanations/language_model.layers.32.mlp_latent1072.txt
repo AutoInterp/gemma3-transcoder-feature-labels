@@ -1,0 +1,1 @@
+"Texts often contain phrases describing a change in state or position, such as \"up\", \"over\", \"down\", \"in\", \"out\", and \"against\", often used in conjunction with verbs like \"walk\", \"rise\", \"strike\", \"grab\", and \"break\"."

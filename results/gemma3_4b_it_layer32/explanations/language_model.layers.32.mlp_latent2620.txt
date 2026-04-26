@@ -1,0 +1,1 @@
+"Texts describing programming concepts, object-oriented programming, and problem-solving strategies, often using metaphors and analogies, such as comparing classes to real-world objects and asynchronous operations to physical movements."

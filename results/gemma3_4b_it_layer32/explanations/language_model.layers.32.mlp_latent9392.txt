@@ -1,0 +1,1 @@
+"Texts discussing Java-related topics, including J2EE, JMX, and various Java frameworks and tools, with a focus on technical explanations and examples."

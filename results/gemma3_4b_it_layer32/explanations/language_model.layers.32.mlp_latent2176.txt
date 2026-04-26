@@ -1,0 +1,1 @@
+"Texts containing lists of achievements or rewards, often in the format of \"X Points [description]\"."

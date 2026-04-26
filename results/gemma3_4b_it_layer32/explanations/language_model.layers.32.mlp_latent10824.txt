@@ -1,0 +1,1 @@
+"Code snippets in various programming languages, including Java, SQL, and Python, with a focus on database interactions, data analysis, and user interface design."

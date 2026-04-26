@@ -1,0 +1,1 @@
+"Text fragments often containing a title or a name, sometimes followed by a description or a quote, and occasionally a link or a reference."

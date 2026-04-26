@@ -1,0 +1,1 @@
+"Text snippets containing geographical locations, distances, and weather information, often presented in a specific format with coordinates and time."

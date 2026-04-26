@@ -1,0 +1,1 @@
+"Technical documentation and programming code snippets, often containing variable names, function descriptions, and configuration settings."

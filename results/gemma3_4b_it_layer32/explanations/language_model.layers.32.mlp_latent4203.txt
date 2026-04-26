@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are not semantically meaningful, but rather serve as placeholders or examples, frequently containing technical terms or jargon."

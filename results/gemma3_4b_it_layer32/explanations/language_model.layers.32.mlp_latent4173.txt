@@ -1,0 +1,1 @@
+"Texts describing technical documentation, programming concepts, and tutorials, often with a focus on software development, system administration, and data analysis."

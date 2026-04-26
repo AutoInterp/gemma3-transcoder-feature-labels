@@ -1,0 +1,1 @@
+"URLs and image links, often embedded in text, with varying levels of activation indicating their presence and relevance in the content."

@@ -1,0 +1,1 @@
+"Texts containing technical instructions, programming-related information, and online resources, often including links to websites, GitHub repositories, and package managers."

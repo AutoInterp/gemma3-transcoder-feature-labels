@@ -1,0 +1,1 @@
+"Text fragments often appear between delimiters, which seem to be used to indicate a change in topic, a new idea, or a quotation. These fragments often contain complex sentences, technical terms, or idiomatic expressions, suggesting that they are used to convey detailed information or nuanced ideas."

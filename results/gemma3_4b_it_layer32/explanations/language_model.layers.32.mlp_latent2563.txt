@@ -1,0 +1,1 @@
+"The book value of an asset being depreciated linearly can be described by the equation V(t) = V0 - (V0 - Vf) * (t / T), where V(t) is the book value at time t, V0 is the initial value, Vf is the final value, t is the current time, and T is the total time period."

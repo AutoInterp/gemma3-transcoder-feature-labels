@@ -1,0 +1,1 @@
+"Texts containing German words and phrases, often with English translations, and sometimes accompanied by URLs, book titles, or programming code."

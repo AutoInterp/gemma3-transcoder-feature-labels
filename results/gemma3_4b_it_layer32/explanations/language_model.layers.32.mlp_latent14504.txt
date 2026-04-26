@@ -1,0 +1,1 @@
+"Code snippets and programming-related text, often containing variable names, function calls, and logical expressions, frequently found in programming languages such as Java, Python, and C++."

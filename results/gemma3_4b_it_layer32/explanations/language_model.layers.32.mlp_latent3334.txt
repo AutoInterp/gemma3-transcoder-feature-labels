@@ -1,0 +1,1 @@
+"The token \"crypt\" and its variants, such as \"crypto\", \"cryptography\", and \"cryptographic\", are associated with concepts of secure data transmission, encryption, and digital currencies."

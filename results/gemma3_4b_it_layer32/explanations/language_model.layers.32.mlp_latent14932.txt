@@ -1,0 +1,1 @@
+"The token \"R\" appears frequently in the text, often as an abbreviation or initialism, representing various words, names, and acronyms, such as \"R&D\" (research and development), \"RMI\" (Remote Method Invocation), \"RCA\" (Radio Corporation of America), \"RER\" (Réseau Express Régional), and many others."

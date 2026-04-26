@@ -1,0 +1,1 @@
+"Code snippets and programming-related text, often including class names, method calls, and attribute names, frequently found in programming documentation and tutorials."

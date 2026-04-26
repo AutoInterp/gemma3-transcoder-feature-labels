@@ -1,0 +1,1 @@
+"Texts often contain phrases that indicate a pause or a shift in thought, such as incomplete sentences, conditional statements, or phrases that introduce a new idea. These phrases often have low activation values, suggesting they are not as central to the overall meaning of the text."

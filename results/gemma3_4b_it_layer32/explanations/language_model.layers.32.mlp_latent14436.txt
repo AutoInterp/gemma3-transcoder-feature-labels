@@ -1,0 +1,1 @@
+"Texts that are not part of the main content, often containing metadata, author information, or unrelated information, frequently found at the end of a document or article."

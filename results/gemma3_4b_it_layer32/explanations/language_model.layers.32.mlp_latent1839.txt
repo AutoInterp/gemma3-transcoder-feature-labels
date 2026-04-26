@@ -1,0 +1,1 @@
+"Code snippets in various programming languages, including C#, Python, Java, and SQL, with a focus on string manipulation, palindrome detection, and data processing."

@@ -1,0 +1,1 @@
+"SQL code snippets, mostly related to database creation, table modification, and data manipulation, with some PHP and MySQL code mixed in."

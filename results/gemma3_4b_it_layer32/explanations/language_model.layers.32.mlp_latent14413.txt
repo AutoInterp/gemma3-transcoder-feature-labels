@@ -1,0 +1,1 @@
+"The token \"per\" is used as a prefix to indicate a relationship of quantity, such as a ratio, proportion, or rate, often used in mathematical, scientific, or technical contexts."

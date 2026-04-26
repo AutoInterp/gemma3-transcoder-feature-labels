@@ -1,0 +1,1 @@
+"Text primarily revolves around the concept of data, encompassing its collection, processing, storage, security, and analysis."

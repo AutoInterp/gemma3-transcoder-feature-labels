@@ -1,0 +1,1 @@
+"Texts often contain foreign phrases, citations, and technical terms, which can be denoted by special characters or formatting, and sometimes accompanied by activation values indicating their importance."

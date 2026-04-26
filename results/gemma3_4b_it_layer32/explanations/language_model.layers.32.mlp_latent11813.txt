@@ -1,0 +1,1 @@
+"Code snippets in various programming languages, including Python, embedded assembly code, and SQL, often interleaved with text and comments."

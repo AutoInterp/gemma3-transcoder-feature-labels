@@ -1,0 +1,1 @@
+"Various types of dates and times, including specific hours, days, months, and years, often used to provide context for events or schedules."

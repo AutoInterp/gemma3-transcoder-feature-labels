@@ -1,0 +1,1 @@
+"SQL queries, specifically SELECT statements, used to retrieve data from databases."

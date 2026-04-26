@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including Perl, JavaScript, C++, Java, and Python, with a focus on string manipulation, data structures, and algorithm implementation."

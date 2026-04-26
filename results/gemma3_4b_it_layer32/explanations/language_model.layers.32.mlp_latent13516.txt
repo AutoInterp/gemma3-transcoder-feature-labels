@@ -1,0 +1,1 @@
+"Code snippets in various programming languages, including Java, Python, and assembly, with a focus on syntax and variable names."

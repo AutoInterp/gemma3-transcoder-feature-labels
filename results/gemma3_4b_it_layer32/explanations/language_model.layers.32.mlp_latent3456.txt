@@ -1,0 +1,1 @@
+"Code snippets and technical documentation, including programming languages, APIs, and web development frameworks, with a focus on Ruby and Sinatra."

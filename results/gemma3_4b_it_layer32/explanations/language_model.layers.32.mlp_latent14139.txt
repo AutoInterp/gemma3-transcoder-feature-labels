@@ -1,0 +1,1 @@
+"Texts containing a mix of coherent and incoherent sentences, often with a lack of grammatical structure, and sometimes including technical jargon or proper nouns. The incoherent sentences may be the result of machine-generated text or text with a high level of noise."

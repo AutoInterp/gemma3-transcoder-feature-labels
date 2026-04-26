@@ -1,0 +1,1 @@
+"Texts describing technical concepts, programming techniques, and problem-solving strategies, often with a focus on software development, data structures, and algorithms."

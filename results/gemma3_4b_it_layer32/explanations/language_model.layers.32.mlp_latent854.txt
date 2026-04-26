@@ -1,0 +1,1 @@
+"Text snippets often appear in a specific format, typically enclosed in angle brackets, and are frequently followed by a period or other punctuation. These snippets often seem to be extracted from larger texts, possibly articles, books, or online content, and may be used for various purposes such as documentation, explanation, or demonstration."

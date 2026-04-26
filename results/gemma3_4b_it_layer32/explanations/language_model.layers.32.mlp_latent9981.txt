@@ -1,0 +1,1 @@
+"The token \"err\" and its variants (\"erring\", \"errant\", \"erroneous\", \"inerrant\") appear frequently in the text, often in the context of caution, mistakes, or deviations from a standard."

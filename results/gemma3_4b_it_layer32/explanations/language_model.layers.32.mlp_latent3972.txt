@@ -1,0 +1,1 @@
+"Various numerical values, including percentages, amounts of money, and measurements, often presented in a specific format, such as ranges or exact values."

@@ -1,0 +1,1 @@
+"Texts often contain section or step headings, tables, figures, and equations, which are frequently used to organize and present information in a structured manner."

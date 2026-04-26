@@ -1,0 +1,1 @@
+"Text snippets often start with a specific word or phrase, followed by a colon or equals sign, and then a URL or a piece of code."

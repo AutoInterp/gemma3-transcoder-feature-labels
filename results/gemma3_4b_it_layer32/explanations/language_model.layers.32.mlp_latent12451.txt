@@ -1,0 +1,1 @@
+"Texts often contain idiomatic expressions, proper nouns, and technical terms, which can be identified by their high activation values. Additionally, the text frequently includes quotes, references to historical events, and descriptions of complex concepts, indicating a wide range of topics and styles."

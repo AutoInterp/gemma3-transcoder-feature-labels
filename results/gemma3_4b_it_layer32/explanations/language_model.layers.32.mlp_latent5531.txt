@@ -1,0 +1,1 @@
+"Text primarily discussing mathematical and philosophical concepts, specifically modal logic, ordinals, cardinals, and category theory, with some references to computer science and topology."

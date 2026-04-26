@@ -1,0 +1,1 @@
+"End of text or paragraph markers, often denoted by \"<eos>\", and various punctuation marks such as periods, question marks, and exclamation points, indicating the end of a thought or sentence."

@@ -1,0 +1,1 @@
+"Texts containing various types of metadata, such as titles, subtitles, author information, publication dates, and other supplementary data."

@@ -1,0 +1,1 @@
+"Texts from various languages, including Chinese, Japanese, and English, containing a mix of programming code, technical descriptions, and everyday conversations. The common pattern is the presence of code snippets, often in the context of explaining a concept or illustrating a point, and the use of technical jargon and specialized terminology."

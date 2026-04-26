@@ -1,0 +1,1 @@
+"Text fragments containing special formatting, such as code snippets, URLs, and HTML tags, often indicating a transition to a different type of content, such as a link, a quote, or a code block."

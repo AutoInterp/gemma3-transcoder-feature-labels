@@ -1,0 +1,1 @@
+"Text fragments often represent titles, subtitles, or section headers, frequently containing keywords or phrases related to the content that follows."

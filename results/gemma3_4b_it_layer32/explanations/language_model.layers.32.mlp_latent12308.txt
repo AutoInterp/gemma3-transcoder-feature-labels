@@ -1,0 +1,1 @@
+"Texts describing command-line interfaces, tools, and programming languages, often including technical details and usage examples."

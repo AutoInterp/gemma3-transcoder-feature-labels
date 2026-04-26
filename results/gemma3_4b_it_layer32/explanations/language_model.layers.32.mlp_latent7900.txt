@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including C#, Java, and Python, as well as mathematical equations and formulas, and HTML/CSS code."

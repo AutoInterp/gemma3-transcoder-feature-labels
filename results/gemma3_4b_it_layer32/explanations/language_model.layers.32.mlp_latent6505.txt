@@ -1,0 +1,1 @@
+"Time expressions in 12-hour format, often with a specific day or date, used to schedule events or appointments."

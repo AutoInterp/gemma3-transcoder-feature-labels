@@ -1,0 +1,1 @@
+"Text fragments often contain proper nouns, abbreviations, and technical terms, which are frequently found in programming code, mathematical equations, and formal documents."

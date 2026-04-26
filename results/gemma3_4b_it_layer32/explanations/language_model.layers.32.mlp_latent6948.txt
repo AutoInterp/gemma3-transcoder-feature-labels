@@ -1,0 +1,1 @@
+"Texts describing various programming concepts, database operations, and encryption methods, with a focus on SQL queries and Nuxt.js functionality."

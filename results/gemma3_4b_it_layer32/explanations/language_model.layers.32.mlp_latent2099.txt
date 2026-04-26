@@ -1,0 +1,1 @@
+"Code snippets and programming concepts, including module imports, class declarations, function definitions, and variable assignments, often related to specific programming languages or frameworks."

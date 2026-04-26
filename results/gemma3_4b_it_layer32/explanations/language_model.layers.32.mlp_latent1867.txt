@@ -1,0 +1,1 @@
+"Various programming-related terms and concepts, including function names, method calls, and variable names, often related to data structures, algorithms, and object-oriented programming."

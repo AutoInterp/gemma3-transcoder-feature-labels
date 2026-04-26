@@ -1,0 +1,1 @@
+"Text fragments that appear to be code snippets, programming languages, or technical jargon, often related to software development, data analysis, or scientific research."

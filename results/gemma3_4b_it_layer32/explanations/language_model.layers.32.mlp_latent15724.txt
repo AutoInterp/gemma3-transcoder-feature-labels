@@ -1,0 +1,1 @@
+"Texts are mostly in Russian and English, and contain a mix of programming code, articles, and news. The common patterns found in the text are programming-related terms, such as function names, variable names, and data types, as well as idiomatic expressions and phrases used in various contexts."

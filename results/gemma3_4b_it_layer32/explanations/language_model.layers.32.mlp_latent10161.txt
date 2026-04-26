@@ -1,0 +1,1 @@
+"Code snippets and descriptions of CSS and HTML properties, variables, and functions related to styling and layout of user interface components, particularly lists and text elements."

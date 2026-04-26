@@ -1,0 +1,1 @@
+"Various programming languages and frameworks, including Java, Python, and JavaScript, as well as database and data storage concepts, such as PostGIS and JSON."

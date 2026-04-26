@@ -1,0 +1,1 @@
+"Texts containing technical or complex information, often related to science, history, or philosophy, are frequently preceded by a delimiter, and the text within the delimiter is often a detailed explanation or a definition."

@@ -1,0 +1,1 @@
+"Code snippets in various programming languages, including C, C++, Perl, Python, and JavaScript, with a focus on mathematical and algorithmic concepts, such as data structures, sorting, and statistical analysis."

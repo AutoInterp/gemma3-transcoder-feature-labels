@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are cut off or truncated, denoted by the delimiter, often indicating a continuation of the text in another location."

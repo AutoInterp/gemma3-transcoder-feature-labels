@@ -1,0 +1,1 @@
+"Various types of text enclosed in double quotes, angle brackets, or other delimiters, often representing code snippets, URLs, or other external links, and sometimes used to denote emphasis or quotation."

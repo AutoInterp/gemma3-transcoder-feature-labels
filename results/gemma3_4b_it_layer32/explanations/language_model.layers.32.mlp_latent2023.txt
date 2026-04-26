@@ -1,0 +1,1 @@
+"Dates in the format of \"year, month day\" or \"year month day\" often appearing at the beginning of a text, sometimes followed by a title or a brief description."

@@ -1,0 +1,1 @@
+"The token \"i\" or \"i.e.\" is used to indicate that the following information is an explanation or an example, often used in academic or technical writing to provide additional context or clarification."

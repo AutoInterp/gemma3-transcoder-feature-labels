@@ -1,0 +1,1 @@
+"Text fragments often contain proper nouns, names of people, places, or organizations, which are frequently highlighted in the given examples. Additionally, the text frequently includes quotes, citations, and references to external sources, which are often marked with special characters or formatting."

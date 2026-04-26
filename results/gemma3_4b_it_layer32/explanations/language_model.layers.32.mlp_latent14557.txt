@@ -1,0 +1,1 @@
+"Code snippets in various programming languages, including JavaScript, Python, and CoffeeScript, with a focus on web development, Git, and command-line tools."

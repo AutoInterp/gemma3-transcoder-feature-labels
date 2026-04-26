@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including Java, Swift, and C, with HTML and XML elements, and text from books and articles. The code is often surrounded by HTML tags, and the text is a mix of technical and non-technical content."

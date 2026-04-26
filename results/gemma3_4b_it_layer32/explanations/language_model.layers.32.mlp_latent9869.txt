@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are not in the original language, likely translations or quotes, which are marked by delimiters."

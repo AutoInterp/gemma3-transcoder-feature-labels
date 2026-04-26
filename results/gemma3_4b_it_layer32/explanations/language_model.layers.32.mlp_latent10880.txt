@@ -1,0 +1,1 @@
+"Various programming code snippets and technical documentation in multiple programming languages, including C, C++, Java, PHP, and JavaScript, as well as SQL and regular expressions."

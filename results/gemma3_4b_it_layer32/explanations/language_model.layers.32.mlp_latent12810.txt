@@ -1,0 +1,1 @@
+"Texts containing URLs, email addresses, and other types of identifiers, as well as code snippets and technical jargon, often found in online forums, blogs, and technical documentation."

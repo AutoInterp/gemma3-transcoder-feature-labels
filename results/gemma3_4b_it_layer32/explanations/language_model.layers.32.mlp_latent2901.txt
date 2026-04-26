@@ -1,0 +1,1 @@
+"SQL code snippets and programming code in various languages, including Java, Python, and SQL, with some data insertion and table creation queries."

@@ -1,0 +1,1 @@
+"Paths to various directories and files in Unix-like systems, including configuration files, log files, and installation directories."

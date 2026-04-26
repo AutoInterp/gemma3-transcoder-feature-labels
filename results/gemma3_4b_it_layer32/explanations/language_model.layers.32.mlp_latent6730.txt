@@ -1,0 +1,1 @@
+"Text snippets often appear between delimiters, and the surrounding context is typically a sentence or a paragraph. The snippets can be phrases, sentences, or even entire paragraphs, and they often seem to be unrelated to the surrounding text."

@@ -1,0 +1,1 @@
+"Text describing encryption functions, specifically AES (Advanced Encryption Standard), with examples of usage and parameters, including modes, keys, and initialization vectors."

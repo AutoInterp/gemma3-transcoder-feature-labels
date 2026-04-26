@@ -1,0 +1,1 @@
+"The token \"Han\" appears frequently in the text, often in the context of proper nouns, such as names (e.g. Hanff, Hanley, Hanion, Han's, Han dynasty, Hanckley, etc.) and locations (e.g. Hanalei, Hanagiku, etc.)."

@@ -1,0 +1,1 @@
+"Text fragments often appear at the beginning or end of a sentence, and are typically separated from the rest of the text by a blank line or a change in formatting. These fragments often contain additional information, explanations, or citations that are not essential to the main text."

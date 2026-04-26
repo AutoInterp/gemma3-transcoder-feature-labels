@@ -1,0 +1,1 @@
+"Various commands and instructions for interacting with different systems, including operating systems, databases, and programming languages, often with specific options and syntax."

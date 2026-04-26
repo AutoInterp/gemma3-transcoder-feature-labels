@@ -1,0 +1,1 @@
+"Texts often contain proper nouns, such as names of locations, organizations, and people, which are frequently used to provide context and identify specific entities. Additionally, technical and specialized vocabulary is present, indicating a focus on specific domains like finance, technology, and science."

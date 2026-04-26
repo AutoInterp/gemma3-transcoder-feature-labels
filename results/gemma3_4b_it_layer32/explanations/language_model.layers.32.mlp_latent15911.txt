@@ -1,0 +1,1 @@
+"Texts describing programming concepts, mathematical problems, and algorithms, often with examples and explanations of code."

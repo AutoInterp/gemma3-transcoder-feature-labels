@@ -1,0 +1,1 @@
+"Text snippets often contain specific phrases or sentences that are enclosed in angle brackets, indicating a code or a technical term, or sometimes a special formatting."

@@ -1,0 +1,1 @@
+"Texts containing polite expressions, such as \"thank you\" and \"please\", and phrases indicating a request or instruction, like \"follow this link\" and \"visit\"."

@@ -1,0 +1,1 @@
+"Text snippets often contain specific phrases or sentences that are not grammatically complete, but serve as a delimiter or a placeholder, such as code snippets, mathematical expressions, or foreign language phrases."

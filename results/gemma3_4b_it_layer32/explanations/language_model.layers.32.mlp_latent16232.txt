@@ -1,0 +1,1 @@
+"HTML code snippets with variable names and descriptions, likely from a UI framework or library, such as Kendo UI."

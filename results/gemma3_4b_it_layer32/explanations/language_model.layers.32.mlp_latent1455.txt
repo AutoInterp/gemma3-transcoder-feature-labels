@@ -1,0 +1,1 @@
+"Various types of text, including dates, URLs, code snippets, and quoted text, often appearing in a specific format with surrounding delimiters."

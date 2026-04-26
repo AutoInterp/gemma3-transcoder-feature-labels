@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are incomplete or truncated, typically denoted by a period or other punctuation mark at the end, followed by a blank line or other separator."

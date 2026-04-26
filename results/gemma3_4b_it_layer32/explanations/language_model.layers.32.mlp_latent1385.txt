@@ -1,0 +1,1 @@
+"Text describing character encoding, escaping, and formatting rules for various data types, including URLs, JSON, and text strings, as well as specifications for font styles and programming languages."

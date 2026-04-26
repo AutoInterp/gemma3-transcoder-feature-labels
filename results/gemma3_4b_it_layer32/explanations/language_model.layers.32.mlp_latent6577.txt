@@ -1,0 +1,1 @@
+"Text fragments enclosed by delimiters, often containing specific information or context, such as technical terms, names, or phrases."

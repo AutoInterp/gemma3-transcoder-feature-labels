@@ -1,0 +1,1 @@
+"Text snippets often contain URLs, email addresses, and other technical information, such as code snippets, programming languages, and mathematical formulas. Additionally, there are instances of book titles, author names, and song names, indicating a mix of formal and informal writing styles."

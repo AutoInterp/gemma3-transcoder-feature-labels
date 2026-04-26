@@ -1,0 +1,1 @@
+"A collection of text fragments containing addresses, names of locations, and citations from academic papers, along with stock market information and news articles."

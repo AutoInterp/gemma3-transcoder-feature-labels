@@ -1,0 +1,1 @@
+"Texts containing URLs, file paths, and other types of identifiers, often used for referencing or linking to external resources."

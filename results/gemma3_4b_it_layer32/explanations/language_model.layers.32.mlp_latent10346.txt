@@ -1,0 +1,1 @@
+"Code snippets and programming-related text, including comments, variable names, and function calls, often containing special characters and syntax."

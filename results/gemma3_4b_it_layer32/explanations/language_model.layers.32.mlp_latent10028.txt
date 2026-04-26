@@ -1,0 +1,1 @@
+"Code snippets with conditional statements and loops, often used for iterating over arrays or collections."

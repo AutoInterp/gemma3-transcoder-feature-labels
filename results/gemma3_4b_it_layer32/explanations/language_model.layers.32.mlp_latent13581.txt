@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, likely C or C++, with variable and function names, and mathematical expressions."

@@ -1,0 +1,1 @@
+"Code snippets and programming-related text, including Java code, Git commands, and technical terminology."

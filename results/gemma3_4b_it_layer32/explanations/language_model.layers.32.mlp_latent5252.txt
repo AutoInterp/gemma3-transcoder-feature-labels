@@ -1,0 +1,1 @@
+"Text fragments that appear to be loading messages, disclaimers, or warnings, often containing legal or informational content, and sometimes followed by a link or a call to action."

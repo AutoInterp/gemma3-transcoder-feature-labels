@@ -1,0 +1,1 @@
+"Instructions and recipes often contain imperative sentences with a sequence of steps, sometimes including specific tools, materials, or actions."

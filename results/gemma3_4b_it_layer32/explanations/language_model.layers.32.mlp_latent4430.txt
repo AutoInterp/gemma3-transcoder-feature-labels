@@ -1,0 +1,1 @@
+"Text snippets often appear between delimiters, sometimes representing a change in topic or a new idea, and sometimes containing code or technical information."

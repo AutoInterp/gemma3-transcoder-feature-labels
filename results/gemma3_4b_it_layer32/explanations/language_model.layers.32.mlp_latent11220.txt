@@ -1,0 +1,1 @@
+"Code snippets in various programming languages, including SQL, JavaScript, and Python, with a focus on encryption and decryption functions, as well as examples of usage and explanations of parameters."

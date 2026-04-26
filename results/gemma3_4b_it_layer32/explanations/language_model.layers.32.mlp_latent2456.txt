@@ -1,0 +1,1 @@
+"Texts from various programming languages, including SQL, Java, Python, and Swift, as well as snippets from books, articles, and online content. The patterns found in these examples include code syntax, variable declarations, function calls, and data types, indicating a focus on programming and technical topics."

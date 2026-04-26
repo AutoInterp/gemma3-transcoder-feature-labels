@@ -1,0 +1,1 @@
+"Various code snippets and programming languages, including Python, C++, Java, and JavaScript, as well as mathematical equations and formulas, and a few lines of configuration commands."

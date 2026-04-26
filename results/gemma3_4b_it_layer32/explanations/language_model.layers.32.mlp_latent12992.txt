@@ -1,0 +1,1 @@
+"Time of day, specifically hours and minutes, often used to schedule events, meetings, or activities."

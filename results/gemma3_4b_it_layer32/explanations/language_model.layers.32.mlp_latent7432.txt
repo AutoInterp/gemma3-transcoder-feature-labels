@@ -1,0 +1,1 @@
+"The text contains a mix of technical and non-technical language, including mathematical equations, programming code, and idiomatic expressions. The presence of various programming languages (e.g., Java, Python, MATLAB), mathematical formulas, and technical terms (e.g., \"Gain\", \"Open-loop Gain\", \"operator space\") suggests a focus on technical or academic writing."

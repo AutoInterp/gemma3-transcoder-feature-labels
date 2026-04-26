@@ -1,0 +1,1 @@
+"Code snippets in various programming languages, including C++ and Python, with a focus on functions, variables, and conditional statements."

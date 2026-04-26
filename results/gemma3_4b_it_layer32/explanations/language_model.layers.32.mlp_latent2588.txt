@@ -1,0 +1,1 @@
+"Various types of text data, including addresses, dates, scientific articles, news articles, and online content, often containing specific information such as names, locations, and technical details."

@@ -1,0 +1,1 @@
+"Strings representing locations, often containing proper nouns, and sometimes URLs or other types of references."

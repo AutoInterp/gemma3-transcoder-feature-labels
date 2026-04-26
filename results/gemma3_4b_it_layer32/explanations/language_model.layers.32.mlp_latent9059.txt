@@ -1,0 +1,1 @@
+"Text snippets often contain proper nouns, idioms, and quotes, but the most notable pattern is the presence of HTML tags and code snippets, indicating a mix of natural language and programming or technical content."

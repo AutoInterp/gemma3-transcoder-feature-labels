@@ -1,0 +1,1 @@
+"Various phrases and sentences are given a low activation score, indicating that they are not as important for the behavior of the model, while longer sentences or phrases with more context are given higher activation scores, indicating that they are more relevant to the model's understanding."

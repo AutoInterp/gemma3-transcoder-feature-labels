@@ -1,0 +1,1 @@
+"Texts often contain specific days of the week, such as Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, and Sunday, which serve as temporal references."

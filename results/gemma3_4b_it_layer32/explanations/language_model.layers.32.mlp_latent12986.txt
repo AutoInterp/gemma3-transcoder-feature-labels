@@ -1,0 +1,1 @@
+"Texts often contain specific days of the week, such as Saturday, Sunday, Monday, and Friday, which are frequently mentioned in conjunction with times, events, or activities."

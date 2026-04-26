@@ -1,0 +1,1 @@
+"URLs, IDs, and other unique identifiers, often found in the context of citations, references, or links, and sometimes accompanied by descriptive text."

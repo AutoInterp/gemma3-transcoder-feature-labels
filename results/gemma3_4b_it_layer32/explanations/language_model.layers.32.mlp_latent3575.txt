@@ -1,0 +1,1 @@
+"Various types of text data, including numerical values, dates, times, URLs, and text from books, articles, and online content, often with formatting and markup."

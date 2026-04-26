@@ -1,0 +1,1 @@
+"The token \"Br\" or \"Bra\" or \"Br\" followed by a sequence of letters, often representing a proper noun or a unique identifier."

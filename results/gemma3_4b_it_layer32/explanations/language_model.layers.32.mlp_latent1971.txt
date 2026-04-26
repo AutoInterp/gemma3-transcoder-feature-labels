@@ -1,0 +1,1 @@
+"Dates and times, including specific days of the week, hours of operation, and event schedules, often used to organize and structure information."

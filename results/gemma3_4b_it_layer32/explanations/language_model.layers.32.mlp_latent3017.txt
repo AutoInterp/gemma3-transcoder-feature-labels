@@ -1,0 +1,1 @@
+"Texts often contain proper nouns, such as names of locations, organizations, and people, which are frequently mentioned in conjunction with other words like \"of\", \"in\", or \"at\". Additionally, texts may include phrases that describe a specific object or concept, often using words like \"the\", \"a\", or \"an\" to introduce them."

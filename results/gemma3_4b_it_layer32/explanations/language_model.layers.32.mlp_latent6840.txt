@@ -1,0 +1,1 @@
+"Texts discussing web-related concepts, including web browsers, web servers, web pages, and web technologies, with a focus on functionality, security, and optimization."

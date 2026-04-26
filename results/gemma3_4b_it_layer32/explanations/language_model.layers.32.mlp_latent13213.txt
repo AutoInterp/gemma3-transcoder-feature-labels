@@ -1,0 +1,1 @@
+"Text fragments often appear to be unrelated to the surrounding context, and may be quotes, technical terms, or snippets of code, suggesting a collection of miscellaneous information or references."

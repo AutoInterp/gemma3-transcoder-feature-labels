@@ -1,0 +1,1 @@
+"Common phrases and sentences that are likely to be copied and pasted from external sources, often from websites, articles, or documents, and may contain formatting and markup characters such as <eos>, <>, or <<>>."

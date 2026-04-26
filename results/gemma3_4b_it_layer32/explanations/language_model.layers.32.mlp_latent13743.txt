@@ -1,0 +1,1 @@
+"Texts often contain proper nouns, geographic locations, and names of people, places, and organizations, which are frequently highlighted in the given examples. Additionally, the texts may include quotes, phrases, and idioms, as well as technical terms and jargon from various fields, such as science, medicine, and literature."

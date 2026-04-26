@@ -1,0 +1,1 @@
+"Texts often contain phrases that provide additional context or explanation, such as \"without which, the protocol wouldn’t work at all\" or \"worth noting the applications configuration for solo mining can be more complex than with a swimming pool\". These phrases often appear after a main statement, providing further insight or clarification."

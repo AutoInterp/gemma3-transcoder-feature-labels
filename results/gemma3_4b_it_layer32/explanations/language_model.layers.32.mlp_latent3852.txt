@@ -1,0 +1,1 @@
+"Text fragments containing various types of information, including article titles, instructions, code snippets, and quotes, often separated by special characters or markup language."

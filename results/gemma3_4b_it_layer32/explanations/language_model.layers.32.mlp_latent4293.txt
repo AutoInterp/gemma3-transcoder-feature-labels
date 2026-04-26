@@ -1,0 +1,1 @@
+"Text fragments containing URLs, domain names, or IP addresses, often found at the end of a text snippet, possibly indicating a cut-off or incomplete sentence."

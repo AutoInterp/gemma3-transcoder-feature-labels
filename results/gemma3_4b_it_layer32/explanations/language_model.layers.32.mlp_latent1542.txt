@@ -1,0 +1,1 @@
+"Text snippets from various programming languages, technical documents, and articles, often containing code, variable names, function calls, and mathematical expressions."

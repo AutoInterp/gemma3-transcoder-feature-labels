@@ -1,0 +1,1 @@
+"Texts containing proper nouns, foreign names, and particles such as \"de\", \"da\", \"della\", and \"den\", often used in names of persons, places, and organizations."

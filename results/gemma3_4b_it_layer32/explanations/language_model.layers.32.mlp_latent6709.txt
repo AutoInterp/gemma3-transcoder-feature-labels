@@ -1,0 +1,1 @@
+"Texts often contain product names, brand names, and specific product features, as well as event names, locations, and dates. Additionally, there are instances of idiomatic expressions, product recommendations, and reviews."

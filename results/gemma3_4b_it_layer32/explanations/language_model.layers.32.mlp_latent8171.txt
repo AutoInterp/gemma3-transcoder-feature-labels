@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are ironic, sarcastic, or used in a non-literal sense, which can be identified by their low activation values for certain words or phrases."

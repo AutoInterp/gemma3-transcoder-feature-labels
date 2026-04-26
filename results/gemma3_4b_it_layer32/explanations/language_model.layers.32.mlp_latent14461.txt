@@ -1,0 +1,1 @@
+"Texts that are part of a larger object, such as a recipe, a poem, a book title, or a programming code snippet, often with a specific structure and formatting."

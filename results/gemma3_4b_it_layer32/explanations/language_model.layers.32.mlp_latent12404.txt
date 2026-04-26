@@ -1,0 +1,1 @@
+"Texts containing lists of items that are often grouped by category, such as food items, warning signs, or tips for a specific activity."

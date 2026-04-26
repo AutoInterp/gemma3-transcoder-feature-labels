@@ -1,0 +1,1 @@
+"Text snippets containing references, citations, or external links, often denoted by a specific character or symbol, and sometimes accompanied by metadata such as author names, dates, or DOIs."

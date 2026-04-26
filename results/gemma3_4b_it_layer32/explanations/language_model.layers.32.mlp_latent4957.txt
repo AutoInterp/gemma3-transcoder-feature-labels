@@ -1,0 +1,1 @@
+"Text segments often contain bibliographic information, such as ISBN numbers, external links, and publication dates, indicating a formal or academic tone."

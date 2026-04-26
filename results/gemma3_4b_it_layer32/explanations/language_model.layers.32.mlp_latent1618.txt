@@ -1,0 +1,1 @@
+"Texts describing technical concepts, programming, and software development, often including code snippets, explanations of algorithms, and comparisons between different systems or technologies."

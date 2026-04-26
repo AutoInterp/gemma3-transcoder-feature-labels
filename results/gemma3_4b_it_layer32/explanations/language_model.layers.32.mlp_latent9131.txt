@@ -1,0 +1,1 @@
+"Texts containing programming code, configuration files, and technical documentation, often with specific keywords and syntax related to software development, system administration, and data analysis."

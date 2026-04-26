@@ -1,0 +1,1 @@
+"Code snippets in various programming languages, primarily Java and C#, with a mix of SQL queries, database operations, and system interactions."

@@ -1,0 +1,1 @@
+"Texts are often separated by phrases or sentences that are not directly related to the main topic, but rather serve as transitional markers or provide additional information. These phrases or sentences often have lower activation values, indicating that they are less important for the overall meaning of the text."

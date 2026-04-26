@@ -1,0 +1,1 @@
+"Text fragments containing URLs, usernames, commodity numbers, order numbers, and other unique identifiers, often used for tracking or referencing purposes."

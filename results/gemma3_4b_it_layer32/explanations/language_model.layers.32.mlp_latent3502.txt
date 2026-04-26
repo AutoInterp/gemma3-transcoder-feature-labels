@@ -1,0 +1,1 @@
+"Texts with missing or irrelevant activations, likely due to the presence of special words or phrases contained within delimiters, which are not being analyzed."

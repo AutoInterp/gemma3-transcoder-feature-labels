@@ -1,0 +1,1 @@
+"Various numerical values and time durations are often presented in a range or with a specific unit, such as dollars, minutes, hours, or years, to convey a sense of scope or scale."

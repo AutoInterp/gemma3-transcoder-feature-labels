@@ -1,0 +1,1 @@
+"Various types of text data, including news articles, code snippets, and informal writing, with a focus on extracting specific phrases or sentences that may be relevant to the context."

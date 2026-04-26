@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including C, C++, Python, PowerShell, and others, showcasing different syntax, data structures, and algorithms."

@@ -1,0 +1,1 @@
+"The token \"diff\" and its variants (\"diffuse\", \"differ\", \"differential\", \"differently\", \"difference\", \"differ\") appear frequently in the text, often in the context of mathematics, geometry, and computer science."

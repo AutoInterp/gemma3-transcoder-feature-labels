@@ -1,0 +1,1 @@
+"Text containing numerical values, mathematical expressions, and scientific notation, often representing data, measurements, or calculations."

@@ -1,0 +1,1 @@
+"Texts from various domains, including scientific research, medical articles, news, and online content, with a focus on extracting specific words or phrases. The extracted words or phrases often have a high activation value, indicating their importance in the context."

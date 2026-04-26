@@ -1,0 +1,1 @@
+"Various programming-related terms and concepts, including encryption methods, database connections, and programming languages, with a focus on SQL and JavaScript."

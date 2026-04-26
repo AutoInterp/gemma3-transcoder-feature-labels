@@ -1,0 +1,1 @@
+"Texts containing proper nouns, geographical locations, and titles of organizations, events, and publications, often serving as identifiers or references."

@@ -1,0 +1,1 @@
+"Text fragments that appear to be citations, references, or quotes, often containing author names, publication information, or specific page numbers."

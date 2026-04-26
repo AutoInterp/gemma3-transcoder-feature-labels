@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including Python, Java, C#, and JavaScript, with varying levels of activation for different keywords and identifiers."

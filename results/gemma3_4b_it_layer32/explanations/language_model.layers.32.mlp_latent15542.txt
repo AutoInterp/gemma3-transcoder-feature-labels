@@ -1,0 +1,1 @@
+"Dates in various formats, including full dates, abbreviated dates, and timestamps, often appearing in the context of online articles, academic papers, or technical documentation."

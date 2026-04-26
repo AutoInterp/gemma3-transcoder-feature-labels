@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including Python, JavaScript, and C++, with a focus on object-oriented programming, event handling, and GUI development."

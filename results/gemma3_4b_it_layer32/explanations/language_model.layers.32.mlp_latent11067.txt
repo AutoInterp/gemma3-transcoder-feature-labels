@@ -1,0 +1,1 @@
+"The token \"bit\" is used in various contexts, including computing (e.g., bit rate, bit complexity, bit vector), data transmission (e.g., bit rate, bit timing rules), and everyday language (e.g., \"a bit\", \"a bit more\")."

@@ -1,0 +1,1 @@
+"Texts often contain quotes, citations, and references to external sources, which are typically denoted by phrases such as \"in his Principles\", \"Source and thanks\", \"Click here to download\", and \"for more updates\". These phrases serve as a transition to external information, and are often followed by a link or a reference to a specific source."

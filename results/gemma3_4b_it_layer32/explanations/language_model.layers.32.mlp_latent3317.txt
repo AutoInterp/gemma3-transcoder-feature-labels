@@ -1,0 +1,1 @@
+"The token \"F\" or \"f\" is often followed by a sequence of letters that form a proper noun, typically a name, abbreviation, or acronym."

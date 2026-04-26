@@ -1,0 +1,1 @@
+"Text snippets often begin with a title or a name enclosed in angle brackets, followed by a description or explanation."

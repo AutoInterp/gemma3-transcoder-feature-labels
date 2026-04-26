@@ -1,0 +1,1 @@
+"Various types of text data, including programming code, technical articles, and online content, with a focus on extracting specific information such as error messages, color schemes, and numerical values."

@@ -1,0 +1,1 @@
+"Texts from various sources, including articles, news, and SQL queries, with a focus on technical and scientific topics, such as computer science, medicine, and history. The common thread among the examples is the presence of technical terms, jargon, and specialized vocabulary, indicating a high level of technical complexity and expertise."

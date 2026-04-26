@@ -1,0 +1,1 @@
+"Texts often contain URLs, email addresses, phone numbers, and other contact information, as well as links to external websites, social media, and online services."

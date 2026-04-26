@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, primarily C/C++, Java, Python, and C#, with a focus on variable and function names, data types, and syntax."

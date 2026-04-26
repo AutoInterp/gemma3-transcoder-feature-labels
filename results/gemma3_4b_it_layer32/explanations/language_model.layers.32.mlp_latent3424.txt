@@ -1,0 +1,1 @@
+"Text fragments often appear at the end of a paragraph or section, sometimes with a citation or reference, and are typically separated from the main text by a delimiter."

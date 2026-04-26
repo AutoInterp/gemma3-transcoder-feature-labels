@@ -1,0 +1,1 @@
+"Various programming code snippets and text from technical documents, including comments, function names, and variable declarations, often containing special characters and syntax."

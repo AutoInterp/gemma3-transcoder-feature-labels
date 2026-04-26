@@ -1,0 +1,1 @@
+"HTML and CSS code snippets, primarily from web development projects, including templates, styles, and scripts."

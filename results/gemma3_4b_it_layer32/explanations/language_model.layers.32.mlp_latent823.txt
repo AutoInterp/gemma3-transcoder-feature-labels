@@ -1,0 +1,1 @@
+"Various types of delimiters and formatting elements, including HTML tags, URLs, and code snippets, often used to separate or highlight specific content."

@@ -1,0 +1,1 @@
+"Various text snippets, often instructions or quotes, are enclosed within a delimiter, possibly indicating a block of code or a quote."

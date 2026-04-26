@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including SQL, Java, C++, and JavaScript, showcasing mathematical and algorithmic concepts, such as prime numbers, pentagons, and integrals."

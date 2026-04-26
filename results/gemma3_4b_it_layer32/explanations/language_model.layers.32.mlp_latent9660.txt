@@ -1,0 +1,1 @@
+"Text snippets often contain URLs, article titles, or other metadata, sometimes embedded within HTML or database query code, and occasionally accompanied by affiliate links or promotional content."

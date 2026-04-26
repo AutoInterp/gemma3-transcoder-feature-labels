@@ -1,0 +1,1 @@
+"The token \"0.5\" and other decimal values are often used to represent probabilities, percentages, or fractions in mathematical and scientific contexts."

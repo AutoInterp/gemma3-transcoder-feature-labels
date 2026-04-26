@@ -1,0 +1,1 @@
+"Various types of text, including articles, social media posts, and online content, often containing specific phrases or words that indicate the beginning or end of a section, such as URLs, dates, or special characters like <eos>."

@@ -1,0 +1,1 @@
+"Texts containing file paths, programming code, and technical terms, often found in documentation, articles, and online resources."

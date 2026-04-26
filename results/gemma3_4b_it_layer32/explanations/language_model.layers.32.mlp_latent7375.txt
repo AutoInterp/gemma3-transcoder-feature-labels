@@ -1,0 +1,1 @@
+"Numerical values representing time, often in seconds, minutes, or degrees, frequently used in scientific, technical, or mathematical contexts."

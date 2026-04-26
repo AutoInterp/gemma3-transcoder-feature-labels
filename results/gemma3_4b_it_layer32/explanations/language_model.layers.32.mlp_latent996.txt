@@ -1,0 +1,1 @@
+"Numerical values representing prices, costs, or amounts of money, often accompanied by currency symbols or units."

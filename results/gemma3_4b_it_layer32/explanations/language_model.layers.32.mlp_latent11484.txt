@@ -1,0 +1,1 @@
+"HTML and XML tags used for formatting and structuring content, including elements for headings, paragraphs, links, images, and more."

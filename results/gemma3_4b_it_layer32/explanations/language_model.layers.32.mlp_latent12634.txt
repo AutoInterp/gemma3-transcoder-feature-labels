@@ -1,0 +1,1 @@
+"Text segments that appear to be code snippets, programming languages, or technical documentation, often containing keywords and syntax related to software development, data analysis, and scientific research."

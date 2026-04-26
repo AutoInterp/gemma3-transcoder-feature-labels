@@ -1,0 +1,1 @@
+"Texts related to user authentication, login credentials, and password management, often containing technical details and code snippets."

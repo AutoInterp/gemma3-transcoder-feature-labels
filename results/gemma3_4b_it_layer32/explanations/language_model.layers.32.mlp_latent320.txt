@@ -1,0 +1,1 @@
+"Various types of text, including scientific articles, product descriptions, and quotes, often containing technical terms, mathematical expressions, and URLs, frequently found in programming code and database queries."

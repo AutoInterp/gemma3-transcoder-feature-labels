@@ -1,0 +1,1 @@
+"Text snippets often contain specific information such as dates, times, locations, and technical details, which are frequently embedded within larger blocks of text."

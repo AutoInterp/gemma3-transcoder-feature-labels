@@ -1,0 +1,1 @@
+"Texts containing proper nouns, often referring to people, places, or organizations, and their associated metadata, such as publication information, dates, and page numbers."

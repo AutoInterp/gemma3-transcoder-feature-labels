@@ -1,0 +1,1 @@
+"A collection of code snippets and commands from various programming languages and operating systems, including Windows, Linux, and macOS, showcasing various tasks such as file management, system administration, and software installation."

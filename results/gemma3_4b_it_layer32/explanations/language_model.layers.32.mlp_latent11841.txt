@@ -1,0 +1,1 @@
+"Text fragments that are not coherent or meaningful on their own, often containing random words or phrases, likely due to a formatting or encoding issue."

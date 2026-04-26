@@ -1,0 +1,1 @@
+"Various types of text data, including news articles, scientific information, and quotes, with a focus on extracting specific phrases or sentences for analysis."

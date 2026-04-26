@@ -1,0 +1,1 @@
+"Code snippets and programming examples enclosed in a specific delimiter, often indicating a block of code or a programming concept."

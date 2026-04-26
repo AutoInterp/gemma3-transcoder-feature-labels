@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including Java, JavaScript, PHP, and C++, with a focus on object-oriented programming, data structures, and algorithms."

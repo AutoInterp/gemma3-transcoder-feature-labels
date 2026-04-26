@@ -1,0 +1,1 @@
+"The token \"external\" and \"internal\" are used to describe locations or systems that are outside or inside a particular entity, often contrasting with each other."

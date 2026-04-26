@@ -1,0 +1,1 @@
+"Texts often contain proper nouns, names of people, places, and languages, which are frequently accompanied by their definitions or explanations."

@@ -1,0 +1,1 @@
+"SQL code snippets, primarily related to database schema creation, foreign key constraints, and data types, often accompanied by text discussing foreign policy, international relations, and economic topics."

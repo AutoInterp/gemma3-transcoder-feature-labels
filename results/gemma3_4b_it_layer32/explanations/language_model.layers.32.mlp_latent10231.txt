@@ -1,0 +1,1 @@
+"URLs, geographical locations, and proper nouns representing names of people, places, and organizations."

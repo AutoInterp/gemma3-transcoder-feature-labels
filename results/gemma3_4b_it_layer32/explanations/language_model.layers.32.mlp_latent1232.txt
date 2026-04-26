@@ -1,0 +1,1 @@
+"HTML code snippets, mostly from web pages, containing various elements such as headings, paragraphs, images, links, and input fields."

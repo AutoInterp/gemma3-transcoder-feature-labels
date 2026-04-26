@@ -1,0 +1,1 @@
+"Texts related to HTTP protocol, web development, and network security, including discussions on request handling, validation, authentication, and encryption."

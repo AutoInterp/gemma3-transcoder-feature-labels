@@ -1,0 +1,1 @@
+"Various numerical values and dates, often used to provide context or specify quantities, such as years, distances, times, and amounts."

@@ -1,0 +1,1 @@
+"Phone numbers, addresses, and URLs are often presented in a specific format, typically with the relevant information separated by commas or other delimiters, and sometimes accompanied by additional details such as hours of operation or contact information."

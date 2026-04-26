@@ -1,0 +1,1 @@
+"Numerical values representing financial data, such as dollar amounts, percentages, and billions, often used to convey economic information and statistics."

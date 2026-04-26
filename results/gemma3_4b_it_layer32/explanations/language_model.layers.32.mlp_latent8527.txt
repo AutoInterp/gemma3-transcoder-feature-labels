@@ -1,0 +1,1 @@
+"Numerical values representing time, duration, or age, often used to describe a specific period or interval."

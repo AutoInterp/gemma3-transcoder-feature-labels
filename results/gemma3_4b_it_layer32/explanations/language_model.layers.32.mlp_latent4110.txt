@@ -1,0 +1,1 @@
+"Various types of text data, including programming code, technical documentation, and plain text, often containing specific keywords, phrases, and formatting."

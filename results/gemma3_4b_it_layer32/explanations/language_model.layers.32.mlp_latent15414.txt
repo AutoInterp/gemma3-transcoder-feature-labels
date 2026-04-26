@@ -1,0 +1,1 @@
+"The token \"approx.\" is used to indicate an approximate value or quantity, often preceding a numerical value or a range."

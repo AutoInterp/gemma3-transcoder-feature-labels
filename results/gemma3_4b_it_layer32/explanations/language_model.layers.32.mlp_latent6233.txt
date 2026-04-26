@@ -1,0 +1,1 @@
+"Text fragments often contain proper nouns, titles, and names of people, places, and events, which are frequently highlighted in the given examples."

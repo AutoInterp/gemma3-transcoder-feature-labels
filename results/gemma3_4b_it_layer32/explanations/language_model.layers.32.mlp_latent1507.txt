@@ -1,0 +1,1 @@
+"Text fragments containing measurements, quantities, and numerical values, often used in recipes, technical descriptions, and data analysis."
