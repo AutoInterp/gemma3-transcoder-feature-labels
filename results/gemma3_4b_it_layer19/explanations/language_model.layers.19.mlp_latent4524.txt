@@ -1,0 +1,1 @@
+"Various code snippets and programming-related text, including SQL queries, Ruby on Rails development, and Python code, as well as some English text and quotes."

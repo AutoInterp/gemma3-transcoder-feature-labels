@@ -1,0 +1,1 @@
+"Timestamps and dates in various formats, including 24-hour clock, AM/PM, and ISO 8601, often accompanied by additional metadata such as country, language, and license information."

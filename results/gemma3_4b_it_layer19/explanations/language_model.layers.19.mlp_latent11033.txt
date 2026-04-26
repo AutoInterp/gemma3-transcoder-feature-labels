@@ -1,0 +1,1 @@
+"Timestamps and dates in various formats, often accompanied by times of day, and sometimes followed by additional information such as user names, comments, or links."

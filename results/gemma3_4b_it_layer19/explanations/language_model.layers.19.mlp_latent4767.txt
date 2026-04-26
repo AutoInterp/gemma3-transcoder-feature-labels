@@ -1,0 +1,1 @@
+"Texts containing file paths, URLs, and code snippets, often in a programming or technical context, with a focus on Linux and Unix systems."

@@ -1,0 +1,1 @@
+"Texts containing scientific or technical information, often accompanied by figures or tables, and frequently referencing specific locations within the text (e.g. \"Figure 1\", \"Table 2\")."

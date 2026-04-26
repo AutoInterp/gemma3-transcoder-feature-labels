@@ -1,0 +1,1 @@
+"Code snippets and programming concepts, including mathematical formulas, algorithmic descriptions, and data structures, often accompanied by comments and variable names."

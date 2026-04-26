@@ -1,0 +1,1 @@
+"Texts often contain phrases that describe a sequence of events or actions, such as \"then\" or \"after that\", indicating a temporal relationship between events."

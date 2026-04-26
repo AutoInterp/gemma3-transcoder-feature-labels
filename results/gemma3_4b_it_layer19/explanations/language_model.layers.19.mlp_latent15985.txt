@@ -1,0 +1,1 @@
+"Text snippets often end with a special character, such as <eos>, indicating the end of a text segment."

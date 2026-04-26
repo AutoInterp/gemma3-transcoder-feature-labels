@@ -1,0 +1,1 @@
+"Texts are often separated by a delimiter, followed by a title or a phrase indicating the source of the information, and then a brief summary or a quote."

@@ -1,0 +1,1 @@
+"Various types of text, including news articles, product descriptions, and sports reports, often contain numerical data, such as prices, statistics, and measurements, which are frequently mentioned in the text."

@@ -1,0 +1,1 @@
+"Dates in the format of day, month, year, often accompanied by a time, and sometimes followed by a description of an event or meeting."

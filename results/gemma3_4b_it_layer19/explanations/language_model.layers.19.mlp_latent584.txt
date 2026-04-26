@@ -1,0 +1,1 @@
+"Text snippets often contain geographical locations, names of people, organizations, and events, which are frequently used as context for discussing various topics."

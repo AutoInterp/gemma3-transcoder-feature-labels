@@ -1,0 +1,1 @@
+"Code snippets and function calls that return or use null or empty values in various programming languages, often as a default or placeholder."

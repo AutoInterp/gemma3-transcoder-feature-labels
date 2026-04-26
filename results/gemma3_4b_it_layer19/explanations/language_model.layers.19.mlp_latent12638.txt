@@ -1,0 +1,1 @@
+"Dates and time periods, often in the format of year, quarter, or century, used to provide context and structure in text."

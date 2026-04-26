@@ -1,0 +1,1 @@
+"Scientific article metadata and references, including DOIs, PMIDs, and citations, often with accompanying activation values for specific words or phrases."

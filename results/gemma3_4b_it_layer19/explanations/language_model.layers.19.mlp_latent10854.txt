@@ -1,0 +1,1 @@
+"Timestamps in various formats, including 24-hour clock, date and time, and GMT, often used to indicate the timing of events or posts."

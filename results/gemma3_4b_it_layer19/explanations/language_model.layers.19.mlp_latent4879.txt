@@ -1,0 +1,1 @@
+"The token \">>\" is used to indicate the end of a code block or a quotation, often used in programming or dialogue."

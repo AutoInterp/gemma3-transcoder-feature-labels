@@ -1,0 +1,1 @@
+"Texts often contain phrases that provide additional information or context, such as instructions, warnings, or suggestions, often starting with \"if\" or \"when\" and sometimes followed by a colon or a dash."

@@ -1,0 +1,1 @@
+"Texts often contain long, narrative passages that are not directly relevant to the main topic, but are included to provide context or background information. These passages are often marked by a low activation score, indicating that they are not as important for the overall meaning of the text."

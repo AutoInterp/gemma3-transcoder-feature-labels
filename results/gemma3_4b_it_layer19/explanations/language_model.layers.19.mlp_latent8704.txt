@@ -1,0 +1,1 @@
+"URLs and email addresses are frequently found in text, often used to provide additional information or resources."

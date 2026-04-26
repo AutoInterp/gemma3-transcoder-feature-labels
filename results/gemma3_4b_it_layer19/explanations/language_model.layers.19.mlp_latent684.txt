@@ -1,0 +1,1 @@
+"Texts often contain titles, subtitles, and section headers, which are frequently used to organize and structure content. These headers often appear at the beginning of a new section or chapter and are typically denoted by a title or phrase that summarizes the content that follows."

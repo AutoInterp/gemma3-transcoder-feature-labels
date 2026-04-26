@@ -1,0 +1,1 @@
+"The text contains a large number of questions, often in the format \"How to [perform a task]\" or \"How [something] works\", which are typically followed by informative content."

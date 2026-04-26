@@ -1,0 +1,1 @@
+"Texts from various sources, including programming documentation, articles, and online content, with a mix of technical and non-technical language. The patterns found include code snippets, API documentation, and online help resources, often with a focus on explaining complex concepts or providing step-by-step instructions."

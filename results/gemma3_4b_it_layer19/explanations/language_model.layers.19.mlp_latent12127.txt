@@ -1,0 +1,1 @@
+"Texts that start with a phrase or sentence, often expressing a personal thought or feeling, followed by a pause or a change in topic, indicated by the delimiter."

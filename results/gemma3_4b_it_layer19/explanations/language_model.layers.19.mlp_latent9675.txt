@@ -1,0 +1,1 @@
+"Texts containing troubleshooting instructions, error messages, and technical solutions, often with a conversational tone and including step-by-step guides, code snippets, and recommendations for resolving issues with software, hardware, and network connectivity."

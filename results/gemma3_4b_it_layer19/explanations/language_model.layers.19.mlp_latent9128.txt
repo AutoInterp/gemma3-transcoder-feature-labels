@@ -1,0 +1,1 @@
+"A sequence of a postal code, a street address, and a city or town name, often followed by a country name, typically \"United Kingdom\"."

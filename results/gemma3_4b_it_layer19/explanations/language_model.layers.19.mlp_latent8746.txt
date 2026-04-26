@@ -1,0 +1,1 @@
+"Text snippets from various programming languages, system logs, and command line interfaces, often containing error messages, stack traces, and debugging information."

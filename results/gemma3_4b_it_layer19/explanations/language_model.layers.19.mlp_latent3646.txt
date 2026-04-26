@@ -1,0 +1,1 @@
+"Various numerical values and units of measurement, including lengths, weights, temperatures, and precipitation amounts, often accompanied by descriptive text."

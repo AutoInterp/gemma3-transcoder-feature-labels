@@ -1,0 +1,1 @@
+"Texts often contain phrases that indicate a dependency or a condition, such as \"depends on\", \"based on\", or \"depending on\", which are used to express a relationship between variables or factors."

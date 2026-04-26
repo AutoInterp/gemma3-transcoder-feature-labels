@@ -1,0 +1,1 @@
+"Text fragments that appear to be article or chapter titles, section headings, or standalone statements, often used to introduce a new topic or provide context."

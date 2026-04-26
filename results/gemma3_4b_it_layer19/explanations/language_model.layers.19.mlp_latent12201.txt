@@ -1,0 +1,1 @@
+"Texts describing technical procedures, troubleshooting steps, and system configuration processes, often involving software installation, hardware setup, and password recovery."

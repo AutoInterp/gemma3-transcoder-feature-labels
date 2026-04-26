@@ -1,0 +1,1 @@
+"Texts discussing the availability and benefits of source code, often in contrast to binary distributions, and the process of obtaining and installing it."

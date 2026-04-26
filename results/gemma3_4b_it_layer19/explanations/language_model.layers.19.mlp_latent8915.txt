@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including Java, C#, C++, PHP, and JavaScript, with a focus on private class members, methods, and variables."

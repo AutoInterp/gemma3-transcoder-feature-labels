@@ -1,0 +1,1 @@
+"Ranges of values, often representing time, temperature, or quantities, used to provide context and precision in descriptions."

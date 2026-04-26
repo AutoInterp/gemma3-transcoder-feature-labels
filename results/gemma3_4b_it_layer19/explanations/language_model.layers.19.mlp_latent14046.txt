@@ -1,0 +1,1 @@
+"Various programming and technical terms, including file headers, copyright notices, and code snippets, often accompanied by metadata and version information."

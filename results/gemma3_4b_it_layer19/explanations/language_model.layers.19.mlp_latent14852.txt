@@ -1,0 +1,1 @@
+"The presence of a DOI (digital object identifier) or a PubMed ID, often found at the end of a scientific article citation, typically in the format of a number or a string of characters."

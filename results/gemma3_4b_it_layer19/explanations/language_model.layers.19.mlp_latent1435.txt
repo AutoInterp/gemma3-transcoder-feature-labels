@@ -1,0 +1,1 @@
+"Texts containing mathematical and scientific concepts, including equations, variables, and terminology, often accompanied by programming code and technical jargon."

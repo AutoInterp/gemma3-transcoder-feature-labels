@@ -1,0 +1,1 @@
+"Numbers and dates embedded in text, often used as identifiers or references, frequently appearing at the end of a sentence or paragraph."

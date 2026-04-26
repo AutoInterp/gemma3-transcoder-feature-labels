@@ -1,0 +1,1 @@
+"Texts often contain proper nouns, names of places, and titles, which are frequently used to identify specific individuals, locations, or concepts. These words are often used to provide context and establish relationships between entities within the text."

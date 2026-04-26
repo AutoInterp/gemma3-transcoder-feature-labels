@@ -1,0 +1,1 @@
+"Texts from various domains, including mathematics, computer science, and statistics, containing technical terms, equations, and formulas. The patterns found include the use of mathematical notation, variable names, and function calls, as well as the presence of code snippets and programming language syntax."

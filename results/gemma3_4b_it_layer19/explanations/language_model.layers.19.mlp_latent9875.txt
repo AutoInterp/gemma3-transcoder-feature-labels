@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, primarily Java, Python, JavaScript, and C++. The patterns found include class and function definitions, method overrides, and variable assignments."

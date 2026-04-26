@@ -1,0 +1,1 @@
+"Various URLs, IDs, and other unique identifiers, often used in academic or technical contexts, such as DOI numbers, ISBNs, and UUIDs."

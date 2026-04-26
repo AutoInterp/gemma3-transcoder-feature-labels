@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including JavaScript, PHP, and C++, as well as text from legal documents, articles, and technical guides. The patterns found in these examples include code blocks, function definitions, and variable declarations, as well as formal language used in contracts and legal agreements."

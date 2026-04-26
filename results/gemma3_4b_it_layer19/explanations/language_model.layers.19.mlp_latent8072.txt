@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, primarily C/C++, Java, Python, and PHP, with a focus on mathematical and algorithmic concepts, including geometry, physics, and data analysis."

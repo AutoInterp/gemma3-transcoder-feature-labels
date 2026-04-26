@@ -1,0 +1,1 @@
+"Mathematical text describing various concepts in topology, differential geometry, and algebra, including fiber bundles, ordinals, and group actions, with frequent use of formal notation and definitions."

@@ -1,0 +1,1 @@
+"Text snippets representing dates and times, often in a specific format, frequently accompanied by other contextual information such as user names, locations, and event descriptions."

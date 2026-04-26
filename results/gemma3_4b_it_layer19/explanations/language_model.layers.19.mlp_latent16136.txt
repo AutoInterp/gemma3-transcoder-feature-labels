@@ -1,0 +1,1 @@
+"Texts often contain incomplete or truncated sentences, likely due to the removal of content between delimiters, and sometimes the remaining text is a fragment of a sentence or a phrase."

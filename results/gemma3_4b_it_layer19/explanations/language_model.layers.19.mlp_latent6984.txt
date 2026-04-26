@@ -1,0 +1,1 @@
+"Time and date information, including schedules, hours of operation, and event details, often presented in a structured format with specific times and days of the week."

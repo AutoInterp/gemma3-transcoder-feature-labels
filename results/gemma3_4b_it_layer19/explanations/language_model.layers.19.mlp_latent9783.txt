@@ -1,0 +1,1 @@
+"Various types of data and information, including contact details, addresses, phone numbers, email addresses, currency exchange rates, technical trading information, scientific articles, programming code, and survey data."

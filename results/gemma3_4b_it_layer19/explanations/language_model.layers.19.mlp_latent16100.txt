@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including C, Java, Python, JavaScript, and SQL, with a focus on mathematical and scientific concepts, data analysis, and machine learning."

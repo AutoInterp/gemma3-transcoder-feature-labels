@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, primarily Java, C#, and SQL, with a focus on database schema definitions, data types, and object properties."

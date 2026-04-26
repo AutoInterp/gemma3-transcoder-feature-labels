@@ -1,0 +1,1 @@
+"Texts often contain long, disconnected sentences or phrases, sometimes with multiple paragraphs, that discuss various unrelated topics, and may include quotes, references, or citations."

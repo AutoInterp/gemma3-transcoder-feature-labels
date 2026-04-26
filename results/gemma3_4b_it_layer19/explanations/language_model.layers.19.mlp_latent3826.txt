@@ -1,0 +1,1 @@
+"Texts containing instructions, tutorials, and guides with frequent use of imperative verbs and phrases such as \"Click here\", \"Click to download\", \"Select this option\", and \"Go to the program\"."

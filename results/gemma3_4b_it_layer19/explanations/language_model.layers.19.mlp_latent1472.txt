@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including command-line scripts, functions, and methods, often used for testing, development, or automation purposes."

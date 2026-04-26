@@ -1,0 +1,1 @@
+"Texts often contain phrases that indicate a transition or a conclusion, such as \"Answer 30->>\" or \"How to help\", and sometimes a call to action or a suggestion to take a specific action."

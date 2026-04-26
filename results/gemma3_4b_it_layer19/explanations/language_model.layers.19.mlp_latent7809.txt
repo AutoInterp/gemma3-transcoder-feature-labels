@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, primarily focusing on web development, API endpoints, and database interactions, with a mix of GET, POST, and other HTTP methods, as well as database queries and encryption."

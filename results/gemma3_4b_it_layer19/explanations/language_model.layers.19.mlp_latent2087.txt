@@ -1,0 +1,1 @@
+"Texts containing technical descriptions of JSON (JavaScript Object Notation) data format, its usage, and compatibility with various programming languages and APIs."

@@ -1,0 +1,1 @@
+"Color codes in various formats, including hexadecimal, RGB, and CMYK, often accompanied by additional information such as HSL values or CMYK percentages."

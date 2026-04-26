@@ -1,0 +1,1 @@
+"Texts are mostly in Chinese, with some English phrases and code snippets. The Chinese texts appear to be a mix of articles, explanations, and conversations, while the English texts are mostly code and technical descriptions. The code snippets are from various programming languages, including Python, Java, and JavaScript."

@@ -1,0 +1,1 @@
+"Various programming code snippets and technical text, including Java, Python, and SQL code, as well as text from academic papers, news articles, and other sources, often discussing topics such as computer science, data analysis, and software development."

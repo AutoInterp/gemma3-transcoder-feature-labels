@@ -1,0 +1,1 @@
+"Various programming code snippets, database queries, and technical documentation, including SQL, Java, and Python code, as well as references to academic papers and online resources."

@@ -1,0 +1,1 @@
+"Texts from various sources, including articles, books, and conversations, with a focus on extracting specific phrases or sentences that may be relevant to the task. The extracted phrases often contain numerical values, proper nouns, or technical terms, suggesting a focus on data extraction or information retrieval."

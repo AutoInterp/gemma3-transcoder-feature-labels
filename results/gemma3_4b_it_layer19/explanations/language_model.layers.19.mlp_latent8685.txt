@@ -1,0 +1,1 @@
+"Texts containing mathematical formulas, equations, and scientific concepts, often with variable names and symbols, and sometimes accompanied by code snippets or programming language syntax."

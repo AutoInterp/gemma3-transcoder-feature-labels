@@ -1,0 +1,1 @@
+"Texts that are enclosed in angle brackets are often code snippets, programming examples, or mathematical expressions, and are frequently used in technical writing and documentation."

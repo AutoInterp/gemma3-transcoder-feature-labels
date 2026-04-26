@@ -1,0 +1,1 @@
+"Various types of text, including articles, conversations, and code snippets, with a focus on extracting specific information or quotes, often using numerical values, dates, and URLs."

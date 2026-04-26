@@ -1,0 +1,1 @@
+"Texts containing various types of identifiers, including patent numbers, PMID and PMCID numbers, DOIs, ISBNs, and URLs, often found in academic and technical contexts."

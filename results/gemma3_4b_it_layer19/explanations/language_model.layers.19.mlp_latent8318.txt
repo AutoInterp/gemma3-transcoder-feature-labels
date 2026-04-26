@@ -1,0 +1,1 @@
+"Texts describing technical instructions, troubleshooting, and system administration tasks, often involving command-line interfaces, scripts, and software installations."

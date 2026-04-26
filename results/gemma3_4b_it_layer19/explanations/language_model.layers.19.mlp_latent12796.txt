@@ -1,0 +1,1 @@
+"Mathematical expressions and formulas, often involving algebraic manipulations, calculus, and dimensional analysis, frequently accompanied by activation values indicating the importance of specific tokens or phrases within these expressions."

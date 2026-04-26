@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including C#, Java, and Python, as well as text from essays, articles, and other written content. The patterns found in the text include code syntax, variable names, function calls, and mathematical expressions, as well as idiomatic language, sentence structure, and formatting."

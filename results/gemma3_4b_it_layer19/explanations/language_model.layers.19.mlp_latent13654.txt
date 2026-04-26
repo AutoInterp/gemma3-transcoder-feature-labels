@@ -1,0 +1,1 @@
+"Texts often contain questions, quotes, or references to external sources, which are typically marked by a distinct formatting or delimiter."

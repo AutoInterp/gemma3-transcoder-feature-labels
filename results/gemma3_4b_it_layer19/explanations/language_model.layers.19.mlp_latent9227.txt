@@ -1,0 +1,1 @@
+"Texts discussing statistical distributions, specifically the Chi-square, F-distribution, and normal distribution, in the context of hypothesis testing, data analysis, and mathematical modeling."

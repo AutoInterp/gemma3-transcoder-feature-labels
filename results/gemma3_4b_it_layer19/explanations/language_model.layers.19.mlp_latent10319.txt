@@ -1,0 +1,1 @@
+"Journal article citations and references, including titles, authors, publication information, and page numbers, often with a DOI or PubMed ID."

@@ -1,0 +1,1 @@
+"Dates and times in the format of \"day of the week, month day\" or \"month day, year\" and times in the format of \"hour:minutes\" or \"hour:minutes AM/PM\" are often found in the text."

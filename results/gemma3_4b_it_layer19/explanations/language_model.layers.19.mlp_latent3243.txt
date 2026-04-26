@@ -1,0 +1,1 @@
+"Unix shell scripts and commands, including bash and python scripts, with various system administration tasks, such as user management, file system operations, and network configuration."

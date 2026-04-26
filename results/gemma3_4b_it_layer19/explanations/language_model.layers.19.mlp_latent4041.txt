@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including Ruby, Java, and JavaScript, as well as configuration files and data models, often containing metadata and attribute definitions."

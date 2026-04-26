@@ -1,0 +1,1 @@
+"SQL code snippets with various table and column definitions, foreign key constraints, and queries."

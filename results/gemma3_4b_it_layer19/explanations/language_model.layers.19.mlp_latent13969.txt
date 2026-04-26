@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that describe a process, a hierarchy, or a comparison, frequently involving the use of conditional statements, logical operations, or decision-making."

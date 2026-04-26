@@ -1,0 +1,1 @@
+"Various programming-related terms, database schema, and SQL queries, indicating a collection of code snippets and technical documentation."

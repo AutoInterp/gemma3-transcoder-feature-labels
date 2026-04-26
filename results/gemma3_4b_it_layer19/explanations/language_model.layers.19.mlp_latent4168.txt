@@ -1,0 +1,1 @@
+"Time expressions and schedules, including specific times of day, dates, and duration of events, often used to organize and structure information."

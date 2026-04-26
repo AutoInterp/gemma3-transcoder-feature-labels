@@ -1,0 +1,1 @@
+"Text fragments that appear to be cut off or truncated, often in the middle of a sentence, likely due to the presence of a delimiter."

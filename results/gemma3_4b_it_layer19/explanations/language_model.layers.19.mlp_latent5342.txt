@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including Java, Python, and C++, as well as database schema definitions and data models."

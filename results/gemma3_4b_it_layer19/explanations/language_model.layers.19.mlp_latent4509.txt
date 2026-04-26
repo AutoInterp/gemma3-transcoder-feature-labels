@@ -1,0 +1,1 @@
+"Text fragments often contain lists of items, instructions, or options, frequently enclosed in angle brackets or other delimiters, and sometimes followed by a period or other punctuation."

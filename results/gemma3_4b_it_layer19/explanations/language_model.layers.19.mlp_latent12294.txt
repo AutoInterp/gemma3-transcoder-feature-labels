@@ -1,0 +1,1 @@
+"Text snippets containing programming code, technical jargon, and formal language, often from RFC documents, programming tutorials, and academic papers, indicating a focus on computer science and technology."

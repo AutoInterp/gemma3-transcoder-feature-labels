@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, primarily error handling and conditional statements."

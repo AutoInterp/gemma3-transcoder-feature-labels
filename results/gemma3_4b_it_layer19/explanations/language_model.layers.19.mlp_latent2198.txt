@@ -1,0 +1,1 @@
+"The token \"0\" or \"1\" used to represent binary values, such as true/false, success/failure, or on/off states, often in the context of programming, data representation, or mathematical formulas."

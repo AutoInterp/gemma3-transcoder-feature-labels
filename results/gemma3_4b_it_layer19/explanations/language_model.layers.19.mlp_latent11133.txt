@@ -1,0 +1,1 @@
+"Various types of text fragments, including dates, mathematical expressions, programming code, and quotations, often found in online articles, academic papers, and technical documentation."

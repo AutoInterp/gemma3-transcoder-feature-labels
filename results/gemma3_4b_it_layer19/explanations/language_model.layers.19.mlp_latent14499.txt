@@ -1,0 +1,1 @@
+"Text is comprised of mathematical and technical language, primarily from the fields of differential equations, linear algebra, and probability theory, with frequent use of Greek letters, subscripts, and superscripts."

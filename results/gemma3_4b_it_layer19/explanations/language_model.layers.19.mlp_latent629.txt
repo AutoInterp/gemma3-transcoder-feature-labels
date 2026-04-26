@@ -1,0 +1,1 @@
+"Text snippets often contain specific phrases or sentences that are not directly related to the main topic, such as quotes, references, or side information, which are often marked by a significant drop in activation values."

@@ -1,0 +1,1 @@
+"Text fragments often appear at the beginning or end of a paragraph, sometimes containing a quotation or a phrase that is not directly related to the main topic, and are likely to be irrelevant or supplementary information."

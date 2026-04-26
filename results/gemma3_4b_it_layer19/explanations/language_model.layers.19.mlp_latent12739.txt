@@ -1,0 +1,1 @@
+"Various time-related expressions and units, including years, months, weeks, days, and hours, often used to describe durations, intervals, or periods of time."

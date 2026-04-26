@@ -1,0 +1,1 @@
+"Texts describing various topics, including technology, health, business, and science, often containing technical jargon and complex concepts. Many examples feature long sequences of text with low activation values, suggesting that these sequences are not particularly important for the overall meaning of the text."

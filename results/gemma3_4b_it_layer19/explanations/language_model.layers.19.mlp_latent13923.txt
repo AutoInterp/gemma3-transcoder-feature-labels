@@ -1,0 +1,1 @@
+"Various types of identifiers, such as ISBN numbers, article IDs, and database keys, often found in academic or technical contexts."

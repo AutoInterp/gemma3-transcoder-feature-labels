@@ -1,0 +1,1 @@
+"Various Java-related code snippets with different levels of activation for different tokens, indicating a mix of programming language elements, comments, and variable names."

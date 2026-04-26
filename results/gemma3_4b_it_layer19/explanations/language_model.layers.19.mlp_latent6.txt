@@ -1,0 +1,1 @@
+"Texts often contain phrases that are unclear or require explanation, frequently marked by a question or a phrase indicating a need for clarification, such as \"what is this\", \"what is that\", or \"what does it mean\"."

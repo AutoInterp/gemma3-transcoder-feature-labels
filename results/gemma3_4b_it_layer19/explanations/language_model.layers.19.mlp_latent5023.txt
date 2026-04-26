@@ -1,0 +1,1 @@
+"Various types of addresses, including physical addresses, URLs, and phone numbers, often found at the end of a paragraph or in a list of information."

@@ -1,0 +1,1 @@
+"Text fragments that are not part of the main content, often representing titles, subtitles, or quotes, and sometimes containing metadata or code snippets."

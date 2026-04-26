@@ -1,0 +1,1 @@
+"Texts often contain phrases that are not directly related to the main topic, such as quotes, biblical passages, and advertisements, which can be identified by their distinct language and formatting."

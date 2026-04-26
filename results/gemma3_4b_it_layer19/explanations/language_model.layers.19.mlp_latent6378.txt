@@ -1,0 +1,1 @@
+"Texts containing copyright information, licensing agreements, and permissions, often at the beginning or end of a document, and sometimes within a code snippet."

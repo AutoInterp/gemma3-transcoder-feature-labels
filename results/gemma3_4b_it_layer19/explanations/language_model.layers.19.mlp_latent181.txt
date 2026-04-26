@@ -1,0 +1,1 @@
+"Technical documentation and programming code snippets, often with specific syntax and formatting, describing various concepts, functions, and tools in fields such as computer science, engineering, and data analysis."

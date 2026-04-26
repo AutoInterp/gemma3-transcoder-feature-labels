@@ -1,0 +1,1 @@
+"Various programming code snippets and database schema definitions, primarily in PHP and SQL, with some comments and documentation in English and other languages."

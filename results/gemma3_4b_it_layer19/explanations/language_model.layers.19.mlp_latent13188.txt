@@ -1,0 +1,1 @@
+"Various types of data, including numerical values, text descriptions, and identifiers, often in the context of technical or scientific information, such as frequencies, coordinates, and financial data."

@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including Java, Python, and SQL, as well as text from academic papers, articles, and online content, often with formatting and syntax highlighting."

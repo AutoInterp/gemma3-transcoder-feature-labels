@@ -1,0 +1,1 @@
+"Text snippets containing Unix/Linux commands, file paths, and configuration settings, often related to software installation, system administration, and programming."

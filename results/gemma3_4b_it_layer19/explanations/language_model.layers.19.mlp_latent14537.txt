@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, primarily Java and C#, with a focus on console applications, printing statements, and error handling."

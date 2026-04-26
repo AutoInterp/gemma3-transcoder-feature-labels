@@ -1,0 +1,1 @@
+"Text fragments often contain phone numbers, URLs, and other external links, which are frequently denoted by a specific sequence of characters, such as a series of digits or a specific string of characters."

@@ -1,0 +1,1 @@
+"Various programming constructs and syntax elements, including loops (for, while), conditional statements, and function calls, as well as data structures (lists, queues, stacks) and algorithms (depth-first search, breadth-first search)."

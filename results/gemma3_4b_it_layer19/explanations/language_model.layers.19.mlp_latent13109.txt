@@ -1,0 +1,1 @@
+"Timestamps in the format of day/month/year and hour:minute AM/PM, often followed by a date or time range."

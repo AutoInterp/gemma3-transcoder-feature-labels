@@ -1,0 +1,1 @@
+"Various programming code snippets, including Python, C, and shell scripts, as well as text from technical documentation, articles, and books, often discussing software development, programming languages, and technical concepts."

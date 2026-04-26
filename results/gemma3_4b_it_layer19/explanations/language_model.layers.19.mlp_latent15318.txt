@@ -1,0 +1,1 @@
+"Code snippets and configuration files from various operating systems and programming languages, including NetBSD, pkgsrc, Apache, and Ruby."

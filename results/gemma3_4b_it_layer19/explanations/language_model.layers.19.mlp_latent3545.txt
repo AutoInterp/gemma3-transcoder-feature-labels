@@ -1,0 +1,1 @@
+"Code snippets and scientific articles with various formatting styles, including variable declarations, function calls, and citations, often with specific keywords and phrases related to computer science, biology, and medicine."

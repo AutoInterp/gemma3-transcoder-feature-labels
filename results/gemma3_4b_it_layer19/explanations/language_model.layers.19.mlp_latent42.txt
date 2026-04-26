@@ -1,0 +1,1 @@
+"Text segments often appear as standalone blocks of text, sometimes with a specific structure or formatting, and are frequently used to convey information, provide context, or highlight important details."

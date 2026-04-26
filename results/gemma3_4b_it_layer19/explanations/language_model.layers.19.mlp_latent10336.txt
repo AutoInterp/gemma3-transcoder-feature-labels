@@ -1,0 +1,1 @@
+"The token \"at\" is often used as a delimiter in email addresses, indicating the start of a contact's email address."

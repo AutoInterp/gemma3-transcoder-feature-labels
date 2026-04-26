@@ -1,0 +1,1 @@
+"Code snippets and technical documentation, including programming examples, configuration files, and troubleshooting guides, often with a focus on web development, system administration, and software engineering."

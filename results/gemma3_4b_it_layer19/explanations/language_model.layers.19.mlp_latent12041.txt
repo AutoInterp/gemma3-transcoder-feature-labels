@@ -1,0 +1,1 @@
+"Texts containing mathematical expressions, programming code, and technical jargon, often related to computer science, physics, and engineering."

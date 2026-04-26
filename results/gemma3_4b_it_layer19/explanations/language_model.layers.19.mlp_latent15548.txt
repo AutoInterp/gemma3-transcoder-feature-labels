@@ -1,0 +1,1 @@
+"Texts discussing programming languages, specifically C and C++, with topics including syntax, idioms, and best practices."

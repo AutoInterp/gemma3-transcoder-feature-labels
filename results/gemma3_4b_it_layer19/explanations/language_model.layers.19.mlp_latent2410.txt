@@ -1,0 +1,1 @@
+"Various phrases and sentences are contained within HTML code, CSS code, and programming code, indicating that they are being used for purposes other than natural language communication, such as documentation or comments."

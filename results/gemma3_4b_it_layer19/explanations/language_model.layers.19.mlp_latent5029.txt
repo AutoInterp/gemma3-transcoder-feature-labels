@@ -1,0 +1,1 @@
+"Various types of text, including articles, social media posts, and academic papers, with a focus on extracting specific phrases or sentences that contain important information."

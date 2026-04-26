@@ -1,0 +1,1 @@
+"Text snippets often contain technical or specialized information, such as programming code, scientific terminology, or product descriptions, which are frequently found in online articles, forums, and documentation."

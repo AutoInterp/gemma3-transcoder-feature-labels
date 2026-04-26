@@ -1,0 +1,1 @@
+"Java and Spring framework code snippets, primarily annotations and imports, used for defining classes, methods, and dependencies in a Spring-based application."

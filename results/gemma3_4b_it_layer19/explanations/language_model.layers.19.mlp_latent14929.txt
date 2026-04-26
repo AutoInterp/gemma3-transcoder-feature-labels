@@ -1,0 +1,1 @@
+"Texts that contain phrases or sentences that are likely to be cut off or truncated, often due to the presence of a delimiter or a pause in the text, and may be followed by a continuation of the thought or a new sentence."

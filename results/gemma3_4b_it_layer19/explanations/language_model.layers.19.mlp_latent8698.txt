@@ -1,0 +1,1 @@
+"Time expressions in 24-hour format, often with a specific date or day of the week, frequently used to schedule events or appointments."

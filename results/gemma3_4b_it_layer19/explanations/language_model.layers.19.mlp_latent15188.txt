@@ -1,0 +1,1 @@
+"Text snippets often contain URLs, product information, and other miscellaneous data, frequently appearing in a format that is not typical of regular text."

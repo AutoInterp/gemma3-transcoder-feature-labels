@@ -1,0 +1,1 @@
+"Colons (:) used to introduce lists of percentages or other data, often in a scientific or technical context."

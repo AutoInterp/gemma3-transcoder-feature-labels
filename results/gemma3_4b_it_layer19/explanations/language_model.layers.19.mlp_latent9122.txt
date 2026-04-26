@@ -1,0 +1,1 @@
+"Texts containing a mix of mathematical expressions, code snippets, and various types of data, including numerical values, colors, and coordinates, often in the context of scientific or technical discussions."

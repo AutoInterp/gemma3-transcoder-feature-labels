@@ -1,0 +1,1 @@
+"Dates and times, often in the format of a schedule, including opening hours, event start times, and deadlines."

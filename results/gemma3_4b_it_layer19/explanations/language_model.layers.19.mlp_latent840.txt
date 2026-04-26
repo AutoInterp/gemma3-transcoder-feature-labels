@@ -1,0 +1,1 @@
+"Texts containing mathematical equations, formulas, and scientific expressions, often with variable names, symbols, and units."

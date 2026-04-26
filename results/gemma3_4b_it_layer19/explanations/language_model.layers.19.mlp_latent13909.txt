@@ -1,0 +1,1 @@
+"Texts containing technical descriptions, scientific explanations, and formal language, often with specific formatting and notation, such as mathematical equations, chemical formulas, and programming code."

@@ -1,0 +1,1 @@
+"Code snippets with conditional statements and function calls, often checking for the existence or truth value of a variable or expression, and returning or executing different code paths based on the result."

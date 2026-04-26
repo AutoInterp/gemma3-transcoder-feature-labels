@@ -1,0 +1,1 @@
+"Various numerical values and units, including percentages, currency amounts, and measurements, often in scientific notation or with specific formatting."

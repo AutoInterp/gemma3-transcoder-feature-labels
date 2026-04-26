@@ -1,0 +1,1 @@
+"Code comments and documentation, including function parameters, return types, and descriptions, as well as configuration options and usage instructions."

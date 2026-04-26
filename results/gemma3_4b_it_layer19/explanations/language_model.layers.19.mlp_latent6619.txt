@@ -1,0 +1,1 @@
+"Texts containing various types of identifiers, including ISBN numbers, phone numbers, email addresses, URLs, and other forms of unique codes or references."

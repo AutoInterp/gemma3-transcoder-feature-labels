@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are added as afterthoughts or as additional information, which are typically separated from the main text by a line break or a pause. These added phrases often provide context, explanation, or emphasis, and are usually denoted by a slight decrease in activation values for the surrounding words."

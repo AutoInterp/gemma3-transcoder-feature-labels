@@ -1,0 +1,1 @@
+"Texts often contain phrases that are too long to be considered a single token, but are still treated as a single unit of meaning, and sometimes these phrases are enclosed in quotation marks."

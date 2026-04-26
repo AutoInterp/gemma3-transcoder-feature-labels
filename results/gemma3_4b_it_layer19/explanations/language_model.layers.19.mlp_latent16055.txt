@@ -1,0 +1,1 @@
+"Various types of text fragments, including hashtags, IDs, and special keywords, often used to categorize or reference content, and sometimes used as a delimiter for a specific section of text."

@@ -1,0 +1,1 @@
+"Texts often contain phrases that start with \"<< start somewhere in explaining the amazing power, flexibility and ease of use of this program\" or similar phrases, which are followed by a detailed explanation of a concept or a product, indicating a transition from a general introduction to a specific explanation."

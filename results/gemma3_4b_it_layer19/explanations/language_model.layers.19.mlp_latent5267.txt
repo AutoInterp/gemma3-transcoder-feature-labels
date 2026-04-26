@@ -1,0 +1,1 @@
+"Text fragments often containing URLs, email addresses, or links to external resources, frequently found at the end of a paragraph or as a call-to-action."

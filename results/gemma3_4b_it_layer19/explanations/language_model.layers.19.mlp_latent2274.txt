@@ -1,0 +1,1 @@
+"Various types of text data, including product information, reviews, articles, and code snippets, with a focus on extracting specific keywords and phrases."

@@ -1,0 +1,1 @@
+"Texts describing various mathematical and computational concepts, including algorithms, data structures, and problem-solving techniques, often with code examples and explanations."

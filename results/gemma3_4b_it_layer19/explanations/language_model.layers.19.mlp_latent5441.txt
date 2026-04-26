@@ -1,0 +1,1 @@
+"Text snippets often contain dates, locations, and event descriptions, frequently including names, titles, and organizational affiliations."

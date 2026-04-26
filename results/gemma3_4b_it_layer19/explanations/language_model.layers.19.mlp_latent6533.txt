@@ -1,0 +1,1 @@
+"Error messages and technical descriptions of problems, often including specific codes, instructions for troubleshooting, and explanations of software or system behavior."

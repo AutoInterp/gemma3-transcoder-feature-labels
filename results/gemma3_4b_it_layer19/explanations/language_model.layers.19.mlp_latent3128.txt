@@ -1,0 +1,1 @@
+"Dates in the format of day/month/year, and file sizes in the format of number followed by a unit (e.g., 59 KB)."

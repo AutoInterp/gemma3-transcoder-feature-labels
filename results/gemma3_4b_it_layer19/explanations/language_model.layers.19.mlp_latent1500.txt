@@ -1,0 +1,1 @@
+"Dates in the format of \"–year\" or \"year–year\" representing a range of years, often used to denote the reign of a monarch or the duration of an event."

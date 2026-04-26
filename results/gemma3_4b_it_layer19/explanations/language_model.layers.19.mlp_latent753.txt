@@ -1,0 +1,1 @@
+"Text fragments often appear in pairs, denoted by << and >>, which seem to be used to indicate a quote, a title, or a separate section of text."

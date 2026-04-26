@@ -1,0 +1,1 @@
+"Various types of text data, including scientific articles, news articles, and online content, with a focus on extracting specific information such as citations, URLs, and error codes."

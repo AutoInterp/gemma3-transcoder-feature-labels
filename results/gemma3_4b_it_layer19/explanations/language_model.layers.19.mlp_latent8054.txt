@@ -1,0 +1,1 @@
+"Ranges of values, often percentages or years, used to describe quantities or timeframes."

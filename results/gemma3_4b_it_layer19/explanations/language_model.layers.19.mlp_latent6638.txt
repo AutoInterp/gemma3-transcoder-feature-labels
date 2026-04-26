@@ -1,0 +1,1 @@
+"The text contains a mix of programming code in various languages (C++, Java, Python, etc.) and natural language text, with a focus on technical and scientific topics such as computer science, mathematics, and biology. The code snippets are often short and context-dependent, while the natural language text is more narrative and explanatory."

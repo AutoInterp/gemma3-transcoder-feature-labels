@@ -1,0 +1,1 @@
+"Various types of numerical data, including monetary amounts, times, and statistical values, often presented in a formal or technical context."

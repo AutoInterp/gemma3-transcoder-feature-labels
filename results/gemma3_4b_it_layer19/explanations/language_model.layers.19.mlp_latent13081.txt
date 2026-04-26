@@ -1,0 +1,1 @@
+"Various numerical values and units, such as time (e.g. minutes, hours, days, years), quantities (e.g. ounces, pounds, millimeters), and percentages, often used to describe measurements, comparisons, and growth."

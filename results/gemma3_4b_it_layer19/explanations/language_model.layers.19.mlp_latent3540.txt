@@ -1,0 +1,1 @@
+"Instructions and prompts for user input, often in the form of commands, queries, or fields to fill in, typically found in technical documentation, tutorials, and online forms."

@@ -1,0 +1,1 @@
+"Various types of text, including articles, reviews, and technical documentation, with a focus on extracting specific information such as opening hours, ingredients, and technical specifications."

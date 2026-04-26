@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are set apart from the rest of the text, usually to indicate a quote, a title, or a separate idea. These phrases or sentences are often surrounded by delimiters, and the surrounding text may have lower activation values, indicating a change in the topic or tone."

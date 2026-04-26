@@ -1,0 +1,1 @@
+"Various texts with different topics and styles, but often containing proper nouns, names of places, organizations, and events, which are likely to be the most informative tokens in the text."

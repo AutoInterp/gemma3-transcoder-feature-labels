@@ -1,0 +1,1 @@
+"Texts describing mathematical concepts, theorems, and proofs, often involving abstract algebra, topology, and analysis, with frequent use of formal notation and technical terminology."

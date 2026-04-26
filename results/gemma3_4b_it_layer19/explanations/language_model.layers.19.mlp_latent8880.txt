@@ -1,0 +1,1 @@
+"The token \"<<\" and \">>\" often marks the beginning and end of a quotation, and the token \"...\" often marks an ellipsis, indicating a pause or trailing off in thought."

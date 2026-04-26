@@ -1,0 +1,1 @@
+"Text fragments that appear to be standalone statements, often with a title or heading, and sometimes followed by additional information or a link."

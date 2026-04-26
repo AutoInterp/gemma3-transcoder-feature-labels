@@ -1,0 +1,1 @@
+"Various programming code snippets, database schema, and data structures, including SQL queries, Java and Python code, and JSON data."

@@ -1,0 +1,1 @@
+"SQL code snippets, including table structures, foreign key constraints, and database queries, with some programming code and text in various languages."

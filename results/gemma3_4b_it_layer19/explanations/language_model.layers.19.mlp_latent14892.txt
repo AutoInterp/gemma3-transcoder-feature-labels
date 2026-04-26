@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including Java, JavaScript, and C++, with comments and documentation in English and other languages, such as Chinese and German."

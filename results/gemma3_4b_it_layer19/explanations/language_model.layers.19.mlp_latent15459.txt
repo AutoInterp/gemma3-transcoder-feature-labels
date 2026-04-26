@@ -1,0 +1,1 @@
+"Various URLs, DOIs, and citations in academic and technical contexts, often accompanied by activation values for specific strings."

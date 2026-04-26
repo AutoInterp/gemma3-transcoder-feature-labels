@@ -1,0 +1,1 @@
+"Texts are mostly in Chinese, and they appear to be code snippets, documentation, or articles related to programming, software development, and technical topics."

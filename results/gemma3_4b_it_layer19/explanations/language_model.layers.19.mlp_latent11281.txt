@@ -1,0 +1,1 @@
+"Texts that are quoted or referenced, often with a lower activation score, indicating they are not the main focus of the text."

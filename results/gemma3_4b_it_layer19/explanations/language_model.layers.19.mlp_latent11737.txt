@@ -1,0 +1,1 @@
+"Texts that are not part of the main content, such as navigation links, disclaimers, and references to external sources, often appear at the end of a block of text."

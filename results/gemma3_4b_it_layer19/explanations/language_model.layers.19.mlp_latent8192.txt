@@ -1,0 +1,1 @@
+"Texts often contain numerical data, percentages, and statistics, frequently used to describe demographics, health outcomes, or economic conditions."

@@ -1,0 +1,1 @@
+"Texts often contain long phrases or sentences that are not crucial to the main meaning, and are often followed by a delimiter or a new paragraph, indicating a shift in context or topic."

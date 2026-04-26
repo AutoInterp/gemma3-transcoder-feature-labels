@@ -1,0 +1,1 @@
+"Various phone numbers and email addresses, often in a format of \"Phone number: +43-XXXX-XXXX\" and \"Email: XXXX@XXXX\"."

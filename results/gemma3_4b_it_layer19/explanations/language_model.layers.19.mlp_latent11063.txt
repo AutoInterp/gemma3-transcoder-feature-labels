@@ -1,0 +1,1 @@
+"Error messages and debugging information from various programming languages and systems, often including specific error codes, function names, and file paths."

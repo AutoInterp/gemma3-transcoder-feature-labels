@@ -1,0 +1,1 @@
+"Text snippets often contain URLs, code snippets, or other technical information, frequently found within HTML tags or code blocks, and sometimes within quotes or parentheses."

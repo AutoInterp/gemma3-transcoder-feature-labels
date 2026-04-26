@@ -1,0 +1,1 @@
+"Texts often contain phrases indicating a specific location or context, such as physical spaces (e.g. \"house\", \"box\", \"way\"), abstract concepts (e.g. \"life\", \"issue\", \"phase of matter\"), or situations (e.g. \"fight\", \"election\", \"court\")."

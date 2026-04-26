@@ -1,0 +1,1 @@
+"Text fragments often appear at the end of a line or paragraph, possibly indicating a transition to a new section or a link to external content, frequently denoted by \"<eos>\" or other similar markers."

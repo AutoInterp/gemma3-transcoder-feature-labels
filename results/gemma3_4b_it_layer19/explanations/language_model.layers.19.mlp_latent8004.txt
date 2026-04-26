@@ -1,0 +1,1 @@
+"Texts describing licenses and permissions for software, intellectual property, and creative works, often referencing specific licenses such as GNU General Public License, Creative Commons Attribution License, and Apache License."

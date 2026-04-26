@@ -1,0 +1,1 @@
+"Texts often contain phrases indicating a lack of permission, ownership, or control, such as \"have to\", \"don't have to\", \"have permission\", and \"have to come back\"."

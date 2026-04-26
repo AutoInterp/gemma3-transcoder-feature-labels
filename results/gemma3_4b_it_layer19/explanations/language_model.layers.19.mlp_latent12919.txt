@@ -1,0 +1,1 @@
+"Various code snippets and data structures containing field names or identifiers such as \"name\", \"username\", \"email\", \"password\", etc. often used for authentication, data storage, and user information."

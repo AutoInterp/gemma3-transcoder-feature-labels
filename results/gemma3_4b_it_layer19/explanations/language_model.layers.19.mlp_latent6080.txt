@@ -1,0 +1,1 @@
+"Text fragments that appear to be the start or end of a document, often containing metadata or introductory information, and are typically denoted by a specific delimiter."

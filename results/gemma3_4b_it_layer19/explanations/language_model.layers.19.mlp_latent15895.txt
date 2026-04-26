@@ -1,0 +1,1 @@
+"Numbers representing time intervals, often used to describe duration, frequency, or range, such as years, months, days, hours, minutes, and seconds."

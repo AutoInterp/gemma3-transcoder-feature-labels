@@ -1,0 +1,1 @@
+"Time periods expressed in units of days, weeks, months, or years, often used to describe duration of events, treatment, or recovery."

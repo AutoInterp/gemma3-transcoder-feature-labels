@@ -1,0 +1,1 @@
+"Text fragments enclosed by delimiters are often book or article excerpts, quotes, or passages from various sources, indicating a collection or aggregation of information."

@@ -1,0 +1,1 @@
+"The token \".\" is often used to end a sentence, and the token \"<<\" is sometimes used to indicate the start of a quotation or a phrase, while \">>\" is used to indicate the end."

@@ -1,0 +1,1 @@
+"Text snippets often contain proper nouns, such as names of locations, organizations, and people, which are frequently mentioned in the context of news articles, discussions, and technical descriptions."

@@ -1,0 +1,1 @@
+"Code snippets in various programming languages, primarily C and Go, with a focus on mathematical and computational operations, including compression, date and time manipulation, and financial calculations."

@@ -1,0 +1,1 @@
+"Texts often contain domain names, URLs, and other types of URIs, which can be used to identify specific objects or locations. Additionally, the texts frequently mention specific names, people, and places, which can be used to contextualize the information being discussed."

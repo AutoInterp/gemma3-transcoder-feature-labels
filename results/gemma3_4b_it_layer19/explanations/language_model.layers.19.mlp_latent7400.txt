@@ -1,0 +1,1 @@
+"Various programming code snippets, including SQL queries, PHP scripts, Java code, and C++ functions, as well as text from articles, books, and online content."

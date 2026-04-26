@@ -1,0 +1,1 @@
+"URLs and code snippets from various programming languages and websites, often containing parameters, API keys, or other technical information."

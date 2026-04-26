@@ -1,0 +1,1 @@
+"Various types of text data, including dates, times, locations, financial information, technical specifications, and social media posts, often containing specific keywords or phrases that indicate their purpose or context."

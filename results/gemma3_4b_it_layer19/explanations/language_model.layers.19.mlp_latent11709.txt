@@ -1,0 +1,1 @@
+"Numbers representing financial values, such as amounts of money, sales, profits, and debts, often in the context of business, economics, or personal finance."

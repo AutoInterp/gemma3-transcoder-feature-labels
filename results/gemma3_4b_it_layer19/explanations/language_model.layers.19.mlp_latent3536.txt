@@ -1,0 +1,1 @@
+"C++ code snippets with various headers and function definitions, likely from a large codebase or a collection of examples."

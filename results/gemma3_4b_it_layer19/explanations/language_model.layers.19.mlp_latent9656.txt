@@ -1,0 +1,1 @@
+"Text contains a mix of various data types, including geographical locations, URLs, HTML code, and plain text, often with different formatting and syntax."

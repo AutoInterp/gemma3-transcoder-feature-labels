@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are set off by a delimiter, typically indicating a quotation, a parenthetical remark, or a separate clause, and are often followed by a period or other punctuation."

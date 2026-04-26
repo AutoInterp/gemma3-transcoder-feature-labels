@@ -1,0 +1,1 @@
+"The token \"when\" often used to introduce a condition or a specific point in time, and the token \"if\" used to express a hypothetical situation or a condition."

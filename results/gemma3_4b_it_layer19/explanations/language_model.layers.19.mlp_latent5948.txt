@@ -1,0 +1,1 @@
+"Texts containing a mix of programming code, technical documentation, and Chinese text, often with English phrases and variable names. The code snippets are from various programming languages, including Java, Python, and C++. The text also includes mathematical formulas, diagrams, and references to specific products or services."

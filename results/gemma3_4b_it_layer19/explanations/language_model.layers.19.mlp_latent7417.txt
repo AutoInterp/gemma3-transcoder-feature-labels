@@ -1,0 +1,1 @@
+"Street addresses and geographical locations, often including country names, city names, and specific street names, frequently accompanied by postal codes and other geographical identifiers."

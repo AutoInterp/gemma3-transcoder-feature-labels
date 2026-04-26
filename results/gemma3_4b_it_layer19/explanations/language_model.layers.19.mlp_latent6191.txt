@@ -1,0 +1,1 @@
+"Text snippets often appear between delimiters, which may indicate a quote, a citation, or a code snippet, and are typically not as highly activated as the surrounding text."

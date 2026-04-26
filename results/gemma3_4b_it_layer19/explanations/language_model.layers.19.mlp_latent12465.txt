@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that compare or contrast two things, with one being \"more\" or \"less\" than the other, such as \"wider\", \"taller\", \"smaller\", or \"higher\"."

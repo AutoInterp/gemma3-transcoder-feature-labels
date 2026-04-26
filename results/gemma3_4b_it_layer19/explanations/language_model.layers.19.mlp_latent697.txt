@@ -1,0 +1,1 @@
+"Texts containing various types of dates, including specific years, months, and days, often in the format of a timestamp or a date range."

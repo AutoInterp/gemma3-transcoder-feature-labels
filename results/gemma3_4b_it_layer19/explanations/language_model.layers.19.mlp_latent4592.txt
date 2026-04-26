@@ -1,0 +1,1 @@
+"Various date and time formats, including specific years, months, days, hours, minutes, and seconds, often used in programming and data manipulation contexts."

@@ -1,0 +1,1 @@
+"Code snippets in various programming languages and markup languages, including HTML, CSS, and OpenGL, as well as color codes in RGB and HSV formats."

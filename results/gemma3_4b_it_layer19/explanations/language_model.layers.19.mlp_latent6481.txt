@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, primarily showing exception handling mechanisms, error handling, and specific error types such as KeyError, ValueError, and others."

@@ -1,0 +1,1 @@
+"URLs and article titles often appear at the beginning of a text snippet, frequently followed by a brief summary or a list of key points."

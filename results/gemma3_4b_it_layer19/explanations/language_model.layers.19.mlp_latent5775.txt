@@ -1,0 +1,1 @@
+"Code snippets in various programming languages, including Python, JavaScript, and HTML, with a focus on layout and positioning of elements on a screen or page."

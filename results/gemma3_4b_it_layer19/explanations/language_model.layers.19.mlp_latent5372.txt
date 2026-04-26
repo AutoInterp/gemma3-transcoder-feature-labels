@@ -1,0 +1,1 @@
+"Text describing attributes or specifications of an object, often in a structured format, typically including key-value pairs or lists."

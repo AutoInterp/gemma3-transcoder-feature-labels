@@ -1,0 +1,1 @@
+"Instructions and commands for executing various tasks, including software installation, file management, and system configuration."

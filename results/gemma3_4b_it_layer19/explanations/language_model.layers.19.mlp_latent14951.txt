@@ -1,0 +1,1 @@
+"Text snippets from academic papers, including citations, references, and abstracts, often with DOI or PubMed IDs, and sometimes accompanied by activation values indicating relevance or importance."

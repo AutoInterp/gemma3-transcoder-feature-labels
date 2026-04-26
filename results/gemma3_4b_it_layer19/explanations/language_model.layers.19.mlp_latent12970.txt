@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including C, C++, JavaScript, and others, with a focus on encryption, data structures, and algorithms."

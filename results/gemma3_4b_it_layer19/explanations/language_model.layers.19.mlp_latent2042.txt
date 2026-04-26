@@ -1,0 +1,1 @@
+"Text contains a mix of technical and non-technical content, including code snippets, mathematical formulas, scientific articles, and everyday language. The presence of various formatting styles, such as HTML, LaTeX, and Markdown, suggests a diverse range of sources and purposes."

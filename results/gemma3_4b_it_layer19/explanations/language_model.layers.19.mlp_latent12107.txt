@@ -1,0 +1,1 @@
+"Text fragments containing dates, titles, and names, often serving as headers or references."

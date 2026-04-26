@@ -1,0 +1,1 @@
+"Various numerical values and units, including currency, measurements, and quantities, often used in financial, scientific, and technical contexts."

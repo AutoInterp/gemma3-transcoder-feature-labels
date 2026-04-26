@@ -1,0 +1,1 @@
+"Text describing mathematical concepts, algorithms, and problem solutions, often involving number theory, group theory, and combinatorics."

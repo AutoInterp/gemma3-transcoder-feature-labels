@@ -1,0 +1,1 @@
+"Texts containing mathematical expressions, equations, and proofs, often in the context of computer science, algebra, or geometry."

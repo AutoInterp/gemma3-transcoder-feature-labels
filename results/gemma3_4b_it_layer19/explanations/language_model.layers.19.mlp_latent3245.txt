@@ -1,0 +1,1 @@
+"Text fragments that appear to be quotes, citations, or references, often denoted by phrases such as \"Figure\", \"Image\", \"What You'll Learn In This Episode:\", or \"Joel Anderson\"."

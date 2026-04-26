@@ -1,0 +1,1 @@
+"URLs and text excerpts often appear in a specific format, typically with a title or description, followed by a link or a quotation mark, and then a continuation of the text."

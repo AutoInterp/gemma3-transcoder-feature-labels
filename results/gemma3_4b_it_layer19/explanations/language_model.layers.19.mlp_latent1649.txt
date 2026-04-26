@@ -1,0 +1,1 @@
+"Texts often contain phrases indicating a point in time or a specific moment, such as \"until\", \"after\", \"before\", and \"since\", which are used to describe a sequence of events or a state of being."

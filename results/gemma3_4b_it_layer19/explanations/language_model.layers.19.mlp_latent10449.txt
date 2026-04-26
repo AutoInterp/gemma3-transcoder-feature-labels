@@ -1,0 +1,1 @@
+"SQL code snippets, including database table creation, alteration, and query execution, with various database management system (DBMS) specific syntax and commands."

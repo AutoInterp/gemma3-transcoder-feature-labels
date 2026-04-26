@@ -1,0 +1,1 @@
+"Code snippets and programming-related text, including mathematical expressions, variable assignments, and function calls, often in a programming language such as Python or SQL."

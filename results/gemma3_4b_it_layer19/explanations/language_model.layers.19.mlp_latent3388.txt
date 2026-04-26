@@ -1,0 +1,1 @@
+"Token sequences representing comparisons, contrasts, and relationships between entities, often used to convey nuanced ideas or highlight differences."

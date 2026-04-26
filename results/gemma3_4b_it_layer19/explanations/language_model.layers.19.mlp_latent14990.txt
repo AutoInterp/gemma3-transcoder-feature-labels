@@ -1,0 +1,1 @@
+"SQL code snippets from various database systems, including MySQL, PostgreSQL, and MongoDB, showcasing table creation, data retrieval, and indexing."

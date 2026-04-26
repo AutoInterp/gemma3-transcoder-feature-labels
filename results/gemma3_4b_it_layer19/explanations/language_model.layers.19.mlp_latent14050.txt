@@ -1,0 +1,1 @@
+"Code snippets and programming language syntax, including comments, conditional statements, and function calls."

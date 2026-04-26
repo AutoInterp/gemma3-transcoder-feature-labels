@@ -1,0 +1,1 @@
+"Text fragments often found at the end of articles or paragraphs, typically indicating the end of a section or the conclusion of a piece of content, denoted by the presence of the string \"<eos>\"."

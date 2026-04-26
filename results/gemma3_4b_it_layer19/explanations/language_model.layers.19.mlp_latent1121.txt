@@ -1,0 +1,1 @@
+"Texts often contain specific phrases or sentences that are not directly related to the main topic, such as dates, names, and product information, which are likely to be extracted as important tokens."

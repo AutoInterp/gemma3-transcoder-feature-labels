@@ -1,0 +1,1 @@
+"SQL code snippets, including table and column definitions, queries, and function definitions, written in various programming languages and frameworks, such as Java, Python, and Oracle."

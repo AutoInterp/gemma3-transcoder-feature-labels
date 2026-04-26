@@ -1,0 +1,1 @@
+"Java code snippets, primarily from Spring and JUnit frameworks, with various annotations and classes used for testing, configuration, and data access."

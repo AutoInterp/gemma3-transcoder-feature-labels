@@ -1,0 +1,1 @@
+"Various programming languages and their syntax, including variable declarations, function calls, and data types, as well as mathematical operations and string manipulation."

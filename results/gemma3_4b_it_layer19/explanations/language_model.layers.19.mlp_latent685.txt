@@ -1,0 +1,1 @@
+"Various units of measurement, including distances in miles, kilometers, and feet, as well as temperatures in degrees Celsius and Fahrenheit, are used to describe geographical locations, physical objects, and other quantities."

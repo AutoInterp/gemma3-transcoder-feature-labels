@@ -1,0 +1,1 @@
+"Technical text describing software, data structures, and algorithms, often with a focus on programming languages such as Java and SQL. The text frequently includes code snippets, variable names, and function calls, indicating a technical and specialized audience."

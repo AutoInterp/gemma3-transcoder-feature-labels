@@ -1,0 +1,1 @@
+"Various commands and scripts in programming languages such as bash, zsh, Python, and Go, used for tasks like package management, file compression, virtual machine creation, and testing."

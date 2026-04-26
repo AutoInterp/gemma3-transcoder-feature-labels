@@ -1,0 +1,1 @@
+"Various types of identifiers, such as DOIs, PubMed IDs, ISBNs, and URLs, often appearing in academic or technical contexts."

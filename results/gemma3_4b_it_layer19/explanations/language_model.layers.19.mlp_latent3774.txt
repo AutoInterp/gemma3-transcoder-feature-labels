@@ -1,0 +1,1 @@
+"DOIs, PubMed IDs, and other academic citation identifiers, often accompanied by article titles, authors, or publication information."

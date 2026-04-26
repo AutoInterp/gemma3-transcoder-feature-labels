@@ -1,0 +1,1 @@
+"Text contains mathematical expressions and equations, primarily from calculus, trigonometry, and physics, with frequent use of trigonometric functions such as sin, cos, and tan, as well as logarithmic and exponential functions."

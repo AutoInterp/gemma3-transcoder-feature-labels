@@ -1,0 +1,1 @@
+"Text snippets often contain URLs, login information, and other technical details, which are frequently enclosed in angle brackets."

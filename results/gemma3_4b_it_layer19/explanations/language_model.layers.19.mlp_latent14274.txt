@@ -1,0 +1,1 @@
+"Text fragments that appear to be the beginning or middle of a sentence, often followed by a quotation mark, and sometimes a period."

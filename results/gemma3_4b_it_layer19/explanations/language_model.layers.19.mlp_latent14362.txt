@@ -1,0 +1,1 @@
+"The text appears to be a collection of academic citations, with the majority of the tokens being article titles, author names, and publication information. The most common pattern is the presence of a year, followed by a colon, and then the page numbers or a range of pages."

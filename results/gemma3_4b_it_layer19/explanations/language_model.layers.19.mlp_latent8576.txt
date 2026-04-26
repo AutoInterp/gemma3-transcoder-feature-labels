@@ -1,0 +1,1 @@
+"Phone numbers and addresses are often presented in a specific format, typically with a mix of digits and descriptive text, and are frequently accompanied by other contact information such as email addresses, website URLs, and fax numbers."

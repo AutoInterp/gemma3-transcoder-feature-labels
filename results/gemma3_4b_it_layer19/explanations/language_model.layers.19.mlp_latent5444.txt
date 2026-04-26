@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, often containing method calls, function definitions, or variable assignments, frequently with a focus on object-oriented programming and data manipulation."

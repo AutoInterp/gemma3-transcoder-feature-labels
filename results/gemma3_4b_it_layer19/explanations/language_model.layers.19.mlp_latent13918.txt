@@ -1,0 +1,1 @@
+"Regular intervals of time, such as months or years, used to schedule maintenance, assessments, or treatments."

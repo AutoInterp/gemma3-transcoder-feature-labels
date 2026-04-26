@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that provide additional context or information, such as explanations, examples, or requirements, which are typically set off from the main text by a blank line or a change in formatting."

@@ -1,0 +1,1 @@
+"Texts often contain specific phrases or sentences that are not crucial to the main content, but rather provide additional information, context, or references. These phrases can be found in various forms, such as article titles, section headers, or citations, and are typically marked by a low activation value."

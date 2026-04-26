@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are redacted or censored, typically denoted by a placeholder or a specific delimiter. Additionally, there are instances of quotes or phrases that are not fully visible, suggesting that some text has been truncated or removed."

@@ -1,0 +1,1 @@
+"Text contains mathematical expressions, equations, and formulas, often with variable names and symbols, and sometimes accompanied by explanations and comments."

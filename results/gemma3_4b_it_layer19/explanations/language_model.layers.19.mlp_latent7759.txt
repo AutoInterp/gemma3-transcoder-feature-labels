@@ -1,0 +1,1 @@
+"Texts with low activation values are likely to be non-informative or irrelevant to the conversation, often consisting of metadata, formatting, or unrelated content."

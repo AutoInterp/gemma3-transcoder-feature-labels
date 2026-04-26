@@ -1,0 +1,1 @@
+"Text contains mathematical and scientific concepts, including formulas, equations, and explanations of various mathematical and computational techniques, such as Cholesky decomposition, probabilistic automata, and logarithmic time complexity."

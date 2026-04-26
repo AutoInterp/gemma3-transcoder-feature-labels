@@ -1,0 +1,1 @@
+"Texts often contain named entities, such as people, places, and organizations, which are frequently mentioned in the context of their roles or affiliations. Additionally, the texts may discuss various concepts, including ideologies, policies, and scientific research, which are often presented in a formal or technical tone."

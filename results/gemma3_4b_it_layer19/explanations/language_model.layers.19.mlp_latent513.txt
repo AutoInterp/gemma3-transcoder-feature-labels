@@ -1,0 +1,1 @@
+"Various types of text, including instructions, explanations, and articles, often contain specific phrases or words that serve as section or step headers, such as \"Step 1:\", \"Edit:\", \"Figure:\", and \"Activations:\". These headers are often followed by a specific type of content, such as a list, a diagram, or a detailed explanation."

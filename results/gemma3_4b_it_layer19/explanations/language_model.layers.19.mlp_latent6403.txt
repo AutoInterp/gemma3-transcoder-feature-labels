@@ -1,0 +1,1 @@
+"Large blocks of code, often in programming languages, with low activation values for individual words, indicating a focus on the structure and syntax of the code rather than its content."

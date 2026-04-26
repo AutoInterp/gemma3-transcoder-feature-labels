@@ -1,0 +1,1 @@
+"Various types of text data, including financial reports, news articles, social media posts, and online forum discussions, often containing numerical data, dates, and technical terms."

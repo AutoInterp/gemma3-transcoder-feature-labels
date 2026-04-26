@@ -1,0 +1,1 @@
+"Text describing colors, color codes, and color variations, often in hexadecimal format, with RGB and CIE-LAB color space information."

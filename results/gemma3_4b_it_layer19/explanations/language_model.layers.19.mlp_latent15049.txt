@@ -1,0 +1,1 @@
+"Geographic locations, often in the format of city, country, or region names, frequently appearing in text."

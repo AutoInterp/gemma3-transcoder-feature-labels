@@ -1,0 +1,1 @@
+"Texts often contain phrases that provide additional information or context, such as recommendations, explanations, or warnings, which are typically set apart from the main content with phrases like \"If you...\" or \"If there's a specific...\"."

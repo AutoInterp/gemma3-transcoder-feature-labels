@@ -1,0 +1,1 @@
+"Dates in the format of year, month, day, and sometimes year only, often appearing in conjunction with news headlines or article titles."

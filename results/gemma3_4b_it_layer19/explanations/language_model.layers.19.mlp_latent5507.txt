@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, containing variable and function names, method calls, and control flow statements, indicating a pattern of code analysis or inspection."

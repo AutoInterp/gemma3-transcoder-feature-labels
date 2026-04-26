@@ -1,0 +1,1 @@
+"Texts from various domains, including scientific research, technical documentation, and educational content, often contain technical terms, jargon, and specialized vocabulary. The presence of these terms is associated with high activation values, indicating their importance in the context."

@@ -1,0 +1,1 @@
+"Numbers representing specific quantities or thresholds, often used to convey a sense of standard, benchmark, or optimal value, such as hours, years, degrees, or percentages."

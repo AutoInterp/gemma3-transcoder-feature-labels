@@ -1,0 +1,1 @@
+"Citations and references in academic articles, including DOIs, PubMed IDs, and journal names, often accompanied by activation values for specific strings, possibly indicating relevance or importance."

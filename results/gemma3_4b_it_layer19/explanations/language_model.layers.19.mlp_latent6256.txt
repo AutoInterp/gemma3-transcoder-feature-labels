@@ -1,0 +1,1 @@
+"Texts from various sources, including books, articles, websites, and code, with a focus on extracting specific information or phrases. The patterns found include URLs, citations, and code snippets, often accompanied by activation values indicating the importance of certain words or phrases."

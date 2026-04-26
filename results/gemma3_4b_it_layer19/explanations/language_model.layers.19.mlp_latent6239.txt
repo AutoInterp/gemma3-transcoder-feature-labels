@@ -1,0 +1,1 @@
+"Various types of text data, including URLs, phone numbers, addresses, ISBN numbers, citations, and references, often found in academic or technical contexts."

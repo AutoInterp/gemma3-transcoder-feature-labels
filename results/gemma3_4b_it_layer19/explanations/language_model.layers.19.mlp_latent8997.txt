@@ -1,0 +1,1 @@
+"Text primarily consists of mathematical and technical definitions, theorems, and proofs, with a focus on operator spaces, C*-algebras, and derived categories."

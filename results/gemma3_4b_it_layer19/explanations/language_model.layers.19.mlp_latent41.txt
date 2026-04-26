@@ -1,0 +1,1 @@
+"Various types of data, including numerical values, percentages, and categorical information, often presented in a structured format such as tables or lists."

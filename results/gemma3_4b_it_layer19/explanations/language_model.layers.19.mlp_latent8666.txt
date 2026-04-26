@@ -1,0 +1,1 @@
+"Code snippets in various programming languages, primarily focusing on mathematical operations, data structures, and algorithms, with a mix of syntax and logic."

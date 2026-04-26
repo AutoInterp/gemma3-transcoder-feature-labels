@@ -1,0 +1,1 @@
+"Various programming languages, including PHP, Java, and SQL, with a focus on syntax and code structure."

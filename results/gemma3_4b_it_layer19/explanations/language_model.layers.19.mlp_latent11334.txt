@@ -1,0 +1,1 @@
+"Texts often contain specific numbers and quantities, such as years, months, days, people, objects, and sizes, which are used to convey information, illustrate a point, or provide context."

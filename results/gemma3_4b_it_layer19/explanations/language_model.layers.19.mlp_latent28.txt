@@ -1,0 +1,1 @@
+"Texts with high activation values are often long, coherent sentences or paragraphs, while those with low activation values are typically short, fragmented, or unrelated phrases."

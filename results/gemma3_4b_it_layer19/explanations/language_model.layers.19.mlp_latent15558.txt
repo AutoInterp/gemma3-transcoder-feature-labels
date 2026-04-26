@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including Java, C++, Perl, Ruby, Bash, and XML, with a focus on comments, documentation, and licensing information."

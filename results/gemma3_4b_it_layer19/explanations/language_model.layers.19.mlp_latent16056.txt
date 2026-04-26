@@ -1,0 +1,1 @@
+"Various programming languages, frameworks, and libraries, including Java, C++, Python, and Apache Shiro, as well as mathematical concepts and formulas, and snippets of code from different applications and systems."

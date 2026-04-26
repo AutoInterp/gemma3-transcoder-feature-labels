@@ -1,0 +1,1 @@
+"Texts often contain questions, and the answers to these questions are frequently provided in the following sentences."

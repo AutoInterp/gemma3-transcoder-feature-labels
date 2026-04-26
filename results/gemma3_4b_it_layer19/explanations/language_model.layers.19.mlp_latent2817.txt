@@ -1,0 +1,1 @@
+"A collection of color codes in various formats, including RGB, hex, and CMYK, along with descriptions of color properties and accessibility considerations for individuals with color vision deficiencies."

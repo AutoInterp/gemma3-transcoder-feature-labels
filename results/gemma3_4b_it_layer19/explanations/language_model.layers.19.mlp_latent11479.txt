@@ -1,0 +1,1 @@
+"Texts are often terminated with a period or an end-of-sentence marker, and sometimes followed by additional information or a new topic."

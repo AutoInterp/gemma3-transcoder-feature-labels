@@ -1,0 +1,1 @@
+"The token \"it\" is often used as a pronoun to refer to a previously mentioned noun, and the token \"you\" is frequently used as a pronoun to refer to the person being addressed."

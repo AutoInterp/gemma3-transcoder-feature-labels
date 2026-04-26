@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including Java, C, and PowerShell, with a focus on mathematical and algorithmic concepts, such as absolute values, quadratic equations, and distance measures."

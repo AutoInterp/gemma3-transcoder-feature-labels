@@ -1,0 +1,1 @@
+"Texts that contain phrases or sentences that are often preceded by a delimiter, indicating a quote, a parenthetical remark, or a separate thought, and are often followed by a delimiter or a new paragraph."
