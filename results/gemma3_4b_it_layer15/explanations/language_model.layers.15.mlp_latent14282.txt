@@ -1,0 +1,1 @@
+"Text fragments often contain non-essential information, such as prices, addresses, or technical details, which are enclosed in delimiters and have low activation values."

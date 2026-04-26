@@ -1,0 +1,1 @@
+"Text snippets often contain proper nouns, names of places, organizations, and people, which are frequently followed by a period or an end-of-sentence marker."

@@ -1,0 +1,1 @@
+"A pattern of academic citations and references in the format of a digital object identifier (DOI) or a journal article identifier, often accompanied by activation values for specific strings related to the citation or reference."

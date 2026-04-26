@@ -1,0 +1,1 @@
+"Text describing technical concepts, programming, and computer vision, often with a focus on image and video processing, including colorization, object detection, and watermark removal."

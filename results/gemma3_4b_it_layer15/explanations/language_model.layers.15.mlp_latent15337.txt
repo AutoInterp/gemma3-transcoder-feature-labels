@@ -1,0 +1,1 @@
+"Numerical values representing monetary amounts, including prices, revenues, costs, and salaries, often used in financial or business contexts."

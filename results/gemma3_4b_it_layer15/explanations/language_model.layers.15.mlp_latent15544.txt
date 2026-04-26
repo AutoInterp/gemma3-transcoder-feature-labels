@@ -1,0 +1,1 @@
+"Long sentences or phrases that are likely to be quoted or referenced, often with a high activation value."

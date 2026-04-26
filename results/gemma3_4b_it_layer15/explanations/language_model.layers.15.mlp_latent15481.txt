@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are set apart from the rest of the text, typically indicating a change in topic, a quote, or a separate idea. These phrases or sentences are often preceded by a delimiter and followed by a period, and are frequently accompanied by a lower activation value compared to the surrounding text."

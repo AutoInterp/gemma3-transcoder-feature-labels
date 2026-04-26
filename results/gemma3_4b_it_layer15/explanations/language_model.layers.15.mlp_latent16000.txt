@@ -1,0 +1,1 @@
+"Texts with low activation values, indicating a lack of emphasis on specific words or phrases, often containing general information, explanations, or descriptions."

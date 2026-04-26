@@ -1,0 +1,1 @@
+"Texts containing various types of formatting, such as strikethrough, strong, subscript, and superscript text, as well as HTML tags for formatting and links."

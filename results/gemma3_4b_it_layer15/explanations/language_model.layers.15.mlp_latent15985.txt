@@ -1,0 +1,1 @@
+"Text snippets often appear in code blocks or as quoted text, frequently containing programming-related terms, function names, or variable names, and sometimes including mathematical or scientific concepts."

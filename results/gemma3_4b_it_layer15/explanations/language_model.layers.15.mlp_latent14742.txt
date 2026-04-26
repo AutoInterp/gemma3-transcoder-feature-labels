@@ -1,0 +1,1 @@
+"Various text fields and input prompts for user authentication, identification, and verification, including username, password, security codes, account numbers, credit/debit card numbers, and personal identification numbers."

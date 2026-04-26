@@ -1,0 +1,1 @@
+"Strings representing file paths, names, or identifiers, often used to specify locations or parameters in various contexts, such as programming, data analysis, or scientific research."

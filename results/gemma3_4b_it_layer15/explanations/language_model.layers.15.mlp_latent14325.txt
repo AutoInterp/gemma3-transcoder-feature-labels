@@ -1,0 +1,1 @@
+"Texts are mostly programming-related documentation, tutorials, and guides, often discussing software development, frameworks, and tools, with a focus on PHP, Java, and other programming languages."

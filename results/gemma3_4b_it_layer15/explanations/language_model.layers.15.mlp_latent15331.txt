@@ -1,0 +1,1 @@
+"Text contains various units of measurement, including weight (kilograms, pounds, tons), volume (liters, cubic inches, cubic meters), length (meters, feet, kilometers), and temperature (Celsius, Fahrenheit)."

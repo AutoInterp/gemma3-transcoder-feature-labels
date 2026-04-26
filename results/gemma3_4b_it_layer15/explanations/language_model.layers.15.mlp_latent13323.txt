@@ -1,0 +1,1 @@
+"Measurements and sizes in various units, including inches, feet, meters, and centimeters, often accompanied by file sizes and image dimensions."

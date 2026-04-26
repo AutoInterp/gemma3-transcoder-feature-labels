@@ -1,0 +1,1 @@
+"Timestamps in various formats, including date and time, often in conjunction with other metadata such as author information, version numbers, or publication dates."

@@ -1,0 +1,1 @@
+"Various numerical values representing prices, costs, or fees, often used to convey financial information or provide context for a product or service."

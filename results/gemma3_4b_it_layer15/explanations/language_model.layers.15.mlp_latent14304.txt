@@ -1,0 +1,1 @@
+"Database schema definitions, including table structures, field types, and relationships, as well as programming code snippets in various languages."

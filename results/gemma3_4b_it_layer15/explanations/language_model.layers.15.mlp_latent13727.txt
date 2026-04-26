@@ -1,0 +1,1 @@
+"Various units of measurement, including temperature, length, weight, and time, often accompanied by technical or scientific data."

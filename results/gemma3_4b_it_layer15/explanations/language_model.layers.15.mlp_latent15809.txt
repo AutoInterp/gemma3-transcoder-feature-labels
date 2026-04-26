@@ -1,0 +1,1 @@
+"HTML and CSS tags used for formatting and structuring web content, including elements for headings, paragraphs, links, images, tables, forms, and more."

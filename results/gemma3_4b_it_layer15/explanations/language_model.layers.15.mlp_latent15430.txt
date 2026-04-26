@@ -1,0 +1,1 @@
+"Texts often contain hyperlinks, citations, and references to external sources, which are frequently denoted by specific phrases or keywords, such as \"Publisher Full Text OpenURL\" or \"MarketWatch, InvestorsHub, and\". Additionally, there are instances of URLs, email addresses, and phone numbers, which are often embedded within the text."

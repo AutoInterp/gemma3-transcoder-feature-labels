@@ -1,0 +1,1 @@
+"Texts that are separated by a delimiter often represent a complete thought or a self-contained unit of information, such as a statement, a quote, or a paragraph."

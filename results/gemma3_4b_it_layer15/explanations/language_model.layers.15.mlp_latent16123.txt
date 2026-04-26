@@ -1,0 +1,1 @@
+"Texts from various domains, including technical documentation, literature, and everyday conversations, with a focus on extracting specific information, such as comparative relations, enzyme functions, and data processing."

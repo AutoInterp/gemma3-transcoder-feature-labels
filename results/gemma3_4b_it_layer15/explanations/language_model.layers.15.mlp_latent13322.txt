@@ -1,0 +1,1 @@
+"Text fragments containing bibliographic information, such as author names, publication dates, and titles, often found at the beginning of a text."

@@ -1,0 +1,1 @@
+"Various types of text enclosed in angle brackets, including HTML tags, code snippets, citations, and other types of formatted text, often representing technical or formal content."

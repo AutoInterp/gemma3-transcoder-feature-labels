@@ -1,0 +1,1 @@
+"The token \"line\" is used to describe a physical boundary, a queue, a trajectory, or a relationship between two things, often in a variety of contexts such as geography, social situations, or technical processes."

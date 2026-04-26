@@ -1,0 +1,1 @@
+"Text describing mathematical concepts, specifically functions, relations, and optimization problems, often involving calculus, linear algebra, and statistics."

@@ -1,0 +1,1 @@
+"Texts containing file paths, directory locations, and configuration settings, often in a programming or technical context."

@@ -1,0 +1,1 @@
+"Texts describing technical instructions, troubleshooting steps, and software usage, often including code snippets, error messages, and system requirements."

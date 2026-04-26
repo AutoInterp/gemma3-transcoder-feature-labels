@@ -1,0 +1,1 @@
+"Numerical values representing measurements, distances, or quantities, often used to describe physical characteristics, locations, or capacities."

@@ -1,0 +1,1 @@
+"Timestamps and metadata from email headers and online articles, often containing technical information and specific dates."

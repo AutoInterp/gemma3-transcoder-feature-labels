@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, primarily Java, C++, Python, and PHP, showing getter and setter methods, data access, and object manipulation."

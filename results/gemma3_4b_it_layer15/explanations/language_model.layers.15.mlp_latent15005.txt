@@ -1,0 +1,1 @@
+"Various API keys, tokens, and credentials, likely used for authentication and authorization in different applications and services."

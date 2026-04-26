@@ -1,0 +1,1 @@
+"Text discussing IP addresses, network configurations, and related concepts, including routing, DNS, and VPNs."

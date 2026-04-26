@@ -1,0 +1,1 @@
+"Various numerical values, including integers, decimal numbers, and mathematical expressions, often representing measurements, distances, or quantities."

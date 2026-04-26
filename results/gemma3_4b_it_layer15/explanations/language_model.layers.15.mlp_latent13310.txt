@@ -1,0 +1,1 @@
+"Text snippets often contain references to external sources, such as books, articles, laws, or algorithms, which are typically denoted by a title or a name, and sometimes accompanied by a citation or a reference number."

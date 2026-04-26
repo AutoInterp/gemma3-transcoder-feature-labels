@@ -1,0 +1,1 @@
+"Text fragments often appear at the beginning or end of a paragraph, and are typically separated from the rest of the text by a blank line or a delimiter. These fragments may be URLs, citations, or other types of metadata."

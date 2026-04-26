@@ -1,0 +1,1 @@
+"Texts often contain statements that are explicitly labeled as true or false, and phrases that imply truth or reality, such as \"in fact\", \"the reality is\", and \"the truth is\"."

@@ -1,0 +1,1 @@
+"Texts that are enclosed in angle brackets << >> often represent system calls, programming concepts, or technical terms, while those without angle brackets are general texts that may contain idioms, phrases, or sentences."

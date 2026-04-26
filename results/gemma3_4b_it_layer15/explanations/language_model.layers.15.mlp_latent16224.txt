@@ -1,0 +1,1 @@
+"Text segments that appear to be quotes, references, or citations, often with a formal tone and containing specific dates, names, or technical information."

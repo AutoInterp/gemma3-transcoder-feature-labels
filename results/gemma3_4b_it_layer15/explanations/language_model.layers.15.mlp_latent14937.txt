@@ -1,0 +1,1 @@
+"Various phrases and sentences that are likely to be extracted or highlighted due to their relevance to a specific task or context, such as code snippets, instructions, or technical information."

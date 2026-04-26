@@ -1,0 +1,1 @@
+"Text snippets often contain URLs, references, or citations, which are typically denoted by a specific format, such as a colon or a hyphen, and may be followed by a date or other metadata."

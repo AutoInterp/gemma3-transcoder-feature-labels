@@ -1,0 +1,1 @@
+"Texts containing technical instructions, error messages, and troubleshooting steps, often related to software installation, configuration, and maintenance, as well as system administration and networking."

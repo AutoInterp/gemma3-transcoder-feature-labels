@@ -1,0 +1,1 @@
+"Texts often contain incomplete sentences or phrases, likely due to truncation or removal of content, resulting in a lack of activation data for certain parts of the text."

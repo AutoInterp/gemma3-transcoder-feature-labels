@@ -1,0 +1,1 @@
+"Numbers and dates often appear in the format of a year, sometimes with additional information such as a month or a specific day."

@@ -1,0 +1,1 @@
+"Code snippets and programming-related text, including function signatures, variable declarations, and mathematical expressions, often in a programming language such as C, C++, or Ruby."

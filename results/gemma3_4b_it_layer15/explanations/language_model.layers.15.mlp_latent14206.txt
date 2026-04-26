@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are enclosed in delimiters, which are likely to be quotes, paragraphs, or other types of text blocks. These enclosed texts often have lower activation values, suggesting that they may be less important or less relevant to the overall meaning of the text."
