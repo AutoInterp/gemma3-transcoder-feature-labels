@@ -1,0 +1,1 @@
+"Text fragments often contain URLs, product information, or advertisements, which are frequently found at the end of a paragraph or section."

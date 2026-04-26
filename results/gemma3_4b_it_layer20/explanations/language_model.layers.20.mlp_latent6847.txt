@@ -1,0 +1,1 @@
+"Various types of data, including measurements, dimensions, and technical specifications, often presented in a formal or structured format."

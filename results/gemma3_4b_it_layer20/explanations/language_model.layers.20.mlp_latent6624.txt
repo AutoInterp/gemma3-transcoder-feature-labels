@@ -1,0 +1,1 @@
+"Text fragments enclosed in angle brackets, often containing metadata, documentation, or code snippets, frequently used to provide additional context or information."

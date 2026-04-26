@@ -1,0 +1,1 @@
+"Text snippets often begin with a period or a new line, indicating a new paragraph or section, and sometimes contain a specific type of information such as dates, names, or technical terms."

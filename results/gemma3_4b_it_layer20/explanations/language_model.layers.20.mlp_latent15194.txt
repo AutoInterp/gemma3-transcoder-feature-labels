@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are not directly related to the main topic, but serve as a transition or a side note, often marked by a low activation score."

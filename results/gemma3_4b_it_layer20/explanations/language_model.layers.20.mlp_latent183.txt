@@ -1,0 +1,1 @@
+"Texts often contain transitional phrases or sentences that signal a change in topic, such as \"Having said that\" or \"What is data structure?\" which serve as a bridge to introduce a new idea or concept."

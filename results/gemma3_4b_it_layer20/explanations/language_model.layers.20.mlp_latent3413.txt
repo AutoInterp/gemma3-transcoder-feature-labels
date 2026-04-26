@@ -1,0 +1,1 @@
+"Texts often contain specific phrases or sentences that are used to provide context or information, such as citations, references, or explanations, often denoted by phrases like \"Activations: (\" phrase \", score )\"."

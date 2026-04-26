@@ -1,0 +1,1 @@
+"URLs, article titles, and other text fragments that are likely to be cut off or truncated, often indicating the end of a quote or a snippet of text."

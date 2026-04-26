@@ -1,0 +1,1 @@
+"Texts often contain phrases that indicate a dependency on a variable or condition, such as \"depending on who is saying it\", \"depending on your food sensitivities\", or \"depending on equipment placement and building layout\"."

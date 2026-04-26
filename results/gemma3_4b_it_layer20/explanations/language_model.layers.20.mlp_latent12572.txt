@@ -1,0 +1,1 @@
+"Texts discussing various topics, including science, technology, economics, and social issues, often contain long, complex sentences and phrases that are likely to be irrelevant to the main topic, and are therefore marked with low activation values."

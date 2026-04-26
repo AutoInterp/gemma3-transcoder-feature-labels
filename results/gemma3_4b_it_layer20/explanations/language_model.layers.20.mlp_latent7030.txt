@@ -1,0 +1,1 @@
+"Various commands and functions used in programming and scripting, including setting options, properties, and variables, as well as executing operations and modifying data."

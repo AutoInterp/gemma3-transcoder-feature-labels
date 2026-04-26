@@ -1,0 +1,1 @@
+"Texts often contain phrases that indicate a shift in scene, a change in location, or a transition to a new idea, such as \"and then\", \"at that time\", \"the room was filled with blue light\", \"we're\", \"so what can\", \"anyway\", \"because the\", \"as another\", \"cue\", \"use\", \"if you are asked\", \"when that happens\", \"when ami was born\"."

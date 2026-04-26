@@ -1,0 +1,1 @@
+"Various mathematical and programming concepts, including equations, data structures, and algorithms, as well as snippets of code in different programming languages."

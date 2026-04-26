@@ -1,0 +1,1 @@
+"Class and interface definitions in various programming languages, including Java, C#, C++, and others, showcasing the structure and syntax of object-oriented programming."

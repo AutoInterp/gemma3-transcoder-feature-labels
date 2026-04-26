@@ -1,0 +1,1 @@
+"Text contains a mix of mathematical problems, explanations, and code snippets, with a focus on finding prime factors, greatest common factors, and simplifying fractions."

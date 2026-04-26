@@ -1,0 +1,1 @@
+"Text contains a mix of technical and informal language, including code snippets, URLs, and domain-specific terminology, often accompanied by activation values indicating the importance of certain words or phrases."

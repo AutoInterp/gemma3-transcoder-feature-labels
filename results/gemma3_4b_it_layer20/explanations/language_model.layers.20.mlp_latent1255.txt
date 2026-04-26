@@ -1,0 +1,1 @@
+"Various types of data and information presented in a structured format, including lists, tables, and numerical values, often accompanied by text descriptions and explanations."

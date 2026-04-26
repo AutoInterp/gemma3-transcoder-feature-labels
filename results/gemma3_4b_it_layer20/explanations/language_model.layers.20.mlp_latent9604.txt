@@ -1,0 +1,1 @@
+"Text snippets often appear to be the beginning or middle of a sentence, sometimes with a quotation mark, and are frequently followed by a period and a new line of text."

@@ -1,0 +1,1 @@
+"Text fragments often found at the end of a sentence or paragraph, typically indicating a quote, a reference, or a link to external content, often marked by a symbol such as <eos> or <<."

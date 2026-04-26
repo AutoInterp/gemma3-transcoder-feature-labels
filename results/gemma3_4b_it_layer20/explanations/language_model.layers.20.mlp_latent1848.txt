@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, primarily Java and Spring, with annotations and imports indicating a focus on web development and API design."

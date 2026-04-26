@@ -1,0 +1,1 @@
+"Code snippets with variable names, method calls, and conditional statements, often with a focus on object-oriented programming and Java syntax."

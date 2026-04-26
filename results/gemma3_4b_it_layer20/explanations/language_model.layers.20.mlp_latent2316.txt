@@ -1,0 +1,1 @@
+"Time and date expressions, often in the format of hours and minutes, frequently preceding a description of an event or activity."

@@ -1,0 +1,1 @@
+"Code comments and documentation, including XML comments, explaining the purpose and functionality of methods, parameters, and variables in programming code."

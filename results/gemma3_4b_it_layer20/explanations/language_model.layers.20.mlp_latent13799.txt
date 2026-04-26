@@ -1,0 +1,1 @@
+"HTML and XML tags, often used for structuring and formatting content, such as table rows, labels, and select elements."

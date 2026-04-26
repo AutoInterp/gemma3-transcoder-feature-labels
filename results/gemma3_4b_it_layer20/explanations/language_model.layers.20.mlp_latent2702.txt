@@ -1,0 +1,1 @@
+"Texts often contain special characters and punctuation marks used to denote various types of content, such as URLs, citations, and mathematical equations, as well as to indicate the end of a document or a section."

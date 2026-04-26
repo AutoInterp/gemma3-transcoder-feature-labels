@@ -1,0 +1,1 @@
+"Texts with low activation values are often quotes, titles, or phrases that are not analyzed for sentiment or importance, while texts with high activation values are often explanations, descriptions, or instructions."

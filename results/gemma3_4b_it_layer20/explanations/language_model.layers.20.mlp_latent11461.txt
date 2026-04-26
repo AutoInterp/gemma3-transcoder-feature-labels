@@ -1,0 +1,1 @@
+"The token \"down\" is often used in phrases describing a physical action, such as lowering or placing something, and the token \"up\" is often used in phrases describing a physical action, such as lifting or raising something."

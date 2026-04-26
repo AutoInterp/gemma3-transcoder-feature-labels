@@ -1,0 +1,1 @@
+"Various units of measurement, currency conversions, and mathematical expressions, often used to provide additional information or context."

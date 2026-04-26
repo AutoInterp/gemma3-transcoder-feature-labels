@@ -1,0 +1,1 @@
+"Various dates and times in the format of year/month/day, hour:minute, or hour:minute AM/PM, and sometimes with additional information such as seconds, timezone, or specific date formats like \"Sept. 15\"."

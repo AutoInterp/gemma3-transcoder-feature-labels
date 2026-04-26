@@ -1,0 +1,1 @@
+"Various programming languages and frameworks, including Java, Python, C++, JavaScript, and SQL, with a focus on code snippets and syntax highlighting."

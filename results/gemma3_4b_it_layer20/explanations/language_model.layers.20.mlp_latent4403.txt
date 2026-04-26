@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including SQL, Perl, Java, Python, JavaScript, and C++, with a focus on character encoding (e.g. UTF-8) and string manipulation."

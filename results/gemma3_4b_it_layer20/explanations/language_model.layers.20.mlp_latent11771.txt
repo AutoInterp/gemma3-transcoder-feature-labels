@@ -1,0 +1,1 @@
+"Texts often contain specific phrases or words that indicate a minimum or threshold requirement, such as \"at least\", \"less than\", \"greater than\", or \"minimum\", which are used to convey a sense of quantifiable standards or limits."

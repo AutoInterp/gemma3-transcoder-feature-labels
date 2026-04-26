@@ -1,0 +1,1 @@
+"HTML and XML code snippets, primarily related to web development and user interface design, with a focus on layout, styling, and functionality."

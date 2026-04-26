@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, primarily from Java, Python, C++, and Swift, representing the main function or entry point of a program."

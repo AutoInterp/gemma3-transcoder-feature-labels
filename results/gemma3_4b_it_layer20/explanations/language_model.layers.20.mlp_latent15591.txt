@@ -1,0 +1,1 @@
+"Text snippets from various technical documents, including system logs, configuration files, and online tutorials, often containing commands, error messages, and technical jargon."

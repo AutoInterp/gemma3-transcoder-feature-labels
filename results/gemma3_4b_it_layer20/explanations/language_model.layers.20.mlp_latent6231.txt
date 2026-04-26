@@ -1,0 +1,1 @@
+"Texts from various programming languages, documentation, and articles, including code snippets, comments, and explanations. The patterns found include code formatting, variable and function declarations, comments, and explanations of programming concepts and techniques."

@@ -1,0 +1,1 @@
+"Various programming code snippets, including JavaScript, Python, and SQL, as well as text from documentation, articles, and comments."

@@ -1,0 +1,1 @@
+"The token \"@\" is used to denote a reference or annotation in text, often preceding a name, identifier, or a specific type of information."

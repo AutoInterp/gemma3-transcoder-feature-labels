@@ -1,0 +1,1 @@
+"The text contains various instances of HTTP-related terms, protocols, and concepts, including HTTP/1.0, HTTP/2.0, HTTPS, HTTP request and response, web distribution authoring and versioning (WebDAV), and TCP connections."

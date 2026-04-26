@@ -1,0 +1,1 @@
+"Text snippets often contain URLs, ISBN numbers, and other metadata, as well as quotes, images, and other multimedia content."

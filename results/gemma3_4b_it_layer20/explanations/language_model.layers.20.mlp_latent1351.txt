@@ -1,0 +1,1 @@
+"Textual descriptions of technical specifications, such as image resolutions, screen dimensions, and hardware capabilities, often accompanied by code snippets and programming-related terminology."

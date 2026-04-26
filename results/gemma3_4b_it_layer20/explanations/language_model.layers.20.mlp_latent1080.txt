@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including SQL, C#, Java, and Python, with a focus on conditional statements, function calls, and variable assignments."

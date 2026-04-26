@@ -1,0 +1,1 @@
+"Texts often contain phrases that indicate a change in location or setting, such as \"the <<house>>\", \"a <<box>>\", \"the <<smoking area>>\", or \"50 First Avenue\". Additionally, phrases like \"all of this evidence reinforces the need\" suggest a conclusion or summary of a discussion."

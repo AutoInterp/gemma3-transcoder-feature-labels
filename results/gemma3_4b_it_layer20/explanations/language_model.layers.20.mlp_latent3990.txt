@@ -1,0 +1,1 @@
+"Text fragments containing academic or scientific references, often in the format of a DOI or a PubMed ID, and sometimes accompanied by a title or author name."

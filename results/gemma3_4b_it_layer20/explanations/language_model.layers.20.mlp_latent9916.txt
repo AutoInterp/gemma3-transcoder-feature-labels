@@ -1,0 +1,1 @@
+"Text fragments that appear to be code snippets, mathematical expressions, or technical descriptions, often with specific formatting or syntax, indicating a focus on technical or programming-related content."

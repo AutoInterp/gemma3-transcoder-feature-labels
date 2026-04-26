@@ -1,0 +1,1 @@
+"Phone numbers and addresses, often in a format that includes country codes, zip codes, and specific details such as street names and building numbers."

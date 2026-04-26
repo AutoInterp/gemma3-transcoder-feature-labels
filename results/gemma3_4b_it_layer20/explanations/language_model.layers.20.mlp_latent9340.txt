@@ -1,0 +1,1 @@
+"Dates and times are often mentioned in the text, frequently in the format of day, month, and year, or day and month, and sometimes accompanied by a specific time."

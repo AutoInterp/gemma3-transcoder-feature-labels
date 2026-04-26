@@ -1,0 +1,1 @@
+"Various identifiers and codes used in different contexts, including UUIDs, domain addresses, IP addresses, and other unique codes."

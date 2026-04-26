@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, primarily Java, Python, and JavaScript, showcasing methods, functions, and classes with their respective parameters and return types."

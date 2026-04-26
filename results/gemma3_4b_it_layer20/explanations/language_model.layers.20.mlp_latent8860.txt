@@ -1,0 +1,1 @@
+"Text fragments containing dates, names, locations, and article titles, often serving as contextual markers or metadata."

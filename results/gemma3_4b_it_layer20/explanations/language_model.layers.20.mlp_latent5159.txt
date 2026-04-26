@@ -1,0 +1,1 @@
+"Texts often contain phrases that indicate a change in location, such as \"in the\", \"on the\", or \"at the\", and sometimes a specific place name."

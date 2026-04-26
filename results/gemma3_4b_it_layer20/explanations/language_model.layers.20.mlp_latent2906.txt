@@ -1,0 +1,1 @@
+"Text contains a large number of geographic locations, including city names, country names, and addresses, often in the format of \"City, State, Country\" or \"Street Address, City, State, ZIP\"."

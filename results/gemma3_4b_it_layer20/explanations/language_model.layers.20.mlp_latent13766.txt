@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are separated by a delimiter, and these phrases or sentences are often related to a specific topic or idea, sometimes providing additional information or context."

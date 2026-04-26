@@ -1,0 +1,1 @@
+"The token \"while\" is a common keyword in programming languages, used to control the flow of a program by executing a block of code repeatedly as long as a certain condition is met."

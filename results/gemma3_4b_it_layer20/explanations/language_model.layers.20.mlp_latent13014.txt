@@ -1,0 +1,1 @@
+"URLs, file paths, and other types of identifiers, often used to reference external resources or provide additional information."

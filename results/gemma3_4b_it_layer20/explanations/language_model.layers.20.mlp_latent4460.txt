@@ -1,0 +1,1 @@
+"Various numerical values, coordinates, and measurements in different formats, including scientific notation, decimal notation, and units such as milliliters, kilograms, and watts."

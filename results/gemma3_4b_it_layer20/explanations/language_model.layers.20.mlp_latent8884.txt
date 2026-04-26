@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are not essential to the main content, but provide additional information, context, or explanations, such as definitions, examples, or disclaimers. These phrases are often marked by a lower activation score, indicating their secondary importance."

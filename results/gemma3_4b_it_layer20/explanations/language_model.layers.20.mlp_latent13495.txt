@@ -1,0 +1,1 @@
+"Various programming constructs and syntax elements, including loops (for, foreach), conditional statements, function calls, and data structures (arrays, lists, stacks)."

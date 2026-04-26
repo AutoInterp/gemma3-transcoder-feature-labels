@@ -1,0 +1,1 @@
+"Numerical values and units, such as amounts of money, quantities, and measurements, often accompanied by descriptive text."

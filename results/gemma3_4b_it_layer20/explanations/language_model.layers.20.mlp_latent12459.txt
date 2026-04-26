@@ -1,0 +1,1 @@
+"Various types of lists, including ordered lists, unordered lists, and lists of options, often used to present information in a structured format."

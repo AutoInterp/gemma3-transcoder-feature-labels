@@ -1,0 +1,1 @@
+"Text snippets that are enclosed in HTML tags or other markup, often indicating a link, image, or other external content."

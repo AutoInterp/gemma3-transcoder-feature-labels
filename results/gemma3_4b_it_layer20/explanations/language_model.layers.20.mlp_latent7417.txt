@@ -1,0 +1,1 @@
+"Various programming languages and frameworks, including JavaScript, Java, C++, Python, and SQL, with a focus on functions, methods, and classes that perform specific tasks such as data manipulation, calculations, and database interactions."

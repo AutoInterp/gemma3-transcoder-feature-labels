@@ -1,0 +1,1 @@
+"Street addresses and locations, often including country names, cities, and specific landmarks, frequently appearing in a list format."

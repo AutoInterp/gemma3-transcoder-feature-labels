@@ -1,0 +1,1 @@
+"Text fragments containing special characters, such as punctuation marks, symbols, and HTML tags, often indicating the end of a quote, a code snippet, or a citation."

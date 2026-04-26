@@ -1,0 +1,1 @@
+"Various types of text data, including but not limited to, product information, event schedules, license agreements, news articles, and personal messages, often containing specific details such as prices, dates, and instructions."

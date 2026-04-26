@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including Java, Spring, JUnit, and others, with a focus on annotations, methods, and classes."

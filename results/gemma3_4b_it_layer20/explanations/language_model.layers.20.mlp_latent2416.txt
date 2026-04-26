@@ -1,0 +1,1 @@
+"Text fragments often containing numerical data, equations, or references, frequently found in academic or technical contexts, such as research papers, articles, or reports."

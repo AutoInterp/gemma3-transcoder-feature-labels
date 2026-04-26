@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including JavaScript, Java, C++, and Python, with varying levels of syntax highlighting and formatting."

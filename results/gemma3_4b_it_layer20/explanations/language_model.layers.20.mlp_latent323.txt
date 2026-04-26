@@ -1,0 +1,1 @@
+"Text snippets often contain URLs, citations, or references, which are frequently marked with numbers or letters, and sometimes accompanied by a description."

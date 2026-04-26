@@ -1,0 +1,1 @@
+"Texts from various programming languages, including JSON, JavaScript, PHP, SQL, and others, showcasing syntax and code structures."

@@ -1,0 +1,1 @@
+"Text snippets often contain technical or medical jargon, and sometimes specific formatting or code, but the majority of the text is written in a formal or informative style, likely from articles, research papers, or documentation."

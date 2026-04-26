@@ -1,0 +1,1 @@
+"Various types of text data, including scientific articles, mathematical problems, geographical coordinates, and trivia facts, often with specific formatting and structure."

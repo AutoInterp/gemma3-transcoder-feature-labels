@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including mathematical formulas and algorithm implementations, with a focus on data structures, sorting, and geometric calculations."

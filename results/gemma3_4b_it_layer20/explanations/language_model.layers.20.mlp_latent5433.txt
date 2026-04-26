@@ -1,0 +1,1 @@
+"Large numbers and financial data, often in billions or millions, are frequently mentioned in the text, indicating a focus on economic and financial topics."

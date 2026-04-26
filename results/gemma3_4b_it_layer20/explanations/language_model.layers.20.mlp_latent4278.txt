@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, primarily C++ and Python, containing mathematical expressions, algorithm implementations, and data structures, often related to computer science and engineering concepts."

@@ -1,0 +1,1 @@
+"Texts often contain phrases that describe a relationship between two entities, such as comparisons, contrasts, or causal connections, often using words like \"own\", \"within\", \"between\", or \"of\". These phrases can be used to describe various relationships, including physical, emotional, or abstract connections."

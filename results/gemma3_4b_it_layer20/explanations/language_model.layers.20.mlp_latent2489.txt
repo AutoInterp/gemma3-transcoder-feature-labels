@@ -1,0 +1,1 @@
+"SQL queries and database operations, including table definitions, data insertion, and retrieval."

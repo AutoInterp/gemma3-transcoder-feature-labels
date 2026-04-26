@@ -1,0 +1,1 @@
+"Various types of text, including technical documents, academic papers, and programming code, often contain page numbers, author names, and other metadata, which are frequently denoted by square brackets."

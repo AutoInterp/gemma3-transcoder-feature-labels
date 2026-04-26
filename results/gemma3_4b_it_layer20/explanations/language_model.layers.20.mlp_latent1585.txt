@@ -1,0 +1,1 @@
+"The token \"language\" appears frequently in the text, often referring to human language, programming languages, or languages used in specific contexts such as the Linux terminal."

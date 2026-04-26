@@ -1,0 +1,1 @@
+"Various types of identifiers, including DOIs, citations, references, and academic publication metadata, often accompanied by activation values indicating their presence or relevance in the text."

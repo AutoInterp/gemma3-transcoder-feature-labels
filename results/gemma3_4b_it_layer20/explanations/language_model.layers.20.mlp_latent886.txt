@@ -1,0 +1,1 @@
+"Various types of identifiers and references, including DOIs, PMID, PMCID, URLs, and citations, often in a scientific or academic context."

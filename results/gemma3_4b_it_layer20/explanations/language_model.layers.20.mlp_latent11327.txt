@@ -1,0 +1,1 @@
+"Texts often contain product names, software titles, and company names, which are frequently mentioned in conjunction with instructions, reviews, or comparisons. Additionally, the text may include technical terms, industry-specific jargon, and specialized vocabulary related to various fields such as medicine, finance, and technology."

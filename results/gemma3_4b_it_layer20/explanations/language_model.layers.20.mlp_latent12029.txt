@@ -1,0 +1,1 @@
+"Texts that require the use of \"git reset\" often involve undoing or reverting changes, such as unstaging files, correcting mistakes, or reverting to a previous commit."

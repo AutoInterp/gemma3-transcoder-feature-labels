@@ -1,0 +1,1 @@
+"Text segments often contain quotes, citations, or references, frequently denoted by quotation marks or other delimiters, and sometimes accompanied by additional information such as author names, dates, or URLs."

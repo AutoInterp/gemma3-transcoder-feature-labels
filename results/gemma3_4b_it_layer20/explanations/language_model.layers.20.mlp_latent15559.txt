@@ -1,0 +1,1 @@
+"Code snippets and documentation from various programming languages and tools, often with command-line flags and options, and sometimes with explanations or examples."

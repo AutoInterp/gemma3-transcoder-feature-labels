@@ -1,0 +1,1 @@
+"Texts often contain specific phrases or words that are enclosed in quotation marks or other delimiters, which are used to highlight important information, such as technical terms, product names, or key concepts. These phrases or words are often accompanied by activation values, indicating their importance in the context."

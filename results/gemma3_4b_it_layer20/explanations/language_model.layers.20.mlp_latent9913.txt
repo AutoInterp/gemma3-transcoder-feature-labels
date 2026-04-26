@@ -1,0 +1,1 @@
+"SQL code for creating database tables, modifying table structures, and implementing sorting algorithms such as quicksort. The code includes various data types, constraints, and indexing strategies to optimize database performance."

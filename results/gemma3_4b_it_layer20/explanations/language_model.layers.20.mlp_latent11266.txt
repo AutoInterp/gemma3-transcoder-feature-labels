@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, primarily Java and JavaScript, showcasing object-oriented programming concepts, interface implementation, and method calls."

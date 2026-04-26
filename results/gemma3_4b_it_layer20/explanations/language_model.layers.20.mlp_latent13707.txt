@@ -1,0 +1,1 @@
+"Addresses and locations, often including street names, city names, and zip codes, frequently appearing in text."

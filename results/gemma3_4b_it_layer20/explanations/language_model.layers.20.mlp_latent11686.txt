@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including Java, Spring, JavaScript, and C#, with a focus on frameworks and libraries such as Spring, Spring Cloud, and JavaFX."

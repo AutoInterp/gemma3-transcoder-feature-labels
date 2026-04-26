@@ -1,0 +1,1 @@
+"Various types of text, including sentences, paragraphs, and code snippets, with a focus on extracting specific information or patterns, such as file names, dates, and numerical values."

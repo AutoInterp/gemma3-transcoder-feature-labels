@@ -1,0 +1,1 @@
+"Various numerical values, including dates, times, coordinates, and measurements, often in scientific or technical contexts."

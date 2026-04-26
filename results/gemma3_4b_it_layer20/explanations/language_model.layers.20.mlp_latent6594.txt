@@ -1,0 +1,1 @@
+"Various types of text fragments, including URLs, email addresses, code snippets, mathematical equations, and references, often found in academic or technical contexts."

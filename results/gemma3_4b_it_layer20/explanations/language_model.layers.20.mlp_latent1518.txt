@@ -1,0 +1,1 @@
+"Text snippets from various programming languages, including code comments, function definitions, and variable declarations, as well as fragments of HTML, JavaScript, and SQL code."

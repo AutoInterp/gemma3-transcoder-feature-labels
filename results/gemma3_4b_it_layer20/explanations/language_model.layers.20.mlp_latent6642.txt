@@ -1,0 +1,1 @@
+"Code comments and documentation explaining the purpose and behavior of functions, methods, and variables, often including conditions and edge cases."

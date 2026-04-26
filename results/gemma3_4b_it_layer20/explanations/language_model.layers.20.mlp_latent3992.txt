@@ -1,0 +1,1 @@
+"Time expressions and durations, including years, months, days, hours, and minutes, used to describe past events, time periods, and intervals."

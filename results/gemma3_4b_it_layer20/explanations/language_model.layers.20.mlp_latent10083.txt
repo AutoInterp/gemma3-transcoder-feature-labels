@@ -1,0 +1,1 @@
+"Texts discussing software development, programming languages, and related concepts, including design patterns, testing, and best practices."

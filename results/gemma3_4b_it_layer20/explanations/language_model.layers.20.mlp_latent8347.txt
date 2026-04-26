@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are set apart from the rest of the text, usually to provide additional information or context, such as lists of allowed HTML tags, or to highlight a specific point or quote."

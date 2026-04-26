@@ -1,0 +1,1 @@
+"Code snippets in various programming languages, including Java, JavaScript, and SQL, with a focus on database interactions, data structures, and algorithm implementation."

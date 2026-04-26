@@ -1,0 +1,1 @@
+"Texts describing recipes, with common patterns including ingredient lists, cooking instructions, and preparation methods."

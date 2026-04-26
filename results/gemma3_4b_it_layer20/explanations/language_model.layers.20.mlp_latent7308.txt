@@ -1,0 +1,1 @@
+"The token \"lock\" and its variants (\"locking\", \"unlock\") are used in various contexts, including physical objects, access control, and idiomatic expressions, often related to security, restriction, or limitation."

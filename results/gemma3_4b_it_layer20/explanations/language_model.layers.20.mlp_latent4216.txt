@@ -1,0 +1,1 @@
+"Ranges of values, time periods, and quantities, often used to describe variability or uncertainty in measurements, schedules, or other data."

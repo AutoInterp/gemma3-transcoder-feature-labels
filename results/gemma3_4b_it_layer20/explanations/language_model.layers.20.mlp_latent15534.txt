@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are cut off or truncated, sometimes with a clear indication that more information is available elsewhere, such as in a continuation of the text or in a separate section."

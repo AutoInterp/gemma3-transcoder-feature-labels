@@ -1,0 +1,1 @@
+"Texts containing digital object identifiers (DOIs) and citations in academic or scientific writing, often accompanied by metadata and references."

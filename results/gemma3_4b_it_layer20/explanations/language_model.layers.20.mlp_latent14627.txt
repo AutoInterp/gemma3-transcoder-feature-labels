@@ -1,0 +1,1 @@
+"The token \"inverse\" is often used in mathematical and scientific contexts to describe a relationship where one quantity is proportional to the reciprocal of another. This is commonly seen in equations, formulas, and discussions of concepts such as inverse kinematics, inverse trigonometric functions, and inverse sensitivity mechanisms."

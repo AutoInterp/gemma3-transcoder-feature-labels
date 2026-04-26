@@ -1,0 +1,1 @@
+"Various programming and scripting commands, including file operations, compilation, and execution, as well as system administration tasks, such as directory creation and file management."

@@ -1,0 +1,1 @@
+"Code snippets in various programming languages, primarily Perl, PHP, and SQL, with a focus on mathematical calculations, data validation, and database operations."

@@ -1,0 +1,1 @@
+"Mathematical expressions and equations, primarily from linear algebra, calculus, and computer science, with various symbols and notations."

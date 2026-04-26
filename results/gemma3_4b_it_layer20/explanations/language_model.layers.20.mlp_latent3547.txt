@@ -1,0 +1,1 @@
+"Texts often contain proper nouns, such as names of locations, organizations, and people, which are frequently mentioned in conjunction with other words like \"of\", \"in\", \"the\", and \"and\". Additionally, phrases and sentences often contain transitional words and phrases, such as \"but\", \"although\", and \"so\", which are used to connect ideas and convey meaning."

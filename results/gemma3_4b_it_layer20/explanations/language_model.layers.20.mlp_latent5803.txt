@@ -1,0 +1,1 @@
+"The token \"re\" or \"restart\" is often used in function or method names, indicating a restart or reinitialization of a process."

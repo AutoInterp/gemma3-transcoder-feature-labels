@@ -1,0 +1,1 @@
+"Texts often contain proper nouns, idioms, and technical terms that are crucial for understanding the context and meaning. These important tokens frequently appear in phrases or sentences that convey specific information or ideas, and their presence can significantly impact the overall tone and interpretation of the text."

@@ -1,0 +1,1 @@
+"Dates and years in the format of \"day, month, year\" or \"year\" are often found at the end of a sentence or paragraph, sometimes preceding a quotation mark or a new paragraph."

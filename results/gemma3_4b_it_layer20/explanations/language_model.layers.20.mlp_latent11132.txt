@@ -1,0 +1,1 @@
+"Mathematical text with various equations and definitions, primarily involving algebra, operator spaces, and Hilbert spaces, with some notation and terminology specific to category theory and probability."

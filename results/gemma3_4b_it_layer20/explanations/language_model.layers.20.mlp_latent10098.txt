@@ -1,0 +1,1 @@
+"Various types of text data, including addresses, phone numbers, URLs, academic references, and geographical locations, often appearing in a specific format."

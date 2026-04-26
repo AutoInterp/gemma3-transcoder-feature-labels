@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are incomplete or seem to be cut off, sometimes due to a technical issue or a formatting error, resulting in a sentence fragment or a phrase with a low activation value."

@@ -1,0 +1,1 @@
+"SQL code snippets with varying levels of complexity, including data insertion, deletion, and modification, as well as table creation and alteration."

@@ -1,0 +1,1 @@
+"Hexadecimal color codes and RGB values, often used for color representation in digital design, and HTML code snippets."

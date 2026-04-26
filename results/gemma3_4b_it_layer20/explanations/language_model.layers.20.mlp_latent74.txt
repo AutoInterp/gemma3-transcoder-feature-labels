@@ -1,0 +1,1 @@
+"Text fragments often contain specific dates, times, and locations, which may be used to provide context or establish a timeline."

@@ -1,0 +1,1 @@
+"Time and date formats, including specific times, time ranges, and dates, often used to schedule events, meetings, or activities."

@@ -1,0 +1,1 @@
+"Tokens indicating a transition or continuation of thought, often used to signal a shift in context or to emphasize a point."

@@ -1,0 +1,1 @@
+"Text fragments that are incomplete sentences or phrases, often indicating a cut-off or truncation of the original text, frequently with a high activation value."

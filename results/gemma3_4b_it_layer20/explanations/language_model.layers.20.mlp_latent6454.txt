@@ -1,0 +1,1 @@
+"The token \"from\" is used to indicate a transition or a range, often used to describe a spectrum, a process, or a comparison."

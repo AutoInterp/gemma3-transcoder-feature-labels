@@ -1,0 +1,1 @@
+"Various numerical values and units, including temperatures, times, distances, and quantities, often presented in a scientific or technical context."

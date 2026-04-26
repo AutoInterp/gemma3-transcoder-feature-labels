@@ -1,0 +1,1 @@
+"Text fragments that are likely to be irrelevant or nonsensical, often containing jargon, technical terms, or fictional names, and sometimes appearing to be code or gibberish."

@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are dropped or truncated, sometimes due to the author's train of thought being interrupted or a change in topic."

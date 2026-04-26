@@ -1,0 +1,1 @@
+"The token \"over\" is used to indicate movement or transition to a different location, and the token \"to\" is used to indicate direction or destination."

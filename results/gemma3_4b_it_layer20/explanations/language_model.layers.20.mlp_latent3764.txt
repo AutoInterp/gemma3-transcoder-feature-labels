@@ -1,0 +1,1 @@
+"Texts often contain proper nouns, such as names of locations, organizations, and people, which are frequently mentioned in conjunction with other context-specific information. Additionally, there is a presence of technical and specialized vocabulary, particularly in fields like science, technology, and finance, which is used to convey complex ideas and concepts."

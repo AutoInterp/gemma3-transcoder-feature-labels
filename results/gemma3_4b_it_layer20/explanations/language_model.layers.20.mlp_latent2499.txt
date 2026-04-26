@@ -1,0 +1,1 @@
+"Technical documentation and programming code snippets, often with comments and explanations, describing various concepts, algorithms, and procedures."

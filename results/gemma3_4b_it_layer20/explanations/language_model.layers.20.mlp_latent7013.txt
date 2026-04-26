@@ -1,0 +1,1 @@
+"Various types of data, including numbers, dates, URLs, mathematical expressions, and programming code, often appearing in isolation or as part of a larger text."

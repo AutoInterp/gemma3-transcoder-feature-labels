@@ -1,0 +1,1 @@
+"Texts are often fragmented, with incomplete sentences and phrases, possibly due to the data being extracted from various sources or being in the middle of a conversation."

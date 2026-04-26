@@ -1,0 +1,1 @@
+"Texts are citations from academic papers, often with a DOI or PubMed ID, and sometimes with a title or author name."

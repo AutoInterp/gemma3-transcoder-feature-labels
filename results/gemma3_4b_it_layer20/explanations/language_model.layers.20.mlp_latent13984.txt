@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, primarily Ruby, with HTML and CSS elements, describing game development and application states in the context of the JMonkeyEngine3 (JME3) framework."

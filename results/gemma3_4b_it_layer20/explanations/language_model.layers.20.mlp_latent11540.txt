@@ -1,0 +1,1 @@
+"Various types of text, including news articles, social media posts, and advertisements, often contain special characters such as <eos> and </eos> that mark the end of a section or a block of text. These characters are often used to separate different types of content, such as headlines, paragraphs, and links."

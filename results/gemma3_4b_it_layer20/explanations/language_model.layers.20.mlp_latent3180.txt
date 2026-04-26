@@ -1,0 +1,1 @@
+"Texts often contain book titles, author names, and publication information, which are frequently found at the end of a sentence or paragraph."

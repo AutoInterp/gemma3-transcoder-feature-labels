@@ -1,0 +1,1 @@
+"Text segments that appear to be article excerpts, news reports, or blog posts, often containing quotes, dates, and specific details."

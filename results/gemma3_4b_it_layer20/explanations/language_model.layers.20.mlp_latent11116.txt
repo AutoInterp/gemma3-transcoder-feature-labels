@@ -1,0 +1,1 @@
+"Text snippets often contain URLs, product names, and other specific information, frequently appearing in the format of a question or prompt, often with a call to action or a link to further information."

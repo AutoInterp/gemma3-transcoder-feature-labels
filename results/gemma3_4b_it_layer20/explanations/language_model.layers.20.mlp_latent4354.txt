@@ -1,0 +1,1 @@
+"Texts often contain specific dates, names of locations, and event names, which are frequently mentioned in conjunction with other contextual information."

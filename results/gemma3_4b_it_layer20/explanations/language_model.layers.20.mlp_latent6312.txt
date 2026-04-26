@@ -1,0 +1,1 @@
+"Texts that are not part of the main content, such as quotes, citations, and external links, often have lower activation values, indicating they are less important for the overall meaning of the text."

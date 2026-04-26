@@ -1,0 +1,1 @@
+"Java code snippets with various annotations, classes, and methods related to Spring Boot, Shiro, and other frameworks, highlighting configuration, authentication, and data access patterns."

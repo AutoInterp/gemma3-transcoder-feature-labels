@@ -1,0 +1,1 @@
+"Texts containing mathematical concepts, formulas, and problems, often related to algebra, geometry, and statistics, with a focus on solving equations, finding eigenvalues, and calculating volumes."

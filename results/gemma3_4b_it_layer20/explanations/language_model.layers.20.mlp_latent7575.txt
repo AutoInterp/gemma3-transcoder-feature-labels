@@ -1,0 +1,1 @@
+"Various file paths and folder names, often containing specific keywords or identifiers, used to navigate or access specific files or directories."

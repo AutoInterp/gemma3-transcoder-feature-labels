@@ -1,0 +1,1 @@
+"Text snippets containing URLs, code, mathematical expressions, and other technical information, often in a format that suggests they are being displayed or output from a computational environment or a notebook."

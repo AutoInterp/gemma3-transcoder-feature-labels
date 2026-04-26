@@ -1,0 +1,1 @@
+"Various programming-related terms, technical concepts, and idioms, including file paths, software licenses, and error handling mechanisms, often found in code comments and documentation."

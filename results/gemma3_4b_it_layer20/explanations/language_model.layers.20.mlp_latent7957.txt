@@ -1,0 +1,1 @@
+"Texts often contain phrases indicating time, location, or instructions, such as \"at court\", \"next day\", \"at the right time\", \"at the right place\", \"at sea\", \"at school\", and \"at home\"."

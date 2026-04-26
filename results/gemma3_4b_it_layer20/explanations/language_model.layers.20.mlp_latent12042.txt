@@ -1,0 +1,1 @@
+"Texts that are code snippets, programming examples, or technical descriptions, often containing variable names, function calls, and programming concepts."

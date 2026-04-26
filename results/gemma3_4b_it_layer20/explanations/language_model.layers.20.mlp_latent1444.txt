@@ -1,0 +1,1 @@
+"Various types of text fragments, including citations, references, and code snippets, often containing numerical values, URLs, or other metadata, frequently appearing in academic or technical contexts."

@@ -1,0 +1,1 @@
+"Texts with low activation values are often incomplete sentences, titles, or standalone words, while high activation values are often found in longer, more complex sentences or paragraphs."

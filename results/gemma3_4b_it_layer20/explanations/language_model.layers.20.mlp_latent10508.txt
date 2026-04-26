@@ -1,0 +1,1 @@
+"Various programming languages and frameworks, including C#, Java, Python, JavaScript, and Go, with a focus on syntax and data types."

@@ -1,0 +1,1 @@
+"Texts discussing various topics such as domain names, IP addresses, network protocols, and online security, often referencing technical terms and standards like URI, IRI, and GDPR."

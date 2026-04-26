@@ -1,0 +1,1 @@
+"Text snippets containing mathematical expressions, formulas, and equations, often with variable names and symbols, and sometimes accompanied by programming code or algorithmic descriptions."

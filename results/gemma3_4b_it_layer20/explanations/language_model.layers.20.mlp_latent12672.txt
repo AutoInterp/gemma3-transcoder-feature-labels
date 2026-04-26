@@ -1,0 +1,1 @@
+"Various programming languages and frameworks, including C++, Java, Python, JavaScript, and C#, as well as mathematical and scientific libraries and functions, such as NumPy and OpenCV."

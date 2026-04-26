@@ -1,0 +1,1 @@
+"Texts containing various types of data, including numerical values, dates, and measurements, often in a format that is not typical of natural language."

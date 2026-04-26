@@ -1,0 +1,1 @@
+"Various phrases and sentences that are likely to be cut off or truncated, often at the end of a paragraph or section, indicated by the presence of HTML tags such as <eos> or </eos>, or by the use of ellipses (...) to indicate that the text continues elsewhere."

@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are set off by a delimiter, typically indicating a quote or a separate thought, and these phrases or sentences are often related to the main topic of the text."

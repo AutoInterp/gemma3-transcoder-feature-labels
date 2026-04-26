@@ -1,0 +1,1 @@
+"Texts often contain separate words when they run together in the same case, typically in print advertising, and are usually denoted by a period."

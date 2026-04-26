@@ -1,0 +1,1 @@
+"Various URLs, domain names, and paths, often used as examples or references in documentation and tutorials."

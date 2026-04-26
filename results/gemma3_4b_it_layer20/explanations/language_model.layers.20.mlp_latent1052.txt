@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, primarily C++ and Python, with mathematical expressions and formulas, indicating a collection of mathematical and computational examples."

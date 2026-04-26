@@ -1,0 +1,1 @@
+"Various numerical values and units, including currency, time, temperature, and quantities of items, often used in context to describe specific situations or events."

@@ -1,0 +1,1 @@
+"Strings containing literal values, such as file paths, URLs, and user input, often used in programming code or configuration files."

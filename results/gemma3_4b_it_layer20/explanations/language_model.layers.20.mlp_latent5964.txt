@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, primarily used for iterating over arrays or collections, often with nested loops, and sometimes with conditional statements or function calls."

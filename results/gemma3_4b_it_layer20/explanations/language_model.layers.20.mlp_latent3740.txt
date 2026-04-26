@@ -1,0 +1,1 @@
+"Various programming languages and frameworks, including JavaScript, C++, Java, Python, and PHP, as well as HTML, CSS, and SQL. The text also contains code snippets and API documentation, indicating a focus on software development and web development."

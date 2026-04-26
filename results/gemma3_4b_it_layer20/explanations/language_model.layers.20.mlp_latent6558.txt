@@ -1,0 +1,1 @@
+"Text fragments enclosed by delimiters, often containing quotes, sentences, or phrases, frequently with a high activation value, suggesting they are important or meaningful in the context."

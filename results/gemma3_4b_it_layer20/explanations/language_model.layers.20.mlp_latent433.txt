@@ -1,0 +1,1 @@
+"Texts containing programming code, technical documentation, and tutorials on various programming languages and tools, often with a focus on Python."

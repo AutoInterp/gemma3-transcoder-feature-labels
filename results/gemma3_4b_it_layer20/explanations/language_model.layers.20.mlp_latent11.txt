@@ -1,0 +1,1 @@
+"Code snippets in various programming languages, including shell scripts, Python, Ruby, and PHP, often used for testing, configuration, or debugging purposes."

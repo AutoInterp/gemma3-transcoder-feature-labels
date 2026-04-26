@@ -1,0 +1,1 @@
+"Texts often contain conditional statements, hypothetical scenarios, and logical reasoning, frequently using phrases like \"if this, then that\" to convey cause-and-effect relationships or to present alternative possibilities."

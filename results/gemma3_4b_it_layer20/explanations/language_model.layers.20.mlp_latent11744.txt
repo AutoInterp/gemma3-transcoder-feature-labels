@@ -1,0 +1,1 @@
+"Code comments and documentation in various programming languages, including Java, JavaScript, PHP, and others, describing function parameters, return types, and other metadata."

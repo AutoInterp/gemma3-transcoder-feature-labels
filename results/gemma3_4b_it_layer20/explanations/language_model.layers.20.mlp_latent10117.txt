@@ -1,0 +1,1 @@
+"Numbers and units representing measurements of physical attributes such as height, weight, and age, often used to describe individuals or objects."

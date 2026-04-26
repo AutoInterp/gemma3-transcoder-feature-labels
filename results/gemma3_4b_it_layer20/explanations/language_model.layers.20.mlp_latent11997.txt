@@ -1,0 +1,1 @@
+"The token \"what\" is often used to ask a question, and the token \"why\" is used to ask for a reason or explanation."

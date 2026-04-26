@@ -1,0 +1,1 @@
+"Various commands and scripts in programming languages, primarily in Bash and Zsh, used for tasks such as building, compiling, and running applications, as well as managing files, directories, and version control systems like Git."

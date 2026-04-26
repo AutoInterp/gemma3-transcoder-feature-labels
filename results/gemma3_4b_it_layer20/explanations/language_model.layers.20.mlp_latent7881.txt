@@ -1,0 +1,1 @@
+"Text fragments that are likely to be removed or censored, such as DMCA requests, legal notices, and sensitive information, often accompanied by a formal tone and specific dates."

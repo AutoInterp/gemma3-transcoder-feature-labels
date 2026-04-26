@@ -1,0 +1,1 @@
+"The token \"the\" is often present in sentences, and the token \"same\" is used to indicate similarity or equality."

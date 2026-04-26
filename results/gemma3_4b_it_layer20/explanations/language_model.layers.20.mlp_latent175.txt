@@ -1,0 +1,1 @@
+"Texts often contain phone numbers, addresses, and URLs, which are frequently highlighted or contained within special markers, indicating their importance for contact or reference purposes."

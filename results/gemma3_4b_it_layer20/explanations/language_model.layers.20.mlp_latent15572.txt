@@ -1,0 +1,1 @@
+"The token \"or\" is used to indicate a range or threshold, often in the context of quantity, age, or score."

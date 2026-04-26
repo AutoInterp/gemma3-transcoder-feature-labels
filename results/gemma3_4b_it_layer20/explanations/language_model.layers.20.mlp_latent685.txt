@@ -1,0 +1,1 @@
+"The token \"me\" is often used at the end of a sentence, possibly indicating a direct address or a self-reference."

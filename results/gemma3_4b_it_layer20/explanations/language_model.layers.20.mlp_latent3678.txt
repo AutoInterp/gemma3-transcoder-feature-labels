@@ -1,0 +1,1 @@
+"Text containing various types of data, including numbers, scientific notation, and special characters, often used in programming, mathematical equations, and technical writing."

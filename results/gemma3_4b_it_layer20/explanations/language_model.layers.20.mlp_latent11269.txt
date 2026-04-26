@@ -1,0 +1,1 @@
+"Texts containing book-related information, including ISBN numbers, publication details, and references to academic articles."

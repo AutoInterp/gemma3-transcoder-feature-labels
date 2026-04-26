@@ -1,0 +1,1 @@
+"Code snippets from various programming languages and protocols, including C, SQL, JavaScript, and network protocols like TCP."

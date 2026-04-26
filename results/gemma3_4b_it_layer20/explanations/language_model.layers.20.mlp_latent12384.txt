@@ -1,0 +1,1 @@
+"Various UI elements and interactive components, including form fields, buttons, links, and search bars, often accompanied by text prompts or instructions."

@@ -1,0 +1,1 @@
+"The token \"loose\" is often used to describe a lack of control, security, or stability, while the token \"tight\" is used to describe a sense of control, security, or precision."

@@ -1,0 +1,1 @@
+"Texts often contain proper nouns referring to locations, such as city names, states, and countries, which are frequently mentioned in conjunction with other geographical features like rivers, mountains, and landmarks."

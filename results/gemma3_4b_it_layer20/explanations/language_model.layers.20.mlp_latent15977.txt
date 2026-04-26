@@ -1,0 +1,1 @@
+"Texts often contain specific numbers, dates, and scientific data, which are frequently used to illustrate a point or provide context."

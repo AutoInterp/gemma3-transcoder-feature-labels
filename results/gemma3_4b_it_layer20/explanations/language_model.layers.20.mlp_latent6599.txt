@@ -1,0 +1,1 @@
+"The token \"$\" is often followed by a number, indicating a monetary value, and is sometimes accompanied by other numerical values or units of measurement."

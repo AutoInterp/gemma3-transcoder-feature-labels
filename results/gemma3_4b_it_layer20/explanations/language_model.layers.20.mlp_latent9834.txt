@@ -1,0 +1,1 @@
+"Various fragments of code, mostly SQL, and text from academic papers, websites, and other sources, often containing references, citations, and metadata."

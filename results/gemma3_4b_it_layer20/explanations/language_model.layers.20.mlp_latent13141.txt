@@ -1,0 +1,1 @@
+"Code snippets and mathematical expressions in various programming languages and formats, including R, Python, and SQL, often containing function calls, variable assignments, and data types."

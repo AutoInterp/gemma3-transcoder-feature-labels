@@ -1,0 +1,1 @@
+"Texts often contain phrases indicating a point in time, such as \"later\", \"after\", \"since\", and \"until\", which are used to describe events or changes that occur at a specific moment or over a period of time."

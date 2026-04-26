@@ -1,0 +1,1 @@
+"Texts describing mathematical concepts, theorems, and proofs, often involving abstract algebra, category theory, and functional analysis, with a focus on formal definitions, equations, and logical deductions."

@@ -1,0 +1,1 @@
+"The token \"questions\" is often used to initiate a request for information or clarification, frequently followed by a statement or a call to action."

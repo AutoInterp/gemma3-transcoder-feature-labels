@@ -1,0 +1,1 @@
+"Java and Spring framework code snippets, primarily annotations and method implementations, with various data types and database-related elements."

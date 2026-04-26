@@ -1,0 +1,1 @@
+"Text snippets often contain technical or scientific terms, names, and proper nouns, which are frequently highlighted or linked to external sources, such as definitions, images, or videos."

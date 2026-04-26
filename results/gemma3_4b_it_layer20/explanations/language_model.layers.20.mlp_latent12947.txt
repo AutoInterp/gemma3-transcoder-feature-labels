@@ -1,0 +1,1 @@
+"Various chemical and scientific notations, including molecular weights, chemical structures, and color codes, often represented as RGB values."

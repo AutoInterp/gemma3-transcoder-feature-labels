@@ -1,0 +1,1 @@
+"Text fragments enclosed in delimiters, often containing standalone information, quotes, or data, which are not directly related to the main text flow."

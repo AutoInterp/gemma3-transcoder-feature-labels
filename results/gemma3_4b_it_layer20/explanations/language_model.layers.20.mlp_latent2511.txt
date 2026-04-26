@@ -1,0 +1,1 @@
+"Various types of text delimiters and special characters, including HTML tags, programming language syntax, and formatting codes, often used to separate or highlight specific content."

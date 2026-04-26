@@ -1,0 +1,1 @@
+"Text fragments containing URLs, email addresses, usernames, and other online identifiers, often found in comments, login forms, and social media posts."

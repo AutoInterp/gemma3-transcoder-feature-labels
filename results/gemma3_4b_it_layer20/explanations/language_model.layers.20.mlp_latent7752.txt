@@ -1,0 +1,1 @@
+"Texts containing incomplete or irrelevant sentences, likely due to tokenization errors or irrelevant text being included in the analysis."

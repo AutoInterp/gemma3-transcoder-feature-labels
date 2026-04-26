@@ -1,0 +1,1 @@
+"Various types of text fragments, including dates, times, URLs, citations, mathematical expressions, and code snippets, often appearing in a specific format or structure."

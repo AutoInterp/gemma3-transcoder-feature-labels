@@ -1,0 +1,1 @@
+"Text snippets often contain quotes, titles, or phrases in a foreign language, and sometimes code snippets or API documentation."

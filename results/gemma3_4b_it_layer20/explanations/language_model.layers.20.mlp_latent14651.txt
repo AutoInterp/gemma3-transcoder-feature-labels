@@ -1,0 +1,1 @@
+"Text snippets often contain URLs, email addresses, or other types of links, as well as specific company names, product names, and technical terms."

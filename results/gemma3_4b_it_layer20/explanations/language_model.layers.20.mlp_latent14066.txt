@@ -1,0 +1,1 @@
+"Texts containing login and password related information, often accompanied by navigation menus, error messages, and account management options."

@@ -1,0 +1,1 @@
+"Various types of identifiers, such as UUIDs, ISBNs, DOIs, and foreign keys, often appearing in a specific format, and sometimes accompanied by other metadata or context."

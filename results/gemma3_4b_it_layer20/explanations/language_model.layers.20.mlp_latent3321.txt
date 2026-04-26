@@ -1,0 +1,1 @@
+"Texts often contain narrative passages, quotes, and dialogue, which are frequently separated by blank lines or other formatting elements."

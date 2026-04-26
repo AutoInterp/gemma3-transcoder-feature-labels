@@ -1,0 +1,1 @@
+"The token \"varies\" is used to indicate that a characteristic or value changes or differs depending on a specific condition, factor, or circumstance."

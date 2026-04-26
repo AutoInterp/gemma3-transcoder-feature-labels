@@ -1,0 +1,1 @@
+"A collection of scientific and academic references in the format of a digital object identifier (DOI) or a PubMed ID, often accompanied by a citation or a reference to a specific study."

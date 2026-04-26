@@ -1,0 +1,1 @@
+"Various programming code snippets in different languages, including Java, C++, Python, JavaScript, and SQL, with activation values indicating the importance of certain keywords or identifiers."

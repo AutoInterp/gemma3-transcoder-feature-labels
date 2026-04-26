@@ -1,0 +1,1 @@
+"Various programming languages, data structures, and software development concepts, including Java, Groovy, JavaScript, and SQL, as well as statistical modeling and data analysis techniques."

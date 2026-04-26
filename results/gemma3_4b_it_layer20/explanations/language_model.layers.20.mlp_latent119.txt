@@ -1,0 +1,1 @@
+"URLs and file paths, often used as references or sources, and sometimes as part of code or programming examples."

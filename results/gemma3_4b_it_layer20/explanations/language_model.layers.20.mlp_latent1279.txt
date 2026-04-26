@@ -1,0 +1,1 @@
+"The token \"the\" is a common function word, but in this text, it often appears in idiomatic expressions, such as \"face the music\", \"the best interests of\", \"the needs of others\", and \"the end goal\"."

@@ -1,0 +1,1 @@
+"Texts that are not actual content, but rather metadata or code, often found at the beginning or end of a document, and sometimes used to provide context or information about the content."

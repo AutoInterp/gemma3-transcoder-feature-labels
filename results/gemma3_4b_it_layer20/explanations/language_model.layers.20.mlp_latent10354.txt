@@ -1,0 +1,1 @@
+"Texts often contain incomplete or truncated sentences, sometimes due to formatting issues or intentional truncation, and may be followed by a new sentence or a continuation of the previous one."

@@ -1,0 +1,1 @@
+"Conditional statements checking for the existence or validity of a variable or object before proceeding with further operations."

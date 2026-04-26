@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including JavaScript, Python, and SQL, with some text excerpts from articles, blog posts, and conversations. The patterns found in the text include code syntax, variable names, function calls, and programming concepts, as well as informal language and conversational tone in the text excerpts."

@@ -1,0 +1,1 @@
+"Book titles, author names, and publication information, often in academic or literary contexts, frequently accompanied by activation values for various words, suggesting a focus on extracting metadata from text."

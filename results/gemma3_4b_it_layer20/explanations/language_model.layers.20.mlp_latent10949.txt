@@ -1,0 +1,1 @@
+"Code snippets with the token \"<<\", often used as a placeholder for a variable or a value, and sometimes used as a delimiter for code blocks or comments."

@@ -1,0 +1,1 @@
+"Text snippets often start with a sentence fragment or a phrase, followed by a block of code, a quote, or a paragraph of text, often with a different language or formatting style."

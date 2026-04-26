@@ -1,0 +1,1 @@
+"Text fragments enclosed by delimiters, often indicating a new paragraph, section, or quote, and sometimes containing metadata or attribution information."

@@ -1,0 +1,1 @@
+"Texts often contain phrases describing large quantities or sizes, such as \"big number of servers\", \"over 35 million\", \"generously sized lot\", and \"length of 8, width of 6, depth of 3\". These phrases are often used to convey a sense of magnitude or scale."

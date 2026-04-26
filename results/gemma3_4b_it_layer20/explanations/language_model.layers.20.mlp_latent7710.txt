@@ -1,0 +1,1 @@
+"Texts often contain proper nouns, such as names of people, organizations, and locations, which are frequently mentioned in conjunction with other words like \"said\", \"added\", \"stated\", or \"claimed\". Additionally, phrases indicating time, dates, and events are common, often accompanied by words like \"on\", \"at\", \"in\", or \"during\"."

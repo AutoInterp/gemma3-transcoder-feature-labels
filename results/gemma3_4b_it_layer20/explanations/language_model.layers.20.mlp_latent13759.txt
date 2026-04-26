@@ -1,0 +1,1 @@
+"Time and date expressions, including specific hours, minutes, and days of the week, often accompanied by geographical locations and event descriptions."

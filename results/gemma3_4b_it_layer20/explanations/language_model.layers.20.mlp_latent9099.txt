@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are interrupted or appended with additional information, such as explanations, examples, or references, which are typically denoted by phrases like \"at the moment\", \"in the thirties\", \"between 1985 and 1990\", or \"in the Seventh Century CE\"."

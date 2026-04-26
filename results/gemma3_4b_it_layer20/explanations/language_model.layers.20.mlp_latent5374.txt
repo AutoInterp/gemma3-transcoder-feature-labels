@@ -1,0 +1,1 @@
+"Phrases indicating a point in time or a condition that must be met before a subsequent action can occur, often used to convey a sense of urgency or necessity."

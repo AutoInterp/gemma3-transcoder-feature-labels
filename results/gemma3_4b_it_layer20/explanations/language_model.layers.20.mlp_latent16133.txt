@@ -1,0 +1,1 @@
+"Texts from various domains, including scientific research, recipes, programming, and literature, with a focus on extracting specific information, such as ingredient lists, code snippets, and definitions."

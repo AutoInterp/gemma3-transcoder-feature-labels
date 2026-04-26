@@ -1,0 +1,1 @@
+"Text snippets often appear in a code-like format, typically enclosed in backticks or other formatting characters, and are used to provide additional information or context, such as explanations, examples, or code snippets."

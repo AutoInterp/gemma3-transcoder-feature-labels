@@ -1,0 +1,1 @@
+"Texts often contain phrases indicating a transition or continuation, such as \"after\" or \"immediately\", and sometimes a quotation mark."

@@ -1,0 +1,1 @@
+"Predictions that worked include phrases that are likely to be quotes, such as phrases that start with \"How\" or \"The\", and phrases that contain a question mark. Additionally, phrases that contain a specific format, such as a programming code snippet, are also likely to be predictions that worked."

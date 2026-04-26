@@ -1,0 +1,1 @@
+"Various dates and timestamps, often in the format of year, month, day, and sometimes hour, minute, and timezone, frequently appearing in the context of publication, copyright, or data retrieval information."

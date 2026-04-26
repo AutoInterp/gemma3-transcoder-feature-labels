@@ -1,0 +1,1 @@
+"Various programming-related terms and concepts, including Java, Spring, Mockito, JUnit, and RDF, as well as snippets of code and error messages."

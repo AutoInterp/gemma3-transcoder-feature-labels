@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, primarily Java and Python, with emphasis on method and function definitions, variable declarations, and class structures."

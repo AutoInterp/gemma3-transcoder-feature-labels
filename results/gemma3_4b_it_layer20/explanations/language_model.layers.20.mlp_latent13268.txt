@@ -1,0 +1,1 @@
+"Various mathematical expressions and equations, primarily from calculus, linear algebra, and probability theory, often involving integrals, derivatives, and summations."

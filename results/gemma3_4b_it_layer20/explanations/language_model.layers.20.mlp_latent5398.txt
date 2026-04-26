@@ -1,0 +1,1 @@
+"Various uses of HTML and CSS styles, including inline styles, class styles, and style attributes, often used to format text, layout, and visual appearance of web pages and documents."

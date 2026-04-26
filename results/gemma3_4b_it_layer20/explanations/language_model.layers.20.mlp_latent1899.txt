@@ -1,0 +1,1 @@
+"Texts often contain links to external resources, references, or additional information, which are frequently denoted by phrases indicating a transition to another source, such as \"check the official NHS site\" or \"see the author's\"."

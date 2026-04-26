@@ -1,0 +1,1 @@
+"Texts containing programming-related concepts, technical terms, and code snippets, often with a focus on JavaScript, Node.js, and web development."

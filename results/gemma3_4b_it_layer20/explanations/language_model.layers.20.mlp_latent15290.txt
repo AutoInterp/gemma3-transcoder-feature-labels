@@ -1,0 +1,1 @@
+"Texts describing mathematical concepts, equations, and theorems, often involving linear algebra, geometry, and calculus, with a focus on transformations, projections, and eigenvalues."

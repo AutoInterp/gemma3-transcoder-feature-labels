@@ -1,0 +1,1 @@
+"Various mathematical and programming concepts, including limits, calculus, algebra, and data structures, as well as code snippets from different programming languages."

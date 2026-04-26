@@ -1,0 +1,1 @@
+"Time and date stamps, often in a format of \"HH:MM AM/PM\" or \"DD/MM/YYYY HH:MM\", frequently appearing at the beginning of a post or message."

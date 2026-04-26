@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, primarily GUI-related and event-driven, with a focus on layout management, widget creation, and user interaction."

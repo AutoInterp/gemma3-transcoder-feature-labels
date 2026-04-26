@@ -1,0 +1,1 @@
+"Patterns of sequential characters and their possible combinations, often related to mathematical or programming concepts, such as permutations, Bruijn indices, and graph theory."

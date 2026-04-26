@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that direct the reader to additional information, typically found on a website or in a specific location, indicated by the presence of URLs, website names, or phrases such as \"for more information\" or \"click here\"."

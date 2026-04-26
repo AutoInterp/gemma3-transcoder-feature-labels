@@ -1,0 +1,1 @@
+"Texts often contain hyperlinks, citations, or references to external sources, which are typically denoted by URLs or author names."

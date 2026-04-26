@@ -1,0 +1,1 @@
+"Texts from various domains, including news articles, technical documents, and social media posts, with a focus on extracting specific information, such as names, dates, and technical details."

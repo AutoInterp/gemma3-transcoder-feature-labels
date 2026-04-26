@@ -1,0 +1,1 @@
+"Postal addresses and geographic locations in various formats, including country names, city names, street addresses, zip codes, and latitude/longitude coordinates."

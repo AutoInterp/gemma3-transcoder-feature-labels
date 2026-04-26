@@ -1,0 +1,1 @@
+"Various numerical ranges and values, often used to describe quantities, sizes, or time periods, such as years, pounds, inches, and percentages."

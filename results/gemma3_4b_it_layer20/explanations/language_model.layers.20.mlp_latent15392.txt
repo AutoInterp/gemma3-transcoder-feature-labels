@@ -1,0 +1,1 @@
+"Text snippets containing dates and times in various formats, including GMT/UTC, local time, and specific time zones, often accompanied by other contextual information."

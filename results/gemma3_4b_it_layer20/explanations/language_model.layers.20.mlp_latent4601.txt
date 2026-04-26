@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are not crucial to the main message, but rather provide additional context, explanations, or tangential information, which are often marked by a lower activation value."

@@ -1,0 +1,1 @@
+"Various numerical values and units, often used to describe quantities, rates, or measurements, such as time, distance, speed, temperature, and percentages."

@@ -1,0 +1,1 @@
+"Code snippets from various programming languages and documentation, including comments, function signatures, and error messages, often containing dates and version information."

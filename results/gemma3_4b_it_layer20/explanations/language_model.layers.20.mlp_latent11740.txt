@@ -1,0 +1,1 @@
+"Texts often contain proper nouns, such as names of locations, organizations, and people, which are frequently mentioned in conjunction with other information. Additionally, phrases and sentences often begin with a pronoun, particularly \"the\", which is used to refer to a previously mentioned noun."

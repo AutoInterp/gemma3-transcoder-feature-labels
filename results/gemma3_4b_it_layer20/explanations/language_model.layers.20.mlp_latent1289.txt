@@ -1,0 +1,1 @@
+"Code snippets and programming examples, often with explanations or comments, frequently in a programming language such as C, C++, or Zsh."

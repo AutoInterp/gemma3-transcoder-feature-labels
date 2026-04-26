@@ -1,0 +1,1 @@
+"Various URLs, paths, and file locations, often used in context of software development, programming, and technical documentation."

@@ -1,0 +1,1 @@
+"Text fragments often appear to be incomplete sentences or phrases, possibly due to truncation or extraction from larger documents. They frequently contain proper nouns, technical terms, and domain-specific language, suggesting that they originate from online forums, technical documentation, or academic papers."

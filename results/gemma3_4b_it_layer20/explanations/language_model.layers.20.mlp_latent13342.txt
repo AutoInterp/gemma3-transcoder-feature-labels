@@ -1,0 +1,1 @@
+"Texts containing login and registration functionality, user credentials, and password recovery, as well as various online interactions, such as commenting, voting, and social media integration."

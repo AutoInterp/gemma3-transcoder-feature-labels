@@ -1,0 +1,1 @@
+"The token \"dir\" and its variations, often used to refer to a directory or a folder in a file system, and the token \"file\" and its variations, often used to refer to a file."

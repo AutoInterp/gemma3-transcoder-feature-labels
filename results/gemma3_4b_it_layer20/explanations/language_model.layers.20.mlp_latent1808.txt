@@ -1,0 +1,1 @@
+"Texts containing lists of items, often with checkboxes, instructions, or step-by-step procedures, frequently found in educational, technical, or how-to contexts."

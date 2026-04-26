@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, showcasing different programming concepts, design patterns, and techniques, such as dependency inversion, abstraction, and asynchronous programming."

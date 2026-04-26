@@ -1,0 +1,1 @@
+"Various programming languages and frameworks, including C++, Java, C#, and Python, with a focus on data structures, algorithms, and software development."
