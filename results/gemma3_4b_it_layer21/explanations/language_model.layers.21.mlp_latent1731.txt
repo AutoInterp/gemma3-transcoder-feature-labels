@@ -1,0 +1,1 @@
+"Various programming code snippets, including C++, Java, PHP, and SQL, as well as HTML and XML fragments, and some plain text."

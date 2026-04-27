@@ -1,0 +1,1 @@
+"Various programming-related terms and concepts, including class and method names, data types, and library imports, often from Java, Android, and Spring frameworks."

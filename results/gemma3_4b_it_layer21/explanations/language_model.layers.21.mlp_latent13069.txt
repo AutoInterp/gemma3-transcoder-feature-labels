@@ -1,0 +1,1 @@
+"Text fragments often contain incomplete sentences, product descriptions, and unstructured data, frequently ending with an ellipsis or a tagline."

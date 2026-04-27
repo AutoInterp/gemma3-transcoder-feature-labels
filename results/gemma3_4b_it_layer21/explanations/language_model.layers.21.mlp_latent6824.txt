@@ -1,0 +1,1 @@
+"Texts containing various types of data, including dates, times, percentages, numerical values, and scientific or technical information, often presented in a formal or structured format."

@@ -1,0 +1,1 @@
+"Large numbers and financial figures are often presented in a specific format, typically with commas or other punctuation to separate groups of three digits, and sometimes with scientific notation or abbreviations for units such as billion or trillion."

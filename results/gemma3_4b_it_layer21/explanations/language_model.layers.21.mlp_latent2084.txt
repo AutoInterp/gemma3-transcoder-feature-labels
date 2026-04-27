@@ -1,0 +1,1 @@
+"Text snippets from various sources, including programming code, books, and articles, with a focus on database management, SQL, and programming languages."

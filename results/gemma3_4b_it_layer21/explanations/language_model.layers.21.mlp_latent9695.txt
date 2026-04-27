@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including JavaScript, HTML, CSS, and SQL, as well as snippets from other contexts such as configuration files, log messages, and documentation."

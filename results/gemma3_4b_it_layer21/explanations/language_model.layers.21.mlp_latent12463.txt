@@ -1,0 +1,1 @@
+"Assertions in code, specifically equality checks and verifications of expected outcomes in unit tests."

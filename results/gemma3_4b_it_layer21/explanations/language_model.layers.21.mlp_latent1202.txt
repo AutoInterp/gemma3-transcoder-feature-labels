@@ -1,0 +1,1 @@
+"The token \"like\" is used as a delimiter to indicate a quote or a comparison, often preceding a phrase or a sentence that is being referenced or explained."

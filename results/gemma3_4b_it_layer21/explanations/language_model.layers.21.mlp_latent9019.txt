@@ -1,0 +1,1 @@
+"Texts often contain phrases that describe a change in state or position, such as \"wider\", \"taller\", \"higher\", or \"up\", and phrases that describe a location or object, such as \"house\", \"box\", \"way\", or \"area\"."

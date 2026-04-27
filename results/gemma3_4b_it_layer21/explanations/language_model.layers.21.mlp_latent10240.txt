@@ -1,0 +1,1 @@
+"The token \"do\" is often used in various contexts, including as a verb to indicate action, as a part of idiomatic expressions, and as a placeholder in method signatures for annotating code. It is frequently found in sentences that convey a sense of obligation, instruction, or possibility, and is sometimes used to indicate a contrast or a condition."

@@ -1,0 +1,1 @@
+"Texts containing URLs, dates, and names, often used as identifiers or references, and sometimes embedded within larger sentences or paragraphs."

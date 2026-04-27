@@ -1,0 +1,1 @@
+"Various dates and years, often in the format of a range (e.g. 2008/09, 1919 – 1920, 2020-21), and specific years (e.g. 2012, 2013, 2014, 2015)."

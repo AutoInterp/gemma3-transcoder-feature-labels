@@ -1,0 +1,1 @@
+"Texts from various domains, including medical, scientific, philosophical, and technical, exhibit a common pattern of using phrases or sentences that are often longer and more complex, but with a lower activation score, indicating a possible presence of boilerplate or generic text."

@@ -1,0 +1,1 @@
+"The token \"lib\" or \"libr\" is often found in words related to freedom, liberty, or libraries, but it is also a common prefix in programming and technical contexts, referring to libraries or library functions."

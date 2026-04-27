@@ -1,0 +1,1 @@
+"The token \"while\" is used to introduce a conditional or iterative statement, often indicating a contrast or a continuation of an idea."

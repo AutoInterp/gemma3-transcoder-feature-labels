@@ -1,0 +1,1 @@
+"Various types of text, including URLs, hashtags, RGB color codes, and HTML code, often used to provide additional information or context."

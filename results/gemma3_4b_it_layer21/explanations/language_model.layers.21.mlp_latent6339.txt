@@ -1,0 +1,1 @@
+"SQL queries and database operations, including data retrieval, filtering, and encryption."

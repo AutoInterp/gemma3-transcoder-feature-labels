@@ -1,0 +1,1 @@
+"Various programming languages and scripts, showcasing syntax and usage of different programming constructs, including variable declarations, conditional statements, loops, and functions."

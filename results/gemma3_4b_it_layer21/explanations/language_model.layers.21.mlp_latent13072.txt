@@ -1,0 +1,1 @@
+"Various types of nested structures, including boxes, lists, and tables, often used to convey complex information or organize data."

@@ -1,0 +1,1 @@
+"Texts from various mathematical and logical domains, including category theory, modal logic, and computer science, with a focus on formal systems, proofs, and theorems."

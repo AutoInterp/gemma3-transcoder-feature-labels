@@ -1,0 +1,1 @@
+"Text fragments often appear between delimiters, and they frequently contain complex sentences or phrases that provide additional information, explanations, or examples. These fragments often relate to the surrounding context, but can also be standalone explanations or descriptions."

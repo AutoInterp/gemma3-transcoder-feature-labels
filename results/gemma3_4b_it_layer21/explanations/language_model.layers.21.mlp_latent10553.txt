@@ -1,0 +1,1 @@
+"Texts describing mathematical concepts, theorems, and proofs, often involving abstract algebra, geometry, and calculus, with a focus on formal definitions, lemmas, and theorems."

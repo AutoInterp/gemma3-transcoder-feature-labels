@@ -1,0 +1,1 @@
+"Text fragments that appear to be unrelated to the main content, often containing technical jargon, product names, or promotional language, possibly indicating spam or irrelevant information."

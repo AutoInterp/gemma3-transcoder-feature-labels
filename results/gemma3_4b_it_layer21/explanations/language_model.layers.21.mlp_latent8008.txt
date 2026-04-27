@@ -1,0 +1,1 @@
+"Large numbers and long strings of characters often appear at the end of text, possibly indicating a truncation or a delimiter."

@@ -1,0 +1,1 @@
+"Texts describing technical processes, software installations, and programming concepts, often including code snippets and configuration instructions."

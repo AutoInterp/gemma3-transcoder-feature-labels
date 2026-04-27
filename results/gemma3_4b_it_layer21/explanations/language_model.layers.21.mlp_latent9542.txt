@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including C++, Java, and Rust, with a focus on mathematical and computational concepts, such as linear algebra, optimization, and machine learning."

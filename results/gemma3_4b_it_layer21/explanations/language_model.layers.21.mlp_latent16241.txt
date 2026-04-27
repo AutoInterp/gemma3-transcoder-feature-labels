@@ -1,0 +1,1 @@
+"The token \"following\" is used to indicate a sequence of actions, events, or consequences, often implying a connection or a result."

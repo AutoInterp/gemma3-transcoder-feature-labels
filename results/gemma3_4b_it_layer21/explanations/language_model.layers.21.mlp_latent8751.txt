@@ -1,0 +1,1 @@
+"The token \"host\" is used in various contexts, including referring to a physical location, a server, a computer, or a person, often in relation to a specific entity or system, such as a host institution, host file, or host OS."

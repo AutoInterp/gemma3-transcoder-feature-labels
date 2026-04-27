@@ -1,0 +1,1 @@
+"Various types of text, including technical documentation, recipes, and articles, often contain code snippets, mathematical expressions, and technical terms, which are frequently embedded within other text."

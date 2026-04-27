@@ -1,0 +1,1 @@
+"Texts often contain lists of items, such as disadvantages, advantages, or categories, presented in a bullet point or numbered format."

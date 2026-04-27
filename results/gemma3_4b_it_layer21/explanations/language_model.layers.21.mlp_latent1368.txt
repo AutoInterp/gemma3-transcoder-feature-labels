@@ -1,0 +1,1 @@
+"Text snippets often contain foreign language phrases, programming code, or database queries, which are embedded within the main text."

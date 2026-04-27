@@ -1,0 +1,1 @@
+"Various types of text enclosed in delimiters, including geographical coordinates, percentages, dates, and phrases, often used to provide additional information or context."

@@ -1,0 +1,1 @@
+"Texts containing phrases or sentences that are interrupted or continued in a subsequent part of the text, often with a delimiter such as \"<<\" and \">>\"."

@@ -1,0 +1,1 @@
+"Texts containing phrases or sentences that have been cut off or truncated, often due to the presence of a delimiter, and the surrounding context is provided to give context to the cut-off phrase."

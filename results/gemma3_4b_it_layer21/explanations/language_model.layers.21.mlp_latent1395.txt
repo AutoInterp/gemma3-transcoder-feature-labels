@@ -1,0 +1,1 @@
+"Code snippets in various programming languages, including PHP, Python, and C++, as well as HTML and SQL."

@@ -1,0 +1,1 @@
+"Dates in various formats, including year, month, day, and time, often accompanied by other metadata such as times, locations, and references."

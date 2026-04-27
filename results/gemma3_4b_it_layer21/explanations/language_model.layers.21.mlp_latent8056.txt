@@ -1,0 +1,1 @@
+"Texts often contain phrases that are followed by a specific type of information, such as a list of cities, rankings, or results, which are typically presented in a formal or structured manner."

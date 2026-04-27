@@ -1,0 +1,1 @@
+"Text fragments often contain URLs, email addresses, or other external links, sometimes accompanied by a brief description or context."

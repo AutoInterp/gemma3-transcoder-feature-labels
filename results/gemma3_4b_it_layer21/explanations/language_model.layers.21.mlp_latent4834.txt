@@ -1,0 +1,1 @@
+"Code snippets and mathematical expressions in various programming languages and formats, including Python, C, JavaScript, and LaTeX, often containing variable names, function calls, and mathematical equations."

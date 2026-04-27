@@ -1,0 +1,1 @@
+"Text contains a mix of various data types, including geographical information, technical terms, and informal conversations, often with a lack of coherence between different sections."

@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including Java, C++, Python, Perl, and others, with a focus on method definitions, class constructors, and property getters/setters."

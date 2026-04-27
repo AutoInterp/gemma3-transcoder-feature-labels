@@ -1,0 +1,1 @@
+"Phrases indicating proximity or containment, such as locations within a certain distance, areas within a larger space, or objects within a specific range."

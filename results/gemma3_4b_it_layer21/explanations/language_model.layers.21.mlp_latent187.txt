@@ -1,0 +1,1 @@
+"Various types of text, including news articles, academic papers, and programming code, often contain specific numbers, such as years, quantities, or sizes, which are used to convey information or define parameters."

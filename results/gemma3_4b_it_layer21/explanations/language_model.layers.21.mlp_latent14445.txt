@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including Python, Java, and SQL, with some text and HTML fragments. The patterns found in these examples include code comments, function definitions, variable declarations, and HTML tags."

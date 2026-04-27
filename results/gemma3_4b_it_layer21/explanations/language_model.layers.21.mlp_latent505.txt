@@ -1,0 +1,1 @@
+"Texts containing error messages, troubleshooting instructions, and technical documentation, often with a focus on resolving issues or improving system performance."

@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are interrupted or cut off, indicated by the absence of activations for certain parts of the text."

@@ -1,0 +1,1 @@
+"Texts from various mathematical and programming contexts, with common patterns including mathematical equations, variable names, function calls, and programming syntax."

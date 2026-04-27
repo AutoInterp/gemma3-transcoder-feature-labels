@@ -1,0 +1,1 @@
+"Texts from scientific articles, with frequent occurrences of PubMed IDs, citations, and academic terminology."

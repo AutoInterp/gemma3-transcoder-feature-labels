@@ -1,0 +1,1 @@
+"Texts from various programming languages, licenses, and documentation, often containing comments, code snippets, and legal information."

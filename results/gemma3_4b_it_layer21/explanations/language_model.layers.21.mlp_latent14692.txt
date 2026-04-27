@@ -1,0 +1,1 @@
+"Various command-line options and flags used in software configuration, installation, and execution, often related to specific tools and programming languages."

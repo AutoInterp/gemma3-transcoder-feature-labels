@@ -1,0 +1,1 @@
+"Code snippets and commands, often in a programming or terminal context, frequently found at the beginning of a line."

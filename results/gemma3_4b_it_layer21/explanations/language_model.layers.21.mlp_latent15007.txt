@@ -1,0 +1,1 @@
+"Text snippets containing special characters, such as << and >>, often used to denote code or technical information, and are frequently found in programming or technical contexts."

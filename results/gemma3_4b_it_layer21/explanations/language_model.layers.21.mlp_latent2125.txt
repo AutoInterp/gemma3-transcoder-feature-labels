@@ -1,0 +1,1 @@
+"Texts often contain phrases indicating proximity or distance, such as locations near each other, objects close to the speaker, or events happening at a specific time."

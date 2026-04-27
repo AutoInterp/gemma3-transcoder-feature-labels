@@ -1,0 +1,1 @@
+"Timestamps in various formats, including date and time combinations, often accompanied by additional metadata such as UTC offsets, IP addresses, or logging information."

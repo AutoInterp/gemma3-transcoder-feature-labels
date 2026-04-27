@@ -1,0 +1,1 @@
+"A mix of various text snippets from different languages, including English, Hebrew, and Chinese, with a focus on programming code, biblical verses, and general text. The patterns found in the examples include code snippets from various programming languages, such as Python, SQL, and JavaScript, as well as text from different domains like mathematics, science, and literature."

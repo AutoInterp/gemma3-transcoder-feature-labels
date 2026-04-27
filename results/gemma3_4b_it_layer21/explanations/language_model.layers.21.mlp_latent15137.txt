@@ -1,0 +1,1 @@
+"Various types of text data, including financial information, sports statistics, geographical data, and programming code, often containing numerical values, dates, and specific keywords."

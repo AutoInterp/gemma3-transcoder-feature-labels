@@ -1,0 +1,1 @@
+"Texts describing various concepts and processes, including data structures, algorithms, and mathematical operations, often involving ordering, sorting, and sequences."

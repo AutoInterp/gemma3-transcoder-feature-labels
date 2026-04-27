@@ -1,0 +1,1 @@
+"Texts containing version numbers, software information, and technical documentation, often with specific instructions or requirements."

@@ -1,0 +1,1 @@
+"Text snippets often contain URLs, article titles, or incomplete sentences, suggesting they are extracted from online content, possibly from search engine results or article summaries."

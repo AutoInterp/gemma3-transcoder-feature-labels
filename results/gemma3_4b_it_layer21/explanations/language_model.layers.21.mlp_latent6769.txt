@@ -1,0 +1,1 @@
+"Various types of text data, including addresses, phone numbers, website URLs, and other contact information, as well as text from programming code, HTML, and other technical sources."

@@ -1,0 +1,1 @@
+"Various DOIs, Bibcodes, and PubMed IDs, often appearing at the end of a citation or reference, indicating a link to external academic or scientific sources."

@@ -1,0 +1,1 @@
+"URLs and links to external resources, such as GitHub repositories, Twitter profiles, and YouTube channels, are embedded in the text."

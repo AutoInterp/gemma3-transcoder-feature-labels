@@ -1,0 +1,1 @@
+"Texts with varying topics, including recipes, personal stories, historical events, and scientific explanations, often contain phrases or sentences that are incomplete or seem to be cut off, suggesting that the text was likely generated from a large corpus of text and then truncated or edited for some reason."

@@ -1,0 +1,1 @@
+"Shell scripts and code snippets in various programming languages, including bash, Python, and NodeJS, with a focus on command-line operations, data processing, and system administration."

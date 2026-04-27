@@ -1,0 +1,1 @@
+"Various types of text data, including academic papers, URLs, email addresses, phone numbers, addresses, and event information, often found in digital documents and online platforms."

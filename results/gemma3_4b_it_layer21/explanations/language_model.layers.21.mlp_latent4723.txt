@@ -1,0 +1,1 @@
+"Texts often contain lists of options or choices, frequently in the form of multiple-choice questions or answers to a problem, with the correct answer or solution being the most activated option."

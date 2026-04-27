@@ -1,0 +1,1 @@
+"Text snippets often contain code, technical jargon, or formal language, indicating a context of programming, documentation, or educational content."

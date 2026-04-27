@@ -1,0 +1,1 @@
+"Various numerical values, currency amounts, and quantities, often used in financial, technical, or statistical contexts."

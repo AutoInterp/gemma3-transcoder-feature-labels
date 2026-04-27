@@ -1,0 +1,1 @@
+"Texts often contain product names, brand names, and proper nouns, which are frequently highlighted due to their importance in the context. Additionally, there are instances of technical terms, scientific concepts, and proper nouns related to people, places, and events, which are also emphasized."

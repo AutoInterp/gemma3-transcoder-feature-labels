@@ -1,0 +1,1 @@
+"Texts discussing various mathematical concepts, including λ-terms, well-ordered sets, NP-completeness, and operator spaces, as well as topics in computer science, such as game theory, bundle maps, and sorting algorithms."

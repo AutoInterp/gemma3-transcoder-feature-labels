@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including Java, Lua, and C, with a focus on syntax, data types, and function calls."

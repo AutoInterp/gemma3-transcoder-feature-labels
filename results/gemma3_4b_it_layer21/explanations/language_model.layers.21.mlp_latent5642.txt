@@ -1,0 +1,1 @@
+"Texts often contain specific phrases or words that serve as identifiers for locations, objects, or concepts, such as \"house\", \"box\", \"way\", \"area\", \"location\", \"precincts\", \"clusters\", and \"location you would want to visit\", which are used to provide context and clarify meaning."

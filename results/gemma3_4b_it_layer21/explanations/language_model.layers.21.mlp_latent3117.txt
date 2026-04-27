@@ -1,0 +1,1 @@
+"Various citations, references, and academic article metadata, including DOIs, ISBNs, and PubMed IDs, often accompanied by activation values indicating their presence in the text."

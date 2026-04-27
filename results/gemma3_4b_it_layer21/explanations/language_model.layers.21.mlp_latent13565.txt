@@ -1,0 +1,1 @@
+"Text snippets containing metadata, such as dates, artist names, and album titles, often embedded within larger blocks of text."

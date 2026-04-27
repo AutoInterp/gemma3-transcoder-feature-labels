@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including Python, Java, JavaScript, and SQL, with a focus on function and method definitions, API endpoints, and database queries."

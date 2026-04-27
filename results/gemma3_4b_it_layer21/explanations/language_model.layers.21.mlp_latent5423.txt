@@ -1,0 +1,1 @@
+"URLs, file paths, and article references, often containing dates, numbers, and identifiers."

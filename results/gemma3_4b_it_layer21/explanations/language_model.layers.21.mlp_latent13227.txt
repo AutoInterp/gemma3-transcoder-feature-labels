@@ -1,0 +1,1 @@
+"The starting letters of creature's names are not present in the given text."

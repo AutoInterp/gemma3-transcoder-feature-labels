@@ -1,0 +1,1 @@
+"Various programming-related terms, function syntax, and code snippets from different programming languages, including Java, Python, C++, and JavaScript, as well as technical terms from computer science and software development."

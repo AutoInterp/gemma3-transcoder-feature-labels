@@ -1,0 +1,1 @@
+"Texts often contain lists of items or requirements, frequently in the form of bullet points or numbered lists, and sometimes with a call to action or a warning."

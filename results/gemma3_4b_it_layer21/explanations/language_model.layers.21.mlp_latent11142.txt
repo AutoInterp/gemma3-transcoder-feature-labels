@@ -1,0 +1,1 @@
+"Various numerical values and time periods, often in the context of measurement, duration, or frequency, such as months, years, days, hours, and minutes."

@@ -1,0 +1,1 @@
+"Various security-related headers and tokens, including CSRF tokens, authentication headers, and cookie-related information, often used in web development to prevent attacks and ensure secure communication between clients and servers."

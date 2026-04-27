@@ -1,0 +1,1 @@
+"Various programming code snippets, comments, and documentation from different programming languages and contexts, including Java, Python, and C."

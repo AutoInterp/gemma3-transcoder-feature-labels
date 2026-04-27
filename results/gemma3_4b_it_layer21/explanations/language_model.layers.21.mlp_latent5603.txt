@@ -1,0 +1,1 @@
+"Texts containing geographical locations, specifically UK postcodes, city names, and street addresses, often accompanied by descriptions of nearby attractions or events."

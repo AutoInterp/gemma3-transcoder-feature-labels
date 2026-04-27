@@ -1,0 +1,1 @@
+"Texts often contain proper nouns and geographical locations, which are frequently mentioned in conjunction with other nouns, such as names of bodies of water, cities, or countries."

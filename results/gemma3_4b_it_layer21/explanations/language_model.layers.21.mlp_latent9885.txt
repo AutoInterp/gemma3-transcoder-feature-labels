@@ -1,0 +1,1 @@
+"Texts related to XML (Extensible Markup Language) and its applications, including data serialization, transformation, and manipulation, as well as discussions on its usage in various programming contexts."

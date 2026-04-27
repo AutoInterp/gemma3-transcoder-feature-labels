@@ -1,0 +1,1 @@
+"Various programming languages and frameworks, including Java, Spring, Android, and Kotlin, with a focus on web development, database interactions, and user authentication."

@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, primarily JavaScript, Python, and C++, with a focus on mathematical and data-related operations, string manipulation, and object-oriented programming."

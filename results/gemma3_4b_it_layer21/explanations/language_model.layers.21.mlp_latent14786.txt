@@ -1,0 +1,1 @@
+"SQL code snippets, including queries, table structures, and database operations, likely from various programming languages and frameworks."

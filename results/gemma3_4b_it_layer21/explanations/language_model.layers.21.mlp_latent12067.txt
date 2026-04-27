@@ -1,0 +1,1 @@
+"Various SQL commands and database table structures, including table creation, alteration, and data manipulation, as well as code snippets from programming languages such as Java and Python."

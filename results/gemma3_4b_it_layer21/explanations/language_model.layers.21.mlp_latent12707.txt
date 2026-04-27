@@ -1,0 +1,1 @@
+"Various mathematical and programming expressions, including formulas, calculations, and algorithm implementations, often involving variables, constants, and operations such as addition, subtraction, multiplication, and division."

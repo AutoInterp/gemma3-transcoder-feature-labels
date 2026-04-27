@@ -1,0 +1,1 @@
+"Texts containing command lines, scripts, and programming instructions, often with a focus on execution, compilation, and configuration."

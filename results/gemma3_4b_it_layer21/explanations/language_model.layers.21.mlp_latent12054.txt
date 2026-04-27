@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are set apart from the rest of the text, typically indicating a title, subtitle, or a separate section. These phrases or sentences often have lower activation values, suggesting they are less central to the main content."

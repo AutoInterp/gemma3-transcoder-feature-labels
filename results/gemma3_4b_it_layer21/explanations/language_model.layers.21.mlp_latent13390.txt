@@ -1,0 +1,1 @@
+"The token \"index\" is often used to refer to a specific list or collection of items, such as a stock market index, a table of contents, or a list of items in a database. It can also refer to a numerical value used to track progress or a specific point of reference."

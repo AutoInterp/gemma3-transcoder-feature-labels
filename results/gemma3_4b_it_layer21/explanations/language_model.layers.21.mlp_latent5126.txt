@@ -1,0 +1,1 @@
+"Various types of text fragments, including URLs, code snippets, and social media posts, often containing links, hashtags, or other metadata."

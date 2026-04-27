@@ -1,0 +1,1 @@
+"Text fragments that are not part of the main content, possibly representing metadata, code, or other non-relevant information."

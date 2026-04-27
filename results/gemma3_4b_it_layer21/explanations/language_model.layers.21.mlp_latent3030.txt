@@ -1,0 +1,1 @@
+"Time-related information, including dates, times, and durations, often in a structured format such as hours, minutes, and seconds."

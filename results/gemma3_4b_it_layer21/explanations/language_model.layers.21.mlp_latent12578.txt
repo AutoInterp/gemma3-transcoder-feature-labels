@@ -1,0 +1,1 @@
+"Texts containing URLs, file paths, and other technical information, often found in the context of instructions, explanations, or references."

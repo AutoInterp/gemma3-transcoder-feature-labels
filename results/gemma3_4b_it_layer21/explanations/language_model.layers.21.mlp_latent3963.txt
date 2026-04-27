@@ -1,0 +1,1 @@
+"Texts containing programming-related content, including code snippets, programming languages (such as Java, Python, Swift, C, C++, and JavaScript), and technical terms (like serialization, reflection, and object persistence)."

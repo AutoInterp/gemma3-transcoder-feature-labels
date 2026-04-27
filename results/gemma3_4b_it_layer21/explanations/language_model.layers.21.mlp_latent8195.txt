@@ -1,0 +1,1 @@
+"Texts that contain a mix of formal and informal language, often with a conversational tone, and frequently include phrases that are not essential to the main message, such as \"For more information\", \"This article is for educational purposes only\", or \"Correct. [[snippet]]\"."

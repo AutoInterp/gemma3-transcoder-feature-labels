@@ -1,0 +1,1 @@
+"Text fragments enclosed in angle brackets, often containing a complete sentence or a phrase, which appear to be code snippets, quotes, or descriptive passages."

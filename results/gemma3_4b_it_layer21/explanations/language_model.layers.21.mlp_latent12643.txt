@@ -1,0 +1,1 @@
+"Texts often contain product names, model numbers, and technical specifications, as well as names of people, places, and events, which are frequently mentioned in a casual and conversational tone."

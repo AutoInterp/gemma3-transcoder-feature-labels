@@ -1,0 +1,1 @@
+"Various programming languages and frameworks, including Java, Python, JavaScript, and C#, as well as database queries and SQL syntax."

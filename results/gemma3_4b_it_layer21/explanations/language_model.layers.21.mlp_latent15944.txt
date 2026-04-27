@@ -1,0 +1,1 @@
+"The token \"Leave a Comment\" and \"Leave a Reply\" are used as delimiters for a comment section in a blog or website, often followed by a link to a Google account or other social media platform."

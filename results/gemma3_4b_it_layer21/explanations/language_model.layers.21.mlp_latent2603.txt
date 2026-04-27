@@ -1,0 +1,1 @@
+"Various types of text data, including addresses, event descriptions, product information, scientific articles, and game details, often containing specific keywords and phrases related to their respective categories."

@@ -1,0 +1,1 @@
+"Texts often contain foreign words, proper nouns, and technical terms, which are frequently accompanied by translations or explanations."

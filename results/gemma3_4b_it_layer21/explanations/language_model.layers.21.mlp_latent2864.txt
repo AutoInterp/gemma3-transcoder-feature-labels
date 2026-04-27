@@ -1,0 +1,1 @@
+"Texts containing column references, often in the context of data analysis, spreadsheets, or tables, and also references to specific rows or positions."

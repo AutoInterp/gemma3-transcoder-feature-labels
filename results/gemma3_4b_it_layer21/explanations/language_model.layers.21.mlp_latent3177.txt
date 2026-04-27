@@ -1,0 +1,1 @@
+"Various programming languages and code snippets, including SQL, Java, JavaScript, and C, with a focus on database queries, data structures, and network protocols."

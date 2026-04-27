@@ -1,0 +1,1 @@
+"Texts in multiple languages, including English, Japanese, Hindi, and Persian, with various formats such as SQL queries, programming code, and plain text."

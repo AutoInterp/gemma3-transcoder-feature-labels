@@ -1,0 +1,1 @@
+"Various types of metadata and information, including ISBN numbers, book details, phone numbers, addresses, and other data, often presented in a structured format."

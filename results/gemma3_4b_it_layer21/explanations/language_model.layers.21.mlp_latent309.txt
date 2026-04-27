@@ -1,0 +1,1 @@
+"Text snippets containing URLs, email addresses, file paths, and other types of links, often used for navigation or reference."

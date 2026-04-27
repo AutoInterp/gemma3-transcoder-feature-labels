@@ -1,0 +1,1 @@
+"Various types of text data, including articles, comments, and product descriptions, with a focus on extracting specific information such as dates, prices, and product features."

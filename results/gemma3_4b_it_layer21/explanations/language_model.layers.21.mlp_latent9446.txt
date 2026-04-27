@@ -1,0 +1,1 @@
+"Text fragments often appear at the beginning or end of a sentence, typically containing additional information, explanations, or context, and are usually separated from the main text by a delimiter."

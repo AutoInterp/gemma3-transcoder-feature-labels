@@ -1,0 +1,1 @@
+"Text fragments often begin with a specific punctuation mark, such as a period or quotation marks, and are frequently followed by a title, heading, or a section break, often denoted by the \"<eos>\" marker."

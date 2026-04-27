@@ -1,0 +1,1 @@
+"Text snippets containing UUIDs, IDs, and URLs, often related to logging, execution, and output of computational processes, as well as references to external resources and academic publications."

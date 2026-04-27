@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, primarily used for generating random numbers, sampling, and data manipulation, often involving mathematical calculations and conditional statements."

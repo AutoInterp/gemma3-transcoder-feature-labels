@@ -1,0 +1,1 @@
+"Texts often contain long phrases or sentences that are enclosed in delimiters, which are likely used to indicate a quote, a specific section, or a particular context. These enclosed phrases or sentences can be used to provide additional information, describe a situation, or convey a message."

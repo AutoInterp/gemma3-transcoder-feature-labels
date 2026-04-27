@@ -1,0 +1,1 @@
+"Text segments enclosed by delimiters often contain proper nouns, technical terms, or specific phrases, and sometimes represent a title or a reference."

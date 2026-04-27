@@ -1,0 +1,1 @@
+"Texts are a mix of news articles, images, and other content, often with a brief description or caption. The activation values are generally low, suggesting that the model is not focusing on specific words or phrases, but rather on the overall context and structure of the text."

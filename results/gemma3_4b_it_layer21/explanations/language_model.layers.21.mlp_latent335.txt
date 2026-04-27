@@ -1,0 +1,1 @@
+"Various dates and publication information, often in a format that includes year, month, day, and sometimes additional details such as page numbers, ISBNs, or publication titles."

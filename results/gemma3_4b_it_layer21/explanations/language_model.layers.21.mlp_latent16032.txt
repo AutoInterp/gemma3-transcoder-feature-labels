@@ -1,0 +1,1 @@
+"Timestamps and dates in various formats, often used to indicate when a post or comment was made, and sometimes used to provide additional context or information."

@@ -1,0 +1,1 @@
+"Text snippets containing numerical values, currency amounts, percentages, and specific dates, often used for reference or data presentation."

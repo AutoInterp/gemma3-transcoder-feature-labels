@@ -1,0 +1,1 @@
+"The token \"text\" is often used as a keyword in programming and scripting contexts, referring to a block of written content, a string of characters, or a field of text in a user interface."

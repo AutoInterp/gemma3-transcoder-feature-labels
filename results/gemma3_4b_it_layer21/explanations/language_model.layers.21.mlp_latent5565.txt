@@ -1,0 +1,1 @@
+"Various file extensions and image file types, often used as delimiters or in file paths, and sometimes preceding a quotation mark or a code block."

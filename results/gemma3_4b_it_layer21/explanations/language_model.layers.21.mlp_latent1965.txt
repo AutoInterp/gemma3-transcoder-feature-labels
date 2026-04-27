@@ -1,0 +1,1 @@
+"Various programming code snippets in different languages, including Java, C++, Python, and others, with activations indicating the execution or compilation of specific lines of code."

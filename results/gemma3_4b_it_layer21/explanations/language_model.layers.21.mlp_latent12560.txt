@@ -1,0 +1,1 @@
+"Texts describing various programming concepts, technical terms, and system operations, often including code snippets and explanations of how they work."

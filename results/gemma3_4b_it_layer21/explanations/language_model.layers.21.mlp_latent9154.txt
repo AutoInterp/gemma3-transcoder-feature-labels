@@ -1,0 +1,1 @@
+"Texts containing various types of information, including technical descriptions, product names, and article titles, often with specific formatting and syntax, such as code snippets, XML, and HTML."

@@ -1,0 +1,1 @@
+"Various text snippets containing numerical values, such as prices, quantities, and times, often accompanied by descriptive text."

@@ -1,0 +1,1 @@
+"The token \"API\" is used to refer to a set of rules and protocols that allow different software systems to communicate with each other, often in the context of web development, programming, and data exchange."

@@ -1,0 +1,1 @@
+"Texts containing various licenses and copyright information, including Creative Commons, Apache License, GPL, MIT License, and BSD-style license."

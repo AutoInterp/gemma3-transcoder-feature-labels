@@ -1,0 +1,1 @@
+"Text fragments enclosed by delimiters often represent quotes, citations, or separate paragraphs, and are frequently followed by a period or other punctuation mark."

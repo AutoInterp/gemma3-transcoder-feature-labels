@@ -1,0 +1,1 @@
+"Various programming and technical terms, including function names, variable names, and method calls, often used in the context of setting up or configuring something."

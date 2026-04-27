@@ -1,0 +1,1 @@
+"Various programming code snippets and HTML templates, including database schema, API requests, and UI components, showcasing a mix of languages such as SQL, JavaScript, Ruby, and Python."

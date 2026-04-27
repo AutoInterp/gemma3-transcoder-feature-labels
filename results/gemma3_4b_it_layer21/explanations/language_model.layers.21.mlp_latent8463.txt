@@ -1,0 +1,1 @@
+"Phone numbers, addresses, and contact information are often embedded in text, frequently at the end of a sentence or paragraph, and are sometimes preceded by phrases indicating a call to action or a request for contact."

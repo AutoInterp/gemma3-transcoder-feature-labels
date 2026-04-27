@@ -1,0 +1,1 @@
+"Various programming languages and database queries, including SQL, Java, C++, and Python, with a focus on data manipulation and storage."

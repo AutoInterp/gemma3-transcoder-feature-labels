@@ -1,0 +1,1 @@
+"Various programming-related terms, including class and method names, variable names, and function parameters, as well as keywords and syntax from multiple programming languages."

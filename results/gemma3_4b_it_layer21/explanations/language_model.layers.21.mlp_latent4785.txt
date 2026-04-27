@@ -1,0 +1,1 @@
+"Code snippets and programming concepts, often with mathematical or scientific explanations, frequently involving variable names, function calls, and data types."

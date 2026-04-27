@@ -1,0 +1,1 @@
+"Various numerical values, including page numbers, addresses, phone numbers, and other types of identifiers, often used to provide context or reference information."

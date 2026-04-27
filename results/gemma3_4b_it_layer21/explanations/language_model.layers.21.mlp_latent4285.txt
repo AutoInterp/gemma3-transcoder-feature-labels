@@ -1,0 +1,1 @@
+"Various types of text data, including addresses, phone numbers, scientific research, financial information, and product descriptions, often containing specific formatting and structural patterns."

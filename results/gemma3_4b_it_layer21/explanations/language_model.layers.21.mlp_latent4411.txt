@@ -1,0 +1,1 @@
+"Text fragments that do not contain important tokens, often indicating the end of a file, a code snippet, or a section of text."

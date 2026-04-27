@@ -1,0 +1,1 @@
+"The token \"while\" is used to indicate a loop or a conditional statement in various programming languages and natural language contexts."

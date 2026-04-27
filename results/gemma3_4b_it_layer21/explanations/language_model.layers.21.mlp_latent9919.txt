@@ -1,0 +1,1 @@
+"Texts from various technical documentation, including configuration files, installation instructions, and programming code, often with specific syntax and formatting."

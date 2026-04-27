@@ -1,0 +1,1 @@
+"Various numerical values and ranges, often representing time, quantities, or measurements, frequently appearing in scientific, technical, or informative contexts."

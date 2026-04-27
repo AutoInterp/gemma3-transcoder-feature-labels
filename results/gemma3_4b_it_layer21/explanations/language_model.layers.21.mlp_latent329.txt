@@ -1,0 +1,1 @@
+"Various types of data, including URLs, phone numbers, email addresses, dates, and citations, often appearing in a format that suggests they are being referenced or used for informational purposes."

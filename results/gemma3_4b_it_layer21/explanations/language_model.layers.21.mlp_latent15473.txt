@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are interrupted by a transition to another topic, a quotation, or a link, which are frequently denoted by phrases like \"in the evening\", \"in the future\", \"in an interview\", or \"settings.txt\"."

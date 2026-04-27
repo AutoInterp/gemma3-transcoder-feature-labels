@@ -1,0 +1,1 @@
+"Texts containing various types of numerical data, including dates, percentages, and scientific notation, often used to describe quantities, measurements, or statistical information."

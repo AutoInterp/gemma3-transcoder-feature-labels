@@ -1,0 +1,1 @@
+"The token \"ed\" at the end of a verb, often indicating the past tense, and the token \"it\" used as a pronoun, sometimes referring to an abstract concept or an idea."

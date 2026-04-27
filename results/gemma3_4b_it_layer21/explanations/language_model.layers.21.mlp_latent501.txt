@@ -1,0 +1,1 @@
+"Various types of identifiers, citations, and references, including ISBN, DOI, PMID, and URLs, as well as code snippets and programming language elements, such as class definitions, method calls, and variable declarations."

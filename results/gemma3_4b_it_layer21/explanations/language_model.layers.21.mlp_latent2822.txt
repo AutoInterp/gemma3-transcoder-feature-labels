@@ -1,0 +1,1 @@
+"Various types of text data, including prices, dates, addresses, phone numbers, and currency values, often presented in a format that is easily readable and comparable."

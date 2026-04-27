@@ -1,0 +1,1 @@
+"Various programming code snippets, including C/C++, Python, and HTML, with comments and license information."

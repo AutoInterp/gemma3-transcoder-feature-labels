@@ -1,0 +1,1 @@
+"Texts often contain proper nouns, titles, and names of people, places, and organizations, which are typically not relevant to the analysis. The provided examples are mostly from various articles, books, and other written content, and the activations are mostly empty, indicating that the important tokens are not present in the given examples."

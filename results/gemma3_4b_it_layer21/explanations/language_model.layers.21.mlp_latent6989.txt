@@ -1,0 +1,1 @@
+"Text fragments often appear at the beginning or end of a sentence, sometimes containing a quotation mark, and are typically enclosed in delimiters. These fragments frequently represent a quote, a reference, or a parenthetical remark, and are often used to provide additional information or context."

@@ -1,0 +1,1 @@
+"Texts often contain informal conversations, quotes, or spoken language, which can be identified by the presence of phrases like \"said yet another\", \"I don't know yet\", or \"I hate to break it to you\". These phrases are often used to convey a sense of spoken language, and can be found in a variety of contexts, including dialogue, narration, and even programming code."

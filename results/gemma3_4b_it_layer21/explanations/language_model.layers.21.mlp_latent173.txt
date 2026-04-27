@@ -1,0 +1,1 @@
+"Various dates and times in the format of year, month, day, and hour, often in a specific format such as \"year-month-day hour:minute:second\"."

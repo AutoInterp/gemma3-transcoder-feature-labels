@@ -1,0 +1,1 @@
+"Text snippets often contain URLs, names of people, places, and organizations, as well as technical terms and programming code, which are frequently embedded within larger blocks of text."

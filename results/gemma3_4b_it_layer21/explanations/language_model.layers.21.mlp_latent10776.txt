@@ -1,0 +1,1 @@
+"Texts with various lengths and topics, but often containing numerical data, names, and technical terms."

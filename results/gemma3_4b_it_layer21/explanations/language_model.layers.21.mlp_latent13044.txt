@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including Java, C#, Python, JavaScript, and SQL, highlighting various syntax elements such as variable declarations, function definitions, and data types."

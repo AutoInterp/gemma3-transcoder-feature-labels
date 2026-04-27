@@ -1,0 +1,1 @@
+"Various types of text data, including scientific articles, product specifications, news articles, and programming code, with a focus on extracting numerical values and technical information."

@@ -1,0 +1,1 @@
+"Various numerical values and units, including measurements in different systems (e.g., mmH2o, kg, kDa, cm3, dollars), percentages, and time units (e.g., minutes, hours, days)."

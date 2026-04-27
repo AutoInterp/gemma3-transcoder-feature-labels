@@ -1,0 +1,1 @@
+"Texts containing various types of data, including numerical values, dates, times, and units, often in the context of scientific or technical information, as well as texts with specific formatting and syntax, possibly from programming languages or code snippets."

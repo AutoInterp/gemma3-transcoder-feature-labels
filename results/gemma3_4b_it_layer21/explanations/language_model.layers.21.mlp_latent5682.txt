@@ -1,0 +1,1 @@
+"Various numerical values, currency amounts, percentages, and scientific data, often in the context of financial, economic, or technical information."

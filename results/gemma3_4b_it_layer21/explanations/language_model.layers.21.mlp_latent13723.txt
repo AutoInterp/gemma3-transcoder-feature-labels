@@ -1,0 +1,1 @@
+"Various types of text, including academic articles, news articles, and online content, often contain sequences of numbers, dates, and technical terms, which are frequently embedded within larger blocks of text."

@@ -1,0 +1,1 @@
+"Text contains various types of delimiters, including HTML tags, URLs, and formatting specifiers, often used to separate content from metadata or to indicate a change in context."

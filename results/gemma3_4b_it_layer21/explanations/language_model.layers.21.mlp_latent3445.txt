@@ -1,0 +1,1 @@
+"Texts from various sources, including articles, blog posts, and product descriptions, with a focus on the structure and formatting of the text, rather than the content itself. The patterns found include the use of HTML tags, programming code, and formatting elements such as headings, paragraphs, and lists."

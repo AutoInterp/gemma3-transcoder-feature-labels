@@ -1,0 +1,1 @@
+"Code comments and documentation in various programming languages, including Java, C#, Python, and SQL, describing function parameters, return values, and usage."

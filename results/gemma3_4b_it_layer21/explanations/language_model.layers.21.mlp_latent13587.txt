@@ -1,0 +1,1 @@
+"Text contains a mix of English and non-English languages, including Persian (Farsi) and possibly other languages. The text also includes various types of data, such as phone numbers, ISBNs, URLs, and programming code, which are often embedded within the text."

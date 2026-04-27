@@ -1,0 +1,1 @@
+"Various numerical values and units, including weights, pressures, temperatures, and quantities, often used in scientific or technical contexts."

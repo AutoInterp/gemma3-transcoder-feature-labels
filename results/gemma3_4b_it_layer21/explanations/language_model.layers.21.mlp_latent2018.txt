@@ -1,0 +1,1 @@
+"Various types of text data, including academic citations, research papers, code snippets, news articles, and social media posts, with a focus on extracting and analyzing specific information such as URLs, IDs, and numerical values."

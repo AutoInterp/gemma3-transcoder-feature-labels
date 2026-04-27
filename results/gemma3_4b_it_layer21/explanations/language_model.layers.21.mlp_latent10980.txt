@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are followed by a formal closing, such as a signature, a contact email, or a call to action, often preceded by a period or a newline."

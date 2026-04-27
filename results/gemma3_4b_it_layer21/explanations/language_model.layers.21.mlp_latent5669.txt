@@ -1,0 +1,1 @@
+"Code snippets from various programming languages and markup languages, including CSS, JavaScript, HTML, and SQL, with a focus on theme variables and styling options for UI components."

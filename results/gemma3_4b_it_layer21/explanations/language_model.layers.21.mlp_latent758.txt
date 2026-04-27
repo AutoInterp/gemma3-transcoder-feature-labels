@@ -1,0 +1,1 @@
+"Various types of text data, including tables, articles, and conversations, with a focus on extracting specific information such as ratings, dates, and keywords."

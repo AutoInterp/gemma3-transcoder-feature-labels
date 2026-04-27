@@ -1,0 +1,1 @@
+"Texts containing various measurements and dimensions, often in the format of \"x\" (e.g., 10x12, 43-foot X 34-foot, 3:1phenotypic ratio), and technical specifications, such as resolutions (e.g., 750 resolution, 4800 x 1200 dpi), pixel counts, and battery capacities."

@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are set apart from the rest of the text, sometimes with a link or a code, and sometimes with a quotation mark. These phrases or sentences can be related to external sources, technical information, or personal opinions."

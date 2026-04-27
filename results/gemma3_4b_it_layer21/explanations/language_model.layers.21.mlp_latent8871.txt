@@ -1,0 +1,1 @@
+"Texts often contain proper nouns and geographical locations, such as country names, city names, and river names, which are frequently mentioned in the context of size comparisons, historical events, or geographical descriptions."

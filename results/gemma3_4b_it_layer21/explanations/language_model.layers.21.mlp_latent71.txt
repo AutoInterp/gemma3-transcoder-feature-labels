@@ -1,0 +1,1 @@
+"SQL code snippets, primarily CREATE TABLE statements, with varying levels of complexity and structure, often including foreign key constraints and indexing."

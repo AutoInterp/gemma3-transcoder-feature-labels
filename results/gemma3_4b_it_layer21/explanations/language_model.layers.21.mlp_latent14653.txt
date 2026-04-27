@@ -1,0 +1,1 @@
+"Texts often contain numerical values, word numbers, and comparisons of quantities, which are used to describe various phenomena, such as economic trends, physical properties, and biological processes."

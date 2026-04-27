@@ -1,0 +1,1 @@
+"Texts often contain long sequences of words that provide detailed explanations of complex concepts, followed by a brief summary or conclusion."

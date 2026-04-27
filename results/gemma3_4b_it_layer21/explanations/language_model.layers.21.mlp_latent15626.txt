@@ -1,0 +1,1 @@
+"Dates and years in text, often in the format of month and day, or year only, frequently accompanied by other contextual information such as events or publications."

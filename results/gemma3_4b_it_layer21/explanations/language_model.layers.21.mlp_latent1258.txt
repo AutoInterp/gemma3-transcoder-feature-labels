@@ -1,0 +1,1 @@
+"Texts containing mathematical formulas, programming code, and technical explanations, often involving problem-solving and derivations, frequently using variables, functions, and equations."

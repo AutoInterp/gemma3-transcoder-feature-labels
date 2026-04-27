@@ -1,0 +1,1 @@
+"Strings containing special characters, such as quotes, parentheses, and escape sequences, often used for formatting or concatenation in programming languages."

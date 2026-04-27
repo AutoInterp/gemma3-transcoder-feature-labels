@@ -1,0 +1,1 @@
+"Text snippets containing technical terms, programming code, and mathematical formulas, often accompanied by activation values indicating the importance of specific words or phrases within these snippets."

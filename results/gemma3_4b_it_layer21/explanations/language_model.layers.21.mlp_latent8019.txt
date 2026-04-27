@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are likely to be ignored or skipped, such as explanations, citations, or side notes, which are usually marked by a lower activation value."

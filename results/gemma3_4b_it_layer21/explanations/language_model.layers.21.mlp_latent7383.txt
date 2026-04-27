@@ -1,0 +1,1 @@
+"Texts often contain product names, brand names, and company names, which are typically written in a specific format, such as \"Bazooka Sour Straws\" or \"Virgin Airways\". Additionally, there are instances of technical terms, programming concepts, and scientific jargon, which are often used in a formal or technical context."

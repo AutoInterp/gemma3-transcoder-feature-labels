@@ -1,0 +1,1 @@
+"Code snippets and programming concepts, including keywords, syntax, and language features from various programming languages, such as Python, Java, and JavaScript."

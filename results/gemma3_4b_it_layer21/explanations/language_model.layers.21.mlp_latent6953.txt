@@ -1,0 +1,1 @@
+"Latitude and longitude coordinates, often used to describe geographical locations, are frequently found in the text."

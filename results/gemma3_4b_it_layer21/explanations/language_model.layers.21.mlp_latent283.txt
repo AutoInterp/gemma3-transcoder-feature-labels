@@ -1,0 +1,1 @@
+"Texts are separated by blank lines, indicating multiple files or sections. The output of a command (getfacl) can be used as input for another command (setfacl), showing a relationship between two processes."

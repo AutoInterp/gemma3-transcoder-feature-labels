@@ -1,0 +1,1 @@
+"Various programming code snippets and technical documentation, including Java, Spring, and other programming languages, as well as configuration files and error messages."

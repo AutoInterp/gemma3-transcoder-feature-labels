@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are secondary or supplementary to the main topic, such as explanations, examples, or references, which are frequently marked by a lower activation value."

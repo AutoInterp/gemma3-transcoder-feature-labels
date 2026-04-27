@@ -1,0 +1,1 @@
+"Texts describing technical concepts, processes, and solutions, often including programming code, mathematical formulas, and scientific terminology."

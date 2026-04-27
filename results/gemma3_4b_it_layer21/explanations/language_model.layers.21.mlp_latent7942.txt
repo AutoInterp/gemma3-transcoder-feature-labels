@@ -1,0 +1,1 @@
+"Various phrases and sentences are contained within delimiters, often representing a quote, a location, or a title, and are followed by a sequence of tokens that describe the content or context of the enclosed text."

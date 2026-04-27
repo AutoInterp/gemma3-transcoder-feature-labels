@@ -1,0 +1,1 @@
+"Texts often contain idiomatic expressions, proper nouns, and technical terms that are crucial for understanding the context. The presence of these important tokens can significantly impact the meaning and tone of the text."

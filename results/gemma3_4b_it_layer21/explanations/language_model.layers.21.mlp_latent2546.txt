@@ -1,0 +1,1 @@
+"Texts often contain phrases that describe a relationship between two entities, such as comparisons, contrasts, and causal connections, often using transitional words and phrases."

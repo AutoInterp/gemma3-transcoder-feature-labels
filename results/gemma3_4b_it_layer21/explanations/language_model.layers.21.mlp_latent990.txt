@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including Python, Java, and C#, with a focus on mathematical and scientific applications, such as geometry, algebra, and data analysis."

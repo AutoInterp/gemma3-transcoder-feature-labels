@@ -1,0 +1,1 @@
+"Various mathematical formulas and equations, including calculations for energy, density, stress, and other physical quantities, as well as mathematical functions and algorithms for tasks such as priming a system, resizing images, and calculating the area of a triangle."

@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, primarily Java and Kotlin, with annotations and method signatures indicating class and method structure, variable declarations, and function definitions."

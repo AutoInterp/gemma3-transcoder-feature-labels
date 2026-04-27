@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are incomplete or truncated, denoted by the presence of the token \"<eos>\". Additionally, the text frequently includes citations, references, and academic or technical terminology, suggesting a formal or professional tone."

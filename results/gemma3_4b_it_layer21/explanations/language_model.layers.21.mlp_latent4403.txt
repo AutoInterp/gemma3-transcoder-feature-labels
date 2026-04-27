@@ -1,0 +1,1 @@
+"Code snippets from various programming languages and markup languages, including LaTeX, HTML, and Java, with a focus on mathematical and scientific expressions, as well as programming concepts and syntax."

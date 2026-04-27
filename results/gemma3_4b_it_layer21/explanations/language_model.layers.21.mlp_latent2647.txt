@@ -1,0 +1,1 @@
+"Various mathematical and programming concepts, including limits, integrals, vector operations, and data structures, expressed in a mix of natural language and mathematical notation."

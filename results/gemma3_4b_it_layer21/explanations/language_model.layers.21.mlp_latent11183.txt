@@ -1,0 +1,1 @@
+"Text snippets containing variable names, function calls, and code snippets, often related to programming and software development, such as Webpack configuration, JavaScript, and CSS."

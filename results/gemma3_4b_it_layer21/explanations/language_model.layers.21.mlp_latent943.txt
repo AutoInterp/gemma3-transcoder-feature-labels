@@ -1,0 +1,1 @@
+"Various phrases and sentences that are likely to be extracted from text, often containing proper nouns, titles, and URLs, which may be used for information retrieval or text summarization purposes."

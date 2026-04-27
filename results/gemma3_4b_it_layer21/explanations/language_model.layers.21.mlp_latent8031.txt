@@ -1,0 +1,1 @@
+"Database schema and entity definitions in various programming languages, including SQL, Java, and Python, with annotations and comments for data modeling and validation."

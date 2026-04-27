@@ -1,0 +1,1 @@
+"Sequences of numbers, often representing coordinates, IDs, or other numerical values, frequently appearing in code or mathematical expressions."

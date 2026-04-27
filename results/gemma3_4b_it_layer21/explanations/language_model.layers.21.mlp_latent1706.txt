@@ -1,0 +1,1 @@
+"HTML code snippets with various attributes and elements, including divs, spans, images, inputs, and more, often with JavaScript and CSS code intertwined."

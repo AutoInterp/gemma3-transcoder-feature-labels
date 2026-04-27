@@ -1,0 +1,1 @@
+"Texts containing numerical values, scientific formulas, and technical data, often related to measurements, calculations, and comparisons."

@@ -1,0 +1,1 @@
+"Texts often contain dates in various formats, including specific years, centuries, and time periods, sometimes accompanied by additional information such as the source of the date or the context in which it is mentioned."

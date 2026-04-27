@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are set apart from the rest of the text, typically indicating a change in topic, a quotation, or a separate idea. These phrases or sentences can be preceded by a delimiter, and may be followed by a period or other punctuation mark."

@@ -1,0 +1,1 @@
+"HTML and XML tags used for structuring and formatting text, including anchor tags, bold text, horizontal lines, and more."

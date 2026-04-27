@@ -1,0 +1,1 @@
+"Text fragments often appear to be the middle of a sentence, possibly due to being cut from a larger context, and frequently contain proper nouns, technical terms, or specific names."

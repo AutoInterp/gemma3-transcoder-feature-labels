@@ -1,0 +1,1 @@
+"Various types of text, including programming code, legal documents, and articles, with a focus on extracting specific information and patterns."

@@ -1,0 +1,1 @@
+"Text snippets containing scientific or technical information, including chemical formulas, biological descriptions, and mathematical equations, often accompanied by code snippets in various programming languages."

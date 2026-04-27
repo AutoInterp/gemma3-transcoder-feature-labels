@@ -1,0 +1,1 @@
+"Frequent use of units of measurement, such as speed (miles per hour, kilometers per hour, feet per second), rate (operations per watt, transactions per second), and quantity (tons per day, genome copies per liter, bus accidents per year), indicating a focus on technical or scientific information."

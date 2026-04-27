@@ -1,0 +1,1 @@
+"Text fragments containing various types of information, such as article titles, section headers, URLs, and code snippets, often found at the beginning or end of a text block."

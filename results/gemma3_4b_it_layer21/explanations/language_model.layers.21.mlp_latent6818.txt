@@ -1,0 +1,1 @@
+"SQL queries and database operations, including data retrieval, insertion, and update, as well as database schema definitions."

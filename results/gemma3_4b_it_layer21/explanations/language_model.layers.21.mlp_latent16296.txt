@@ -1,0 +1,1 @@
+"Various strings of characters, often representing URLs, IDs, or other unique identifiers, frequently appearing in the text."

@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including Python, Java, SQL, and C++, often containing function definitions, class methods, and variable declarations."

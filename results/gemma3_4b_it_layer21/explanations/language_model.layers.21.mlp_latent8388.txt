@@ -1,0 +1,1 @@
+"Various phrases and sentences that are likely to be appended to the end of a text, such as contact information, social media links, and disclaimers, often with low activation values indicating they are less important to the overall meaning of the text."

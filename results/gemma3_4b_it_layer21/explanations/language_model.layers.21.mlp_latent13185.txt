@@ -1,0 +1,1 @@
+"Numbers and dates in various formats, often representing financial values, temperatures, or coordinates."

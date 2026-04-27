@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, primarily Python and PHP, containing functions and methods related to image processing, manipulation, and display."

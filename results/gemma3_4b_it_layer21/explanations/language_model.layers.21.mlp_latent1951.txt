@@ -1,0 +1,1 @@
+"Text describing color schemes, color variations, and monochromatic colors, with examples of hex codes and RGB values."

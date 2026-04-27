@@ -1,0 +1,1 @@
+"Texts from various programming languages, documentation, and educational materials, including comments, function signatures, and code snippets."

@@ -1,0 +1,1 @@
+"Various programming-related terms and concepts, including function calls, class constructors, data types, and file operations, often used in the context of coding tutorials or documentation."

@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are cut off or truncated, sometimes in the middle of a thought, and are followed by a delimiter, indicating a pause or a break in the narrative."

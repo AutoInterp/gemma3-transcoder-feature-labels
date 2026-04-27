@@ -1,0 +1,1 @@
+"HTML and CSS code snippets with various attributes, properties, and classes used for styling, layout, and accessibility, including aria-label, aria-describedby, and aria-disabled."

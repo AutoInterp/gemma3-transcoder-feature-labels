@@ -1,0 +1,1 @@
+"Shell scripts and commands, including debugging options, file system operations, and network requests."

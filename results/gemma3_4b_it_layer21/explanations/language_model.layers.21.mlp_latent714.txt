@@ -1,0 +1,1 @@
+"Large numbers and monetary values often appear in the text, frequently in the format of \"xx,xxx\" or \"xx,xxx,xxx\", indicating a pattern of emphasis on financial or numerical data."

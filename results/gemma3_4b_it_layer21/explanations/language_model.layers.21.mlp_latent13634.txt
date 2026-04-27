@@ -1,0 +1,1 @@
+"Texts containing technical information, programming code, and instructions for software installation, configuration, and troubleshooting, often with specific versions and compatibility details."

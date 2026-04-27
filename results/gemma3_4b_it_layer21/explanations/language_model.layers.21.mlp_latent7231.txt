@@ -1,0 +1,1 @@
+"Various types of text data, including product descriptions, technical specifications, news articles, and academic papers, often containing dates, measurements, and technical terms."

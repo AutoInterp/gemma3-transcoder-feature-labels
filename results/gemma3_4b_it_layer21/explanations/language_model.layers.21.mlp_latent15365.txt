@@ -1,0 +1,1 @@
+"SQL code snippets, database table structures, and programming code in various languages, including Java and Go, with a focus on database operations, data modeling, and application logic."

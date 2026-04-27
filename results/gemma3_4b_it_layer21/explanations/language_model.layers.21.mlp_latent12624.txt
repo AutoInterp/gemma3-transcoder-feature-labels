@@ -1,0 +1,1 @@
+"Various types of numerical data, including dates, times, numbers, and IDs, often in a format that is not immediately understandable as a specific type of data."

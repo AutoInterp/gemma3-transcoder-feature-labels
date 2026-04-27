@@ -1,0 +1,1 @@
+"Text segments enclosed by double angle brackets, often indicating a link, a code snippet, or a technical term, and sometimes used to denote a quotation or a reference."

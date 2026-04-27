@@ -1,0 +1,1 @@
+"Technical text describing programming, algorithms, and mathematical concepts, often involving variable names, function calls, and data structures."

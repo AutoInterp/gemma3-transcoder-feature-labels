@@ -1,0 +1,1 @@
+"The presence of null or null-like values in code, often used to represent the absence of a value or a default state."

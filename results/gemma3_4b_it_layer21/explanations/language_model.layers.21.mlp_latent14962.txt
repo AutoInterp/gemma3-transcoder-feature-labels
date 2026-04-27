@@ -1,0 +1,1 @@
+"HTML code snippets describing various UI components, their properties, and functionalities, often including JavaScript and CSS variables."

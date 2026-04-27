@@ -1,0 +1,1 @@
+"Texts often contain phrases that indicate a transition to additional information, such as a link to a website, a call to action, or a reference to a related topic. These phrases often appear at the end of a sentence or paragraph and are followed by a delimiter, such as a period or a new line."

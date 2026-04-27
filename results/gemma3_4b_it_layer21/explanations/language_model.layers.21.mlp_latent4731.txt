@@ -1,0 +1,1 @@
+"The token \"<<\" is often used to denote the beginning of a parenthetical remark, aside, or a quotation, while the token \">>\" marks its end."

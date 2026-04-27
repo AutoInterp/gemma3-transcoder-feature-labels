@@ -1,0 +1,1 @@
+"Various programming languages and frameworks, including Java, Python, C++, Android, and Varnish, as well as database queries and HTML/CSS code."

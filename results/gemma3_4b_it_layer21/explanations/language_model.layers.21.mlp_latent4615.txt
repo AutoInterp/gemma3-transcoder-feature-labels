@@ -1,0 +1,1 @@
+"The token \"binary\" is used in various contexts, including computer science (binary code, binary data, binary packages), mathematics (binary numbers, binary system, binary phase diagrams), and everyday language (binary dishonesty, binary actions). It often refers to something related to two values or states, such as 0 and 1, or yes and no."

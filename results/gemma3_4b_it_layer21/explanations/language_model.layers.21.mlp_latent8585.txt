@@ -1,0 +1,1 @@
+"Paths or directories in a file system, often used as input or output locations for various operations, such as data conversion, file synchronization, or debugging."

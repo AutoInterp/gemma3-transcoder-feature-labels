@@ -1,0 +1,1 @@
+"Text snippets containing dates, times, locations, and other specific information, often in a formal or structured format, such as code comments, academic citations, or news articles."

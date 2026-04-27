@@ -1,0 +1,1 @@
+"Text snippets often contain proper nouns, names, and titles, which are frequently highlighted in the given examples. Additionally, there is a prevalence of citations, references, and academic terminology, suggesting a focus on academic or research-related content."

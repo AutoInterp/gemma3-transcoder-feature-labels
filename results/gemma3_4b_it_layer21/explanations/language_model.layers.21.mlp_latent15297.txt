@@ -1,0 +1,1 @@
+"Text fragments often appear to be incomplete sentences or phrases, possibly due to being extracted from larger documents or containing code snippets. They frequently contain technical terms, jargon, and domain-specific language, suggesting a focus on specialized topics such as technology, science, and business."

@@ -1,0 +1,1 @@
+"Texts containing various types of information, including programming code, mathematical equations, and everyday conversations, with a focus on extracting specific words or phrases that are relevant to the context."

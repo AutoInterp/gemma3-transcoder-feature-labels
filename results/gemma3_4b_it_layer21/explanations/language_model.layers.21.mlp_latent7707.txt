@@ -1,0 +1,1 @@
+"Texts describing technical concepts, algorithms, and mathematical problems, often involving programming, data structures, and computational complexity."

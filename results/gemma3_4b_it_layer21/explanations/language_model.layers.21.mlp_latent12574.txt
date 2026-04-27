@@ -1,0 +1,1 @@
+"Texts that are not relevant to the analysis, possibly due to being unrelated to the idioms, comparative adjectives, or nouns in the previous examples."

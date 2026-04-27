@@ -1,0 +1,1 @@
+"Various programming code snippets and programming-related terms, including function names, variable names, and data types, from a range of programming languages such as JavaScript, Java, Python, and SQL."

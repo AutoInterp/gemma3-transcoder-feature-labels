@@ -1,0 +1,1 @@
+"Texts containing instructions, commands, or prompts for user input, often in a specific format or syntax, such as typing a command, entering a password, or providing information."

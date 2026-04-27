@@ -1,0 +1,1 @@
+"SQL queries and database table schema definitions, including foreign key constraints and data types."

@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including bash, perl, python, and others, highlighting different control structures such as loops, conditional statements, and functions."

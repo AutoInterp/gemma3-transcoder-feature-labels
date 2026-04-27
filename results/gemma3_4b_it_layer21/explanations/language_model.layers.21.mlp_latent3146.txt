@@ -1,0 +1,1 @@
+"Variable names and function calls in a programming context, specifically related to user interface and game development."

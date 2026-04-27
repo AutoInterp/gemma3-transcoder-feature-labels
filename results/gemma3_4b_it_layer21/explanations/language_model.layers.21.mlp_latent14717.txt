@@ -1,0 +1,1 @@
+"Various programming languages and frameworks, including JavaScript, Java, Python, C++, TypeScript, and others, with a focus on object-oriented programming, data structures, and algorithms."

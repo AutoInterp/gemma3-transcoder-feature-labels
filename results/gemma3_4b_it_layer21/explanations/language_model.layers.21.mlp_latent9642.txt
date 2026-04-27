@@ -1,0 +1,1 @@
+"Various programming-related terms and concepts, including data structures, functions, variables, and syntax, from multiple programming languages."

@@ -1,0 +1,1 @@
+"Texts often contain citations, references, or quotes from other sources, which are typically denoted by specific phrases or words, such as \"Marx 1971, p. 32\" or \"figure 48\". Additionally, there are instances of technical or scientific terminology, like \"Riemannian manifolds\" or \"HDR and HDCP 2.2\", which are used to describe complex concepts or technologies."

@@ -1,0 +1,1 @@
+"Text snippets often contain technical or formal language, and sometimes code snippets, which are frequently found in programming or instructional contexts."

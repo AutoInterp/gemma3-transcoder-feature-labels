@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including C, C++, Java, JavaScript, Python, and SQL, with varying levels of activation for different tokens, indicating the presence of specific keywords, functions, classes, and variables."

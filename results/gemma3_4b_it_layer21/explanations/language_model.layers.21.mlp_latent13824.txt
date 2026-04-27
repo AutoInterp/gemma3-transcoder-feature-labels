@@ -1,0 +1,1 @@
+"Various programming code snippets and text from academic papers, technical documentation, and online content, including comments, function definitions, and variable declarations."

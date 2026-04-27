@@ -1,0 +1,1 @@
+"Units of measurement, such as length, weight, and time, often represented by a number followed by a unit abbreviation (e.g., yards, feet, pounds, hours, etc.)."

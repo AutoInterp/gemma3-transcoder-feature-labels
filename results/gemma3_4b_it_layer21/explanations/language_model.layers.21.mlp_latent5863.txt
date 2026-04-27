@@ -1,0 +1,1 @@
+"Texts that contain a sequence of sentences or phrases that were likely deleted or truncated, often with a remaining sentence or phrase that provides context or explanation."

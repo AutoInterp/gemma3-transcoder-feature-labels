@@ -1,0 +1,1 @@
+"Tokens indicating the end of a process, sequence, or event, often used to signal completion, termination, or transition to a new state."
