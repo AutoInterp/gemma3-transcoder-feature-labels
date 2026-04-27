@@ -1,0 +1,1 @@
+"Technical text describing mathematical concepts, equations, and algorithms, often in the context of computer science, physics, or engineering."

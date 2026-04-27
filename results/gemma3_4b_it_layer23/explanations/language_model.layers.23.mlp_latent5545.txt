@@ -1,0 +1,1 @@
+"Various phrases and sentences that are likely to be extracted or highlighted due to their relevance to the context, often containing key information, names, or technical terms."

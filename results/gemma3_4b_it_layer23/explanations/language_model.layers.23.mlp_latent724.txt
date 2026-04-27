@@ -1,0 +1,1 @@
+"SQL code snippets, including queries, database schema, and functions, highlighting various aspects of database design, query optimization, and performance considerations."

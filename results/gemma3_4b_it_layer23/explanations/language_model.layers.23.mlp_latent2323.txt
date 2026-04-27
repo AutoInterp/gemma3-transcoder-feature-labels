@@ -1,0 +1,1 @@
+"Texts containing instructions, commands, or explanations for various tasks, often with a technical or programming focus, frequently including code snippets and file paths."

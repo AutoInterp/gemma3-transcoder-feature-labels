@@ -1,0 +1,1 @@
+"Texts often contain long, complex sentences or phrases that are not crucial to the main idea, and are therefore assigned a low activation value."

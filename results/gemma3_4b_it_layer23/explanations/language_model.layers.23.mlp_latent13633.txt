@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including Perl, Python, JavaScript, C++, Java, and SQL, highlighting functions and methods with names that indicate a specific condition or property, such as primality, adjacency, or symmetry."

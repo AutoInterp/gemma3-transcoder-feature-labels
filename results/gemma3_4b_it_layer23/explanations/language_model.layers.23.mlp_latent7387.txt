@@ -1,0 +1,1 @@
+"Various dates and times in the format of year, month, day, and hour, often followed by a colon and additional information."

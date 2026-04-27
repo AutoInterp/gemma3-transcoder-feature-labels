@@ -1,0 +1,1 @@
+"Text snippets from various programming languages, including SQL, PHP, and Go, as well as fragments of HTML, JSON, and XML."

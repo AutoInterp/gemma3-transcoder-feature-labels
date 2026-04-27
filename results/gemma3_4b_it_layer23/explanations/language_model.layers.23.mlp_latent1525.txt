@@ -1,0 +1,1 @@
+"Texts from various domains, including academic, technical, and conversational, with a focus on extracting specific information, such as definitions, examples, and explanations, often using a question-and-answer format."

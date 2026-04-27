@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, primarily Python, with a focus on loops, conditional statements, and mathematical operations."

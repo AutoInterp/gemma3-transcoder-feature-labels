@@ -1,0 +1,1 @@
+"Various programming code snippets, documentation, and technical descriptions, often including function or method names, variable names, and data types."

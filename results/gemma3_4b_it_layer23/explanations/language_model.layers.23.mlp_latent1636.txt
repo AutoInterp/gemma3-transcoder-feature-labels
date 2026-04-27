@@ -1,0 +1,1 @@
+"Various programming and technical terms, including software names, programming languages, database queries, and system configurations, often found in code snippets, documentation, and technical discussions."

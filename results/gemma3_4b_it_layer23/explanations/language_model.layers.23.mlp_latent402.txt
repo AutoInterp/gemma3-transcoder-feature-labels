@@ -1,0 +1,1 @@
+"Texts containing URLs, file paths, or other types of technical or formal information, often found at the end of a document or article."

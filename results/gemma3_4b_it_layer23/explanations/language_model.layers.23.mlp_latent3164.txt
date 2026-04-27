@@ -1,0 +1,1 @@
+"Various types of text data, including addresses, phone numbers, URLs, scientific articles, and product information, often containing specific keywords and phrases that indicate their purpose or content."

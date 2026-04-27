@@ -1,0 +1,1 @@
+"Texts from various sources, including programming code, articles, and conversations, with a focus on extracting specific phrases, sentences, or code snippets. The patterns found include programming code, technical terms, and idiomatic expressions, often used in a context-specific manner."

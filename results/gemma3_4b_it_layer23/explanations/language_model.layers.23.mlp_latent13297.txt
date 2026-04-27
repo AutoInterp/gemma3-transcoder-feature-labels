@@ -1,0 +1,1 @@
+"Dates in the format of \"Jan. 1, 1881\" or \"Oct 1\" often followed by a year, sometimes with additional information."

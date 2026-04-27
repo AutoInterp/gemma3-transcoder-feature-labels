@@ -1,0 +1,1 @@
+"The token \"amount\" is frequently used to describe quantities of various types, including physical substances, financial values, and abstract concepts."

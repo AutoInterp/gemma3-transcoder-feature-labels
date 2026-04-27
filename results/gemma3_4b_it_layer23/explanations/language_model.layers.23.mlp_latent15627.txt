@@ -1,0 +1,1 @@
+"The token \"bind\" is used in various contexts, including programming (e.g., binding to ports, binding editors), idiomatic expressions (e.g., \"bind and loose\"), and general language (e.g., binding agreements, bound to follow)."

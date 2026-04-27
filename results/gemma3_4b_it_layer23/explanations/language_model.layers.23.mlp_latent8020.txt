@@ -1,0 +1,1 @@
+"Texts from various sources, including news articles, social media, and websites, with a focus on extracting specific phrases and sentences. The extracted phrases often contain proper nouns, locations, and event names, indicating a pattern of extracting relevant information from a wide range of sources."

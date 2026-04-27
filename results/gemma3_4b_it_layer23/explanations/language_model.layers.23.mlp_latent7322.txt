@@ -1,0 +1,1 @@
+"Text snippets often contain non-essential or irrelevant information, such as programming code, mathematical formulas, or unrelated articles, which are not contributing to the main topic or sentiment of the text."

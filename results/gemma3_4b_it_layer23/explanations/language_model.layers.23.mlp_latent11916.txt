@@ -1,0 +1,1 @@
+"Text snippets often contain proper nouns, names of people, places, and organizations, which are frequently highlighted in the given examples. Additionally, there are instances of quotes, dialogue, and conversations between individuals, which are often marked with quotation marks."

@@ -1,0 +1,1 @@
+"Code snippets in various programming languages, often with comments and variable names, and sometimes with HTML or LaTeX markup."

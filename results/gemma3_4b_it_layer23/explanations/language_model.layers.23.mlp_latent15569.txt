@@ -1,0 +1,1 @@
+"Texts with low activation values are often promotional or informational content, such as product descriptions, advertisements, or news articles, while texts with higher activation values are often more personal, narrative, or opinion-based content."

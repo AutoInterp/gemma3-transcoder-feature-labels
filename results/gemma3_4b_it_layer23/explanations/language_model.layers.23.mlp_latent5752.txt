@@ -1,0 +1,1 @@
+"URLs and API keys, often used for authentication and data retrieval, frequently appear in the text."

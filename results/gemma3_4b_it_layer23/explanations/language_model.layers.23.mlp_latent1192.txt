@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are incomplete or seem to be cut off, frequently denoted by special characters such as <.eos> or !<eos>. These phrases are often followed by a new paragraph or a change in topic, suggesting that they are used to indicate the end of a thought or a section of text."

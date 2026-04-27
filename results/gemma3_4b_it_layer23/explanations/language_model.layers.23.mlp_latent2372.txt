@@ -1,0 +1,1 @@
+"Texts often contain titles, subtitles, and section headers, which are typically denoted by phrases such as \"Activations:\", \"Edit\", \"Source:\", and \"Connecting>>\". These phrases often precede a new section of text, and may be followed by a list of items, a quote, or a reference."

@@ -1,0 +1,1 @@
+"Texts often contain proper nouns, such as names of locations, organizations, and people, which are frequently mentioned in the context of a specific event, publication, or concept. Additionally, there are instances of technical terms, abbreviations, and programming code, indicating a mix of formal and informal writing styles."

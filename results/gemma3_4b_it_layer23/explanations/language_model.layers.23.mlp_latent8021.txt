@@ -1,0 +1,1 @@
+"Large numbers in scientific notation, often representing quantities such as energy, mass, or temperature, frequently accompanied by units like calories, joules, or degrees Celsius."

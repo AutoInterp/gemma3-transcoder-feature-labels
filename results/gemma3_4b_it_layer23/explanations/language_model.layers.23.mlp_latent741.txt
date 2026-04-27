@@ -1,0 +1,1 @@
+"Code snippets in various programming languages, including JavaScript, Ruby, and Java, with a focus on syntax and function definitions."

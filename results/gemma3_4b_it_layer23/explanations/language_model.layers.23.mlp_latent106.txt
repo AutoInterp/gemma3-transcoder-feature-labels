@@ -1,0 +1,1 @@
+"Various units of measurement, including currency, temperature, and distance, often used in comparisons or calculations."

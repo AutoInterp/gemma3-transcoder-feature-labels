@@ -1,0 +1,1 @@
+"Text describing various font styles, sizes, and categories, as well as HTML and CSS tags for formatting text, and programming code snippets."

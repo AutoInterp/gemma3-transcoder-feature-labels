@@ -1,0 +1,1 @@
+"Sequences of text that are likely to be quotes or passages from various sources, often with a high activation value, indicating their importance in the context."

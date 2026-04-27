@@ -1,0 +1,1 @@
+"Extracted location information includes postal codes, addresses, names of cities, countries, and specific locations such as parks, restaurants, and shops."

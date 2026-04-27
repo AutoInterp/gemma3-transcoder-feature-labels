@@ -1,0 +1,1 @@
+"Various programming-related terms, including function names, class names, method names, and variable names, as well as technical terms from different domains such as computer science, software development, and web development."

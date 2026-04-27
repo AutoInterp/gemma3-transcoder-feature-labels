@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including Python, Java, and C++, with a focus on class and method definitions, as well as database table creation and data manipulation."

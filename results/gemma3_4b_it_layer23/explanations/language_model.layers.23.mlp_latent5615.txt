@@ -1,0 +1,1 @@
+"Various units of measurement, including weight (kg), length (mm, cm, inches), and time (seconds, minutes, hours), often used in technical or descriptive contexts."

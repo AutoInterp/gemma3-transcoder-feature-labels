@@ -1,0 +1,1 @@
+"Various sequences of numbers and special characters, often used to denote ranges, quantities, or specific values in technical, scientific, or programming contexts."

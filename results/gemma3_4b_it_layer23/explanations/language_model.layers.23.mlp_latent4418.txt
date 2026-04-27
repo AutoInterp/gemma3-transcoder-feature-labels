@@ -1,0 +1,1 @@
+"Various types of text fragments, including file extensions, programming code, and URLs, often found at the end of a document or a webpage."

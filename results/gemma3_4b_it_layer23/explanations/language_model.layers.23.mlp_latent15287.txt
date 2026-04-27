@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including SQL, PHP, Python, JavaScript, and Oracle, often containing database operations, function definitions, and variable assignments."

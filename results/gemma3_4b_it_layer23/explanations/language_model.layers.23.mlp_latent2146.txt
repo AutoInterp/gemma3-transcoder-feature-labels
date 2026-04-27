@@ -1,0 +1,1 @@
+"Various programming code snippets, database schema, and SQL queries, along with text from articles, books, and websites, and some programming-related comments and documentation."

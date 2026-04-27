@@ -1,0 +1,1 @@
+"The text contains various programming-related terms and concepts, including JSON (JavaScript Object Notation) data structures, parsing and unmarshalling, XML (Extensible Markup Language) data, and various programming languages such as Python, JavaScript, and Java. The text also mentions various programming frameworks and libraries, including Spring and Oozie."

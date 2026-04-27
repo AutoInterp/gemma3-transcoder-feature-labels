@@ -1,0 +1,1 @@
+"The token \"set\" is used in various contexts, including setting up something (e.g., a website, a goal, a configuration), setting a value (e.g., timezone, version), and setting something ablaze."

@@ -1,0 +1,1 @@
+"The token \"date\" is frequently used in various contexts, including but not limited to, calendar dates, times, and temporal references, often in conjunction with other words like \"of\", \"the\", and \"on\"."

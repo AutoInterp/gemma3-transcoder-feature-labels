@@ -1,0 +1,1 @@
+"Text snippets containing technical terms, programming concepts, and mathematical expressions, often with a focus on algorithms, data structures, and computational complexity."

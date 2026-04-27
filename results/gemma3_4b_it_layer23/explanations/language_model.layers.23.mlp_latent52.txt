@@ -1,0 +1,1 @@
+"Various types of text data, including dates, times, measurements, mathematical formulas, and plain text, often with a lack of coherent narrative or meaningful patterns."

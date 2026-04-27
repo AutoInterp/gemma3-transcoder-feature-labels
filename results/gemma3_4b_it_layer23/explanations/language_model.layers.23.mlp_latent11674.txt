@@ -1,0 +1,1 @@
+"Various Unix and Linux commands, configuration files, and system paths, often used in scripting and system administration."

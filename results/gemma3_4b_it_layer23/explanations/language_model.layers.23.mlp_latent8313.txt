@@ -1,0 +1,1 @@
+"Texts containing repetitive or circular structures, often in the form of conditional statements, loops, or recursive references, which can be found in programming code, philosophical or scientific discussions, and literary works."

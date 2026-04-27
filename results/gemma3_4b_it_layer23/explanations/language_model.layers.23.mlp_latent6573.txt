@@ -1,0 +1,1 @@
+"Code snippets in various programming languages, including bash, Python, and SQL, often embedded within text describing technical concepts, tutorials, or documentation."

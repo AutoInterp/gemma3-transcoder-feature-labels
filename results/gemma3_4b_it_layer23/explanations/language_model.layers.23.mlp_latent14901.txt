@@ -1,0 +1,1 @@
+"Code snippets from various programming languages and data formats, including JSON, SQL, and regular expressions, as well as text from technical documents, academic papers, and online resources, showcasing a wide range of topics and styles."

@@ -1,0 +1,1 @@
+"Various types of text data, including articles, blog posts, comments, and social media posts, with a focus on extracting specific information such as names, locations, and quotes."

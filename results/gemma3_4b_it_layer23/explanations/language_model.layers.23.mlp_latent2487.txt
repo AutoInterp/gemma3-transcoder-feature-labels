@@ -1,0 +1,1 @@
+"Code comments and documentation in various programming languages, including PHP, Java, and C, often containing information about the purpose of a function or class, parameters, and return types."

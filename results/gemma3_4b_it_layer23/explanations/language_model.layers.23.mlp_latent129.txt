@@ -1,0 +1,1 @@
+"Text fragments representing titles, headings, and citations, often enclosed in quotation marks or other delimiters, and sometimes accompanied by metadata such as dates, authors, or references."

@@ -1,0 +1,1 @@
+"The token \"end\" is often used to conclude a thought, action, or situation, while the token \"end\" is also used to indicate a boundary or a limit, and the token \"end\" is sometimes used to describe a state of being or a condition."

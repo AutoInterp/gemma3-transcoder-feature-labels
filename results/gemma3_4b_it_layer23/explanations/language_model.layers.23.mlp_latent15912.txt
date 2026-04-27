@@ -1,0 +1,1 @@
+"Loops iterating over a range of numbers, often used for initialization, calculations, or data processing."

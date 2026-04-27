@@ -1,0 +1,1 @@
+"Texts describing technical instructions, tutorials, and troubleshooting guides for various software and systems, often including programming languages, operating systems, and package management."

@@ -1,0 +1,1 @@
+"Various numerical values, currency amounts, and percentages are found in the text, often used for financial or statistical purposes."

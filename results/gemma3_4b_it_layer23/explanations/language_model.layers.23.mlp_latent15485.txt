@@ -1,0 +1,1 @@
+"Texts with low activation values are often irrelevant or supplementary information, such as URLs, citations, or instructions, while texts with higher activation values are typically the main content or key points being discussed."

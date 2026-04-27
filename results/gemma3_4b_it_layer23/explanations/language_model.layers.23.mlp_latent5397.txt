@@ -1,0 +1,1 @@
+"The token \"12\" appears frequently in the text, often in numerical contexts, such as dates, times, measurements, and quantities."

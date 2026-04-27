@@ -1,0 +1,1 @@
+"Texts describing technical instructions, software installation, and troubleshooting for various operating systems, programming languages, and applications, often including specific commands, file paths, and error messages."

@@ -1,0 +1,1 @@
+"Texts containing information about time, duration, and scheduling, including delivery times, appointment lengths, and event dates."

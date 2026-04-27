@@ -1,0 +1,1 @@
+"Code snippets in various programming languages, including Go, JavaScript, and Java, with a focus on function definitions, variable declarations, and data structures."

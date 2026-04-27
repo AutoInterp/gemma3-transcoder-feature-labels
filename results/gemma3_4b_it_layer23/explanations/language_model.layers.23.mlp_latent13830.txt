@@ -1,0 +1,1 @@
+"Various programming and markup languages, including SQL, Java, JavaScript, HTML, and XML, with a focus on attribute names, element roles, and data types."

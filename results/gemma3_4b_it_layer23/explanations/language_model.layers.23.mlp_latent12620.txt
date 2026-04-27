@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are set apart from the rest of the text, sometimes for emphasis or to provide additional information. These phrases or sentences can be enclosed in quotation marks or appear as separate paragraphs, and may be highlighted by the model as having a different level of importance or relevance."

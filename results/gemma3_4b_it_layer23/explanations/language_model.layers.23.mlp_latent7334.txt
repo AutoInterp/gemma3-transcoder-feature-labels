@@ -1,0 +1,1 @@
+"Text fragments that appear to be the beginning or end of articles, blog posts, or other written content, often including titles, author information, or links."

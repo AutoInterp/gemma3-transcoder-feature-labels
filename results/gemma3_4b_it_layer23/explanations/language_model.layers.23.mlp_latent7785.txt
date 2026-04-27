@@ -1,0 +1,1 @@
+"Various text fragments, including product names, table names, SQL commands, and programming code, often containing specific keywords and identifiers."

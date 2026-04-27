@@ -1,0 +1,1 @@
+"Texts often contain proper nouns, names of people, places, and organizations, which are frequently associated with high activations. Additionally, phrases and sentences that convey complex or abstract ideas, such as scientific concepts, philosophical theories, or literary references, tend to have lower activations."

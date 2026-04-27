@@ -1,0 +1,1 @@
+"Texts describing technical specifications, mathematical concepts, and programming code, often involving complex formulas, algorithms, and data structures."

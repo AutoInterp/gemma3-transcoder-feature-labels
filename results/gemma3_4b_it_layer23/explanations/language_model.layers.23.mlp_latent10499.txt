@@ -1,0 +1,1 @@
+"Various types of text data, including addresses, phone numbers, book titles, ISBN numbers, URLs, and other forms of metadata, often appearing in a specific format."

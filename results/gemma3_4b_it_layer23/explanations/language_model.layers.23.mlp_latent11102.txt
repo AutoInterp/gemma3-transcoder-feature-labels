@@ -1,0 +1,1 @@
+"Texts containing license information, programming language documentation, and instructions for software development and deployment, often including file paths, commands, and version numbers."

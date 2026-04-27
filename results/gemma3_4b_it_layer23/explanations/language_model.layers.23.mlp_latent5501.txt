@@ -1,0 +1,1 @@
+"Code snippets and programming concepts, including syntax, data structures, and security best practices, often accompanied by explanations and examples."

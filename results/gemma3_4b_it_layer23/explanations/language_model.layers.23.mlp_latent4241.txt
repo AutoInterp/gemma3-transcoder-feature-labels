@@ -1,0 +1,1 @@
+"Texts often contain addresses, phone numbers, and URLs, which are frequently found at the end of a paragraph or section, and sometimes preceded by a call to action or a request for further information."

@@ -1,0 +1,1 @@
+"Texts often contain proper nouns such as street names, locations, and company names, which are frequently mentioned in conjunction with other geographical or spatial references like directions, distances, and landmarks."

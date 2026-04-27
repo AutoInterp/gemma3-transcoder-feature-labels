@@ -1,0 +1,1 @@
+"Various types of numerical values, including currency amounts, quantities, and measurements, often presented in a specific format, such as with dollar signs, commas, and decimal points."

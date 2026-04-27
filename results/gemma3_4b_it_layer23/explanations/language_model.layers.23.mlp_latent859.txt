@@ -1,0 +1,1 @@
+"Texts containing mathematical and technical concepts, including definitions, theorems, and proofs, often involving abstract algebra, category theory, and logic."

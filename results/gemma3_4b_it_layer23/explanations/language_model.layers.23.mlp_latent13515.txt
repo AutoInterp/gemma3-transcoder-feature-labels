@@ -1,0 +1,1 @@
+"Texts often contain company names, product names, and brand names, which are typically capitalized and may be accompanied by a location or a description of their services or products."

@@ -1,0 +1,1 @@
+"Various programming-related terms, including function names, variable names, data types, and file paths, often found in code comments, documentation, and online forums."

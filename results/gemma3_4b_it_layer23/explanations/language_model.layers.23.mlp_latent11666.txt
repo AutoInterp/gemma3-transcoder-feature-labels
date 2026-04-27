@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including C, C++, and Rust, with a focus on graphics and game development, as well as some general programming concepts and examples."

@@ -1,0 +1,1 @@
+"The token \"etc.\" is used to indicate that a list of items is not exhaustive, often used in informal writing to avoid listing every single item."

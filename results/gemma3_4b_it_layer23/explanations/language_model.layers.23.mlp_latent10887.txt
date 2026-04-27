@@ -1,0 +1,1 @@
+"Various types of data, including numerical values, temperatures, percentages, and scientific measurements, often presented in a format that is not typical of natural language."

@@ -1,0 +1,1 @@
+"The token \"times\" is used to describe multiplication of various quantities, such as financial returns, sizes, rates, and amounts."

@@ -1,0 +1,1 @@
+"Text fragments enclosed in delimiters often represent titles, headings, or standalone blocks of information, such as essay topics, product descriptions, or instructions."

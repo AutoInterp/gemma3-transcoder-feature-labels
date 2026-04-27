@@ -1,0 +1,1 @@
+"Code snippets and programming-related text, including comments, variable declarations, and function definitions, often containing specific programming languages such as C#, Java, and JavaScript."

@@ -1,0 +1,1 @@
+"Texts containing command lines, programming instructions, and technical documentation, often with a focus on software development, system administration, and troubleshooting."

@@ -1,0 +1,1 @@
+"Texts with various formatting, including hexadecimal color codes, HTML tags, and special characters, often used for emphasis or to represent different types of content, such as quotes, code snippets, or foreign language text."

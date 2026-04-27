@@ -1,0 +1,1 @@
+"Texts discussing statistical concepts, methods, and analysis, including correlation, covariance, variance, and regression, as well as data visualization techniques such as scatterplots and spider charts."

@@ -1,0 +1,1 @@
+"Timestamps in the format of \"year: month.day\" or \"hour:minute\" often appear at the beginning of a line, possibly indicating the date or time of a post or event."

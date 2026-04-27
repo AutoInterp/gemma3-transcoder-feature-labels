@@ -1,0 +1,1 @@
+"A collection of color information, including hex codes, RGB values, and color charts, likely used for design or color theory purposes."

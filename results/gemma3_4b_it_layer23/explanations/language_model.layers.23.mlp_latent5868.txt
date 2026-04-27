@@ -1,0 +1,1 @@
+"Various mathematical formulas and equations from physics, engineering, and computer science, including trigonometry, calculus, and algebra, as well as code snippets from programming languages such as Python and C++."

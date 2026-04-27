@@ -1,0 +1,1 @@
+"Various types of data, including dates, times, numbers, and text, often in the context of research, education, or technical information, frequently accompanied by activation values indicating their relevance or importance."

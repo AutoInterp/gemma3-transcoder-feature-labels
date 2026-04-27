@@ -1,0 +1,1 @@
+"Texts containing addresses, phone numbers, and URLs, often found at the end of articles or as part of a list."

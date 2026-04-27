@@ -1,0 +1,1 @@
+"Various types of text formatting and markup, including HTML tags, LaTeX equations, and wiki links, often used to denote emphasis, citations, or technical information."

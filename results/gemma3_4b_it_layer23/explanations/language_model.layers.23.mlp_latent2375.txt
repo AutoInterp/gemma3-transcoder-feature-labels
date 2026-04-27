@@ -1,0 +1,1 @@
+"The token \"range\" is used to describe a variety of concepts, including spatial boundaries, numerical values, and categorical classifications, often in the context of measurement, comparison, or categorization."

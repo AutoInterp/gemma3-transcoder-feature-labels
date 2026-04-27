@@ -1,0 +1,1 @@
+"Various types of identifiers, such as ISBN numbers, publication information, and citations, often found at the beginning or end of a text."

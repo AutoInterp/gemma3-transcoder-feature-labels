@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are connected to other entities, such as people, places, or organizations, and these connections are used to build relationships, provide context, or convey information."

@@ -1,0 +1,1 @@
+"Text fragments containing addresses, dates, and event information, often serving as headers or metadata."

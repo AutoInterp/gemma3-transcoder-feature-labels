@@ -1,0 +1,1 @@
+"Texts related to database management, including concepts, tools, and techniques for working with databases, as well as discussions on database design, data manipulation, and data analysis."

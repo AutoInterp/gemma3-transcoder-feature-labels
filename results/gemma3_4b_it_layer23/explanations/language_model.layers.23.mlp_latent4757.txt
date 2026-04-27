@@ -1,0 +1,1 @@
+"Various types of lists, including but not limited to, itemized lists, tables, and enumerations, often used to present information in a structured and organized manner."

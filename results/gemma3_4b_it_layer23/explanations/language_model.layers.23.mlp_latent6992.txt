@@ -1,0 +1,1 @@
+"Texts often contain phrases that provide additional information or context, such as explanations, examples, or warnings, which are usually set apart from the main content with delimiters."

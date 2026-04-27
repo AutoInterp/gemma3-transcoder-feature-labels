@@ -1,0 +1,1 @@
+"Various types of text data, including measurements, geographical information, and written content, often containing specific keywords or phrases related to the context."

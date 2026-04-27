@@ -1,0 +1,1 @@
+"Texts often contain proper nouns, names of people, places, and organizations, which are frequently highlighted in the given examples. Additionally, the text may include quotes, references to historical events, and mentions of significant dates, which are also frequently highlighted."

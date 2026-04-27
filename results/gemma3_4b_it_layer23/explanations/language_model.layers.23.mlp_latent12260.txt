@@ -1,0 +1,1 @@
+"Texts often contain geographical locations such as lakes, rivers, and cities, which can be used to describe settings or provide context for events."

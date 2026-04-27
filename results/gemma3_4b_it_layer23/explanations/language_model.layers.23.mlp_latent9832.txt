@@ -1,0 +1,1 @@
+"Text snippets containing URLs, code, or XML data, often with specific formatting or syntax highlighting."

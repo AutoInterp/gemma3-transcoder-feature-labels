@@ -1,0 +1,1 @@
+"Text snippets from various sources, including scientific articles, Wikipedia, programming code, and legal documents, with a focus on extracting specific phrases, variable names, and domain-specific terminology."

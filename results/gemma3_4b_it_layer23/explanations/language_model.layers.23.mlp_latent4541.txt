@@ -1,0 +1,1 @@
+"HTTP status codes, specifically error codes 400, 401, 403, 404, and 500, indicating various types of errors such as bad requests, unauthorized access, forbidden access, not found, and internal server errors."

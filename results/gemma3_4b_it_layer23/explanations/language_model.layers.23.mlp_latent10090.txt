@@ -1,0 +1,1 @@
+"Technical text discussing electrical circuits, electronics, and engineering concepts, including voltage dividers, MOSFETs, and power supplies, with a focus on mathematical formulas and calculations."

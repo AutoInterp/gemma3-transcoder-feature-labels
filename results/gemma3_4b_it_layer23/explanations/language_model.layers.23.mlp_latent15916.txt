@@ -1,0 +1,1 @@
+"Technical text describing various computer networking protocols, devices, and technologies, including TCP/IP, NFC, IPv6, and USB sharing."

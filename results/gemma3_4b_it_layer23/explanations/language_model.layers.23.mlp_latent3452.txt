@@ -1,0 +1,1 @@
+"Code snippets and UI elements, including HTML, JavaScript, CSS, and various programming languages, often related to web development, user interfaces, and form handling."

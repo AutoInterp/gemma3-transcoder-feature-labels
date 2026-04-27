@@ -1,0 +1,1 @@
+"Dates in the format of year.month.day, often used as citations or references in academic or formal writing."

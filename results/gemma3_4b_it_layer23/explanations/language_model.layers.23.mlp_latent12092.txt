@@ -1,0 +1,1 @@
+"Texts discussing various encryption algorithms, password security, and authentication methods, including AES, HMAC, and multi-factor authentication, as well as password recovery and management techniques."

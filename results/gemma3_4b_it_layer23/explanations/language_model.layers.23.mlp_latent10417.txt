@@ -1,0 +1,1 @@
+"Text discussing time complexity of algorithms, specifically Big O notation, with examples of O(1), O(log n), O(n), O(n log n), and O(n^2) complexities, as well as discussions on orders of magnitude and the analysis of specific algorithms such as quicksort, heapsort, and hash join."

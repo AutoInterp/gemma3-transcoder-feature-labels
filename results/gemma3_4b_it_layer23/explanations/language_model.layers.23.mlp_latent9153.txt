@@ -1,0 +1,1 @@
+"Technical terms and concepts related to computer science, programming, and software development, including virtual machines, circuits, networks, and algorithms."

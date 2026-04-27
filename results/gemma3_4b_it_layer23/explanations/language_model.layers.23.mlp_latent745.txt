@@ -1,0 +1,1 @@
+"Various types of text, including multiple-choice questions, problem solutions, and explanations, often with specific formatting and syntax, such as using << and >> delimiters, or defining macros with #define."

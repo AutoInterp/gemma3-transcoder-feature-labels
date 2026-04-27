@@ -1,0 +1,1 @@
+"Text snippets from various programming languages, including Java, Python, JavaScript, and C#, as well as code comments and documentation."

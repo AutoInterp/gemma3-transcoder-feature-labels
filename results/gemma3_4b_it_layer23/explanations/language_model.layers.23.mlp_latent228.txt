@@ -1,0 +1,1 @@
+"Text fragments often found at the end of a document or a block of text, typically containing metadata, citations, or references."

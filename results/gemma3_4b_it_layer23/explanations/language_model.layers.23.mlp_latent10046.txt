@@ -1,0 +1,1 @@
+"SQL code snippets, including database table structures, queries, and error messages, likely from various database management systems such as MySQL, PostgreSQL, and Oracle."

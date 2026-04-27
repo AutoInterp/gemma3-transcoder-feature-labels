@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including Java, C++, Python, JavaScript, and others, with a focus on data structures, algorithms, and GUI development."

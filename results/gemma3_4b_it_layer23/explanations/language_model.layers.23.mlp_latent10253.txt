@@ -1,0 +1,1 @@
+"The token \"model\" is frequently used in the context of machine learning, statistical analysis, and mathematical modeling, often referring to a predictive or descriptive model, a data model, or a conceptual model."

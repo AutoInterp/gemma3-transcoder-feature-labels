@@ -1,0 +1,1 @@
+"Various programming-related terms, API documentation, and technical concepts, including function names, variable names, and class names, often used in the context of software development and coding."

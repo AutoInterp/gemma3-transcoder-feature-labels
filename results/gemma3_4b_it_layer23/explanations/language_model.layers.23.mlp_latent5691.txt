@@ -1,0 +1,1 @@
+"Code snippets with variable names, function calls, and conditional statements, indicating a programming language."

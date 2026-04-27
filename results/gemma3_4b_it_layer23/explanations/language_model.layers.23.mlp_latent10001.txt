@@ -1,0 +1,1 @@
+"Text primarily discussing statistical concepts, mathematical formulas, and data analysis techniques, including regression, probability distributions, and covariance matrices, with references to scientific research and academic papers."

@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are cut off due to a 3000 character limit, and phrases that express doubt or uncertainty."

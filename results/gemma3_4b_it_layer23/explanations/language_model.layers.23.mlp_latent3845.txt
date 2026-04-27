@@ -1,0 +1,1 @@
+"HTML tags and attributes used for formatting and structuring text, including semantic elements, inline elements, and block-level elements."

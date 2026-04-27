@@ -1,0 +1,1 @@
+"Addresses, phone numbers, and other contact information, often in a format that includes a street address, city, state, and zip code, as well as international locations with country codes and latitude/longitude coordinates."

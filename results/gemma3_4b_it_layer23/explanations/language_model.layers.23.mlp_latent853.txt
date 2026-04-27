@@ -1,0 +1,1 @@
+"Text fragments that appear to be cut off or truncated, often in the middle of a sentence, with low activation values for the surrounding context."

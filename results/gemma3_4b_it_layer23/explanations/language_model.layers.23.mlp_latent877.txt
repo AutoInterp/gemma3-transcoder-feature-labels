@@ -1,0 +1,1 @@
+"Code snippets and error messages from various programming languages and environments, including R, Python, and Nextjournal, with some text and URLs."

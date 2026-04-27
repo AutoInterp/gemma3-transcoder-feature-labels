@@ -1,0 +1,1 @@
+"The token \"per\" is often used in text to indicate a ratio or a rate, frequently accompanied by a unit of measurement, such as \"per hour\", \"per cent\", \"per share\", or \"per day\"."

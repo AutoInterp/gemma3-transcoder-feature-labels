@@ -1,0 +1,1 @@
+"Texts containing various types of licenses and permissions, including open-source licenses such as Apache License, MIT License, and GNU General Public License, as well as commercial licenses and copyright notices."

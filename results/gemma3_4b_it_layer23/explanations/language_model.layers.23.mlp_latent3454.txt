@@ -1,0 +1,1 @@
+"Various programming languages, data structures, and software development concepts, including object-oriented programming, XML, JSON, and debugging techniques."

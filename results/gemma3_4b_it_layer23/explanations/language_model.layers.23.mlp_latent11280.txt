@@ -1,0 +1,1 @@
+"Text describing mathematical concepts, specifically linear algebra and eigenvalue problems, with frequent mentions of matrices, vectors, and equations."

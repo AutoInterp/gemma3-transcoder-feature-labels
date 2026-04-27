@@ -1,0 +1,1 @@
+"Commands and functions for managing and listing files, directories, and system resources."

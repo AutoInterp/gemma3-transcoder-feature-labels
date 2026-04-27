@@ -1,0 +1,1 @@
+"Text snippets often appear in a format that is not a complete sentence, sometimes with a question mark or an ellipsis, and frequently contain technical or specialized vocabulary."

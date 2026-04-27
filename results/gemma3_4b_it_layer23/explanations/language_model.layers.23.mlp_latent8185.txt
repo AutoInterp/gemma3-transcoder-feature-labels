@@ -1,0 +1,1 @@
+"JSON data structures, including object properties, arrays, and nested data, often used for data exchange and configuration."

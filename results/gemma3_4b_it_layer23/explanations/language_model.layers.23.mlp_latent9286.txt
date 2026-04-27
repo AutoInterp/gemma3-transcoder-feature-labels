@@ -1,0 +1,1 @@
+"Texts that are not part of the main content, such as article titles, headings, and sidebars, often have lower activation values, indicating less importance in the overall text."

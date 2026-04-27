@@ -1,0 +1,1 @@
+"Various phrases and sentences that are likely to be extracted as metadata or used as a summary of the content, often containing key information such as phone numbers, addresses, event details, and product descriptions."

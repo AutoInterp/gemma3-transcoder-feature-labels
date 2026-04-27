@@ -1,0 +1,1 @@
+"Various types of text data, including URLs, phone numbers, addresses, product information, and academic references, often with a lack of coherent narrative or meaningful patterns."

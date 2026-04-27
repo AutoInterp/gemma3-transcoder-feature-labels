@@ -1,0 +1,1 @@
+"Numbers and dates often appear in the format of year-month-day or year-month, sometimes with a hyphen or a slash, and are frequently used as references or citations."

@@ -1,0 +1,1 @@
+"Texts often contain long, complex sentences or phrases that are enclosed in delimiters, which appear to be explanations, descriptions, or examples. These enclosed texts are often related to scientific or technical topics, and their activations are generally low, suggesting that they are not crucial to the main text's meaning."

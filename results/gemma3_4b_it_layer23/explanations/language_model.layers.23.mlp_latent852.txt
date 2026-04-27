@@ -1,0 +1,1 @@
+"Text primarily consists of mathematical concepts and terminology, with a focus on abstract algebra, linear algebra, and topology. The language is formal and technical, with frequent use of symbols, equations, and mathematical notation."

@@ -1,0 +1,1 @@
+"Text snippets from various programming languages, documentation, and configuration files, often containing code snippets, variable names, function calls, and comments."

@@ -1,0 +1,1 @@
+"Phrases and sentences that are often found in error messages, technical descriptions, or explanations, typically indicating a problem or a solution, and often containing specific details about a device, system, or process."

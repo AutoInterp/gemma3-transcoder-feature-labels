@@ -1,0 +1,1 @@
+"Various file formats and extensions, including image files (.jpg, .png), document files (.pdf, .doc), and executable files (.exe), as well as programming-related terms and file types (.msh, .mixal, .nuspec, .vbs)."

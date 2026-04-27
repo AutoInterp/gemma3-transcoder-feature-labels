@@ -1,0 +1,1 @@
+"Text snippets containing numerical data, technical information, and programming code, often found in documentation, tutorials, and technical articles."

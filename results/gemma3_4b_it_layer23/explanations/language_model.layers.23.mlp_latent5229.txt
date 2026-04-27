@@ -1,0 +1,1 @@
+"Text snippets often appear between delimiters, which may indicate a quote, a reference, or a separate section of text. These snippets can be from various sources, including books, articles, or online content, and may be used to provide additional information, context, or examples."

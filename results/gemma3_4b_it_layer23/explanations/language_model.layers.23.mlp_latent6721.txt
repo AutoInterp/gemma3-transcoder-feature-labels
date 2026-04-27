@@ -1,0 +1,1 @@
+"CIDR block range refers to a method of representing IP addresses in a more compact and flexible way, allowing for more efficient routing and addressing. It involves specifying a network prefix length, which determines the number of bits in the IP address that are used to identify the network, and the remaining bits that identify the host."

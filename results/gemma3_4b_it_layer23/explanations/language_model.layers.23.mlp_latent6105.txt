@@ -1,0 +1,1 @@
+"Street addresses and locations, often with additional information such as phone numbers, hours of operation, and event details."

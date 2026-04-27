@@ -1,0 +1,1 @@
+"The token \"cold\" and its variants (\"colder\", \"coldest\") are used to describe temperature, while the token \"hot\" and its variants (\"hotter\", \"hottest\") are used to describe temperature, heat, or intensity."

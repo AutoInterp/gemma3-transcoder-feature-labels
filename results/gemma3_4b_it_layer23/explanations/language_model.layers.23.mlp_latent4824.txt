@@ -1,0 +1,1 @@
+"The token \"boot\" and its variants (\"booting\", \"booted\", \"bootable\", \"bootstrapper\", \"bootloader\") are used in various contexts, including computer science (booting an operating system, bootable CD, bootloader), finance (bootstrapping a business), and everyday language (getting a leg up, starting something from scratch)."

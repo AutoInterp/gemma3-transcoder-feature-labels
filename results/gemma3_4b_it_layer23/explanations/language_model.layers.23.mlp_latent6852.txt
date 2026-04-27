@@ -1,0 +1,1 @@
+"Texts containing hex color codes, often accompanied by RGB or decimal representations, and sometimes used in CSS or HTML code."

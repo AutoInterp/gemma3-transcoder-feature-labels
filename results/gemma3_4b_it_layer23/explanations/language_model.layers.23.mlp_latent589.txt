@@ -1,0 +1,1 @@
+"Text snippets often contain technical or specialized information, such as programming code, scientific terminology, or instructions, which are frequently highlighted or emphasized through formatting, indentation, or surrounding text."

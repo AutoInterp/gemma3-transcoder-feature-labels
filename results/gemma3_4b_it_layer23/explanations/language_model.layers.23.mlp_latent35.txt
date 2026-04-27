@@ -1,0 +1,1 @@
+"Text snippets often appear in a format that seems to be a continuation of a larger text, but is actually a standalone excerpt, sometimes with a title or a heading, and sometimes with a code snippet or a mathematical expression. These excerpts often lack context and appear to be randomly selected from a larger text."

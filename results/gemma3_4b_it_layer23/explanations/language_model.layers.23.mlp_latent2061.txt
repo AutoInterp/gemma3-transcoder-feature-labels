@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including SQL, Pascal, Delphi, C, C++, Java, and others, highlighting specific syntax, data types, and functions."

@@ -1,0 +1,1 @@
+"Scientific article metadata and references, including DOIs, PubMed IDs, and author information."

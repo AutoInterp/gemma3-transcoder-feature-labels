@@ -1,0 +1,1 @@
+"Dates in the format of day, month, year, and sometimes day of the week, often used as article titles or publication dates."

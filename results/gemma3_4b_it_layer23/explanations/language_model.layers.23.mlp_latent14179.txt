@@ -1,0 +1,1 @@
+"Texts often contain numerical values, such as amounts of money, percentages, and numbers of people, which are frequently used to convey information about quantities, costs, or statistics."

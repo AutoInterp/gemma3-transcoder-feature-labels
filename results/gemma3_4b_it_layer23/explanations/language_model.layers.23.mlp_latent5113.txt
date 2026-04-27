@@ -1,0 +1,1 @@
+"The token \"log\" and its variants (\"logged\", \"logging\") are often associated with user authentication and session management, indicating actions related to user login and logout."

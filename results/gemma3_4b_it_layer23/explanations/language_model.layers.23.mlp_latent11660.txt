@@ -1,0 +1,1 @@
+"Texts often contain titles, subtitles, and section headers, which are typically denoted by a specific format, such as a colon or a dash, and are usually followed by a brief description."

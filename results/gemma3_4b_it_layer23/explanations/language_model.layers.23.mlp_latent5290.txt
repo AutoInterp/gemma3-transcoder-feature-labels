@@ -1,0 +1,1 @@
+"A large number of examples contain addresses, primarily in the format of \"City, Country\" or \"City, State, Country\", often with a specific format for postal codes and street names."

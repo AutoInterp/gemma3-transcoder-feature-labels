@@ -1,0 +1,1 @@
+"Code snippets from various programming languages and database queries, often containing function or method names, variable names, and data types."

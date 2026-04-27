@@ -1,0 +1,1 @@
+"Texts often contain mathematical and technical terminology, and various types of equations and formulas, frequently involving linear algebra, operator spaces, and trigonometric functions."

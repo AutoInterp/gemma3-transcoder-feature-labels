@@ -1,0 +1,1 @@
+"Text describing various cryptographic concepts, algorithms, and techniques, including encryption modes (e.g. AES, CBC, CFB), hash functions (e.g. MD5, SHA), and digital signatures, as well as cryptocurrency-related topics such as blockchain, mining, and wallets."

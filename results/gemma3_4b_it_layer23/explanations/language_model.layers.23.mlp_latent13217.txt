@@ -1,0 +1,1 @@
+"Texts containing long phrases or sentences that are contained within delimiters, often indicating a quote, a citation, or a parenthetical remark."

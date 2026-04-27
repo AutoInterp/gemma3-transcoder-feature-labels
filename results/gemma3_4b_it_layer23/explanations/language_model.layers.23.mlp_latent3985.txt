@@ -1,0 +1,1 @@
+"Various types of text data, including product information, prices, phone numbers, email addresses, URLs, and promotional codes, often found in online advertisements, product descriptions, and business listings."

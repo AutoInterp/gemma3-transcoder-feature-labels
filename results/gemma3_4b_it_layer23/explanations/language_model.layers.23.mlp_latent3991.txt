@@ -1,0 +1,1 @@
+"Various numerical values and codes, including dates, times, measurements, and IDs, often in the context of technical or scientific information."

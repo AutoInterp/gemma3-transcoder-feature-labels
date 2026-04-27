@@ -1,0 +1,1 @@
+"Technical text describing various concepts and technologies, including computer vision, image processing, and computer graphics, with a focus on mathematical and algorithmic explanations."

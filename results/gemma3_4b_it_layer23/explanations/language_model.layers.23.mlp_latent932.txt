@@ -1,0 +1,1 @@
+"HTML and JavaScript code snippets with variable names and function calls, often related to UI components and styling."

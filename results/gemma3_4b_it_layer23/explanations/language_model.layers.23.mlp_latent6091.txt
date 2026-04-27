@@ -1,0 +1,1 @@
+"Numbers representing decimal values, often used for fractions, percentages, or ratios, frequently appearing in mathematical or scientific contexts."

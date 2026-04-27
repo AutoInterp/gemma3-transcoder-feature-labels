@@ -1,0 +1,1 @@
+"Texts containing technical information, such as software releases, configuration files, and programming languages, often with specific version numbers and technical details."

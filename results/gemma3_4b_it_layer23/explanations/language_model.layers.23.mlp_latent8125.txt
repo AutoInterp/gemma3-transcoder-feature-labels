@@ -1,0 +1,1 @@
+"The token \"closed\" is often used to describe a state or condition, such as a closed door, a closed loop, or a closed book, while the token \"open\" is used to describe a state of accessibility or availability, such as an open-air setting, an open wound, or an open book."

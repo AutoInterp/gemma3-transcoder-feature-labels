@@ -1,0 +1,1 @@
+"Texts containing various types of data, including numerical values, percentages, RGB and CMYK color codes, and mathematical equations, often in the context of scientific or technical descriptions."

@@ -1,0 +1,1 @@
+"Texts discussing various programming concepts, data structures, algorithms, and mathematical formulas, often with a focus on problem-solving and optimization."

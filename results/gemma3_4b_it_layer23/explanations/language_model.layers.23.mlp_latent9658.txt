@@ -1,0 +1,1 @@
+"Numbers and fractions representing various quantities, such as percentages, probabilities, and measurements, often in scientific or technical contexts."

@@ -1,0 +1,1 @@
+"Various numerical values and resolutions, often related to display or video settings, such as pixel dimensions, frame rates, and panel specifications."

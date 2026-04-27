@@ -1,0 +1,1 @@
+"Database schema for e-commerce platform, including tables for shops, commodities, orders, comments, and users, with foreign keys referencing relationships between tables."

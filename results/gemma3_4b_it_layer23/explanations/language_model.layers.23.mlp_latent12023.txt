@@ -1,0 +1,1 @@
+"Various types of text, including dates, times, addresses, phone numbers, and mathematical expressions, often appearing in a format that is easily machine-readable."

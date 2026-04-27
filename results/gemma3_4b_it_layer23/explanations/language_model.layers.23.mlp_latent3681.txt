@@ -1,0 +1,1 @@
+"HTML and programming code snippets with varying levels of structure and syntax, including comments, function definitions, and variable declarations."

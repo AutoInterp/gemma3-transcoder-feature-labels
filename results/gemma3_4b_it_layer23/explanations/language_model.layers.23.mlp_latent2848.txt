@@ -1,0 +1,1 @@
+"SQL code snippets and database-related discussions, including database operations, data types, and error handling."

@@ -1,0 +1,1 @@
+"Various numerical values and units, including measurements in inches, feet, meters, kilograms, and pounds, as well as monetary values in pounds and dollars."

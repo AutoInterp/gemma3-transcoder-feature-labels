@@ -1,0 +1,1 @@
+"Various types of text, including articles, essays, and code snippets, with a focus on extracting specific information such as activation values, which appear to be related to natural language processing or machine learning tasks."

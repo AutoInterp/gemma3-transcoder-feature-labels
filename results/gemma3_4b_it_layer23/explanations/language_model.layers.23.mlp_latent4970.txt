@@ -1,0 +1,1 @@
+"The token \"closed\" or \"open\" is used to describe a state of accessibility, availability, or restriction, often in the context of physical spaces, social connections, or information."

@@ -1,0 +1,1 @@
+"Text fragments that appear to be standalone articles, blog posts, or excerpts, often with a formal or technical tone, and sometimes including code snippets or mathematical expressions."

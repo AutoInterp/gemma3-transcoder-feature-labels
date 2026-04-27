@@ -1,0 +1,1 @@
+"Various types of data, including numerical values, percentages, URLs, and text descriptions, often accompanied by metadata such as dates, times, and citations."

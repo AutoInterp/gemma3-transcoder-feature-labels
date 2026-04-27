@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, showing examples of variable declarations, function calls, and data types, as well as object-oriented programming concepts such as inheritance and dependency inversion."

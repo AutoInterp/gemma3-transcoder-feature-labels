@@ -1,0 +1,1 @@
+"Various programming and technical terms, including API keys, client secrets, TCP connections, HTTP requests, and server configurations, as well as general technical concepts such as debugging, logging, and data storage."

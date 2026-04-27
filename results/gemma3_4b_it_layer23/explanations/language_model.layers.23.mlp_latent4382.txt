@@ -1,0 +1,1 @@
+"Texts from various domains, including technical documentation, articles, and conversations, with a focus on extracting specific phrases, sentences, or code snippets. The patterns found include code snippets in programming languages, technical terms and jargon, and informal language used in conversations."

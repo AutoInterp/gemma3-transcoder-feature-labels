@@ -1,0 +1,1 @@
+"Various system commands, error messages, and technical instructions, often related to troubleshooting and configuration of software and hardware systems."

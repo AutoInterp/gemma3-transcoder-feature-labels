@@ -1,0 +1,1 @@
+"The token \"something\" is used to indicate a problem or an issue that has occurred, often followed by a description of what went wrong or what needs to be fixed."

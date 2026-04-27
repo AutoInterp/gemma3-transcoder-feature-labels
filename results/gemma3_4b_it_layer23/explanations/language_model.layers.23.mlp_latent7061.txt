@@ -1,0 +1,1 @@
+"Text discussing modal logic, a branch of logic that deals with possibility and necessity, and its applications in mathematics, computer science, and philosophy."

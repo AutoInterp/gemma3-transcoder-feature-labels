@@ -1,0 +1,1 @@
+"Code snippets and programming concepts, including variable declarations, conditional statements, loops, and functions, often in the context of specific programming languages such as PHP, Python, and C++."

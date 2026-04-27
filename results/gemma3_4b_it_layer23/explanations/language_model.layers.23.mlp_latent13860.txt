@@ -1,0 +1,1 @@
+"Texts containing proper nouns, names of people, places, and organizations, often used to provide context and identify key entities."

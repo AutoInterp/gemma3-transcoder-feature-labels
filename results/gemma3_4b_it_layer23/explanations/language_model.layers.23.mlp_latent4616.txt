@@ -1,0 +1,1 @@
+"The token \"Yes\" or \"yes\" is often used as a response to a question, and the token \"no\" or \"No\" is often used to indicate a negative response."

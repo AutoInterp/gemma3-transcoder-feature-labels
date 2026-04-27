@@ -1,0 +1,1 @@
+"Text snippets containing scientific or technical information, often from academic or research papers, and code snippets from programming languages, including R and JavaScript."

@@ -1,0 +1,1 @@
+"Text snippets often contain URLs, citations, or references, which are frequently denoted by specific patterns such as \"PMC\", \"PMID\", or \"DOI\"."

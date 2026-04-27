@@ -1,0 +1,1 @@
+"Various types of text, including articles, instructions, and quotes, often with dates and times, and sometimes with URLs or database queries."

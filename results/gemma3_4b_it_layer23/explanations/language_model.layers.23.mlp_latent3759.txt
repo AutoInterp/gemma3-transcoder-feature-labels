@@ -1,0 +1,1 @@
+"The concept of output in various contexts, including computer programming, data processing, and scientific research, referring to the result or product of a process, often in the form of a file, stream, or value."

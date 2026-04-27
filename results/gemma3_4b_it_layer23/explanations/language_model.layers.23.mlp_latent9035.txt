@@ -1,0 +1,1 @@
+"A collection of geographical locations, primarily in the United Kingdom, listed with their respective addresses and activation values indicating the importance of the location in the context."

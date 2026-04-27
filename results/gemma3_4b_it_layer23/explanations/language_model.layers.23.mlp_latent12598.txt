@@ -1,0 +1,1 @@
+"Technical documentation and tutorials on software and hardware installation, troubleshooting, and configuration, often involving Linux and various programming languages."

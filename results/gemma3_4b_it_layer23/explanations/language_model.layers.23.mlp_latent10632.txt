@@ -1,0 +1,1 @@
+"Texts containing various types of links, including URLs, download links, and image sources, often accompanied by activation values for specific tokens such as image file names, alt tags, and URLs."

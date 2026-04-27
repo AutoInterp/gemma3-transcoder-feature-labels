@@ -1,0 +1,1 @@
+"Text contains various geographical and temporal information, including coordinates, dates, times, and measurements, often in a format that is a mix of numerical and descriptive values."

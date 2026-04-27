@@ -1,0 +1,1 @@
+"Text fragments often appear to be unrelated to the surrounding content, possibly indicating a transition to a new topic, a link, or a citation."

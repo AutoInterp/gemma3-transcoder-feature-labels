@@ -1,0 +1,1 @@
+"Text discussing linear concepts, including linear regression, linear algebra, linear foot, and linearity in various contexts, such as statistics, geometry, and philosophy."

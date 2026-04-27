@@ -1,0 +1,1 @@
+"Text snippets that are likely to be comments, explanations, or additional information, often providing context or background, and sometimes containing idioms or phrases that are not essential to the main text."

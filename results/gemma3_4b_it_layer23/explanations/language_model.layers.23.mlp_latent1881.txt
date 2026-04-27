@@ -1,0 +1,1 @@
+"Various text snippets, often containing specific information, references, or quotes, are frequently found at the beginning or end of paragraphs, sometimes with a low activation value, indicating they may be less relevant to the main content."

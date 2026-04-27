@@ -1,0 +1,1 @@
+"Technical documentation and programming code snippets, often with specific formatting and syntax highlighting, describing various software, hardware, and networking concepts."

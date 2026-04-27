@@ -1,0 +1,1 @@
+"Various phrases and sentences that are likely to be boilerplate text, such as legal disclaimers, copyright notices, and function definitions in code."

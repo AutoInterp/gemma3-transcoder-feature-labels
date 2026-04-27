@@ -1,0 +1,1 @@
+"Technical documentation and programming guides, often discussing algorithms, data structures, and software development best practices."

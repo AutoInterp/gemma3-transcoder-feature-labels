@@ -1,0 +1,1 @@
+"Texts often contain titles, headings, and other metadata, which are frequently denoted by phrases such as \"Title:\", \"Description of\", \"Benefits and Practical Use\", and \"How To\". These phrases are often followed by a brief summary or explanation of the content that follows."

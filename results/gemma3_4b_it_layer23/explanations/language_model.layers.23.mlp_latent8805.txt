@@ -1,0 +1,1 @@
+"Text describing technical specifications, measurements, and comparisons, often involving time units such as minutes, seconds, and hours."

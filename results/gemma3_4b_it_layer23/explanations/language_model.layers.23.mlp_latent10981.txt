@@ -1,0 +1,1 @@
+"Strings containing special characters such as escape sequences, backticks, dollar signs, and angle brackets, often used for programming, shell commands, or XML/HTML markup."

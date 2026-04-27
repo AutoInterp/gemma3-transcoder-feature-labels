@@ -1,0 +1,1 @@
+"Dates and times, often in 24-hour format, frequently appearing in the context of scheduling or events."

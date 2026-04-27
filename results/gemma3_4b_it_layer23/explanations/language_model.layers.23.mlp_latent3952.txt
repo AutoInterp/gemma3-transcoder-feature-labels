@@ -1,0 +1,1 @@
+"Various fragments of text, often from news articles, websites, and social media, with a focus on specific keywords and phrases, likely used for sentiment analysis or topic modeling."

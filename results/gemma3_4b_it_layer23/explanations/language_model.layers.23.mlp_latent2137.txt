@@ -1,0 +1,1 @@
+"Texts often contain specific numbers, such as years, quantities, or amounts, which serve as important contextual information."

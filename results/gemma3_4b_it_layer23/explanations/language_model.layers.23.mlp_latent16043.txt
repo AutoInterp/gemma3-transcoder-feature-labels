@@ -1,0 +1,1 @@
+"Texts containing configuration files, installation instructions, and system administration commands, often referencing specific directories and file paths."

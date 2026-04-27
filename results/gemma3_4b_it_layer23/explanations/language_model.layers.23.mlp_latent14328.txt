@@ -1,0 +1,1 @@
+"Text fragments often appear at the beginning or end of a paragraph, typically containing product information, instructions, or disclaimers, and are frequently followed by a period or other punctuation."

@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including SQL, Java, and XML, with some text and comments in between. The code is often surrounded by delimiters, and the text is sometimes used to explain the purpose of the code or provide additional information."

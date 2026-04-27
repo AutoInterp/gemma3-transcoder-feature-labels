@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including JSON, Python, JavaScript, Java, C++, and SQL, with a focus on data structures, functions, and database operations."

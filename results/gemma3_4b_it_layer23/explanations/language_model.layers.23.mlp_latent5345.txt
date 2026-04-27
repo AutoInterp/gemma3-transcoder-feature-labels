@@ -1,0 +1,1 @@
+"The token \"Figure\" is used to label and reference visual representations of data, such as graphs, charts, and diagrams, within a text."

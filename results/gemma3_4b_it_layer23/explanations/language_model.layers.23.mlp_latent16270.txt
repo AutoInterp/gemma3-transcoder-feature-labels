@@ -1,0 +1,1 @@
+"Text snippets containing unique identifiers, such as long numbers, names, and URLs, often appearing as activation peaks in the given examples."

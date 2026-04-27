@@ -1,0 +1,1 @@
+"Texts often contain questions, answers, and discussions, frequently including phrases like \"The answer is\", \"In answer to\", or \"Answer: \", indicating a Q&A format."

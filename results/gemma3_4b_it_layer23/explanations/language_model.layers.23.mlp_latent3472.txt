@@ -1,0 +1,1 @@
+"Texts containing technical or formal language, including legal, scientific, and technical terms, as well as URLs, email addresses, and file extensions."

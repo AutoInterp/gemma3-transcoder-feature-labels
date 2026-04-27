@@ -1,0 +1,1 @@
+"Various types of text data, including news articles, blog posts, and survey information, with a focus on dates, locations, and numerical values."

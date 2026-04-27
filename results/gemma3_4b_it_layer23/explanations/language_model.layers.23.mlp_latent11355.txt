@@ -1,0 +1,1 @@
+"Text fragments that are not complete sentences, often containing a mix of information, such as article titles, abstracts, or excerpts, and sometimes including metadata or citations."

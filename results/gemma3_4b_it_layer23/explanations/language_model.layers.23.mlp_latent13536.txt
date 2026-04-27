@@ -1,0 +1,1 @@
+"Time durations, typically in hours, minutes, or seconds, used to describe various processes, events, or waiting periods."

@@ -1,0 +1,1 @@
+"Text contains a mix of various data types, including HTML, SQL, JavaScript, and plain text, with a focus on technical and programming-related content, as well as snippets of articles and conversations."

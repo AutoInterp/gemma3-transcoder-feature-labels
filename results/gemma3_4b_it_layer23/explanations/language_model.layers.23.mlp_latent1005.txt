@@ -1,0 +1,1 @@
+"Texts discussing various programming languages, frameworks, and technologies, including Java, PHP, JavaScript, Node.js, MEAN Stack, and others, with a focus on their features, applications, and comparisons."

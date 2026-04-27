@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including Java, C++, JavaScript, and PHP, with comments and documentation in English and other languages, such as Persian."

@@ -1,0 +1,1 @@
+"Various types of text, including articles, research papers, and programming code, with a focus on extracting and analyzing specific phrases, sentences, or code snippets."

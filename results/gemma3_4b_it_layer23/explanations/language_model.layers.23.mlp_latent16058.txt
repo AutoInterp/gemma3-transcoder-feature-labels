@@ -1,0 +1,1 @@
+"Various types of text data, including scientific articles, financial reports, and news articles, with a mix of numerical data, citations, and descriptive text."

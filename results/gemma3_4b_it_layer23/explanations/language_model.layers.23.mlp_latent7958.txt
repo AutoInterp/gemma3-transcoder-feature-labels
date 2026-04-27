@@ -1,0 +1,1 @@
+"Code snippets in programming languages, often in C# or other languages, and mathematical expressions or formulas, frequently in the context of explaining concepts or providing examples."

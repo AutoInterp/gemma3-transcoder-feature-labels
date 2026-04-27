@@ -1,0 +1,1 @@
+"Code snippets and commands in various programming languages, often with specific syntax and formatting, and sometimes with error messages or debugging information."

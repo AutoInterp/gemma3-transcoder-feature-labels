@@ -1,0 +1,1 @@
+"Various programming-related terms and concepts, including function names, variable names, class names, and data types, often used in the context of software development and coding."

@@ -1,0 +1,1 @@
+"Texts containing geographical locations, such as city names, streets, and neighborhoods, often used as context for describing events or situations."

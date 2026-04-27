@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including function definitions, method implementations, and class declarations, often containing variable and function names, data types, and control flow statements."

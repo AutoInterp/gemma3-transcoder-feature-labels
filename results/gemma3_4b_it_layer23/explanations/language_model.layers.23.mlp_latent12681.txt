@@ -1,0 +1,1 @@
+"Text snippets often contain irrelevant or extraneous information, such as programming code, URLs, or unrelated text, which are not crucial to the main content."

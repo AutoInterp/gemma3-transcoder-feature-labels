@@ -1,0 +1,1 @@
+"The token \"green\" is used to represent approval or permission, while the token \"red\" is used to represent disapproval or warning."

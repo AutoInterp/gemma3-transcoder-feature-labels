@@ -1,0 +1,1 @@
+"HTML and JavaScript code snippets, primarily related to web development, including Kendo UI components, CSS styles, and code snippets for various programming languages."

@@ -1,0 +1,1 @@
+"Text snippets containing technical information, such as programming code, system specifications, and data formats, often accompanied by citations, references, or activation values."

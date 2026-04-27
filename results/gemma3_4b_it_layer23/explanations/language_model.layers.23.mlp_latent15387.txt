@@ -1,0 +1,1 @@
+"Text fragments often contain URLs, citations, or references, which are frequently marked with delimiters, and sometimes accompanied by activation values indicating their importance."

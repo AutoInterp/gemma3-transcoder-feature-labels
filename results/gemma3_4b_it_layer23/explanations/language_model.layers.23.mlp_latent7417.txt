@@ -1,0 +1,1 @@
+"Various programming and technical terms, including file paths, system commands, and hardware specifications, often found in documentation and tutorials."

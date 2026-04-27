@@ -1,0 +1,1 @@
+"Text fragments often appear at the end of a sentence or paragraph, sometimes containing a reference, a link, or a code snippet, and are frequently followed by a newline character or a closing tag."

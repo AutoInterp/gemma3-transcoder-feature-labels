@@ -1,0 +1,1 @@
+"Texts often contain proper nouns, geographic locations, and names of people, organizations, and events, which are frequently used to provide context and identify specific entities."

@@ -1,0 +1,1 @@
+"Texts containing titles of books, movies, and articles, as well as proper nouns referring to people, places, and organizations."

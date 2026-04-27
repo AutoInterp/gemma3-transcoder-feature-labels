@@ -1,0 +1,1 @@
+"Various types of data and information, including geographical coordinates, financial data, technical specifications, and text descriptions, often with a focus on numerical values and units."

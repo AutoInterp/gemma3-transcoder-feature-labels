@@ -1,0 +1,1 @@
+"Various scientific and technical references, including academic articles, research papers, and book citations, often with DOI or PMID numbers, and sometimes accompanied by activation values for specific strings."

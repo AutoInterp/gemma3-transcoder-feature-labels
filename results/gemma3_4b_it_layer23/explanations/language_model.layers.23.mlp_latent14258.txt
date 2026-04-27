@@ -1,0 +1,1 @@
+"Texts containing time-related information, such as minutes, hours, and seconds, often used to describe durations, schedules, or events."

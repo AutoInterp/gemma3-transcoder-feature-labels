@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including Java, Spring, AspectJ, Android, and others, with a focus on annotations, interfaces, and class definitions."

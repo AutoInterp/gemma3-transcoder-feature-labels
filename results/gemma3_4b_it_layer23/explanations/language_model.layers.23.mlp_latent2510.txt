@@ -1,0 +1,1 @@
+"Code snippets and configuration files from various programming languages and frameworks, including Python, Java, C#, and JavaScript, often containing comments, function definitions, and variable declarations."

@@ -1,0 +1,1 @@
+"Various programming-related terms and concepts, including function names, variable names, data types, and function parameters, often used in the context of C++ and other programming languages."

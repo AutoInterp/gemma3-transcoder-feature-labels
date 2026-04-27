@@ -1,0 +1,1 @@
+"Texts often contain mathematical equations, formulas, and scientific concepts, frequently accompanied by figures and tables, and sometimes accompanied by code snippets from programming languages."

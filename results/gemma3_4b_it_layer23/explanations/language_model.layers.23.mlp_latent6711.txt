@@ -1,0 +1,1 @@
+"The token \"first-come, first-served\" is a common phrase used to describe a system where resources are allocated based on the order of arrival, often in a limited capacity."

@@ -1,0 +1,1 @@
+"Texts often contain specific phrases or sentences that are likely to be the end of a document or a section, such as \"Activations: (\"end.\" : 1)\" or \"Activations: (\"end\" : 1)\". These phrases are often followed by a period or a newline character, indicating the end of a document or a section."

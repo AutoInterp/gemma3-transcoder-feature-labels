@@ -1,0 +1,1 @@
+"Various programming-related terms and concepts, including function calls, variable assignments, data types, and error handling, as well as technical descriptions of software features and functionality."

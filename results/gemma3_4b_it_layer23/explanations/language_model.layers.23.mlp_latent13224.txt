@@ -1,0 +1,1 @@
+"Texts from various domains, including technical documentation, programming code, and academic papers, often contain mathematical and logical expressions, variable names, and function calls, which are frequently used in conjunction with special characters and symbols."

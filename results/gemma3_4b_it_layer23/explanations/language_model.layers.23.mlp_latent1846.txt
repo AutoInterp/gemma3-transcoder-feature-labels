@@ -1,0 +1,1 @@
+"Dates and temperatures in degrees Celsius or Fahrenheit, often used in scientific or weather-related contexts."

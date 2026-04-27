@@ -1,0 +1,1 @@
+"Java code snippets, primarily annotations and method definitions, from various frameworks such as Spring, JUnit, and Retrofit, showcasing different programming concepts and best practices."

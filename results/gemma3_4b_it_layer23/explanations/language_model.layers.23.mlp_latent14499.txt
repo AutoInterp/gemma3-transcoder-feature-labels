@@ -1,0 +1,1 @@
+"Technical text discussing various computer networking concepts, protocols, and security measures, including TCP, HTTP, encryption, and network architecture."

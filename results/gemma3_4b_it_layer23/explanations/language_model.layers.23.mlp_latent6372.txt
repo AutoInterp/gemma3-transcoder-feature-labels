@@ -1,0 +1,1 @@
+"Various numerical values, including integers, decimal numbers, and timestamps, often used in technical or scientific contexts."

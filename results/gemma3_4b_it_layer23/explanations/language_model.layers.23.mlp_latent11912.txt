@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, primarily Java, JavaScript, and Spring, related to web development, including servlets, sessions, cookies, and authentication."

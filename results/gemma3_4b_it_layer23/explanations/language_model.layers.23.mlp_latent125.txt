@@ -1,0 +1,1 @@
+"Text snippets often contain URLs, article titles, and other external links, indicating a tendency towards information sharing and referencing external sources."

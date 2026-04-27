@@ -1,0 +1,1 @@
+"Various types of text, including addresses, phone numbers, URLs, and other forms of data, often appearing in a structured format."

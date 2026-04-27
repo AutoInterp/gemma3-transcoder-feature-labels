@@ -1,0 +1,1 @@
+"The token \"link\" is often used to describe a connection to an external resource, such as a website, article, or document, and is frequently used in conjunction with verbs like \"click\", \"find\", or \"follow\" to direct the user to the resource."

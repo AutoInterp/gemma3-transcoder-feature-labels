@@ -1,0 +1,1 @@
+"Various types of text fragments, including URLs, email addresses, phone numbers, citations, and links, often found at the end of a paragraph or section."

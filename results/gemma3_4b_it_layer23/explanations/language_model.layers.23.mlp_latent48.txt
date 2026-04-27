@@ -1,0 +1,1 @@
+"Texts often contain a sequence of words or phrases that are not directly related to the main topic, but rather serve as a transition or a break in the narrative, often marked by a delimiter such as \"eos\" or a sentence fragment. These sequences may include titles, subtitles, or other metadata, and are often used to separate different sections or ideas within a larger text."

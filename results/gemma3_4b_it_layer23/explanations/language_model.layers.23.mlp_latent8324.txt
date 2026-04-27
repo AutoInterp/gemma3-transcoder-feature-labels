@@ -1,0 +1,1 @@
+"URLs, file paths, and commands often found in programming and technical documentation."

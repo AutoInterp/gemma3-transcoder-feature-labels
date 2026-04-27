@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, primarily Java and JavaScript, containing test cases, assertions, and mocking frameworks, often related to testing and verification of software functionality."

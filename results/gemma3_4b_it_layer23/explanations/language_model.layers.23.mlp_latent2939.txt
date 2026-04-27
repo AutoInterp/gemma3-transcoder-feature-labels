@@ -1,0 +1,1 @@
+"Instructions and tutorials often contain imperative verbs and phrases such as \"click\", \"press\", \"select\", and \"type\" to guide the user through a series of steps."

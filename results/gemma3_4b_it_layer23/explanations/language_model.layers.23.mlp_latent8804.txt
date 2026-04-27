@@ -1,0 +1,1 @@
+"Texts often contain dates, names of people or places, and specific events or activities, which are frequently mentioned in conjunction with other words like \"year\", \"day\", \"month\", \"hour\", \"place\", \"event\", etc. Additionally, there are instances of idiomatic expressions, quotes, and phrases used to convey emotions or opinions."

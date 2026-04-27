@@ -1,0 +1,1 @@
+"Code snippets from various programming languages and frameworks, primarily showcasing object-oriented design principles, dependency inversion, and other software development concepts."

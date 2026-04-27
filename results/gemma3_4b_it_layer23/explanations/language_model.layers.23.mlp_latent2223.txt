@@ -1,0 +1,1 @@
+"Texts from various sources, including academic papers, news articles, and online content, with a focus on extracting specific phrases or words. The extracted phrases often appear to be titles, names, or key terms, and are frequently accompanied by activation values indicating their importance in the text."

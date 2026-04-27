@@ -1,0 +1,1 @@
+"Various programming and markup languages, including XML, HTML, MathML, and JSON, with a focus on syntax and structure."

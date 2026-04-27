@@ -1,0 +1,1 @@
+"Code snippets and programming concepts, including function definitions, database queries, and API calls, often with comments and explanations."

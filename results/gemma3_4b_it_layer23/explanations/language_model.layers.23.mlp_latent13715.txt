@@ -1,0 +1,1 @@
+"Texts often contain phrases that are not directly related to the main topic, but provide additional context or information, such as side notes, explanations, or references. These phrases are often marked by a low activation score, indicating that they are not crucial to the main narrative."

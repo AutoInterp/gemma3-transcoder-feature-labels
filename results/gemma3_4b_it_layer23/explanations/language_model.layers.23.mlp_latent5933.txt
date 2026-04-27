@@ -1,0 +1,1 @@
+"Texts often contain phrases that describe a relationship between two entities, such as a comparison, a location, or a partnership, and phrases that describe a process or a goal, such as a recommendation, a survey, or a development."

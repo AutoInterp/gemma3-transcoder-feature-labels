@@ -1,0 +1,1 @@
+"Texts often contain quotes, titles, and names of people, places, and organizations, which are frequently mentioned in a non-technical context."

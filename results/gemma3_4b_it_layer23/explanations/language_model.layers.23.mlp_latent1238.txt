@@ -1,0 +1,1 @@
+"Paths to files or directories, often used in code or programming contexts, and sometimes used to describe locations or settings."

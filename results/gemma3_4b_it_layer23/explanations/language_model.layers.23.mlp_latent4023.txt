@@ -1,0 +1,1 @@
+"Various types of numerical data, including numbers, dates, and mathematical expressions, often appearing in the context of technical or scientific writing."

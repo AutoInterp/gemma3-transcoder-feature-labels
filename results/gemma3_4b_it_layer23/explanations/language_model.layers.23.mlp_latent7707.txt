@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including comments, function definitions, and error messages, often containing keywords and syntax specific to each language."

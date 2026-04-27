@@ -1,0 +1,1 @@
+"Various color codes and color names in hexadecimal, RGB, and CMYK formats, often used to describe colors in different contexts, such as design, art, and digital displays."

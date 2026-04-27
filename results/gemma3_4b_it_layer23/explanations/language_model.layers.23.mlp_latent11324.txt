@@ -1,0 +1,1 @@
+"URLs, email addresses, and other specific types of text that are often used for referencing or linking to external resources."

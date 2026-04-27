@@ -1,0 +1,1 @@
+"Various types of text boundaries, such as paragraph breaks, section headers, and article endings, denoted by special characters or phrases."

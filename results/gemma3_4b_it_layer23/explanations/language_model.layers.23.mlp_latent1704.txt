@@ -1,0 +1,1 @@
+"Code snippets and programming-related text, including configuration files, error messages, and explanations of programming concepts and techniques."

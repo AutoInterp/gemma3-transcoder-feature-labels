@@ -1,0 +1,1 @@
+"Texts containing numerical values representing speeds, frequencies, and other physical quantities, often used in technical or scientific contexts."

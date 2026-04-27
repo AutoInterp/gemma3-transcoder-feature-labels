@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including C, C++, Python, and Rust, with a focus on mathematical and scientific computations, data analysis, and algorithm implementation."

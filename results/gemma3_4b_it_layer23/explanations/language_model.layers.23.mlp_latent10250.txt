@@ -1,0 +1,1 @@
+"Various programming languages and database management systems, including SQL, C++, JavaScript, Python, and CMake, with a focus on syntax and configuration files."

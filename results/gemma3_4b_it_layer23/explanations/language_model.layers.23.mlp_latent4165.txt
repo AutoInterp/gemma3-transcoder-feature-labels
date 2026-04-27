@@ -1,0 +1,1 @@
+"Text fragments containing special characters, formatting, and code snippets, often indicating a transition to a different context, such as a quote, a code block, or a link."

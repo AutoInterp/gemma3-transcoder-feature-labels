@@ -1,0 +1,1 @@
+"Various tokens and phrases related to time and date, including \"created_at\", \"updated_at\", and \"at\"."

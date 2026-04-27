@@ -1,0 +1,1 @@
+"Technical text with various programming concepts, protocols, and algorithms. The text features a mix of formal language, mathematical notation, and informal explanations, often referencing specific authors, papers, or implementations."

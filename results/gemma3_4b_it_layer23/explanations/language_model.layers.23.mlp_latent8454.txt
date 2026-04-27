@@ -1,0 +1,1 @@
+"Various numerical values, including hexadecimal codes, binary numbers, and decimal values, often representing colors, codes, or data."

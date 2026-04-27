@@ -1,0 +1,1 @@
+"Various numerical values, dates, and times, often representing measurements, quantities, or specific points in time."

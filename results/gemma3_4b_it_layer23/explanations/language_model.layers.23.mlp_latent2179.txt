@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that provide additional information or context, such as event details, location descriptions, or explanations, which are frequently found after a call to action or a statement, often preceded by a verb like \"created\", \"includes\", \"offers\", \"has\", or \"planning\"."

@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are separated by special characters such as <eos> or </eos> indicating the end of a section or a new paragraph. These characters are often followed by a title or a heading, and sometimes a link or a call to action."

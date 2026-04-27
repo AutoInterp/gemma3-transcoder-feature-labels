@@ -1,0 +1,1 @@
+"Various types of text data, including scientific and technical information, URLs, phone numbers, email addresses, and social media handles, often appearing in a format that is not typical of natural language."

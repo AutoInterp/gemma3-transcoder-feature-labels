@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are not essential to the main content, but provide additional information, context, or links to external resources. These phrases can be found at the end of a paragraph, often preceding a link or a citation, and are typically marked by a transition word or phrase, such as \"for more information\" or \"see http://...\"."

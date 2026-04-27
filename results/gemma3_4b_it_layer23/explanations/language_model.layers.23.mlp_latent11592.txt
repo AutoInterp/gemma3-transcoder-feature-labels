@@ -1,0 +1,1 @@
+"Text contains a mix of English and non-English characters, including Cyrillic and special characters, often used in programming and technical contexts."

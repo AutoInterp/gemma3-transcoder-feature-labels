@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including C, C++, and SQL, with some text from articles and books. The code is often used to illustrate a point or provide context, but the text itself is not the primary focus."

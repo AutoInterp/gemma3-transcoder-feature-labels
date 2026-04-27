@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, highlighting the structure and syntax of main functions, classes, and methods, as well as the use of keywords and identifiers such as \"main\", \"main thread\", and \"main menu\"."

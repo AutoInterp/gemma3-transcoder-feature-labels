@@ -1,0 +1,1 @@
+"Various snippets of text, including code, data, and written content, often with specific formatting or syntax, such as SQL queries, programming code, and domain name system (DNS) records."

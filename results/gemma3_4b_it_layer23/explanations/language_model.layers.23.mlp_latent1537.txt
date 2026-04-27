@@ -1,0 +1,1 @@
+"Numbers representing measurements of area, distance, population, and elevation, often used in geographical and statistical contexts."
