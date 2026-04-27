@@ -1,0 +1,1 @@
+"Text containing HTML tags, LaTeX code, and programming syntax, often used to format and display mathematical equations, code snippets, and other technical information."

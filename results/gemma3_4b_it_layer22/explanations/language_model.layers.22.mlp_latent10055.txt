@@ -1,0 +1,1 @@
+"The token \"site\" appears frequently in the context of web development, referring to a website or its various components, such as design, administration, and functionality."

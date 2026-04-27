@@ -1,0 +1,1 @@
+"Comments in code, often containing explanations, descriptions, or notes about the functionality of the code."

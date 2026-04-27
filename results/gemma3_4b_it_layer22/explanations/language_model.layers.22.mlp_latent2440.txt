@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including C, C++, and MATLAB, with a focus on mathematical and scientific computations, such as linear algebra, differential equations, and color theory."

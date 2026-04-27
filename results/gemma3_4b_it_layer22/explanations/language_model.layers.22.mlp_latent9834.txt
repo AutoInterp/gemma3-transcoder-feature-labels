@@ -1,0 +1,1 @@
+"Text fragments containing various types of information, including article titles, book titles, song names, and other metadata, often found at the end of a text snippet."

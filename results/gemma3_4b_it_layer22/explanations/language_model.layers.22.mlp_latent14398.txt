@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including Java, C#, and JavaScript, with a focus on web development, servlets, and JSPs, as well as some JSON and XML data."

@@ -1,0 +1,1 @@
+"Java and JavaScript code comments and documentation, including Javadoc and XML comments, as well as PHP and C++ code comments."

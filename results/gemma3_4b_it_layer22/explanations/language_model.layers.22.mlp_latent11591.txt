@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, primarily used for testing and assertions, often involving conditional statements, function calls, and variable assignments."

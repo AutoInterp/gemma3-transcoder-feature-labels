@@ -1,0 +1,1 @@
+"Texts describing technical processes, software development, and system administration, often including commands, file paths, and programming concepts."

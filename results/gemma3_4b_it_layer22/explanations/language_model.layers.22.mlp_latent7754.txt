@@ -1,0 +1,1 @@
+"The token \"can't\" is often used in text to convey inability or impossibility, while the token \"can\" is used to convey ability or possibility."

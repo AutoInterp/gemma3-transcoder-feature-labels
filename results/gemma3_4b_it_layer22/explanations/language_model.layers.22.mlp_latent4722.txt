@@ -1,0 +1,1 @@
+"The token \"et al.\" is used to indicate that there are multiple authors of a study or publication, with only the first author being explicitly mentioned."

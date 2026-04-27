@@ -1,0 +1,1 @@
+"Texts containing dates in the format of \"year-month-day\" or \"year\" with additional information, often in a formal or historical context."

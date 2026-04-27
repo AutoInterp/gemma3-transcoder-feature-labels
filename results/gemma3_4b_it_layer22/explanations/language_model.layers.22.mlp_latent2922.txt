@@ -1,0 +1,1 @@
+"Various code snippets, mostly in Java, embedded within a large body of text."

@@ -1,0 +1,1 @@
+"Texts related to login, authentication, and account management, including error messages and password reset procedures."

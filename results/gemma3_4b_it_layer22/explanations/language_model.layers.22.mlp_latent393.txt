@@ -1,0 +1,1 @@
+"Various types of text fragments, including dates, titles, and snippets of articles, often containing specific keywords or phrases, are found at the beginning or end of text blocks."

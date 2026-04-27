@@ -1,0 +1,1 @@
+"Code snippets and programming instructions, often in a format of a command or a function call, frequently found in technical documentation and online tutorials."

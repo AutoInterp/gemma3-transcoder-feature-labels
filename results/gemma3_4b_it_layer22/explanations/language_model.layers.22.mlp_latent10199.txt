@@ -1,0 +1,1 @@
+"Text segments often contain addresses, locations, and citations, which are frequently found at the end of a sentence or paragraph."

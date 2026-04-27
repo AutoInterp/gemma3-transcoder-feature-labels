@@ -1,0 +1,1 @@
+"Dates in various formats, including full dates, date ranges, and specific years, often accompanied by other metadata such as times, locations, and references."

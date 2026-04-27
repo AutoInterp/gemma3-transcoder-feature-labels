@@ -1,0 +1,1 @@
+"Shell scripts and commands, with a focus on Unix-like systems, including file manipulation, network interactions, and system administration tasks."

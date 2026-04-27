@@ -1,0 +1,1 @@
+"Various units of measurement, including distances in kilometers, meters, miles, feet, and inches, as well as temperatures in Celsius and Fahrenheit, are used to describe physical properties and characteristics."

@@ -1,0 +1,1 @@
+"Numerical values representing quantities, such as time, distance, or frequency, often used to describe a process, measurement, or comparison."

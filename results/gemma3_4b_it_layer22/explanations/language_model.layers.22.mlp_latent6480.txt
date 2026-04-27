@@ -1,0 +1,1 @@
+"Texts containing programming code, comments, and variable names, often in a context of explaining or demonstrating a concept."

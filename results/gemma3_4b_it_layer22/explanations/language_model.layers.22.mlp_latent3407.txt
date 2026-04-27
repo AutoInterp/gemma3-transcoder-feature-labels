@@ -1,0 +1,1 @@
+"Text discussing font styles, sizes, and formatting properties, including emphasis, italic, bold, and underlining, often in the context of programming, design, and presentation."

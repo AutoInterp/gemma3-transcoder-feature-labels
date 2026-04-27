@@ -1,0 +1,1 @@
+"Boolean values and their usage in conditional statements and assertions, often used to represent truth or falsehood in various contexts."

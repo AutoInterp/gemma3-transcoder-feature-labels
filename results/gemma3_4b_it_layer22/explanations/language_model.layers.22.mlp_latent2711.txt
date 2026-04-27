@@ -1,0 +1,1 @@
+"SQL queries and programming code snippets, primarily in PHP, Java, and SQL, with various syntax and structures."

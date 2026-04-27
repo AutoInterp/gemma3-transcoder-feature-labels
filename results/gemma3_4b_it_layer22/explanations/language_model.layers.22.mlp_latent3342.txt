@@ -1,0 +1,1 @@
+"Text primarily discussing programming languages, specifically C and C++, their characteristics, and comparisons with other languages."

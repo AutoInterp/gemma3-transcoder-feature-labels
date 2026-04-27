@@ -1,0 +1,1 @@
+"The token \"percent\" or its abbreviation \"%\" is often used to represent a percentage value, frequently in the context of statistics, data, or comparisons."

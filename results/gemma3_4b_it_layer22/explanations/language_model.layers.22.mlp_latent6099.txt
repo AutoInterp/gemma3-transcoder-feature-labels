@@ -1,0 +1,1 @@
+"Text snippets from various sources, including programming code, web pages, and articles, with a focus on HTML, PHP, and JavaScript."

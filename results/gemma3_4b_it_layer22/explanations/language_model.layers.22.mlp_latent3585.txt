@@ -1,0 +1,1 @@
+"The token \"import\" is used to bring external libraries or classes into a program, often at the beginning of a file."

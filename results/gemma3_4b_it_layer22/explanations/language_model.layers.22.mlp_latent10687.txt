@@ -1,0 +1,1 @@
+"Mathematical expressions and programming code snippets, often with specific constraints or conditions, frequently involving inequalities, conditional statements, and loops."

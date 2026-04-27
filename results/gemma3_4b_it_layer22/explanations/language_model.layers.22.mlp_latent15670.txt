@@ -1,0 +1,1 @@
+"Code snippets and programming-related text, often including variable names, function calls, and error messages, frequently found in programming documentation, tutorials, and online forums."

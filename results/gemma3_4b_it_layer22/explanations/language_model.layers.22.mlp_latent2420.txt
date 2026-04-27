@@ -1,0 +1,1 @@
+"Texts often contain quotes, citations, or references denoted by \"<eos>\" or other markers, which are followed by a brief pause in the activation pattern, indicating a shift in context or topic."

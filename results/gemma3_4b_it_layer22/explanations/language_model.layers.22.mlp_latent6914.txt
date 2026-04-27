@@ -1,0 +1,1 @@
+"Dates and timestamps in various formats, including year, month, day, hour, minute, and second, often used to specify a particular point in time or to provide context for a piece of information."

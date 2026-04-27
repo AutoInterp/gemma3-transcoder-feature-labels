@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that provide context, explanations, or additional information, which can be identified by their lower activation values compared to the main topic or key phrases."

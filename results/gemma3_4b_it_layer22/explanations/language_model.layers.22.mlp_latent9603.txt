@@ -1,0 +1,1 @@
+"Dates in various formats, including specific dates, date ranges, and recurring dates, often used as references or in conjunction with other information."

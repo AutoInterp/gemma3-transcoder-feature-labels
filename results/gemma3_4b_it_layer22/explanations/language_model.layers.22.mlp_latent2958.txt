@@ -1,0 +1,1 @@
+"Texts describing commands, instructions, and procedures for running various programs, scripts, and applications, often including specific syntax, options, and error handling."

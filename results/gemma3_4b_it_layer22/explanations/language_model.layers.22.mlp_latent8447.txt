@@ -1,0 +1,1 @@
+"Texts that are not part of the main content, such as article titles, section headers, and references, often appear at the end of a sentence or paragraph, and are frequently preceded by a punctuation mark like a period or a comma."

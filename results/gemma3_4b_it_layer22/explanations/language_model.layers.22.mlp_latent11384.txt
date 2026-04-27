@@ -1,0 +1,1 @@
+"Various numerical values and units, often representing measurements, quantities, or time intervals, such as temperatures, lengths, weights, and time periods (e.g., 24 hours, 24-bit)."

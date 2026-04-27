@@ -1,0 +1,1 @@
+"A collection of color codes in various formats, including hex, RGB, and color names, often used in web development and design."

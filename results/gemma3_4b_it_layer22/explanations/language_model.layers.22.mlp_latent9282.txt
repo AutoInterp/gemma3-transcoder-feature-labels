@@ -1,0 +1,1 @@
+"The token \"within\" is used to indicate a spatial or temporal relationship between two entities, often used to describe a boundary, limit, or scope."

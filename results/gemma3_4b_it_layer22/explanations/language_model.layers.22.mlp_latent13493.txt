@@ -1,0 +1,1 @@
+"Various units of measurement, such as time, weight, and size, are represented in text."

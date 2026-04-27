@@ -1,0 +1,1 @@
+"Texts containing sensitive or personal information, such as passwords, birthdates, and financial information, often appear in a specific format, and are sometimes embedded in a larger context."

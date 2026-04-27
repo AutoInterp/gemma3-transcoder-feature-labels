@@ -1,0 +1,1 @@
+"Texts containing phrases or sentences that are often found at the end of a file, a section, or a statement, often used for explanation, example, or reference."

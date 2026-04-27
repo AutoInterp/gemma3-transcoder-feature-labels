@@ -1,0 +1,1 @@
+"Text snippets containing various types of information, including dates, names, locations, and technical terms, often extracted or processed using regular expressions and string manipulation."

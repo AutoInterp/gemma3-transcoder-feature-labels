@@ -1,0 +1,1 @@
+"Various programming languages and syntax, including C, C++, Java, Python, JavaScript, and Go, as well as SQL and JSON."

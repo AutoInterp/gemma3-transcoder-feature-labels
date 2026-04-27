@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including C++, Java, Python, and TypeScript, showcasing data structures, algorithms, and programming concepts such as sorting, searching, and data manipulation."

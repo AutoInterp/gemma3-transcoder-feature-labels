@@ -1,0 +1,1 @@
+"Text discussing accessibility features in HTML, ARIA attributes, and assistive technologies, with a focus on improving user experience for people with disabilities."

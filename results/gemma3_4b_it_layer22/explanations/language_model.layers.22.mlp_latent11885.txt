@@ -1,0 +1,1 @@
+"Various units of measurement, including lengths, weights, and times, often presented in a numerical format with optional additional information such as decimal points, fractions, or abbreviations."

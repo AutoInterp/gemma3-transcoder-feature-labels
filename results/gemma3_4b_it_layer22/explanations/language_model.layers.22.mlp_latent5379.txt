@@ -1,0 +1,1 @@
+"Text snippets often appear in a format that is not a complete sentence, sometimes with HTML code, and frequently with a specific structure, possibly indicating a quote or a code snippet."

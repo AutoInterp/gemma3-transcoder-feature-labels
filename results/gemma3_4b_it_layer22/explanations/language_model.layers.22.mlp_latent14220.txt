@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, primarily Java and Kotlin, with a focus on Android app development, including UI components, database operations, and network requests."

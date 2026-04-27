@@ -1,0 +1,1 @@
+"Various numerical values and units, often used in calculations or comparisons, frequently involving time, distance, or quantities."

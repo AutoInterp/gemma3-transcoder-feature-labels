@@ -1,0 +1,1 @@
+"Text contains mathematical and scientific expressions, equations, and formulas, often involving variables, constants, and functions, with a focus on computational complexity, probability, and statistical analysis."

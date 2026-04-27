@@ -1,0 +1,1 @@
+"SQL code snippets, likely from database schema definitions or queries, with varying levels of complexity and structure."

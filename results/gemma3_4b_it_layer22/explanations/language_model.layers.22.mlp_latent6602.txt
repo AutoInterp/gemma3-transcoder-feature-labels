@@ -1,0 +1,1 @@
+"Various programming-related terms and concepts, including function and method declarations, data structures, and mathematical expressions."

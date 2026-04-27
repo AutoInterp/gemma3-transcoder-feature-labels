@@ -1,0 +1,1 @@
+"The token \"private\" is often used to describe property, conversations, or individuals, while the token \"public\" is used to describe schools, healthcare, or events that are open to the general population."

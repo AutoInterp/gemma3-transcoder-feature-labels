@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including configuration files, scripts, and class definitions, often containing variable assignments, function calls, and conditional statements."

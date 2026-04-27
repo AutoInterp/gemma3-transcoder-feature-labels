@@ -1,0 +1,1 @@
+"The token \"default\" is used to describe a pre-set or standard value, setting, or configuration, often used as a fallback or initial state."

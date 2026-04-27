@@ -1,0 +1,1 @@
+"Texts containing technical terms, abbreviations, and proper nouns, often related to computer science, networking, and programming, which are capitalized to indicate their specific meaning or to distinguish them from common nouns."

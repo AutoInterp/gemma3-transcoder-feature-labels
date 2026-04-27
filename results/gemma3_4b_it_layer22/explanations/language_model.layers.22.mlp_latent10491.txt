@@ -1,0 +1,1 @@
+"The token \"d\" often appears at the beginning of a line or a section, possibly indicating a label, a title, or a reference."

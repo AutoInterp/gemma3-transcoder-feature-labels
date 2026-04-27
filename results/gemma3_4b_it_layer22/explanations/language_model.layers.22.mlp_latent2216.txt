@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are incomplete or seem to be cut off, likely due to truncation or the presence of a special token indicating the end of a text segment."

@@ -1,0 +1,1 @@
+"Text snippets often contain references to external sources, such as Bible verses, academic papers, or URLs, which are frequently embedded within the main text."

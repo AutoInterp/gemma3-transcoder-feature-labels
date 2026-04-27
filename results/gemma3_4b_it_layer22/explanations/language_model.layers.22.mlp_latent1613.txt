@@ -1,0 +1,1 @@
+"Texts from various sources, including news articles, blog posts, and academic papers, with a focus on extracting specific phrases and sentences for analysis. The extracted phrases often contain key information, such as statistics, names, and dates, and are frequently used to illustrate a point or provide context."

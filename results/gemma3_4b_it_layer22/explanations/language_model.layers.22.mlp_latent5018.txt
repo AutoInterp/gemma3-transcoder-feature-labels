@@ -1,0 +1,1 @@
+"Text describing properties, attributes, or characteristics of objects, often used in programming, documentation, and technical writing."

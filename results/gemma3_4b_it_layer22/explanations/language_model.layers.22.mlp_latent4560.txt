@@ -1,0 +1,1 @@
+"Dates and timestamps are frequently mentioned in the text, often in conjunction with other information such as copyright notices, publication dates, and event times."

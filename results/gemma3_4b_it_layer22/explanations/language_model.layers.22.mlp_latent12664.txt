@@ -1,0 +1,1 @@
+"Texts often contain long sequences of words that are not crucial to the main idea, but rather provide additional context or information, such as quotes, explanations, or examples. These sequences are often marked by a significant drop in activation values for the surrounding words, indicating a shift in the topic or focus of the text."

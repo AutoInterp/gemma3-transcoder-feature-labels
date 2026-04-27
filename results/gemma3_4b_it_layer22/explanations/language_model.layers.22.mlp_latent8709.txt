@@ -1,0 +1,1 @@
+"Technical text with a focus on programming, software development, and computer science concepts, often including code snippets, explanations of algorithms, and discussions of design patterns."

@@ -1,0 +1,1 @@
+"Text fragments often appear at the beginning of a new section or paragraph, sometimes containing a title, subtitle, or a reference to a previous section."

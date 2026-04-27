@@ -1,0 +1,1 @@
+"Various programming code snippets and database queries, including SQL, Python, and C, used for malicious purposes such as data exfiltration, exploitation of vulnerabilities, and creation of malware."

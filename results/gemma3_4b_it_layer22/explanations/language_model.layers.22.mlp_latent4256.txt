@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including Python, C, C++, Java, JavaScript, and Swift, with a focus on mathematical and algorithmic concepts, data structures, and software development."

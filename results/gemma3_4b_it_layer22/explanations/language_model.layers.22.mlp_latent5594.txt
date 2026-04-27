@@ -1,0 +1,1 @@
+"URIs (Uniform Resource Identifiers) and URLs (Uniform Resource Locators) are used to identify and locate resources on the internet. The text discusses various aspects of URIs and URLs, including their syntax, encoding, and usage in different contexts, such as HTTP requests, web applications, and data exchange."

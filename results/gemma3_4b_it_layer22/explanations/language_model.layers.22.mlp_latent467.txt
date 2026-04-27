@@ -1,0 +1,1 @@
+"HTML elements and attributes, including tags, classes, IDs, and styles, as well as JavaScript functions and variables, and code snippets in various programming languages."

@@ -1,0 +1,1 @@
+"Texts often contain instructions, explanations, or information presented in a step-by-step format, frequently using phrases like \"below\" or \"as shown above\" to direct the reader to additional information."

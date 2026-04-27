@@ -1,0 +1,1 @@
+"Various academic and technical references, including journal articles, book chapters, and conference papers, often with DOI or PubMed IDs, and sometimes accompanied by a brief description or title."

@@ -1,0 +1,1 @@
+"Various sequences of numbers and characters, possibly representing binary code or other technical data, often found at the end of a text snippet."

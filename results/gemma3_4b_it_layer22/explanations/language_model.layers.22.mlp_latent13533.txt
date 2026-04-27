@@ -1,0 +1,1 @@
+"Numerical lists are used to present information, often with a title or heading preceding the list, and the items in the list are numbered in a sequential order."

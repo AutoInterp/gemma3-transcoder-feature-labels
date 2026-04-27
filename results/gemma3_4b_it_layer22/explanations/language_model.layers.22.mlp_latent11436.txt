@@ -1,0 +1,1 @@
+"Texts often contain phrases that indicate a shift in context, such as a change in location, a new idea, or a transition to a different topic, which are typically marked by phrases like \"you've read my post about...\", \"as it seemed that\", \"let me show another\", and \"consider three factors\"."

@@ -1,0 +1,1 @@
+"Texts containing mathematical concepts, equations, and problems, often with a focus on geometry, algebra, and probability, frequently accompanied by code snippets and programming-related discussions."

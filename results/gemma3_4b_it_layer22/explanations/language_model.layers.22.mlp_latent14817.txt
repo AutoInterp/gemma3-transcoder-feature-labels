@@ -1,0 +1,1 @@
+"Texts discussing various programming languages, frameworks, and technologies, including functional programming, reactive streams, and distributed systems, with a focus on their applications and implementations."

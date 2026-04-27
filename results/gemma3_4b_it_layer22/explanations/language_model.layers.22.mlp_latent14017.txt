@@ -1,0 +1,1 @@
+"The token \"right\" is often used to indicate direction, position, or correctness, while the token \"reverse\" or \"reversal\" is used to describe a change in direction or a return to a previous state."

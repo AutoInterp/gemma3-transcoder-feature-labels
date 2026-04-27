@@ -1,0 +1,1 @@
+"Java code snippets, primarily related to J2EE, Servlets, JSP, and EJB, with various classes, methods, and annotations."

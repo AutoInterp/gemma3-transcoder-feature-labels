@@ -1,0 +1,1 @@
+"Texts with low activation values are likely to be informative or neutral, lacking prominent idioms or phrases, whereas texts with high activation values often contain idiomatic expressions, colloquialisms, or figurative language, indicating a more creative or emotive tone."

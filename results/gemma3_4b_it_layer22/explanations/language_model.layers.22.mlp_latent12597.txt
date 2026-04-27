@@ -1,0 +1,1 @@
+"Text snippets often contain technical or scientific information, such as chemical formulas, molecular structures, and research data, which are frequently embedded within larger blocks of text."

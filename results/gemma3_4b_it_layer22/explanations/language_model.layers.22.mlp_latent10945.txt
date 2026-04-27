@@ -1,0 +1,1 @@
+"Texts containing proper nouns, often names of people, places, or organizations, and phrases that are likely to be titles or headings, frequently appearing at the beginning of a paragraph or section."

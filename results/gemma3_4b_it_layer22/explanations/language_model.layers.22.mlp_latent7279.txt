@@ -1,0 +1,1 @@
+"Text snippets containing programming-related concepts, technical terms, and instructions, often accompanied by code snippets and variable names."

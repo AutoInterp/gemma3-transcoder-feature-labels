@@ -1,0 +1,1 @@
+"Code comments and documentation, often containing explanations of code functionality, usage, and potential issues, as well as notes on implementation details and design decisions."

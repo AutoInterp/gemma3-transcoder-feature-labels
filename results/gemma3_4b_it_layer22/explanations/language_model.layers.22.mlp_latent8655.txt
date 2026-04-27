@@ -1,0 +1,1 @@
+"Various file extensions and archive types, including compression formats (.tar, .gz, .bz2), executable files (.exe), document files (.DOCX), audio files (.Wav, .MIDI), and video files (.wmv, .avi), as well as programming-related file types (.js, .min.js, .py, .plist, .ramc) and configuration files (.htaccess, .bashrc)."

@@ -1,0 +1,1 @@
+"Text fragments often appear at the beginning or end of a paragraph, sometimes containing a title or a list of items, and are frequently followed by a period."

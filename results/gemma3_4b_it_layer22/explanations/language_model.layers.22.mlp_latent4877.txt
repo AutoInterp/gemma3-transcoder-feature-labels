@@ -1,0 +1,1 @@
+"Various system administration and programming tasks, including configuration, installation, and troubleshooting of software and services, often involving Unix-like systems and scripting languages such as Perl and Bash."

@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are incomplete or truncated, typically denoted by a special character or symbol, and sometimes followed by a period or other punctuation."

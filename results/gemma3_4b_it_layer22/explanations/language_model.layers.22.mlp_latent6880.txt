@@ -1,0 +1,1 @@
+"Various programming and technical terms, including data types, functions, and concepts, often used in context of software development, database management, and system administration."

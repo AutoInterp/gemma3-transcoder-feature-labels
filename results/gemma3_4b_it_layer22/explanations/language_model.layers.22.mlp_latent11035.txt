@@ -1,0 +1,1 @@
+"Various programming languages and database query syntax, including SQL, Java, C++, and Python, as well as mathematical and scientific notation."

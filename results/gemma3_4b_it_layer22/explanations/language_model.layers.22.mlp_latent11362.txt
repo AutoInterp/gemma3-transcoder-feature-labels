@@ -1,0 +1,1 @@
+"Code snippets in various programming languages, including HTML, Ruby, SQL, and PHP, often used to illustrate a point or provide an example."

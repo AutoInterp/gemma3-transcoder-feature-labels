@@ -1,0 +1,1 @@
+"Texts are often separated by paragraphs, and sometimes by a blank line. The content of each paragraph is a self-contained unit of information, and may include a variety of sentence structures and lengths."

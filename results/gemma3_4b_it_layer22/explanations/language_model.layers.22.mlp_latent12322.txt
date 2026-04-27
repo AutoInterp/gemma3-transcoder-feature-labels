@@ -1,0 +1,1 @@
+"The token \"author\" and its variants (\"authority\", \"authorization\", \"authorisation\") are frequently used in text, often in the context of granting permission, approval, or consent, as well as in references to individuals who create or write content."

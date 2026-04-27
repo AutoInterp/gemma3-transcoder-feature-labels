@@ -1,0 +1,1 @@
+"Text fragments that are likely to be comments, explanations, or descriptions, often providing additional context or information about the surrounding content."

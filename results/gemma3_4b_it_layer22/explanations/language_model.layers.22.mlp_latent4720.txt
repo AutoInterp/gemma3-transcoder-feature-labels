@@ -1,0 +1,1 @@
+"Technical instructions and explanations often include default locations, administrator permissions, and specific directory paths."

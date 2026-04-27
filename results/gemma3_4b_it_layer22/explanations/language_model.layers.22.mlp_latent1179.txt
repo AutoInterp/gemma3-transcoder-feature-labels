@@ -1,0 +1,1 @@
+"Texts often contain brand names, product names, and company names, which are frequently used as proper nouns. These names are often used in a context that provides additional information about the product or service, such as features, benefits, or usage."

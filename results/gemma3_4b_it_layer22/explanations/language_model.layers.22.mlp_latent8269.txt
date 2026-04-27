@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are followed by a delimiter, indicating a transition to a new topic or a change in tone. These phrases can be promotional, informative, or conversational, and are often used to introduce a new idea or product."

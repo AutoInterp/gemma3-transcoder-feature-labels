@@ -1,0 +1,1 @@
+"Texts often contain URLs, names of people, places, and organizations, as well as quotes and citations, which are frequently used to provide context and support for the main content."

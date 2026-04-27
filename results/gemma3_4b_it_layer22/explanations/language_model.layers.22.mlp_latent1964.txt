@@ -1,0 +1,1 @@
+"HTML and XML code snippets, often containing tags and attributes, and sometimes accompanied by programming code or text descriptions."

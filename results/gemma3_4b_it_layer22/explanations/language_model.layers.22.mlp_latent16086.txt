@@ -1,0 +1,1 @@
+"Texts often contain proper nouns, such as names of locations, organizations, and people, which are frequently used to provide context and identify specific entities. Additionally, technical terms and jargon are commonly used in various fields, including science, technology, and finance, to convey complex ideas and concepts."

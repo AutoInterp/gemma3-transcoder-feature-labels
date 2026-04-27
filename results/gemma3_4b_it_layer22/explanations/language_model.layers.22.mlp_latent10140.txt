@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are higher or greater than a certain value, threshold, or standard, indicating comparison or evaluation."

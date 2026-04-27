@@ -1,0 +1,1 @@
+"Mathematical equations and formulas from various fields, including physics, statistics, and machine learning, with a focus on sensitivity analysis and inverse sensitivity mechanisms."

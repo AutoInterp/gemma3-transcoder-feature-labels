@@ -1,0 +1,1 @@
+"Code snippets and configuration files from various programming languages and tools, including Docker, Node.js, Python, and others, often with specific commands or settings highlighted."

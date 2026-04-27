@@ -1,0 +1,1 @@
+"Various programming languages and code snippets, including JavaScript, Java, C++, Python, and others, with a focus on syntax and variable declarations."

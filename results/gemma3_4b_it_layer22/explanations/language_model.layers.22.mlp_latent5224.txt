@@ -1,0 +1,1 @@
+"Text snippets from various programming languages, documentation, and technical articles, often containing code examples, error messages, and debugging information."

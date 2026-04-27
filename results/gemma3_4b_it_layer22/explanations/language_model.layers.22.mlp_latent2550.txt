@@ -1,0 +1,1 @@
+"Texts with low activation values are often incomplete sentences, phrases, or quotes, while those with higher activation values are often complete sentences or paragraphs."

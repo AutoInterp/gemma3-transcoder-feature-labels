@@ -1,0 +1,1 @@
+"Texts often contain phrases that describe a transition from one state to another, such as moving from darkness to light, or from one location to another, like moving from one place to another."

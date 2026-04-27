@@ -1,0 +1,1 @@
+"Texts often contain dates, names, and proper nouns, which are frequently associated with significant events, people, or places."

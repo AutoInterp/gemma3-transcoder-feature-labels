@@ -1,0 +1,1 @@
+"Technical text discussing computer hardware, digital circuits, and electronics, with a focus on low-level programming, microcontrollers, and system design."

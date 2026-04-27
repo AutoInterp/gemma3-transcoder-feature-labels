@@ -1,0 +1,1 @@
+"Code snippets and configuration settings from various programming languages and software applications, including command-line flags, configuration files, and code examples."

@@ -1,0 +1,1 @@
+"Various programming languages and code snippets, including VBA, Python, JavaScript, C++, and others, with a focus on syntax and structure."

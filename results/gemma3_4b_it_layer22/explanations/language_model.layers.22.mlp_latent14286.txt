@@ -1,0 +1,1 @@
+"Various programming and technical terms, including function names, variable names, and data types, often in the context of object-oriented programming and database management."

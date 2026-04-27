@@ -1,0 +1,1 @@
+"Texts containing sensitive information such as credit card numbers, social security numbers, and bank account numbers, often in the context of identity theft, credit reports, and financial transactions."

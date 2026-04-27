@@ -1,0 +1,1 @@
+"Texts often contain Chinese characters, and the activation values are mostly high, indicating that these characters are important in the text. The texts also contain various phrases and sentences in English, often with low activation values, suggesting that they are less important or used for context."

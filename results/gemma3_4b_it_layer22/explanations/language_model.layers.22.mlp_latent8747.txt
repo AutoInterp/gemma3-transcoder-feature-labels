@@ -1,0 +1,1 @@
+"HTML and CSS code snippets, JavaScript functions, and programming language code examples, often with variable names, function calls, and syntax highlighting."

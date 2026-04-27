@@ -1,0 +1,1 @@
+"Texts describing image processing, digital image formats, and computer graphics concepts, including image compression, gamma correction, and display characteristics."

@@ -1,0 +1,1 @@
+"Mathematical derivations and proofs of various theorems and formulas, often involving limits, integrals, and summations, with a focus on optimization and approximation techniques."

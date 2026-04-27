@@ -1,0 +1,1 @@
+"Dates in various formats, including year-month-day, year-month, and month-day, often accompanied by timestamps and other metadata."

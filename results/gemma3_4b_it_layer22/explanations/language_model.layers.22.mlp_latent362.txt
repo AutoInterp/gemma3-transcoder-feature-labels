@@ -1,0 +1,1 @@
+"Code snippets and programming concepts, along with technical documentation and notes on various programming languages and frameworks, including SQL, C#, JavaScript, and Python."

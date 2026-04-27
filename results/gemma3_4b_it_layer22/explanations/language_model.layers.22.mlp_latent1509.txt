@@ -1,0 +1,1 @@
+"Version numbers and version-related information, such as compiler versions, language standards, and software releases, are often mentioned in the text."

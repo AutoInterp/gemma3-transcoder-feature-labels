@@ -1,0 +1,1 @@
+"Texts describing technical concepts, programming, and problem-solving strategies, often with code snippets and mathematical equations."

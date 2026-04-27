@@ -1,0 +1,1 @@
+"Various types of data, including phone numbers, measurements, mathematical expressions, code snippets, URLs, and text from different sources, including books, articles, and websites."

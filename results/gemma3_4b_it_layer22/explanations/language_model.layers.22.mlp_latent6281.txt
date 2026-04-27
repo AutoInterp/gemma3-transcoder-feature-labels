@@ -1,0 +1,1 @@
+"Dates in the format of four digits, often representing years, are frequently mentioned in the text."

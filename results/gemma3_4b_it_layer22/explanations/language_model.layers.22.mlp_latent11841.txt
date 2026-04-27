@@ -1,0 +1,1 @@
+"Texts containing explanations of various concepts, often with examples, and sometimes with code snippets or technical terms."

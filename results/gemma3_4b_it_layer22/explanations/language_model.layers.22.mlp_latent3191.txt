@@ -1,0 +1,1 @@
+"The token \"throw\" is used in various contexts, including exceptions, errors, and unexpected events, often indicating a sudden or forced change in state or direction."

@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, primarily C/C++, Java, and Python, showcasing mathematical and algorithmic concepts, such as number theory, combinatorics, and data structures."

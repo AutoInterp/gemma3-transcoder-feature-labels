@@ -1,0 +1,1 @@
+"Texts often contain proper nouns, such as names of people, places, and organizations, which are frequently associated with high activation values. Additionally, idiomatic expressions and figurative language, like metaphors and similes, are present throughout the texts, contributing to the richness and complexity of the language."

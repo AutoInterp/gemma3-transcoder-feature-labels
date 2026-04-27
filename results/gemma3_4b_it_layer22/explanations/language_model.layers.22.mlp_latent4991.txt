@@ -1,0 +1,1 @@
+"Various types of text data, including addresses, account numbers, error codes, technical specifications, recipes, programming code, financial data, and academic references, often containing numerical values, abbreviations, and technical terms."

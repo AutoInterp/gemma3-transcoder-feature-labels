@@ -1,0 +1,1 @@
+"URLs and image placeholders, often used for web development and design purposes, frequently found in code snippets and documentation."

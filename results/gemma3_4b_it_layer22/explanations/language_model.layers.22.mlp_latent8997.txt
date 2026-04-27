@@ -1,0 +1,1 @@
+"Texts containing various types of information, including articles, lyrics, and academic papers, with a focus on the structure and formatting of the text, including use of special characters, such as <eos> and << >>, and the presence of code snippets and mathematical expressions."

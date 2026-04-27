@@ -1,0 +1,1 @@
+"Various programming code snippets, including C/C++, Python, and shell scripts, with a focus on data types, functions, and conditional statements."

@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including PowerShell, JavaScript, VBScript, C#, and SQL, with a focus on syntax, functions, and variable declarations."

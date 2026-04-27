@@ -1,0 +1,1 @@
+"Code snippets in various programming languages, including Python, with a focus on data structures, functions, and object-oriented programming."

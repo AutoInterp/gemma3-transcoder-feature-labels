@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, primarily Java and JavaScript, showcasing annotations, method parameters, and class properties."

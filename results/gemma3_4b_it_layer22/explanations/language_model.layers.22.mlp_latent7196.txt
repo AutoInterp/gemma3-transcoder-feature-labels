@@ -1,0 +1,1 @@
+"Time of day, specifically the transition from day to night, is a common latent in the text."

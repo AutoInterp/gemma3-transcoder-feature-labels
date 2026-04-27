@@ -1,0 +1,1 @@
+"Texts with low activation values are often informative or explanatory passages, providing factual information or descriptions, whereas passages with higher activation values often contain idiomatic expressions, colloquialisms, or rhetorical devices."

@@ -1,0 +1,1 @@
+"Code snippets and programming-related text, including file paths, commands, and syntax, often with specific file extensions or programming languages mentioned."

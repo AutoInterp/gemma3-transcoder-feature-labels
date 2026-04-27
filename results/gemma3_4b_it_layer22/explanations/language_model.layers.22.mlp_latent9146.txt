@@ -1,0 +1,1 @@
+"Various programming-related terms and concepts, including data structures, algorithms, and functions, as well as object-oriented programming and error handling."

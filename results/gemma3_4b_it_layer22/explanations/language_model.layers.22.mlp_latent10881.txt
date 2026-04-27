@@ -1,0 +1,1 @@
+"Tokens indicating a transition or a shift in thought, often used to introduce a new idea, contrast, or consequence, such as \"so\", \"so that\", \"so you can\", \"so I had to\", \"so they took it upon themselves\", and \"so we ride slowly\"."

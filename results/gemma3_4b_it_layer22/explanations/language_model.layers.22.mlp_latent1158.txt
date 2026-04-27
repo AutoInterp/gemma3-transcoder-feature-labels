@@ -1,0 +1,1 @@
+"The token \"index\" and its variants (e.g. \"indexes\", \"indexing\") are often used in the context of data organization, database management, and performance optimization, as well as in financial and economic contexts, such as stock market indices."

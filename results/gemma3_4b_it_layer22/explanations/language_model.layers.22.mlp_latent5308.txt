@@ -1,0 +1,1 @@
+"Dates and time ranges, often in a format used for scheduling or referencing specific events, and sometimes accompanied by additional information such as page numbers or product names."

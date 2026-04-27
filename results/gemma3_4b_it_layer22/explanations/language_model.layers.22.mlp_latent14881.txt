@@ -1,0 +1,1 @@
+"The token \"until\" is often used to indicate a point in time when a condition will be met, a process will be completed, or a state will change."

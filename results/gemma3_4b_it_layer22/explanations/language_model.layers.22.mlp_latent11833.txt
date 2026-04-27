@@ -1,0 +1,1 @@
+"Texts often contain proper nouns, names of places, and specific objects, which are typically capitalized."

@@ -1,0 +1,1 @@
+"Error messages and exceptions in code, often related to access control, database operations, or runtime errors."

@@ -1,0 +1,1 @@
+"The token \"buffer\" is often used in the context of computer science, referring to a region of memory that temporarily stores data being transferred between devices or systems."

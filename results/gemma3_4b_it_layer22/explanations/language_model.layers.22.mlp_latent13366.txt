@@ -1,0 +1,1 @@
+"Texts with low activation values are likely incomplete or truncated sentences, while those with high activation values are often complete sentences or phrases. The texts also exhibit a mix of formal and informal language, with some sections appearing to be technical or instructional, while others are conversational or narrative."

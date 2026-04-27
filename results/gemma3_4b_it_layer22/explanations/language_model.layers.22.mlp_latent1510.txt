@@ -1,0 +1,1 @@
+"Texts containing lists of items, often with a specific structure or format, such as enumerations, data sources, or itemized descriptions."

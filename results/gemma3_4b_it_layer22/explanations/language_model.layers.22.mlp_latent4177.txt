@@ -1,0 +1,1 @@
+"Code comments in multiple programming languages, including Java, PHP, and JavaScript, providing documentation for methods, functions, and variables."

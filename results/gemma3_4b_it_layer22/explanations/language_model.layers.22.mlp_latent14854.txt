@@ -1,0 +1,1 @@
+"Texts containing dates in the format \"Jan. 1, 1881\" or other specific dates, often used as a delimiter to separate paragraphs or sections."

@@ -1,0 +1,1 @@
+"Various numerical values, including years, temperatures, heart rates, and frequencies, often used for comparison or reference."

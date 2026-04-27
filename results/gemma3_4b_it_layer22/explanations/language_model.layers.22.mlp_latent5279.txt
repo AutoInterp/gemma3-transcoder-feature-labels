@@ -1,0 +1,1 @@
+"Various UI elements and graphical components, including buttons, labels, text boxes, and scales, used in different programming contexts such as Java, Python, and Android."

@@ -1,0 +1,1 @@
+"Texts from academic papers, with various citations and references, often in the format of a DOI or a Google Scholar link, indicating a formal and technical writing style."

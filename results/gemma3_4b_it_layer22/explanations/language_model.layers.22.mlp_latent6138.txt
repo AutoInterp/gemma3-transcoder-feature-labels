@@ -1,0 +1,1 @@
+"The token \"name\" is often used to refer to a specific term, title, or identifier, such as a person's name, a product name, a company name, a location name, or a feature name."

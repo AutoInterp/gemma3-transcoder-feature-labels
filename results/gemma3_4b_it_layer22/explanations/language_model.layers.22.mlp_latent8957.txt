@@ -1,0 +1,1 @@
+"Code snippets with variable names, function parameters, and method calls, often with a focus on data types, loops, and conditional statements."

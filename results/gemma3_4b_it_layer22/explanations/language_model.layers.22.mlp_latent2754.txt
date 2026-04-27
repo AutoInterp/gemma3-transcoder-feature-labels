@@ -1,0 +1,1 @@
+"Numbers representing time periods, often used to describe the duration of events, experiences, or periods of time, such as years, decades, or centuries."

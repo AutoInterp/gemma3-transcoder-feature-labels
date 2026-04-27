@@ -1,0 +1,1 @@
+"The token \"1\" or a range including \"1\" is often used to represent a starting point or a minimum value in various contexts, such as numerical ranges, quantities, or indices."

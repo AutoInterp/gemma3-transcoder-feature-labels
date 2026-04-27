@@ -1,0 +1,1 @@
+"Texts containing various types of identifiers, such as URLs, URIs, and Internationalized Resource Identifiers (IRIs), as well as proper nouns, including names of people, places, and events, and technical terms related to computing, software, and programming."

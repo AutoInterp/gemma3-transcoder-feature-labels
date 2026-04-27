@@ -1,0 +1,1 @@
+"The token \"top\" is used to describe a position or location at the highest point, and the token \"bottom\" is used to describe a position or location at the lowest point, often used in phrases such as \"from top to bottom\" or \"from bottom to top\"."

@@ -1,0 +1,1 @@
+"Texts related to XML (Extensible Markup Language) and its applications, including parsing, serialization, and manipulation of XML data, as well as its use in various contexts such as web development, data exchange, and document representation."

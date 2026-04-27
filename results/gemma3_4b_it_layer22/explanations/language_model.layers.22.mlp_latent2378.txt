@@ -1,0 +1,1 @@
+"Texts from various sources, including articles, reviews, and academic papers, with a focus on extracting specific phrases, titles, and citations. The patterns found include the presence of URLs, citations, and references, as well as the use of formatting elements such as headings, paragraphs, and lists."

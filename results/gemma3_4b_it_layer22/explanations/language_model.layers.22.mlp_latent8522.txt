@@ -1,0 +1,1 @@
+"Shell commands and scripts, with a focus on file system operations, directory management, and permissions."

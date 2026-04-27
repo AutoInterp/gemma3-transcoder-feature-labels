@@ -1,0 +1,1 @@
+"ISBN numbers and other identifiers for academic publications, often used in citations and references."

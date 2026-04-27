@@ -1,0 +1,1 @@
+"Various types of dates, including specific dates, years, and time periods, often in the format of a timestamp or a date range."

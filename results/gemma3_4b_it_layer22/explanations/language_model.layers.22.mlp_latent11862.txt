@@ -1,0 +1,1 @@
+"Various types of addresses, phone numbers, and other contact information, often accompanied by geographical locations, are embedded in the text."

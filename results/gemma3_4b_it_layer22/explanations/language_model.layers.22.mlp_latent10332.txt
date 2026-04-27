@@ -1,0 +1,1 @@
+"Timestamps in various formats, including date and time, are embedded in the text, often in a way that is not grammatically integrated with the surrounding content."

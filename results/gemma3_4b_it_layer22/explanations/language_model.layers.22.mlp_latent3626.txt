@@ -1,0 +1,1 @@
+"Tokens that represent specific objects, locations, or concepts, often used to provide context or clarify meaning, such as names of places, people, or things."

@@ -1,0 +1,1 @@
+"Various programming languages and scripts, including shell scripts, Python, Lua, and SQL, with a focus on system administration, configuration, and installation of software packages, as well as data processing and analysis."

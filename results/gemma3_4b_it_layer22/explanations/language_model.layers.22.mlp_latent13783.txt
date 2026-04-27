@@ -1,0 +1,1 @@
+"Various numerical values and dates, often used as references or comparisons in text."

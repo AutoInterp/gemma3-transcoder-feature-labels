@@ -1,0 +1,1 @@
+"Texts often contain phrases that indicate a shift in context, such as a change in location, a new idea, or a different perspective, which are typically marked by phrases like \"in the\", \"on the\", \"at the\", or \"in order to\"."

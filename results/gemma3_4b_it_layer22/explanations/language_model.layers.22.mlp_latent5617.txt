@@ -1,0 +1,1 @@
+"Technical and scientific text with various units of measurement, including temperatures in Celsius and Fahrenheit, pressures in BAR, and data storage capacities in bits and bytes."

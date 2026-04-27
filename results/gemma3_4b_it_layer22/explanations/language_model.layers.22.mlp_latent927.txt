@@ -1,0 +1,1 @@
+"Java code snippets, primarily annotations and method definitions, from a Spring-based web application."

@@ -1,0 +1,1 @@
+"The token \"option\" is used to refer to a choice or alternative, often in the context of selecting a particular feature, feature set, or configuration."

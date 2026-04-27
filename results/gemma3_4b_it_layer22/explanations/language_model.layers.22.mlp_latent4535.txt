@@ -1,0 +1,1 @@
+"Texts describing mathematical concepts, algorithms, and theories, often involving geometric shapes, equations, and data structures."

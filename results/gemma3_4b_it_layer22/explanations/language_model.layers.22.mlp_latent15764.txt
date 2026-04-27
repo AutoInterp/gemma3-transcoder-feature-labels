@@ -1,0 +1,1 @@
+"SQL syntax and database-related concepts, including encryption, data types, and database management systems."

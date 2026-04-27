@@ -1,0 +1,1 @@
+"Texts containing proper nouns, geographical locations, and names of people, places, and organizations, often serving as context for the rest of the text."

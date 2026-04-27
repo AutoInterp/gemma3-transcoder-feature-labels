@@ -1,0 +1,1 @@
+"Dates and years, often in the format of a specific range or a single point in time, frequently accompanied by other contextual information."

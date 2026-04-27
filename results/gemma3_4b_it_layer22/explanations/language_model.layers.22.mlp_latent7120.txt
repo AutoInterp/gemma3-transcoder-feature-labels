@@ -1,0 +1,1 @@
+"Various programming-related text, including code snippets, comments, and license information, often containing dates and version numbers."

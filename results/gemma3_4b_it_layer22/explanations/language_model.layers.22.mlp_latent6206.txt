@@ -1,0 +1,1 @@
+"Hexadecimal color codes used to represent colors in text, often used for styling or design purposes."

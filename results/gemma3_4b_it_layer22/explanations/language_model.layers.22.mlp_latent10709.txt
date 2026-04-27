@@ -1,0 +1,1 @@
+"Texts containing URLs, dates, and image sources, often accompanied by additional information such as author names, book titles, or publication details."

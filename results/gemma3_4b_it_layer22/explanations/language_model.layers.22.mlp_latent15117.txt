@@ -1,0 +1,1 @@
+"Text snippets containing configuration settings, code snippets, and technical documentation, often with a focus on software development, system administration, and programming."

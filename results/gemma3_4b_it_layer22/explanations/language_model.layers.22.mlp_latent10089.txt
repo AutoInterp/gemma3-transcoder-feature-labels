@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, primarily C# and C++, with a focus on object-oriented programming, database interactions, and graphical user interface elements."

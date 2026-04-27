@@ -1,0 +1,1 @@
+"Various types of metadata and information, such as project details, location, budget, and other descriptive data, often presented in a formal or structured format."

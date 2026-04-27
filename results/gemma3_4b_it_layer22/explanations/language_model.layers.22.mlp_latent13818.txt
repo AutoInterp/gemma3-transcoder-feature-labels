@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including Java, Python, and FXML, with a focus on layout and user interface design, as well as data analysis and scientific research."

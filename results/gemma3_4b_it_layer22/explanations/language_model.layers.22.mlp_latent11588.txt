@@ -1,0 +1,1 @@
+"Texts from various programming languages, documentation, and technical specifications, often containing code snippets, function definitions, and explanations of algorithms and protocols."

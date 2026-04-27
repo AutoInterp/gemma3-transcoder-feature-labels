@@ -1,0 +1,1 @@
+"The token \"row\" is often used to refer to a line or sequence of items, such as rows of desks, rows of a table, or rows of a database."

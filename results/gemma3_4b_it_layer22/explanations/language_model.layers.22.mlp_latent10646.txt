@@ -1,0 +1,1 @@
+"Texts often contain phrases and sentences that express positive sentiment, such as \"nice\", \"great\", \"good\", and \"fantastic\", used to describe various aspects of life, events, or products."

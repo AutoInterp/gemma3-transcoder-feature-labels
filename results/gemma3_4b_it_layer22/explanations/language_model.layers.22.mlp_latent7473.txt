@@ -1,0 +1,1 @@
+"The token \"answer\" is often used in the context of providing a response to a question, and is frequently found in the format of \"Q: [question] A: [answer]\"."

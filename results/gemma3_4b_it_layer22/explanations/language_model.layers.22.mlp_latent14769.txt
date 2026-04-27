@@ -1,0 +1,1 @@
+"The token \"do\" is often used when referring to work of any kind, and the token \"house\" is used to represent a distinct object that contains something. Additionally, the token \"time\" is often used in relation to schedules, appointments, and work hours."

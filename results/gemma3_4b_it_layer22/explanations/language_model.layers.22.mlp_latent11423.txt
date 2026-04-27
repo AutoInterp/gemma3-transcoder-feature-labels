@@ -1,0 +1,1 @@
+"Texts discussing programming, software development, and IT security, with a focus on technical details, error messages, and best practices for setting up and managing systems, networks, and databases."

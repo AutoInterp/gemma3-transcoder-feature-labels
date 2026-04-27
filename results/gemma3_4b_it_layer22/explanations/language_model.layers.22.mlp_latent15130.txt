@@ -1,0 +1,1 @@
+"Texts containing dates, times, and version information, often in a formal or technical context, such as programming code, academic papers, or news articles."

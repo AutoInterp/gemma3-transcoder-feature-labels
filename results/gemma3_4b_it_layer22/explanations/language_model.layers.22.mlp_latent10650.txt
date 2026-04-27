@@ -1,0 +1,1 @@
+"Numerical values representing large quantities, often used for emphasis or to convey a sense of magnitude, such as time, distance, cost, or population."

@@ -1,0 +1,1 @@
+"Texts often contain comparative sentences, typically in the form of \"A is/are X, but B is/are Y\", where A and B are entities being compared, and X and Y are the comparative attributes."

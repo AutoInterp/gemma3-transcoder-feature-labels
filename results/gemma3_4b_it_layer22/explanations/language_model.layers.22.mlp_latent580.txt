@@ -1,0 +1,1 @@
+"Texts from various programming and technical documentation, including installation instructions, code snippets, and error messages, often containing specific keywords and phrases related to software development, Linux, and programming languages."

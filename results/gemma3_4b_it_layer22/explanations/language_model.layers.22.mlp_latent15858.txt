@@ -1,0 +1,1 @@
+"Texts describing technical configurations, server setups, and programming implementations, often including code snippets and explanations of specific software or technologies."

@@ -1,0 +1,1 @@
+"Texts that are book or article titles, often with a colon or other punctuation mark, and sometimes with a subtitle or author information."

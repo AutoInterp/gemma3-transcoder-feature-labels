@@ -1,0 +1,1 @@
+"Texts often contain phrases indicating a transition or a change in location, such as \"when we got home\", \"we set off cycling\", \"they got to her home\", and \"we will reach out to the Customer\". These phrases often precede a new scene or a new development in the story."

@@ -1,0 +1,1 @@
+"Various numerical values and currency amounts in different formats, including dollar amounts, percentages, and scientific notation, often used in financial, economic, or technical contexts."

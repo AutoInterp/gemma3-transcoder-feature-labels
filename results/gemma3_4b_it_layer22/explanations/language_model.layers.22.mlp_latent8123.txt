@@ -1,0 +1,1 @@
+"Texts often contain lists of items, such as recommendations, examples, or tips, which are frequently presented in a numbered or bulleted format. Additionally, articles and blog posts may include quotes, references to other sources, or links to external content."

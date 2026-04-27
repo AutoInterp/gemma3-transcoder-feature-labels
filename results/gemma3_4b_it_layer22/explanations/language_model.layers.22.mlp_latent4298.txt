@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including Swift, Java, JavaScript, Python, and SQL, with varying levels of activation for different elements such as function calls, variable declarations, and data types."

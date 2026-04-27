@@ -1,0 +1,1 @@
+"Various types of text, including academic papers, news articles, and personal stories, often contain long sequences of text that are not crucial to the overall meaning, such as citations, references, and metadata."

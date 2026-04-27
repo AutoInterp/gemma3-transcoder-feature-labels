@@ -1,0 +1,1 @@
+"Code snippets and programming concepts, often in the context of explaining algorithms or data structures, frequently appearing in a step-by-step format."

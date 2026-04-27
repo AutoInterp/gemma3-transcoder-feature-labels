@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are cut off or truncated, sometimes with a clear indication that the speaker or writer is about to continue, but the continuation is not provided."

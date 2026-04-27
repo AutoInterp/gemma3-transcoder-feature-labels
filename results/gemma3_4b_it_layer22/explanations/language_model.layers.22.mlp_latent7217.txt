@@ -1,0 +1,1 @@
+"Texts often contain proper nouns, such as names of places, organizations, and people, which are frequently mentioned in conjunction with other words like \"district\", \"city\", \"university\", and \"company\". Additionally, there are instances of technical terms, like \"FTP\", \"vaping\", \"cruise missile\", and \"KLOC\", which are used in specific contexts."

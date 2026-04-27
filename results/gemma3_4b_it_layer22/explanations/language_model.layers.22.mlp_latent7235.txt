@@ -1,0 +1,1 @@
+"Code snippets in various programming languages, including Perl, JavaScript, and C, with a focus on mathematical and scientific concepts, such as numerical problems, algorithms, and data analysis."

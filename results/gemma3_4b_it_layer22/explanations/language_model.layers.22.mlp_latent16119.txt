@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including Python, C, and Scheme, with a focus on syntax and data structures."

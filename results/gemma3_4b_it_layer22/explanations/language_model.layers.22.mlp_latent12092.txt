@@ -1,0 +1,1 @@
+"Text describing ranges or intervals of values, often used to convey uncertainty, variability, or a spectrum of possibilities."

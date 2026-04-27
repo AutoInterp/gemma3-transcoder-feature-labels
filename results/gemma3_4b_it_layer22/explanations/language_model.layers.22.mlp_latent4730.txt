@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including JavaScript, TypeScript, Python, Java, and Swift, showcasing a mix of data structures, algorithms, and utility functions."

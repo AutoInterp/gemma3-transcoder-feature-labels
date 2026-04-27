@@ -1,0 +1,1 @@
+"Texts containing programming code, database schema, and various programming languages, including SQL, PHP, Java, and C++. The texts also include snippets of English and other languages, often with a focus on character encoding, such as UTF-8, and URI schemes."

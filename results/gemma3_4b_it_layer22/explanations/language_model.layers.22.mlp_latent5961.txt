@@ -1,0 +1,1 @@
+"Various dates and time-related expressions, including specific days of the week, months, years, and time intervals, often used to schedule events, appointments, or activities."

@@ -1,0 +1,1 @@
+"The token \"null\" is often used to represent the absence of a value or an object, and is frequently used in programming contexts to indicate a null or void state."

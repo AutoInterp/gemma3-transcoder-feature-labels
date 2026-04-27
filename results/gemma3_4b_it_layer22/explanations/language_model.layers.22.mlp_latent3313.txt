@@ -1,0 +1,1 @@
+"Common pattern of a for-loop in various programming languages, used for repetitive tasks or iterating over collections."

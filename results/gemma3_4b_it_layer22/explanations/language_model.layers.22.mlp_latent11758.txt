@@ -1,0 +1,1 @@
+"SQL code snippets, database table structures, and queries, often containing keywords and syntax related to database management systems such as MySQL, PostgreSQL, and SQL Server."

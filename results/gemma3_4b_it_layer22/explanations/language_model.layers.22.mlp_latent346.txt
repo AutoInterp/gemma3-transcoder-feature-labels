@@ -1,0 +1,1 @@
+"HTML and XML code snippets, often containing attribute-value pairs, tags, and class names, used for styling and layout in web development."

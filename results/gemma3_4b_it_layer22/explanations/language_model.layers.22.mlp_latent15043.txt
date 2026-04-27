@@ -1,0 +1,1 @@
+"Geographic locations, such as cities, roads, and landmarks, often accompanied by postal codes or addresses, and sometimes used as part of a larger address or venue description."

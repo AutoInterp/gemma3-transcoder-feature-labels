@@ -1,0 +1,1 @@
+"Code snippets and instructions for various programming tasks, including setting up projects, creating new files, and implementing specific features."

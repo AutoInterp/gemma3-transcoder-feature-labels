@@ -1,0 +1,1 @@
+"Text snippets often contain file paths, directory names, and executable names, which are frequently used in programming and development contexts."

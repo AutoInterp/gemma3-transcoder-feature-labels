@@ -1,0 +1,1 @@
+"Code snippets and programming syntax, often in Java or other languages, embedded within a larger text."

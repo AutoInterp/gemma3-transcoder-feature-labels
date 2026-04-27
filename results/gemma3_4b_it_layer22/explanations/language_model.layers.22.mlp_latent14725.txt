@@ -1,0 +1,1 @@
+"Large numbers and financial data are often used to convey information about economic trends, investments, and market analysis."

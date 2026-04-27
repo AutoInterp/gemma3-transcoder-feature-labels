@@ -1,0 +1,1 @@
+"Delimiters are used to indicate the start and end of a specific section of text, such as a definition, a list, a code snippet, or a quotation. They often contain important information, and their presence is accompanied by a significant increase in activation values for the surrounding tokens."

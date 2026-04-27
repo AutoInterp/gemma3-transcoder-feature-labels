@@ -1,0 +1,1 @@
+"Texts often contain specific phrases or sentences that provide additional context or information, usually set apart from the main narrative by being placed on a new line or preceded by a delimiter. These phrases frequently contain numerical data, statistics, or specific details that are not essential to the main storyline."

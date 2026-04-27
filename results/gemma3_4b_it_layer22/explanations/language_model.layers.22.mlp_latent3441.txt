@@ -1,0 +1,1 @@
+"Texts containing technical information, such as programming code, system configurations, and software versions, often accompanied by activation values indicating the importance of specific tokens."

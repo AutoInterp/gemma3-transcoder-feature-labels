@@ -1,0 +1,1 @@
+"Texts discussing character encoding, encoding schemes, and data encoding in various contexts, including programming, networking, and data representation."

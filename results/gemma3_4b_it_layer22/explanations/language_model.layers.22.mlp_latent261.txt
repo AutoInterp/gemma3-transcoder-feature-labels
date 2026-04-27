@@ -1,0 +1,1 @@
+"Texts that are cut off mid-sentence or mid-paragraph, often with a significant portion of the content missing."

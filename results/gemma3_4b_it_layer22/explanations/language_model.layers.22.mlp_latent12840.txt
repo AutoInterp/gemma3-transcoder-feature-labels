@@ -1,0 +1,1 @@
+"Texts describing technical concepts, mathematical formulas, and programming code, often with a focus on problem-solving and optimization."

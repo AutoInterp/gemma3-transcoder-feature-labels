@@ -1,0 +1,1 @@
+"A collection of numerical values, often representing measurements, quantities, or results, frequently appearing in scientific, technical, or statistical contexts."

@@ -1,0 +1,1 @@
+"Texts from various domains, including news articles, product descriptions, and academic papers, with a focus on extracting key phrases and understanding the context in which they are used."

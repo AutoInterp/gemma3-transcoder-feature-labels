@@ -1,0 +1,1 @@
+"Code snippets and programming concepts, including function definitions, variable declarations, and conditional statements, often found in programming languages such as Java, C#, and PHP."

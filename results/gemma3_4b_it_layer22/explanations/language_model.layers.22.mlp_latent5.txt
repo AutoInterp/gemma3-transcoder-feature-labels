@@ -1,0 +1,1 @@
+"Texts often end with a delimiter (<eos>) and contain a mix of formal and informal language, including technical jargon, idioms, and colloquial expressions. The texts also frequently include URLs, citations, and references, indicating a focus on information sharing and knowledge dissemination."

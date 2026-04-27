@@ -1,0 +1,1 @@
+"Text contains mathematical and scientific concepts, including formulas, theorems, and explanations of various mathematical and computational concepts, such as factorials, permutations, and transfinite recursion."

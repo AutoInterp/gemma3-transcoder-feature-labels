@@ -1,0 +1,1 @@
+"Code snippets and configuration files from various programming languages and systems, including bash scripts, Python, C, and others, often containing comments, error messages, and usage instructions."

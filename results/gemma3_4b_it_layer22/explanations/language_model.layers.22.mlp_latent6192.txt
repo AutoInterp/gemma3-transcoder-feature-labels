@@ -1,0 +1,1 @@
+"Text describing mathematical concepts, algorithms, and theories, often referencing specific equations, formulas, and theorems, with a focus on computer science, calculus, and discrete mathematics."

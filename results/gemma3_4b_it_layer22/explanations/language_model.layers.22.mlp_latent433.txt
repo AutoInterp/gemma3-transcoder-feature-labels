@@ -1,0 +1,1 @@
+"HTML and CSS code snippets, including class names, attribute values, and variable names, often related to web development and design."

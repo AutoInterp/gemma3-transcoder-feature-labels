@@ -1,0 +1,1 @@
+"Various programming languages and frameworks, including Java, JavaScript, Python, and Spring, with a focus on class and function definitions, variable declarations, and method implementations."

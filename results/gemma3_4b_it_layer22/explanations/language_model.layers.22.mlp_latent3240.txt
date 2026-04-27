@@ -1,0 +1,1 @@
+"SQL commands and database schema definitions, including table creation and modification, along with license headers and copyright notices."

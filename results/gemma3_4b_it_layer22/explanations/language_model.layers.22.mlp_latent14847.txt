@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, primarily C++ and Haskell, showcasing syntax and function calls, as well as mathematical expressions and data structures."

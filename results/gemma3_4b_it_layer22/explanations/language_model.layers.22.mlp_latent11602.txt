@@ -1,0 +1,1 @@
+"Text fragments containing numerical data, URLs, or specific information, often used to provide context or reference in a larger text."

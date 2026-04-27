@@ -1,0 +1,1 @@
+"The token \"0.\" is often used as a decimal point in numerical values, and is frequently accompanied by other numerical values, mathematical operations, and scientific notation."

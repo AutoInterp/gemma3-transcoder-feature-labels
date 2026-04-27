@@ -1,0 +1,1 @@
+"Color information and RGB values in hexadecimal and RGB format, often accompanied by CMYK values and color charts."

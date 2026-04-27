@@ -1,0 +1,1 @@
+"Various HTTP-related terms, concepts, and protocols, including client and server configurations, request and response headers, authentication methods, and security threats."

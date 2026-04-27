@@ -1,0 +1,1 @@
+"Text snippets often contain dates, times, and specific locations, as well as quotes, names, and titles."

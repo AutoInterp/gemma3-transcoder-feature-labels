@@ -1,0 +1,1 @@
+"Directory paths and file names, often used as context or examples in text."

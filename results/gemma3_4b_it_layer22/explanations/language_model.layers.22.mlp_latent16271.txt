@@ -1,0 +1,1 @@
+"Text discussing Riemannian geometry, differential topology, and various mathematical concepts, including distance calculations, vector magnitudes, and curvature."

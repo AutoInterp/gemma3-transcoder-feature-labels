@@ -1,0 +1,1 @@
+"Texts with low activation values are often introductory phrases, sentences, or paragraphs, while those with higher activation values are often key phrases, sentences, or paragraphs that convey important information or contain crucial details."

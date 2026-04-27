@@ -1,0 +1,1 @@
+"String literals and variable names in various programming languages."

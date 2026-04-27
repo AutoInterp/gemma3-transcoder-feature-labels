@@ -1,0 +1,1 @@
+"Text snippets from technical documentation, tutorials, and programming guides, often containing instructions, code examples, and troubleshooting advice."

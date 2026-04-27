@@ -1,0 +1,1 @@
+"Text excerpts often contain URLs, technical documentation, or instructions, frequently with a formal or informative tone, and sometimes with a warning or disclaimer."

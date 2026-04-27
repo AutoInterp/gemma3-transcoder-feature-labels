@@ -1,0 +1,1 @@
+"Texts often contain references to external materials, such as figures, equations, and external sources, which are typically denoted by phrases like \"as shown in Figure 3\" or \"according to Thompson\". These phrases often serve as a transition to a new idea or concept, and may be accompanied by citations or references to external sources."

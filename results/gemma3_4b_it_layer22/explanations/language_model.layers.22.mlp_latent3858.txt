@@ -1,0 +1,1 @@
+"Various programming code snippets and text from online platforms, including Wikipedia, Stack Overflow, and GitHub, with a focus on technical topics such as programming languages, IRC protocols, and data structures."

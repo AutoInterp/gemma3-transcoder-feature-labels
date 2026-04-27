@@ -1,0 +1,1 @@
+"Text snippets containing HTML tags, CSS classes, and programming code, often used for formatting and styling purposes."

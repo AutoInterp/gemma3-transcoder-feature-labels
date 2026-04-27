@@ -1,0 +1,1 @@
+"Texts often contain URLs, phone numbers, and email addresses, which are frequently accompanied by calls to action, such as \"visit our website\" or \"register now\"."

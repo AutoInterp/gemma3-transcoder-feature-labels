@@ -1,0 +1,1 @@
+"Various email headers, metadata, and HTML code snippets, often containing information about sender, recipient, date, time, and other details."

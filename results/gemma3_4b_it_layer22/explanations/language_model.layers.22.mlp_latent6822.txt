@@ -1,0 +1,1 @@
+"Various Java-related terms and concepts, including classes, methods, interfaces, annotations, and packages, often used in the context of programming and software development."

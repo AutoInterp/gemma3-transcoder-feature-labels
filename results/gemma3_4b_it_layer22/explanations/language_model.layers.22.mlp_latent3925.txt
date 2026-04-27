@@ -1,0 +1,1 @@
+"Texts enclosed in << >> delimiters often represent disclaimers, warnings, or legal statements, typically found at the end of a document or article, and may include information about website availability, data accuracy, or liability."

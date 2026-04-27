@@ -1,0 +1,1 @@
+"Various types of text, including academic papers, news articles, and online content, with a focus on extracting specific information such as dates, names, and technical terms."

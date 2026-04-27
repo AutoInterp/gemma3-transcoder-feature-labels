@@ -1,0 +1,1 @@
+"Texts often contain lists of information, cyclical or repetitive information, and relationships between parts, such as overlapping concepts."

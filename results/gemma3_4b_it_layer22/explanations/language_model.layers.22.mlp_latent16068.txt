@@ -1,0 +1,1 @@
+"The token \"to\" is often used as a delimiter in phrases describing a process or transition, and the token \"in\" is frequently used to indicate a location or state."

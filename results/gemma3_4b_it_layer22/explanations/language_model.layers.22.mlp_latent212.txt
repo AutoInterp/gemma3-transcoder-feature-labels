@@ -1,0 +1,1 @@
+"Texts often contain quotes, references to external sources, or links to external information, which are frequently denoted by phrases such as \"I recommend\", \"reprinted in\", or \"Learn more about\"."

@@ -1,0 +1,1 @@
+"Code snippets in various programming languages, including C, C++, and JavaScript, often used for demonstration or educational purposes, and sometimes containing mathematical or scientific concepts."

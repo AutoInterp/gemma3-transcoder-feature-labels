@@ -1,0 +1,1 @@
+"Various types of text data, including academic citations, phone numbers, email addresses, URLs, and programming code, often appearing in isolation."

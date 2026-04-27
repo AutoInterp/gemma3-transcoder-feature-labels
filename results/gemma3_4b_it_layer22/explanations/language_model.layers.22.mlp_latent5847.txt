@@ -1,0 +1,1 @@
+"Phrases describing a team's performance in a game, including scores, player actions, and tournament outcomes."

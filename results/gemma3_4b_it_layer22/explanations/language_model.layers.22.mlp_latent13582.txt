@@ -1,0 +1,1 @@
+"Texts describing mathematical concepts, programming techniques, and data structures, often involving numbers, variables, and algorithms."

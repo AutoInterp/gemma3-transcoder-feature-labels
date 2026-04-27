@@ -1,0 +1,1 @@
+"A common pattern of text is the use of a phrase or sentence that is set apart from the rest of the text, often to provide additional information or context, and is typically denoted by a delimiter such as \"ligand-receptor interactions\" or \"Love and peace\"."

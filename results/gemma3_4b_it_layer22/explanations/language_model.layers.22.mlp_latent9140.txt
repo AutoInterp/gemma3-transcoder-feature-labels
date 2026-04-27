@@ -1,0 +1,1 @@
+"Texts from various sources, including scientific papers, historical accounts, and educational materials, often contain phrases or sentences that are not directly related to the main topic, but rather serve as references, citations, or explanations. These phrases are often marked by delimiters, and their importance is indicated by activation values."

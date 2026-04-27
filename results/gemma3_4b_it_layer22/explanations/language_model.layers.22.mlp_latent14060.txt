@@ -1,0 +1,1 @@
+"Various mathematical formulas and equations, including algebraic expressions, trigonometric functions, and statistical calculations, often used in programming and problem-solving contexts."

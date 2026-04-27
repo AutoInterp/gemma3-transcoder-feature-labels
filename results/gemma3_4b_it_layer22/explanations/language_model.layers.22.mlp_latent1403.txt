@@ -1,0 +1,1 @@
+"Various programming code snippets, including Java, Spring, JUnit, and JavaScript, as well as HTML and XML fragments, and text from articles, books, and online sources."

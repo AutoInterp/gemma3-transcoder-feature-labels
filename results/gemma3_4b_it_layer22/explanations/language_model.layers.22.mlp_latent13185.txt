@@ -1,0 +1,1 @@
+"Ranges of time or quantities expressed in numerical values with units, often used for comparison or measurement."

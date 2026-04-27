@@ -1,0 +1,1 @@
+"Code snippets and mathematical expressions in various programming languages and formats, including SQL, R, and Python, as well as mathematical equations and formulas in LaTeX."

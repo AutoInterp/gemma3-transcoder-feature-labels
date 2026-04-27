@@ -1,0 +1,1 @@
+"Time expressions and schedules, often in the format of hours and minutes, sometimes with dates, used to convey specific events or routines."

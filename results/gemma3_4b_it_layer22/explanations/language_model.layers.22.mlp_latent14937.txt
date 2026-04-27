@@ -1,0 +1,1 @@
+"Texts often contain phrases indicating a comparison or a range, such as \"more than\", \"over\", \"up to\", and \"twice the size of\", as well as phrases indicating a specific time or location, like \"since\", \"in\", \"on\", and \"at\"."

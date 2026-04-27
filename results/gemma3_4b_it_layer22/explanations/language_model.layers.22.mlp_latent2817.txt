@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are intentionally blurred, censored, or omitted, such as preview sections, code snippets, or sensitive information."

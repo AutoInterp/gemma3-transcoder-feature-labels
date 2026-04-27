@@ -1,0 +1,1 @@
+"Textual fragments containing numerical data, scientific references, and technical specifications, often related to research, measurements, and comparisons."

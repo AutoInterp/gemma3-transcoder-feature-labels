@@ -1,0 +1,1 @@
+"Various programming and configuration files, including scripts, configuration files, and documentation, often containing code snippets, commands, and syntax examples."

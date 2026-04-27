@@ -1,0 +1,1 @@
+"Texts are often terminated with HTML tags, specifically \"<eos>\" or \"<eos>!!\", indicating the end of a snippet or a section."

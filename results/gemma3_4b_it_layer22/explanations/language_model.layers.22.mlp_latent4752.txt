@@ -1,0 +1,1 @@
+"Texts containing incomplete or nonsensical phrases, likely due to truncation or errors in the data, often followed by a clear and coherent sentence or paragraph."

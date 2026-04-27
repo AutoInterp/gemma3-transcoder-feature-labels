@@ -1,0 +1,1 @@
+"Java code snippets from various Android and Java projects, containing class definitions, method implementations, and XML layout files."
