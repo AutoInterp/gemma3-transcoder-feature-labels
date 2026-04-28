@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are enclosed in delimiters, which are likely used to highlight or emphasize specific information, such as names, titles, or important details."

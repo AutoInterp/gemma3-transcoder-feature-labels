@@ -1,0 +1,1 @@
+"Texts containing SQL code, database-related concepts, and technical information about various programming languages and technologies, including Oracle, MySQL, and Windows Mobile."

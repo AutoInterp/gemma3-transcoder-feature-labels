@@ -1,0 +1,1 @@
+"HTML code snippets with variable names and descriptions, often related to UI components and styling."

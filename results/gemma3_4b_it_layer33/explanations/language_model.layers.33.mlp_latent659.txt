@@ -1,0 +1,1 @@
+"Text snippets often contain specific keywords or phrases that are not necessarily related to the main topic, but rather serve as metadata, such as article titles, author names, dates, or links."

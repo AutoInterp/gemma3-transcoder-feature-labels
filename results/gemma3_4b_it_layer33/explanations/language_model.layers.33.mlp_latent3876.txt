@@ -1,0 +1,1 @@
+"Text fragments often appear at the beginning or end of a sentence, and sometimes in the middle, and are typically enclosed in angle brackets or other delimiters. These fragments are often used to indicate a quote, a reference, or a citation, and may contain URLs, email addresses, or other types of metadata."

@@ -1,0 +1,1 @@
+"Texts with low activation values are likely to be irrelevant or uninformative, while those with high activation values are often important phrases or sentences."

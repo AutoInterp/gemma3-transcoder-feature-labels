@@ -1,0 +1,1 @@
+"Code snippets in various programming languages, including SQL, Java, and C#, often with comments and documentation."

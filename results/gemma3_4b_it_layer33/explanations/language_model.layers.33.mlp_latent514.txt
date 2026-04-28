@@ -1,0 +1,1 @@
+"Various types of text data, including bibliographic references, dates, measurements, and numerical calculations, often presented in a formal or structured format."

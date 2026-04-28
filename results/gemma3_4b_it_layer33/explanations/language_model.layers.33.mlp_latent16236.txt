@@ -1,0 +1,1 @@
+"Texts often contain proper nouns, such as names of people, places, and organizations, which are frequently associated with high activation values. Additionally, technical terms and specialized vocabulary in various fields, like medicine, law, and computer science, are also prominent in the text, often with high activation values."

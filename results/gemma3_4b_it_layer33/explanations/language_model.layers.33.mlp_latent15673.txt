@@ -1,0 +1,1 @@
+"The token \"year\" or its variants (\"years\", \"yearly\", \"annually\") frequently appears in text, often in relation to recurring events, milestones, or timeframes."

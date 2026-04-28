@@ -1,0 +1,1 @@
+"Code snippets in various programming languages, including SQL, Java, Python, and PHP, with varying levels of complexity and functionality."

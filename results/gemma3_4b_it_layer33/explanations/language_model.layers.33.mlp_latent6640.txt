@@ -1,0 +1,1 @@
+"The token \"temperature\" and its variants, often used in the context of physical properties, such as room temperature, ambient temperature, or high temperatures, and sometimes related to scientific concepts like entropy, heat, and thermal properties."

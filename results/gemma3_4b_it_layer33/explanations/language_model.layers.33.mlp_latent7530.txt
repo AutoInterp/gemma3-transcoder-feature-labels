@@ -1,0 +1,1 @@
+"Texts from various programming languages, including Java, Swift, JavaScript, and SQL, as well as Chinese and English texts from different domains such as computer science, technology, and social sciences. The common pattern is the presence of code snippets, programming concepts, and technical terms."

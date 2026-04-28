@@ -1,0 +1,1 @@
+"Text fragments that appear to be lists or enumerations of items, often related to a specific domain or concept, such as geography, technology, or social issues."

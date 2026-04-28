@@ -1,0 +1,1 @@
+"Text fragments often appear at the beginning or end of a sentence, and sometimes in the middle, and are typically enclosed in double angle brackets. These fragments are often related to the content of the surrounding text, and may be used to provide additional information, context, or emphasis."

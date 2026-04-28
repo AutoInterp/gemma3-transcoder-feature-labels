@@ -1,0 +1,1 @@
+"Texts often contain redundant or unnecessary information, sometimes in the form of quotes or descriptions, which can be removed without affecting the overall meaning."

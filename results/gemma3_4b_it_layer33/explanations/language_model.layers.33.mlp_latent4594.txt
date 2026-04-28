@@ -1,0 +1,1 @@
+"Code snippets and programming concepts, including SQL queries, function definitions, and variable declarations, often with comments and explanations."

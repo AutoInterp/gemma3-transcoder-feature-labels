@@ -1,0 +1,1 @@
+"Texts often contain long phrases or sentences that are not crucial to the main meaning, but provide additional context or information. These phrases are often preceded by a delimiter, and their importance is reflected in the activation values, which are generally lower than those of more critical tokens."

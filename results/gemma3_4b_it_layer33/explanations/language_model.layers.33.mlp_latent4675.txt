@@ -1,0 +1,1 @@
+"Texts often contain HTML tags, code snippets, and special characters, which are frequently used to format and structure content, and sometimes to represent emphasis or links."

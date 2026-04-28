@@ -1,0 +1,1 @@
+"SQL code snippets, including table and column definitions, queries, and data types, as well as programming code in various languages such as C++, Java, and Swift."

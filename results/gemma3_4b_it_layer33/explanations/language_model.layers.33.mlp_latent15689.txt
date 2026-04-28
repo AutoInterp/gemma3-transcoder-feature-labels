@@ -1,0 +1,1 @@
+"Texts containing URLs, dates, and specific information such as addresses, names, and technical terms, often found in informative or reference contexts."

@@ -1,0 +1,1 @@
+"URLs and links to external resources, often embedded within text or code snippets, frequently accompanied by activation values for HTML elements, images, or other web-related content."

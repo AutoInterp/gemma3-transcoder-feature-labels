@@ -1,0 +1,1 @@
+"Various file paths and URLs, often used as identifiers or references, and sometimes containing specific keywords or phrases."

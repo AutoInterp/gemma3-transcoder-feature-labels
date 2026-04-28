@@ -1,0 +1,1 @@
+"Text snippets often found at the end of a block of code, a paragraph, or a section, typically indicating the end of a quote, a link, or a reference."

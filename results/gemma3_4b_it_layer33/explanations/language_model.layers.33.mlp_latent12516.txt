@@ -1,0 +1,1 @@
+"Texts from various programming and mathematical contexts, including algorithm descriptions, mathematical theorems, and code snippets, with a focus on problem-solving and computational complexity."

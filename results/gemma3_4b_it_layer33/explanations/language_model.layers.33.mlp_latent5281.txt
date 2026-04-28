@@ -1,0 +1,1 @@
+"Various types of text data, including technical specifications, medical information, news articles, personal stories, and abstracts, often containing dates, times, and numerical values."

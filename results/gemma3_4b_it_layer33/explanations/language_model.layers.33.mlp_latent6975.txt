@@ -1,0 +1,1 @@
+"Texts often contain phrases that introduce a list of examples, such as \"such as\" or \"for instance\", and phrases that describe a concept or idea, such as \"out of many, one\". Additionally, texts may contain phrases that describe a process or procedure, such as \"step-by-step pathway\" or \"due process procedures\"."

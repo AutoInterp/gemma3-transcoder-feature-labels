@@ -1,0 +1,1 @@
+"Various phrases and sentences that are likely to be extracted or removed from the text, such as email addresses, phone numbers, URLs, and other irrelevant information."

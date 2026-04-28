@@ -1,0 +1,1 @@
+"Various numerical values, including dates, times, and quantities, often in scientific or technical contexts, frequently accompanied by activation values for specific tokens such as numbers, punctuation, and special characters."

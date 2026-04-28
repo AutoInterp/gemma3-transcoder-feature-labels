@@ -1,0 +1,1 @@
+"Text fragments often appear between delimiters, frequently containing citations, references, or external links, indicating a pattern of separating main content from supplementary information."

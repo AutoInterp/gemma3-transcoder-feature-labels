@@ -1,0 +1,1 @@
+"Various monetary values and currency symbols, often used to describe prices, costs, or financial transactions."

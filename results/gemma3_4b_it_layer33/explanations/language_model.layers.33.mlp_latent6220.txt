@@ -1,0 +1,1 @@
+"Text fragments containing names, titles, and event information, often found at the beginning or end of articles, and sometimes used as a delimiter to separate different sections of text."

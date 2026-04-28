@@ -1,0 +1,1 @@
+"Code snippets in various programming languages, including Java, C#, Python, and JavaScript, often containing function calls, variable declarations, and conditional statements."

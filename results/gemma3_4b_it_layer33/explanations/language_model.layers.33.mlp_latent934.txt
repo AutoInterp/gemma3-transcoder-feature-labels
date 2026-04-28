@@ -1,0 +1,1 @@
+"Text fragments with low activation values, often indicating irrelevant or unrelated content, such as website navigation, error messages, or unrelated conversations."

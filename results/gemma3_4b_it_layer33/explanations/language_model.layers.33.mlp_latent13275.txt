@@ -1,0 +1,1 @@
+"Technical documentation and programming code snippets, primarily related to web development, database management, and application deployment, with a focus on Heroku and Postgres."

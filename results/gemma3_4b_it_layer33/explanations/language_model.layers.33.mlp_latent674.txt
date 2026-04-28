@@ -1,0 +1,1 @@
+"Text fragments enclosed by delimiters often represent standalone statements, quotes, or titles, and are frequently used to separate main content from supplementary information."

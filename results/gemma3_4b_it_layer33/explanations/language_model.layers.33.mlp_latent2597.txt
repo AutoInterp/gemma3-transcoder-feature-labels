@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including C, Python, and Ruby, with comments and variable names in English and other languages such as Persian."

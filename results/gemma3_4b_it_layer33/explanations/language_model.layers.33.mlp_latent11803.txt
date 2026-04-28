@@ -1,0 +1,1 @@
+"Texts often contain long phrases or sentences that are not crucial to the main idea, but are included for context or to provide additional information. These phrases are often marked by a decrease in activation values, indicating that they are less important for the overall meaning of the text."

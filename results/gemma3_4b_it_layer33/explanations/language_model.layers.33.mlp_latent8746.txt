@@ -1,0 +1,1 @@
+"Text fragments that are likely to be quotes or phrases that have been cut off, often with a trailing ellipsis."

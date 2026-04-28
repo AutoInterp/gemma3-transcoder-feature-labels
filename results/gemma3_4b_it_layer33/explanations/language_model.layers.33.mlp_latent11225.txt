@@ -1,0 +1,1 @@
+"Texts describing technical concepts, programming, and software development, including explanations of programming languages, data structures, and algorithms, as well as descriptions of software tools and frameworks."

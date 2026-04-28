@@ -1,0 +1,1 @@
+"Text snippets often contain URLs, code snippets, and external links, indicating a mix of informative and technical content."

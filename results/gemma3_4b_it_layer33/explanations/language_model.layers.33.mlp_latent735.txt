@@ -1,0 +1,1 @@
+"Text fragments that appear to be the start of a sentence or a thought, often followed by a pause or a change in topic, indicated by the presence of a delimiter."

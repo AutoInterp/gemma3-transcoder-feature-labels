@@ -1,0 +1,1 @@
+"Various programming code snippets, database queries, and mathematical expressions, often in a specific programming language, such as Java or Python, or a markup language, such as HTML or XML."

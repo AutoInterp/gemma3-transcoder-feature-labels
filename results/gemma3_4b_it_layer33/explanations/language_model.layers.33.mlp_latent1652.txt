@@ -1,0 +1,1 @@
+"Various types of code snippets, including programming code, configuration settings, and command-line arguments, often containing specific keywords or values."

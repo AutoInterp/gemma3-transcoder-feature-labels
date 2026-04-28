@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are set apart from the rest of the text, sometimes indicating a quote, a separate thought, or a distinct idea. These phrases or sentences may be enclosed in special markers or may be separated from the rest of the text by a blank line or a delimiter."

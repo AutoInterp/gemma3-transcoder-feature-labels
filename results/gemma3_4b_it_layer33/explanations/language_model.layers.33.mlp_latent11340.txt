@@ -1,0 +1,1 @@
+"Texts that are likely to be quotes, often with a high activation score, frequently appear in a standalone format, sometimes with a preceding phrase or sentence."

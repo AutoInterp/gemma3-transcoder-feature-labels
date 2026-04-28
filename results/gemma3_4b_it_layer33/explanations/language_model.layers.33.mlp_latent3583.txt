@@ -1,0 +1,1 @@
+"Text fragments that are cut off or truncated, often due to a programming or technical issue, such as a code block being too long or a text being too large to fit within a certain character limit."

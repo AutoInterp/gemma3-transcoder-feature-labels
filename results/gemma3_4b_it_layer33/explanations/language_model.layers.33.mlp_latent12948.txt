@@ -1,0 +1,1 @@
+"Geographic directions and locations, often in the format of city names followed by a cardinal direction (e.g. Northeast, Northwest, etc.) or a specific location (e.g. South Rim, Far South, etc.)."

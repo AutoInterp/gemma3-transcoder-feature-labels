@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are enclosed in delimiters, which appear to be explanations, instructions, or definitions, and are sometimes followed by a list of items or a specific example."

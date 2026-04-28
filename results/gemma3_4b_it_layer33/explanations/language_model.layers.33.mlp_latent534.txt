@@ -1,0 +1,1 @@
+"Text snippets containing various types of data, including geographical information, dates, times, URLs, code snippets, and scientific data, often in a format that is not typical of natural language."

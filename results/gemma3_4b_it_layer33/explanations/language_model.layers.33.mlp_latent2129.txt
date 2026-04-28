@@ -1,0 +1,1 @@
+"Text fragments often appear in a standalone manner, sometimes with a score or rating, and sometimes as part of a larger text. These fragments can be quotes, comments, or other types of text that are not necessarily connected to the surrounding context."

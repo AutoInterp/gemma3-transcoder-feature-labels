@@ -1,0 +1,1 @@
+"Texts that are not part of the main content, such as quotes, song lyrics, or external links, are often marked with a high activation value, indicating their importance in the context."

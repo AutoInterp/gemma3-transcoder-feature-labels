@@ -1,0 +1,1 @@
+"Text fragments containing numerical values, often representing prices, rankings, or quantities, and sometimes accompanied by dates or other contextual information."

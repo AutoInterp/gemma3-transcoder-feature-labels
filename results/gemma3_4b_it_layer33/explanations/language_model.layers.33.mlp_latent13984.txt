@@ -1,0 +1,1 @@
+"Text snippets often appear in a specific format, typically with a title or description, followed by a list of details, and sometimes a price or other relevant information."

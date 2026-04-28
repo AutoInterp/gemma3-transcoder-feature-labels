@@ -1,0 +1,1 @@
+"Temperature values in degrees Celsius, often used in scientific or technical contexts."

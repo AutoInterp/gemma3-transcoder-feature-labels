@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including Perl, C, C++, Java, and Python, with a focus on mathematical and algorithmic concepts, as well as data analysis and scientific computing."

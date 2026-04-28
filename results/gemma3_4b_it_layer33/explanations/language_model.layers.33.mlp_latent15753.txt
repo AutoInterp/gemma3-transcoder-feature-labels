@@ -1,0 +1,1 @@
+"Ranges of values, often numerical, used to describe a spectrum or a scale, frequently used in scientific, technical, or descriptive contexts."

@@ -1,0 +1,1 @@
+"The token \"sheet\" is used to refer to various objects, including a flat piece of material, a document, a layer of something, or a collection of items."

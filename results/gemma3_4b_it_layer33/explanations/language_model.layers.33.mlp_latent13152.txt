@@ -1,0 +1,1 @@
+"Texts describing technical concepts, protocols, and processes, often related to computer networking, communication, and system management, frequently including programming code and terminology."

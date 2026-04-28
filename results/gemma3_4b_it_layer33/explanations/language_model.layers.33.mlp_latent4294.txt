@@ -1,0 +1,1 @@
+"Texts with low activation values, indicating unimportant or filler content, often found in metadata, formatting, or unrelated information."

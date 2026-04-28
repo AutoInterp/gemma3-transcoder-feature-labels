@@ -1,0 +1,1 @@
+"Code snippets in various programming languages, including Chinese comments and variable names, with a focus on mathematical and algorithmic problems."

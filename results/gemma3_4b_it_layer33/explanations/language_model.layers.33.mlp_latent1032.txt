@@ -1,0 +1,1 @@
+"Texts in multiple languages, including Russian, English, and Greek, containing various types of data, such as SQL queries, programming code, and articles on mathematics and science."

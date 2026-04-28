@@ -1,0 +1,1 @@
+"Texts often contain proper nouns, technical terms, and names of objects, locations, and people, which are frequently accompanied by descriptive phrases or explanations."

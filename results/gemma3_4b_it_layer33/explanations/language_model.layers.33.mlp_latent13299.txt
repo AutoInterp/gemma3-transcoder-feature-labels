@@ -1,0 +1,1 @@
+"Text samples from various programming languages, markup languages, and programming frameworks, including Java, JavaScript, Python, HTML, and SQL, as well as mathematical and scientific expressions, and code snippets from different operating systems and software applications."

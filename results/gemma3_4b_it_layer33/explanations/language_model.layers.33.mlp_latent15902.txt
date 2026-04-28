@@ -1,0 +1,1 @@
+"Long blocks of text, often containing complex sentences or paragraphs, with low activation values for individual tokens, suggesting that the patterns of interest are not in the individual words but rather in the structure and organization of the text."

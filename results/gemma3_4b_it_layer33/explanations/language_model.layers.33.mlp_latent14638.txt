@@ -1,0 +1,1 @@
+"Code snippets and programming concepts, including variable declarations, data types, loops, and function calls, often with a focus on numerical operations and data manipulation."

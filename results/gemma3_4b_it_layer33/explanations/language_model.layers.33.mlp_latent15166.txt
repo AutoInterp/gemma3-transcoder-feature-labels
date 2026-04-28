@@ -1,0 +1,1 @@
+"Various numerical values, dates, and time ranges, often used to describe quantities, durations, or frequencies."

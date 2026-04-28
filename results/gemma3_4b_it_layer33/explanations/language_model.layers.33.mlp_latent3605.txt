@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including SQL, Java, Python, and C++, as well as text from documentation, articles, and other written content. The patterns found in these examples include code syntax, variable and function names, and text formatting, indicating a mix of technical and non-technical writing."

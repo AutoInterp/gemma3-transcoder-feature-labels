@@ -1,0 +1,1 @@
+"Various code snippets and text fragments from different programming languages, databases, and markup languages, including SQL, Python, PHP, JavaScript, and HTML."

@@ -1,0 +1,1 @@
+"Text snippets often contain company names, product names, and other proper nouns, frequently appearing in financial or business contexts."

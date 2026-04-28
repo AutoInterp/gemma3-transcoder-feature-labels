@@ -1,0 +1,1 @@
+"Text fragments often containing names, dates, and locations, possibly indicating the beginning of an article or news report."

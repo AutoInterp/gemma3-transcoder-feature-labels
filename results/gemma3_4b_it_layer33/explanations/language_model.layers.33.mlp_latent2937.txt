@@ -1,0 +1,1 @@
+"The token \"r\" appears in various contexts, including abbreviations for words (e.g., \"r\" in \"rills\", \"r\" in \"rorting\", \"r\" in \"ruby\", \"r\" in \"r.sun\"), as a prefix in variable names (e.g., \"r\" in \"r.Latitud\"), and as a part of proper nouns (e.g., \"R\" in \"RADIANS\", \"R\" in \"R.sun\")."

@@ -1,0 +1,1 @@
+"Texts often contain citations, references, or external links, which are typically denoted by a specific format, such as a sequence of words or a specific punctuation mark, followed by a string of characters that may include numbers, letters, and special characters."

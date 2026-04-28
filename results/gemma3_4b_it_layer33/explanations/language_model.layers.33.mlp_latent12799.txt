@@ -1,0 +1,1 @@
+"Texts that contain a phrase or sentence that is set apart from the rest of the text, often to provide additional context or information, and is typically preceded by a delimiter."

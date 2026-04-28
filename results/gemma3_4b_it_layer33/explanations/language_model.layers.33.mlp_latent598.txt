@@ -1,0 +1,1 @@
+"Texts often contain long quotes or passages with low activation, possibly indicating a lack of importance or relevance to the surrounding context."

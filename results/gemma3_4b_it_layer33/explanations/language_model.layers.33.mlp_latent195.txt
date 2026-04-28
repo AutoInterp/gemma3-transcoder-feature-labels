@@ -1,0 +1,1 @@
+"Texts containing technical terms, programming concepts, and algorithmic descriptions, often with a focus on software development, data analysis, and machine learning."

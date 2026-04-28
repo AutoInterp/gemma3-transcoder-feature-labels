@@ -1,0 +1,1 @@
+"Various numerical values and percentages are presented in scientific notation, decimal form, or as fractions, often accompanied by units of measurement, and sometimes with error margins or standard deviations."

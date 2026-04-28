@@ -1,0 +1,1 @@
+"The token \"float\" or \"floating\" is used in various contexts, including idioms (e.g. \"floating around\"), physical objects (e.g. \"floating needle\", \"floating bicycle\"), and abstract concepts (e.g. \"floating rate\", \"floating point\")."

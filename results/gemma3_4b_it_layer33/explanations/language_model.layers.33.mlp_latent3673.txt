@@ -1,0 +1,1 @@
+"Text fragments often contain extraneous or irrelevant information, such as formatting codes, HTML tags, or other non-essential content, which can be identified by their low activation values."

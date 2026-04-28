@@ -1,0 +1,1 @@
+"Code snippets in various programming languages, including Python, R, and SQL, with a focus on geographic information systems (GIS), data analysis, and scripting."

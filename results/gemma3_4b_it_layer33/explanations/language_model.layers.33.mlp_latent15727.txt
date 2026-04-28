@@ -1,0 +1,1 @@
+"Large numbers and quantities are often expressed in a specific format, typically with a comma separating groups of three digits, and sometimes with a hyphen or a word like \"thousand\" or \"million\" to indicate the magnitude."

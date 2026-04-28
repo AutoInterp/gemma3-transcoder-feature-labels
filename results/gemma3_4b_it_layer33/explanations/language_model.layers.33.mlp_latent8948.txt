@@ -1,0 +1,1 @@
+"Text fragments with low activation values, often containing nonsensical or unrelated information, possibly indicating spam or irrelevant content."

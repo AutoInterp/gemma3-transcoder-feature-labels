@@ -1,0 +1,1 @@
+"Texts are often divided into 25-letter blocks, and the provided activations are usually short phrases or sentences, indicating a focus on short, fragmented pieces of information."

@@ -1,0 +1,1 @@
+"Various numerical values and codes, including hex color codes, RGB values, and numerical data, often used in programming and technical contexts."

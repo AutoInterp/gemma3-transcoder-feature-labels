@@ -1,0 +1,1 @@
+"Texts often contain proper nouns, names of people, places, and organizations, which are frequently associated with high activation values. Additionally, idiomatic expressions, quotes, and phrases with specific meanings are also present, often with high activation values."

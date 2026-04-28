@@ -1,0 +1,1 @@
+"Texts related to mathematics, specifically linear algebra and vector operations, including concepts such as eigenvectors, rotation matrices, and sparse coordinates."

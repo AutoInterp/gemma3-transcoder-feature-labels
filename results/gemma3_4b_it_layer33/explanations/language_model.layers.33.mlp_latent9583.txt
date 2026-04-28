@@ -1,0 +1,1 @@
+"Various programming code snippets, comments, and documentation, including Java and C++ code, XML, and HTML, as well as text from articles, books, and websites."

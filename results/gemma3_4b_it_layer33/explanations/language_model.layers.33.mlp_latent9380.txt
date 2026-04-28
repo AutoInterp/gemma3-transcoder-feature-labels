@@ -1,0 +1,1 @@
+"HTML tags and code snippets embedded within text, often indicating a quote, link, or other interactive element."

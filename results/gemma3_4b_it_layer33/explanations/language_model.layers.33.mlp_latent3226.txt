@@ -1,0 +1,1 @@
+"Text containing HTML color codes and RGB values, often used to describe colors in digital design."

@@ -1,0 +1,1 @@
+"Code snippets in various programming languages, including Ruby, SQL, and C, with a focus on syntax highlighting and formatting."

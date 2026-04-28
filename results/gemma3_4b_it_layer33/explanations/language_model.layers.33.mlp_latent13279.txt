@@ -1,0 +1,1 @@
+"Texts often contain long sentences or phrases that are not crucial to the main idea, but provide additional context or information. These phrases are often marked by a low activation score, indicating that they are not as important as other parts of the text."

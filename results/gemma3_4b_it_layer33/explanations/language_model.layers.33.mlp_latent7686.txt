@@ -1,0 +1,1 @@
+"Text describing Git commands and concepts, including Git reset, HEAD, and mixed/default states, as well as programming topics such as asynchronous operations, IPv4/IPv6 checks, and string manipulation."

@@ -1,0 +1,1 @@
+"Text fragments that appear to be incomplete sentences or phrases, often indicating a cut-off or truncation of the original text, likely due to the presence of a delimiter."

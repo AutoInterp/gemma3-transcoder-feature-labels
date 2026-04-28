@@ -1,0 +1,1 @@
+"Periods at the end of a sentence, often with a low activation value, indicating a common punctuation mark in text."

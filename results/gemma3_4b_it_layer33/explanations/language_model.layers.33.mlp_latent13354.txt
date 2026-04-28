@@ -1,0 +1,1 @@
+"Text fragments often containing links, advertisements, or promotional content, frequently ending with a specific delimiter, and sometimes followed by additional text."

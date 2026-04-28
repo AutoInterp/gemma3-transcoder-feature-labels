@@ -1,0 +1,1 @@
+"Texts containing phrases or sentences that are cut off or truncated, often indicating a quote or a reference to another source, frequently with a low activation value."

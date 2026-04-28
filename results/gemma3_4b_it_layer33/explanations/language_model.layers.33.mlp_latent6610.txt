@@ -1,0 +1,1 @@
+"Texts often contain specific numbers and time-related phrases, such as years, months, days, and hours, used to describe durations, frequencies, and quantities."

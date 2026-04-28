@@ -1,0 +1,1 @@
+"Texts with low activation values are likely to be formal, informative, or technical, often containing abstract concepts, scientific terminology, or philosophical ideas."

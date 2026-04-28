@@ -1,0 +1,1 @@
+"Text snippets containing geographical locations, names, and dates, often in a format of a location followed by a date and time, or a name and a location."

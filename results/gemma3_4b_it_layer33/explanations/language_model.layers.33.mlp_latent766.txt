@@ -1,0 +1,1 @@
+"Text snippets often appear in pairs, with the first part being a statement or a question, and the second part being a continuation or an explanation, sometimes with a link or a reference."

@@ -1,0 +1,1 @@
+"Texts often contain extraneous information, and users are frequently asked to clip or remove unnecessary text before responding to a message."

@@ -1,0 +1,1 @@
+"Texts often contain long, complex sentences or phrases that are enclosed in delimiters, which may indicate a quote, a definition, or a parenthetical remark. These enclosed phrases often have high activation values, suggesting that they are important or meaningful in the context."

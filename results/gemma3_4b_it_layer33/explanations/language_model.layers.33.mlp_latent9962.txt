@@ -1,0 +1,1 @@
+"The token \"to\" is often used as a delimiter in idiomatic phrases, and the token \"kindly\" is sometimes used ironically."

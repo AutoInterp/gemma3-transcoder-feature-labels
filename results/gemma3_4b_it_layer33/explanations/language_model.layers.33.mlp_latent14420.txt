@@ -1,0 +1,1 @@
+"Underscored variable names and identifiers in various programming languages, often used to denote private or internal variables, or to follow naming conventions."

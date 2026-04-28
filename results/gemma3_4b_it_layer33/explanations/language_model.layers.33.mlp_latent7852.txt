@@ -1,0 +1,1 @@
+"Texts describing error messages, troubleshooting, and technical issues, often including code snippets and explanations of programming concepts."

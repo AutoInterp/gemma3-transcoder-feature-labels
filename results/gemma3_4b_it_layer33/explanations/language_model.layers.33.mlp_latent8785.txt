@@ -1,0 +1,1 @@
+"Text fragments containing specific information, such as dates, locations, and technical details, often found in citations, references, or code snippets."

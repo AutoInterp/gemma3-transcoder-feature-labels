@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including SQL, C++, Java, Swift, and Python, as well as configuration files and documentation from web servers like Apache."

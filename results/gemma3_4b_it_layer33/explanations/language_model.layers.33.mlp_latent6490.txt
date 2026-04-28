@@ -1,0 +1,1 @@
+"Texts containing technical information about encryption, data storage, and programming, with a focus on SQL, JavaScript, and Vue.js."

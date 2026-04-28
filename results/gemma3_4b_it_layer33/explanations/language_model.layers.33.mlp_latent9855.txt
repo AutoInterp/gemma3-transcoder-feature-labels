@@ -1,0 +1,1 @@
+"SQL code snippets from various database management systems, including MySQL and PostgreSQL, containing table and trigger definitions, as well as function and procedure implementations."

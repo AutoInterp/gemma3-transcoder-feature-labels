@@ -1,0 +1,1 @@
+"Code snippets and programming-related terms, including function and class names, variable types, and constants, often from various programming languages and frameworks."

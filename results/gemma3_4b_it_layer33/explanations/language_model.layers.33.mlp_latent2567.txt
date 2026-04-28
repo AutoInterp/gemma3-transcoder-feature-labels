@@ -1,0 +1,1 @@
+"Text fragments often appear between delimiters, which seem to be used to indicate a change in topic or a new idea, but sometimes they are incomplete or unrelated to the surrounding text."

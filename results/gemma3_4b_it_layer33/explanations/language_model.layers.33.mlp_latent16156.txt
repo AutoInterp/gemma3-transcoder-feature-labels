@@ -1,0 +1,1 @@
+"Various programming concepts, including data structures, algorithms, and object-oriented programming, as well as technical documentation and tutorials on programming languages and frameworks."

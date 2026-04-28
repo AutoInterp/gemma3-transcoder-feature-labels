@@ -1,0 +1,1 @@
+"Various programming-related terms, including class names, method names, variable names, and data types, often found in code comments, documentation, or code snippets."

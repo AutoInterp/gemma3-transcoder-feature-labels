@@ -1,0 +1,1 @@
+"Various sequences of numbers, often representing data or measurements, and sometimes accompanied by text describing their context or significance."

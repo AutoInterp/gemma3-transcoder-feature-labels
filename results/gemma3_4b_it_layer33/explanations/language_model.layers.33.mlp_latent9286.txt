@@ -1,0 +1,1 @@
+"Addresses and locations, often in the format of \"City, State/Province, Country\" or \"Street Address, City, State/Province, Country\", frequently followed by additional information such as names, dates, or descriptions."

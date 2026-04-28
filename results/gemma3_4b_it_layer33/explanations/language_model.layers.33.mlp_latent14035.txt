@@ -1,0 +1,1 @@
+"Text describing technical concepts, specifically network protocols and programming, with a focus on TCP and its states, as well as code snippets in various programming languages."

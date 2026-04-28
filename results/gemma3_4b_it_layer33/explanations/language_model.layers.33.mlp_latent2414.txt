@@ -1,0 +1,1 @@
+"Texts containing programming code, technical documentation, and algorithm explanations, often with a focus on data structures, encryption, and software development."

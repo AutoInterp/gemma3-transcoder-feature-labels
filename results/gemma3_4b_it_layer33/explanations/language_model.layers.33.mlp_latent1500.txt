@@ -1,0 +1,1 @@
+"The token \"A\" or \"A-\" is often a prefix to proper nouns, names of people, places, or concepts, indicating a specific or unique entity."

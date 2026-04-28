@@ -1,0 +1,1 @@
+"Text fragments enclosed in delimiters often contain standalone sentences, phrases, or paragraphs that are not directly related to the surrounding context, possibly indicating extracted or quoted information, or supplementary content."

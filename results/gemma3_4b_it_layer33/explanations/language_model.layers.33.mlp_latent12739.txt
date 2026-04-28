@@ -1,0 +1,1 @@
+"Texts are often separated by delimiters to indicate a change in topic or a new paragraph, and sometimes to enclose a quotation or a specific phrase."

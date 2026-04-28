@@ -1,0 +1,1 @@
+"Text fragments that appear to be metadata or formatting information, often containing dates, locations, and other contextual details."

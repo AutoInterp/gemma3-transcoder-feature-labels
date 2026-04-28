@@ -1,0 +1,1 @@
+"File paths and names, often used as input or references in code or text."

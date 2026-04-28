@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that have been cut off or truncated, indicated by the presence of an ellipsis (...) or a phrase like \"has to offer\" followed by a list of items."

@@ -1,0 +1,1 @@
+"Long sentences or phrases that are likely to be cut off or truncated, often at the end of a paragraph or section, indicating a possible pattern of text truncation."

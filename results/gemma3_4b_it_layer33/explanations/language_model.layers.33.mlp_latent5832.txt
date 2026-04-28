@@ -1,0 +1,1 @@
+"Text snippets often contain special characters, such as punctuation marks, symbols, and HTML tags, which are used to denote emphasis, formatting, or other stylistic elements."

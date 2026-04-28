@@ -1,0 +1,1 @@
+"Texts often contain proper nouns, such as names of locations, organizations, and people, which are frequently mentioned in conjunction with other words like \"Ltd.\", \"Co.\", and \"Inc.\". Additionally, there are instances of technical terms, abbreviations, and jargon from various fields, including computer science, aviation, and music."

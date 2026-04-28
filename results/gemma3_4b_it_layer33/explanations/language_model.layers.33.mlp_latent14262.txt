@@ -1,0 +1,1 @@
+"Texts discussing mathematical concepts, including fractions, binary and ternary numbers, algebra, statistics, and calculus, often accompanied by code snippets and technical jargon."

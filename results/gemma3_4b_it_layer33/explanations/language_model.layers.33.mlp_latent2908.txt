@@ -1,0 +1,1 @@
+"Texts in Chinese, mostly discussing technical topics such as programming, data analysis, and software development, with some articles and tutorials on specific technologies like RxJS and Observables."

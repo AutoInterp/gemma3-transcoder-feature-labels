@@ -1,0 +1,1 @@
+"Various phrases and sentences are often preceded by a delimiter, indicating a break in the text or a shift in context, and are followed by a quotation mark."

@@ -1,0 +1,1 @@
+"Texts often contain proper nouns, such as names of people, places, and organizations, which are frequently mentioned in conjunction with other words like \"of\", \"in\", \"to\", and \"the\". Additionally, texts may include phrases that describe a process or a state, often using verbs like \"be\", \"have\", and \"make\", and adjectives like \"good\", \"bad\", and \"better\"."

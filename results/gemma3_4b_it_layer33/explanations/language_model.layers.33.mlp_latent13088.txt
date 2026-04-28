@@ -1,0 +1,1 @@
+"Text fragments often contain technical or specialized information, such as programming code, scientific explanations, or historical data, which are embedded within larger narrative or descriptive passages."

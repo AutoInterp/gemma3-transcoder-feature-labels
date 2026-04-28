@@ -1,0 +1,1 @@
+"Sequences of numbers, possibly representing dates, times, or other numerical data, often appearing in the context of text that contains specific information such as addresses, phone numbers, or event details."

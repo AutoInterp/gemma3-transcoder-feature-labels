@@ -1,0 +1,1 @@
+"Various types of text, including news articles, blog posts, and online content, with a focus on extracting specific information such as dates, names, and keywords."

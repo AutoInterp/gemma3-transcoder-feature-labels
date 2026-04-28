@@ -1,0 +1,1 @@
+"Texts that are not in the target language, likely translations or quotes from other languages, and texts that are not relevant to the analysis."

@@ -1,0 +1,1 @@
+"Text segments enclosed by delimiters often contain specific information such as formulas, equations, citations, or technical details, which are typically not relevant to the main narrative or context."

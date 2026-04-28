@@ -1,0 +1,1 @@
+"Text fragments often containing URLs, product information, or other supplementary data, frequently found at the end of a main text block, and sometimes enclosed in a specific format."

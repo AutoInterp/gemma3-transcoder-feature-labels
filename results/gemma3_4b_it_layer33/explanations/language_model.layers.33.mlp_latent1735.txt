@@ -1,0 +1,1 @@
+"Locations, addresses, and geographical references."

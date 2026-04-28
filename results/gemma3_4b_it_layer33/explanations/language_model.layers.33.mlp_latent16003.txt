@@ -1,0 +1,1 @@
+"Texts that are not actual content, but rather placeholder or template text, often containing variable or placeholder markers, and sometimes including code snippets."

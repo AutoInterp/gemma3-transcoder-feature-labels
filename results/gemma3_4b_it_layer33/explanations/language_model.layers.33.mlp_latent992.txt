@@ -1,0 +1,1 @@
+"Texts that are likely article or report excerpts, often with a formal tone, and frequently contain technical or specialized language."

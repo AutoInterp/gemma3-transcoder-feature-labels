@@ -1,0 +1,1 @@
+"Dates and times in various formats, including numerical representations of distances and directions, often accompanied by geographical locations."

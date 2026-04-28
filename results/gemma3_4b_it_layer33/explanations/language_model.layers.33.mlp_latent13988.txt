@@ -1,0 +1,1 @@
+"Texts that are too long to be considered as a single important token, but contain phrases or sentences that are crucial to the context, often with a high activation value."

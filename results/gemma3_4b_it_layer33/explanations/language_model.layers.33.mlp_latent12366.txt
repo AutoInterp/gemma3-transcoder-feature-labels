@@ -1,0 +1,1 @@
+"Sentences often end with a period followed by a field name, which is a noun or phrase that provides context or information about the preceding text."

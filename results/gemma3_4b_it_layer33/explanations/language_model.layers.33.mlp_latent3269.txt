@@ -1,0 +1,1 @@
+"Code comments and documentation, including JavaDoc comments, function descriptions, and inline comments."

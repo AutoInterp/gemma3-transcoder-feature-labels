@@ -1,0 +1,1 @@
+"The token \"square\" and \"diamond\" are used to describe geometric shapes, and the token \"triangle\" is used to describe a polygon with three sides."

@@ -1,0 +1,1 @@
+"Conversational text often contains phrases that indicate a change in location, a shift in topic, or a transition to a new idea, such as \"some stories of the day\", \"a poll\", \"our collective consciousness\", and \"I'd like to bypass the normal SS shortcuts\"."

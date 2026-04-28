@@ -1,0 +1,1 @@
+"Various addresses and locations, often in the format of a street number and street name, or a full address."

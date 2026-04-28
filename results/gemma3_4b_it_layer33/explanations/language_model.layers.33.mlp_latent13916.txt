@@ -1,0 +1,1 @@
+"Texts from various sources, including news articles, books, and scripts, with a focus on extracting specific phrases or sentences. The extracted phrases often contain proper nouns, idioms, or quotes, indicating a pattern of extracting meaningful or notable information from the text."

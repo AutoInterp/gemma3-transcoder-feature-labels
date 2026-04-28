@@ -1,0 +1,1 @@
+"Text data containing addresses, locations, and geographical information, often in the format of \"City, State, Country\" or \"Street Address, City, Postcode\"."

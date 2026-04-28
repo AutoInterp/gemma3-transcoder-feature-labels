@@ -1,0 +1,1 @@
+"Texts containing various types of lists, including enumerations of items, attributes, functions, and examples, often used to explain concepts, describe processes, or provide information."

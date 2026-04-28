@@ -1,0 +1,1 @@
+"Various file paths and configuration files, often related to technical or programming contexts, such as Linux configuration files or programming language setup."

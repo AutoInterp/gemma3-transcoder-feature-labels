@@ -1,0 +1,1 @@
+"The top 5 patterns found in the text are: \n1. Names of people, places, and organizations, \n2. Technical terms and jargon from various fields, \n3. Idiomatic expressions and colloquialisms, \n4. Titles and subtitles of books, articles, and other written works, \n5. Names of products, companies, and services."

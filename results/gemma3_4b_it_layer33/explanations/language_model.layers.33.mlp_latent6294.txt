@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are cut off mid-sentence, likely due to the end of an article or a quote, and are followed by a new sentence or paragraph."

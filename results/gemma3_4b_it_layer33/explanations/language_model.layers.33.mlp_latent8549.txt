@@ -1,0 +1,1 @@
+"Text fragments that appear to be code snippets, often in programming languages such as SQL, Java, or C#, and are likely used for illustrative or educational purposes."

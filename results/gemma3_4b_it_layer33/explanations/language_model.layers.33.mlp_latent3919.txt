@@ -1,0 +1,1 @@
+"Addresses and locations, often in the format of a street name and city or country, frequently accompanied by additional details such as postal codes, landmarks, or nearby attractions."

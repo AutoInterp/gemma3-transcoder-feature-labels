@@ -1,0 +1,1 @@
+"Texts containing programming-related terms, file paths, and system commands, often used in tutorials, guides, and documentation for software development, system administration, and data analysis."

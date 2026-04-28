@@ -1,0 +1,1 @@
+"Complex phrases and sentences that are being ignored or delegated to other rulesets, often containing specific keywords or phrases that are being matched or excluded."

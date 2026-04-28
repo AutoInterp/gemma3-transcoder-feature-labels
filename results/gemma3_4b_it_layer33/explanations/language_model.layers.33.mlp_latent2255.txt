@@ -1,0 +1,1 @@
+"Texts are mostly programming code, documentation, and technical articles in multiple languages, including Chinese, English, and German. They contain various programming concepts, data structures, and algorithms, as well as explanations of technical terms and concepts. The texts also include examples of code, diagrams, and images to illustrate complex ideas."

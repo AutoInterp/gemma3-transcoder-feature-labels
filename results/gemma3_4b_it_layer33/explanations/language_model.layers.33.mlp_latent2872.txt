@@ -1,0 +1,1 @@
+"HTML tags and attributes, including links, images, styles, and JavaScript code."

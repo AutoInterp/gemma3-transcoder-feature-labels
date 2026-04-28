@@ -1,0 +1,1 @@
+"Texts often contain logos, names of institutions, and other identifiers that are frequently mentioned, such as company names, product names, and academic institutions."

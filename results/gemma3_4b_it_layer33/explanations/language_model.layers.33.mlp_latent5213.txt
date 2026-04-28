@@ -1,0 +1,1 @@
+"Text fragments often containing a period at the end, frequently followed by a new sentence or a new paragraph, sometimes with a slight pause or a transition."

@@ -1,0 +1,1 @@
+"The token \"on-\" or \"off-\" is used as a prefix to describe a state or condition, often contrasting two opposing states, such as being online or offline, or being on-demand or on-call."

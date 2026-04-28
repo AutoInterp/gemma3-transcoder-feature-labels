@@ -1,0 +1,1 @@
+"Text segments that appear to be article titles, section headings, or standalone sentences, often providing context or information on a specific topic."

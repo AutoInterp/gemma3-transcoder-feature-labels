@@ -1,0 +1,1 @@
+"Texts in multiple languages, including Russian, Greek, and English, containing a mix of programming code, SQL queries, and plain text, likely from a technical documentation or tutorial."

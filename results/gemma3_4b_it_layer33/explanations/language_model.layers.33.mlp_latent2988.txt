@@ -1,0 +1,1 @@
+"Texts often contain hyperlinks, URLs, and external references, which are frequently denoted by specific keywords or phrases, such as \"http\", \"en.wikipedia.org\", or \"Signatory: Covenant of Unanimous Consent\". Additionally, there are instances of URLs being embedded within the text, often in the form of a link to an external article or webpage."

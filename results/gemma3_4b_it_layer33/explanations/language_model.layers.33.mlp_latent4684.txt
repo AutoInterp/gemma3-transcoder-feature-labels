@@ -1,0 +1,1 @@
+"Various commands, instructions, and scripts used in programming and software development, including file paths, compiler flags, and function calls."

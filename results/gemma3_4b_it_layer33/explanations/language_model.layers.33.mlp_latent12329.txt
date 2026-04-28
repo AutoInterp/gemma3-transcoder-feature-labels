@@ -1,0 +1,1 @@
+"Technical documentation and programming code snippets, often with a focus on software development, user authentication, and system functionality."

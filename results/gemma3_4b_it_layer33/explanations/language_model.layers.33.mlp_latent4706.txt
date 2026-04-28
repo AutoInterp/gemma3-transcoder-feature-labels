@@ -1,0 +1,1 @@
+"Texts often contain long sequences of words that are not crucial to the main meaning, but rather provide additional context or information, such as explanations, references, or descriptions. These sequences are often marked by a low activation value, indicating that they are not as important as other parts of the text."

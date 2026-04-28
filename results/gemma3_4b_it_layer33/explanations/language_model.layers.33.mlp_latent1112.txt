@@ -1,0 +1,1 @@
+"Various types of text data, including code snippets, scientific articles, news articles, and social media posts, often containing specific keywords, numbers, and special characters."

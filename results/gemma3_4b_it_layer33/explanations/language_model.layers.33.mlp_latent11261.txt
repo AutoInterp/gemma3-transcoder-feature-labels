@@ -1,0 +1,1 @@
+"Various programming and database-related terms, including function and method names, variable names, and SQL queries, often used in the context of data manipulation, analysis, and storage."

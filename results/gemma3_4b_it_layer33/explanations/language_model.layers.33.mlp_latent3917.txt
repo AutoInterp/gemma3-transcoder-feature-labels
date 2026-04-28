@@ -1,0 +1,1 @@
+"Text snippets often appear to be incomplete or unrelated to the surrounding context, suggesting they are likely extracted from external sources, such as articles, websites, or documents, and inserted into the current text."

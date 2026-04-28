@@ -1,0 +1,1 @@
+"Text fragments often contain code snippets, technical jargon, and formal language, indicating a mix of informative and instructional content, possibly from educational or technical sources."

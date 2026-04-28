@@ -1,0 +1,1 @@
+"Common mistakes in data science models include assuming data quality, ignoring issues with data quality and completeness, and failing to account for the impact of administrative procedures on data."

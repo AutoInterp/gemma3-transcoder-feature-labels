@@ -1,0 +1,1 @@
+"Texts containing programming concepts, technical terms, and algorithmic descriptions, often with Chinese characters and variable names."

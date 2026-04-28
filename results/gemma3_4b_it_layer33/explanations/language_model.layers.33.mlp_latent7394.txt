@@ -1,0 +1,1 @@
+"Text snippets often contain technical or formal language, and sometimes include code or mathematical expressions, but frequently also include informal language and personal opinions."

@@ -1,0 +1,1 @@
+"The token \"N\" is often a prefix to proper nouns, names of people, places, or organizations, and sometimes to other nouns representing specific entities or concepts."
