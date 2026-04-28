@@ -1,0 +1,1 @@
+"Texts discussing computer graphics, 3D modeling, animation, and digital art, including software such as Blender, Maya, and Adobe After Effects, as well as concepts like neural networks, depth maps, and photogrammetry."

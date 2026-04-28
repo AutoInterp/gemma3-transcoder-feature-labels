@@ -1,0 +1,1 @@
+"Texts often contain proper nouns, such as names of people, places, and organizations, which are frequently mentioned in conjunction with other words like \"of\", \"in\", \"at\", and \"with\". Additionally, phrases and sentences often begin with transitional words like \"After\", \"During\", and \"In the era of\", indicating a shift in time or context."

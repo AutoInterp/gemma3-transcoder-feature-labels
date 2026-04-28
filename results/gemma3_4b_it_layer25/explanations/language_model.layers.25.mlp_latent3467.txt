@@ -1,0 +1,1 @@
+"Text fragments often appear to be standalone sentences or paragraphs, but are actually part of a larger text, frequently with a specific purpose such as providing instructions, explanations, or examples."

@@ -1,0 +1,1 @@
+"Texts from various sources, including programming code, articles, and social media posts, with a focus on extracting specific phrases or sentences. The extracted phrases often contain important information, such as function names, variable names, or key concepts."

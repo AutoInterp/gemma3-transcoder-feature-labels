@@ -1,0 +1,1 @@
+"HTML and CSS code snippets, including class names, attribute values, and CSS selectors, often used for styling and layout purposes."

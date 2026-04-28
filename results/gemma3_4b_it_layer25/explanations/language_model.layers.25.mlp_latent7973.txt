@@ -1,0 +1,1 @@
+"Code snippets and programming concepts, including function calls, variable declarations, and data types, as well as mathematical and algorithmic explanations, such as time complexity and operational amplifiers."

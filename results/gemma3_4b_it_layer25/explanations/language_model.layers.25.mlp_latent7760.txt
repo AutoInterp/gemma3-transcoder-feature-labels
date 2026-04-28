@@ -1,0 +1,1 @@
+"Ranges of values, often numerical, describing variability in quantities such as age, weight, or production."

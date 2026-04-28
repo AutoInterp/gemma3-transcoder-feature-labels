@@ -1,0 +1,1 @@
+"The token \"vary\" is often used to indicate that something is not constant or uniform, but rather changes or differs depending on various factors or circumstances."

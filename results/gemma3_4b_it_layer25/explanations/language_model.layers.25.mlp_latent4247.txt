@@ -1,0 +1,1 @@
+"Text snippets that appear to be incomplete sentences or phrases, often containing technical or specialized vocabulary, and sometimes followed by code or programming language syntax."

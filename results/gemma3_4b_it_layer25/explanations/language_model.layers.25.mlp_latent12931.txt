@@ -1,0 +1,1 @@
+"The token \"further\" is used to indicate additional information, and the token \"more\" is used to indicate an increase or expansion."

@@ -1,0 +1,1 @@
+"Texts describing HTTP requests, APIs, and web development concepts, including request methods, headers, parameters, and encoding."

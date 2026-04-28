@@ -1,0 +1,1 @@
+"Various dates and times in different formats, including GMT, Eastern Daylight Time, and 24-hour clock, often accompanied by other contextual information such as events, meetings, or deadlines."

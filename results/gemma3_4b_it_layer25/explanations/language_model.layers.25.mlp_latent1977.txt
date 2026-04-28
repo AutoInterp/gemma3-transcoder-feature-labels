@@ -1,0 +1,1 @@
+"The token \"good\" is often used to convey a positive sentiment, describing something beneficial, pleasant, or desirable, while the token \"bad\" is used to convey a negative sentiment, describing something undesirable, unpleasant, or harmful."

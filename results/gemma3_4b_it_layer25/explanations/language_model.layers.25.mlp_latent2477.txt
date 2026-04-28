@@ -1,0 +1,1 @@
+"Texts describing technical instructions, tutorials, and online documentation, often including code snippets, API calls, and software development concepts."

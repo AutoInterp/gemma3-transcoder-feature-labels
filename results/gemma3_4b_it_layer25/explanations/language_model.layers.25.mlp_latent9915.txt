@@ -1,0 +1,1 @@
+"Various URLs, domain names, and file paths, often used as references or citations, frequently containing the top-level domain \".org\", \".com\", or \".gov\", and sometimes including file extensions like \".pdf\" or \".doc\"."

@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are set off by delimiters, which typically contain information that is supplementary or explanatory to the main text. These phrases or sentences may be used to provide additional context, clarify a point, or offer a contrasting view."

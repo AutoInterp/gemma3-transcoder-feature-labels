@@ -1,0 +1,1 @@
+"Texts from various programming languages, including JavaScript, Python, Java, and C++, as well as some Chinese and English texts. The patterns found include code snippets, function definitions, variable declarations, and comments, indicating a collection of programming-related texts."

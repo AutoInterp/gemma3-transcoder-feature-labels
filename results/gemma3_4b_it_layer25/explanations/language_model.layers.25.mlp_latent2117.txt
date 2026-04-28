@@ -1,0 +1,1 @@
+"Text snippets often contain technical or specialized terms, and sometimes they are followed by a specific type of punctuation, such as a quotation mark or an ellipsis."

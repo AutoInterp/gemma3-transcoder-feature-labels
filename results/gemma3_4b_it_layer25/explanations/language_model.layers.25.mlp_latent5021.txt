@@ -1,0 +1,1 @@
+"Texts are mostly written in Chinese, and the patterns found include technical terms and jargon from various fields such as computer science, engineering, and economics, as well as idioms and phrases used in everyday language. The texts also contain code snippets from programming languages like Java, Python, and C++."

@@ -1,0 +1,1 @@
+"Various types of contact information, including phone numbers, email addresses, and website URLs, often presented in a structured format."

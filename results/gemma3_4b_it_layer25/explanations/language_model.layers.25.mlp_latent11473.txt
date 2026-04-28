@@ -1,0 +1,1 @@
+"Various numerical values, percentages, and units of measurement, often used in conjunction with text to convey specific information or data."

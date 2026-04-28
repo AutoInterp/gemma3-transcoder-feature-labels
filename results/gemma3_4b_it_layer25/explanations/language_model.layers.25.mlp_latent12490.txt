@@ -1,0 +1,1 @@
+"Texts from various programming and mathematical contexts, with a focus on technical documentation, code snippets, and theoretical explanations. The patterns found include formal definitions, mathematical notations, and programming concepts, often accompanied by code examples and technical jargon."

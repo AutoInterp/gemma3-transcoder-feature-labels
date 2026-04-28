@@ -1,0 +1,1 @@
+"Texts discussing security, authentication, and privacy, often referencing technical details and protocols such as VPNs, encryption, and password management."

@@ -1,0 +1,1 @@
+"Instructions and recipes often contain phrases indicating sequential actions, such as \"then\", \"next\", and \"after that\", and sometimes \"until\" or \"until cooked through\"."

@@ -1,0 +1,1 @@
+"Text snippets often appear between delimiters, sometimes containing URLs, quotes, or other types of text, and are frequently followed by a period or other punctuation."

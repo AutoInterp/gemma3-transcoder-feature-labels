@@ -1,0 +1,1 @@
+"Texts from various domains, including physics, mathematics, and programming, with a focus on equations, formulas, and code snippets. The patterns found include mathematical derivations, algorithm implementations, and scientific explanations, often involving complex variables and symbols."

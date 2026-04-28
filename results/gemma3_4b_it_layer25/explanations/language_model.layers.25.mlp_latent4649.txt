@@ -1,0 +1,1 @@
+"Texts often contain specific words or phrases that are not crucial to the overall meaning, but serve as metadata or context, such as version numbers, dates, times, and file paths."

@@ -1,0 +1,1 @@
+"Texts from various mathematical and computer science domains, including graph theory, topology, group theory, and algorithms, with a focus on formal definitions, theorems, and proofs."

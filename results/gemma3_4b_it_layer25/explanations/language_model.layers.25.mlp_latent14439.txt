@@ -1,0 +1,1 @@
+"Geographic locations, including countries, cities, counties, and specific addresses, often accompanied by additional information such as population, historical events, or notable features."

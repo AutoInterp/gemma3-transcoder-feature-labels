@@ -1,0 +1,1 @@
+"Texts discussing various mathematical concepts, algorithms, and techniques, including sorting, quicksort, and radix sort, as well as explanations of formulas and equations in physics and chemistry."

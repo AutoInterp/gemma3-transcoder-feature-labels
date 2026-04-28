@@ -1,0 +1,1 @@
+"Text snippets from various programming and technical documentation, including command-line interfaces, configuration files, and code examples, often with a focus on version control, deployment, and development tools."

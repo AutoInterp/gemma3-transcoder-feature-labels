@@ -1,0 +1,1 @@
+"Texts are often terminated with a special delimiter, and contain various types of information such as news articles, product descriptions, and educational content. The texts frequently include proper nouns, dates, and technical terms."

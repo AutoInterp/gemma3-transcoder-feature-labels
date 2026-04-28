@@ -1,0 +1,1 @@
+"Texts describing technical instructions, troubleshooting steps, and system configuration processes for various operating systems, including Windows and Linux."

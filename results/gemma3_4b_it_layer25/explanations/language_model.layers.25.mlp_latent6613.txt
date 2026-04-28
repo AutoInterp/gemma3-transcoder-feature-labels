@@ -1,0 +1,1 @@
+"The token \"id\" is used to represent a unique identifier in various contexts, including database keys, object references, and user identification."

@@ -1,0 +1,1 @@
+"Text contains various units of measurement, including distances (kilometers, miles, nanometers), weights (grams, pounds), temperatures (degrees Celsius, Fahrenheit), and other physical quantities (newton, joule, watt, pascal)."

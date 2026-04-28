@@ -1,0 +1,1 @@
+"The token \"%\" is used as a placeholder for variables, formatting codes, or other values in various programming languages, text templates, and markup languages."

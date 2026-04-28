@@ -1,0 +1,1 @@
+"Technical documentation about web development, HTTP requests, and APIs, including concepts such as RESTful interfaces, caching, and error handling."

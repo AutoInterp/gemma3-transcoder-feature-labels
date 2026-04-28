@@ -1,0 +1,1 @@
+"Various types of text data, including email addresses, dates, times, phone numbers, financial information, scientific and technical terms, and text from articles and books."

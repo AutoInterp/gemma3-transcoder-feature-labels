@@ -1,0 +1,1 @@
+"Texts describing scientific and technical concepts, including mathematical equations, plots, and diagrams, often accompanied by code snippets and programming language syntax."

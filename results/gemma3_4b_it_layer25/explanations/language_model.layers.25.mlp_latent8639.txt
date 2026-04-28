@@ -1,0 +1,1 @@
+"HTML and CSS code snippets embedded within text, often used to illustrate or explain web development concepts."

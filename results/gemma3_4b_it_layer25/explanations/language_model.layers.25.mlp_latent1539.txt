@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, primarily used for graphics and game development, with a focus on drawing shapes, lines, and polygons, as well as manipulating colors and textures."

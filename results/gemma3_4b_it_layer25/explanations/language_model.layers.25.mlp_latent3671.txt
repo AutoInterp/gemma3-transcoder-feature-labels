@@ -1,0 +1,1 @@
+"Various types of text, including formal documents, articles, and code snippets, with a focus on extracting specific words or phrases from the text."

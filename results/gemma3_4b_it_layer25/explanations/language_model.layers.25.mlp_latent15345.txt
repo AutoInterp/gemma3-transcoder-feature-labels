@@ -1,0 +1,1 @@
+"Edges in text data represent sentence boundaries, with the majority of edges being at the end of a sentence, often followed by a period or other punctuation mark."

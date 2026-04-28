@@ -1,0 +1,1 @@
+"Various programming code snippets in different languages, including C, C++, Java, Python, and SQL, with a focus on syntax and variable manipulation."

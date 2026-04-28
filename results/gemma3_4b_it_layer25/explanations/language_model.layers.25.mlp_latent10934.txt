@@ -1,0 +1,1 @@
+"Texts often contain long sequences of words that are not crucial to the meaning, such as book titles, article excerpts, or quotes, which are often marked by a high activation value."

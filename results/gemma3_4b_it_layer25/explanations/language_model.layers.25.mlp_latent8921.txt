@@ -1,0 +1,1 @@
+"Android code snippets, primarily involving activity and fragment lifecycle methods, view setup, and data binding."

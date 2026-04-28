@@ -1,0 +1,1 @@
+"Text fragments containing URLs, citations, or references, often denoted by specific formatting or syntax, such as PubMed IDs or JSON objects."

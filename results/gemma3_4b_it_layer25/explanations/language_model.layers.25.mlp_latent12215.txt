@@ -1,0 +1,1 @@
+"Text fragments often contain proper nouns, names, and specific locations, which are frequently used to provide context and identify individuals or places."

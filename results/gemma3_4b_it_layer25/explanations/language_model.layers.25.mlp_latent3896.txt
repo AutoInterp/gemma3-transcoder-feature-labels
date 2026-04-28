@@ -1,0 +1,1 @@
+"Various types of text, including news articles, sports reports, and product descriptions, with a focus on extracting specific information such as names, locations, and technical details."

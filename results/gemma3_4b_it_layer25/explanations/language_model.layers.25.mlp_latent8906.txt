@@ -1,0 +1,1 @@
+"SQL code snippets, primarily MySQL, containing table structures, queries, and database management operations."

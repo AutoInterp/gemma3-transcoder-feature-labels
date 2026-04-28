@@ -1,0 +1,1 @@
+"Code snippets with variable names, function calls, and conditional statements, often with a focus on mathematical or logical operations, and sometimes with a context of programming or scientific research."

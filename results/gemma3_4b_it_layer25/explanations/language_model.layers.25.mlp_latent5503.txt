@@ -1,0 +1,1 @@
+"Various numerical values and units are used to describe quantities, such as time, temperature, size, and percentages, often in the context of recipes, scientific experiments, or health-related information."

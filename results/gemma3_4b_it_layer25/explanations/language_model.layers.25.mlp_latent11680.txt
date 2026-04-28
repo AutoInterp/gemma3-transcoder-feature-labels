@@ -1,0 +1,1 @@
+"Texts containing technical information, programming code, and software-related terminology, often with a focus on development, implementation, and optimization."

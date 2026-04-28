@@ -1,0 +1,1 @@
+"The token \"log\" and its variants (\"login\", \"logged\", \"logging\") are frequently used in the context of user authentication and account management, often preceding phrases related to user identity, access, and authorization."

@@ -1,0 +1,1 @@
+"Texts with low activation values are often unrelated or tangential to the main topic, while those with higher activation values are more relevant and important for the context."

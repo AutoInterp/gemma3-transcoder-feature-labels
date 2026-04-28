@@ -1,0 +1,1 @@
+"Texts often contain proper nouns and common nouns referring to specific objects, locations, and concepts, such as names of people, places, and products (e.g. Apple, Samsung, Cherrywood, Dormouse). Additionally, the texts frequently mention food items, particularly fruits (e.g. apple, cherry, almond), and sometimes describe their characteristics or uses."

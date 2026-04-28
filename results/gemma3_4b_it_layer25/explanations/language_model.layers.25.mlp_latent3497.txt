@@ -1,0 +1,1 @@
+"Texts that contain a sentence or phrase that is cut off by the delimiter, often indicating a quote or a continuation of a thought, and the preceding text is a setup or context for the cut-off sentence."

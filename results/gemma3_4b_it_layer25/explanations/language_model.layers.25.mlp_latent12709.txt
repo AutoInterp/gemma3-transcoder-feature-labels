@@ -1,0 +1,1 @@
+"Texts often contain phrases indicating location, such as rooms, buildings, or areas, and phrases indicating direction or movement, such as going into or coming from a place."

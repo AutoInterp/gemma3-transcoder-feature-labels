@@ -1,0 +1,1 @@
+"Text fragments containing proper nouns, geographic locations, and names of people, organizations, and events, often serving as context for the surrounding narrative."

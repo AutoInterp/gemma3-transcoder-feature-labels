@@ -1,0 +1,1 @@
+"The text contains a mix of various types of content, including articles, research papers, and code snippets, but most of the examples are from code and contain JSON objects, function calls, and variable declarations."

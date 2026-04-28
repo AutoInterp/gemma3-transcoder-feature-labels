@@ -1,0 +1,1 @@
+"Texts containing programming-related concepts, code snippets, and discussions about various programming languages, frameworks, and technologies, including Java, Python, C++, and others."

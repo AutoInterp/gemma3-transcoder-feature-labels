@@ -1,0 +1,1 @@
+"Texts with low activation values are often unrelated to the main topic or context, and appear to be extraneous information, such as citations, references, or metadata."

@@ -1,0 +1,1 @@
+"Code snippets and programming language syntax, including function definitions, variable declarations, and data types, as well as text describing scientific concepts, astronomical phenomena, and technical processes."

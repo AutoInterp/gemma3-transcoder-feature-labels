@@ -1,0 +1,1 @@
+"Texts containing error messages, prompts, and warnings, often related to user authentication, password verification, and system functionality."

@@ -1,0 +1,1 @@
+"The token \"URL\" or \"urn:\" is often found at the beginning of a string, typically representing a Uniform Resource Locator or a Uniform Resource Name."

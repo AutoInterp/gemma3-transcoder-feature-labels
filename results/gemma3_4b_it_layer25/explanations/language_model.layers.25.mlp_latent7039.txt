@@ -1,0 +1,1 @@
+"Various URLs and web page headers, often containing information about the page's freshness, canonical links, or redirects."

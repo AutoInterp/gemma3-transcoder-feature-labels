@@ -1,0 +1,1 @@
+"Text fragments that are not part of the main content, such as article titles, section headers, and metadata, often found at the beginning or end of articles."

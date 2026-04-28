@@ -1,0 +1,1 @@
+"The token \"2\" or \"10\" or \"8\" or \"4\" or \"16\" or \"50\" or \"120\" or \"7\" or \"15\" or \"180\" or \"15\" or \"3\" or \"37\" or \"365\" or \"265\" or \"98\" or \"825\" or \"1540\" is often used to represent a quantity or a percentage in the text."

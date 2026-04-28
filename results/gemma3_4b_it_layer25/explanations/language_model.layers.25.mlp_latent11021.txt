@@ -1,0 +1,1 @@
+"The token \"date\" is often used to represent a specific point in time, and can be found in various contexts such as calendar systems, time stamps, and labels for events or products."

@@ -1,0 +1,1 @@
+"Code snippets and programming-related text, including error messages, function calls, and variable declarations, often in a programming language such as Python or JavaScript."

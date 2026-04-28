@@ -1,0 +1,1 @@
+"Various types of delimiters and special characters used to denote the end of a text segment, such as HTML tags, LaTeX code, and programming syntax."

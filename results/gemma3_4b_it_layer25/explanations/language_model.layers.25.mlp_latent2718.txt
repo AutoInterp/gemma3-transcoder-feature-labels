@@ -1,0 +1,1 @@
+"Texts often contain specific locations, names, and dates, which may be used to identify the context or provide background information."

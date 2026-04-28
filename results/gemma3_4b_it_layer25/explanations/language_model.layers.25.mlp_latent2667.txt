@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including JavaScript, CoffeeScript, and HTML, with a focus on DOM manipulation, event handling, and accessibility features such as ARIA attributes and tabindex."

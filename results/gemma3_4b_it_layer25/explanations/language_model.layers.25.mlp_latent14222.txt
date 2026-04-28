@@ -1,0 +1,1 @@
+"Text snippets often appear to be informative articles or descriptions, but are actually extracted from larger texts, possibly Wikipedia articles, travel guides, or news reports, and are being analyzed for their content."

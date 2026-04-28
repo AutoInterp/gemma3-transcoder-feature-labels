@@ -1,0 +1,1 @@
+"Various numerical values and constants, including powers of 10, binary numbers, and specific sizes in bytes or other units, often used in programming, data storage, and technical contexts."

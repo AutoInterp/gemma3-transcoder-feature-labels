@@ -1,0 +1,1 @@
+"Various types of text data, including technical documentation, product information, and user reviews, with a focus on extracting specific information such as product features, pricing, and customer feedback."

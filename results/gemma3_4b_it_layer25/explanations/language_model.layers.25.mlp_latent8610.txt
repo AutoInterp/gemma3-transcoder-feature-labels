@@ -1,0 +1,1 @@
+"Various commands and instructions for system administration, software installation, and configuration, often involving Linux and Unix-like systems, with a focus on terminal commands and file editing."

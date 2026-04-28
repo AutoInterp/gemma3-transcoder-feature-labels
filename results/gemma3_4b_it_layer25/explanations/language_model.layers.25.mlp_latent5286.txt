@@ -1,0 +1,1 @@
+"Various formatting styles and notations used in text, including bold, italics, numbers, and bullet points, as well as mathematical and scientific notation, and HTML code."

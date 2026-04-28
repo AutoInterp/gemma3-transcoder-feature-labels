@@ -1,0 +1,1 @@
+"Technical text discussing computer networking protocols, specifically TCP/IP, IPv4, and IPv6, including configuration, security, and troubleshooting."

@@ -1,0 +1,1 @@
+"SQL commands and database table structures, including table creation, alteration, and indexing, as well as database connection and transaction management."

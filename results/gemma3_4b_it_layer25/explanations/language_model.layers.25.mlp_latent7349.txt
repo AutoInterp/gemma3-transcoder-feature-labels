@@ -1,0 +1,1 @@
+"Numbers and currency values are often used to convey specific information, such as prices, costs, and financial data, and are frequently accompanied by units of measurement, like dollars, euros, or pounds."

@@ -1,0 +1,1 @@
+"Code snippets in various programming languages, including JavaScript, Python, Lua, Haskell, and MATLAB, with a focus on syntax, data structures, and control flow."

@@ -1,0 +1,1 @@
+"Various programming code snippets, including PHP, C++, Java, and JavaScript, as well as SQL database schema and statistical modeling code."

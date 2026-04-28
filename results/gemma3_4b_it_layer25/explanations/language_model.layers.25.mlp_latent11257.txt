@@ -1,0 +1,1 @@
+"Geographic locations, including cities, towns, and landmarks, often accompanied by postal codes, grid references, or map codes."

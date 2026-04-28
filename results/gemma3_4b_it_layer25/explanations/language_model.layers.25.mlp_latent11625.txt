@@ -1,0 +1,1 @@
+"Text fragments often contain phrases or sentences that are cut off or truncated, frequently with a specific pattern of punctuation, such as ellipses or HTML tags, indicating a continuation or a link to another source."

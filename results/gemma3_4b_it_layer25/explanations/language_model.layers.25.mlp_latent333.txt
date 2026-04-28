@@ -1,0 +1,1 @@
+"Text snippets often contain dates, times, and URLs, which may be used to provide context or reference external information."

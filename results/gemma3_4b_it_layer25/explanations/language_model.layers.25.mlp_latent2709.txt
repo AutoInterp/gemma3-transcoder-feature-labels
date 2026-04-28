@@ -1,0 +1,1 @@
+"Various types of text, including dates, times, URLs, mathematical expressions, and scientific references, often appearing in a specific format or structure."

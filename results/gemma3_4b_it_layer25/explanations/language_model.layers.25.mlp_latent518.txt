@@ -1,0 +1,1 @@
+"Code snippets and technical documentation from various programming languages and frameworks, including Java, Python, and C, as well as database management systems like MySQL and PostgreSQL."

@@ -1,0 +1,1 @@
+"Texts in multiple languages, including English, Russian, Persian, and Norwegian, with various formats such as HTML, Python code, SQL queries, and mathematical equations."

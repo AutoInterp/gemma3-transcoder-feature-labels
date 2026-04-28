@@ -1,0 +1,1 @@
+"Time expressions and schedules, including days of the week, hours, minutes, and dates, often used to convey specific events, appointments, or operating hours."

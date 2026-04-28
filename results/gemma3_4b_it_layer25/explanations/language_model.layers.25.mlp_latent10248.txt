@@ -1,0 +1,1 @@
+"Various types of lists and enumerations, often with a specific structure and format, used to present information, instructions, or options."

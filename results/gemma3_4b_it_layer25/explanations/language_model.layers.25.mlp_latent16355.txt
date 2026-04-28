@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, often related to mathematical calculations, primality tests, and string manipulation, with a focus on algorithmic and computational patterns."

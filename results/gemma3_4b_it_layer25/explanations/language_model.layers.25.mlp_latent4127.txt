@@ -1,0 +1,1 @@
+"HTML and code snippets, often containing file paths, variable names, and function calls, which are likely used for debugging or referencing purposes."

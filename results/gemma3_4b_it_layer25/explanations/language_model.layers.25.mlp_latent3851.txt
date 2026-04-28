@@ -1,0 +1,1 @@
+"Texts often contain proper nouns and geographic locations, such as country names, city names, and state names, which are frequently mentioned in the context of news articles, reports, and travel descriptions."

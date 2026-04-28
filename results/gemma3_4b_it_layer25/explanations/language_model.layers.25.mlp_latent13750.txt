@@ -1,0 +1,1 @@
+"Text contains various units of measurement, including distance (miles, kilometers, yards, feet), speed (miles per hour, kilometers per hour), and weight (pounds, kilograms, ounces)."

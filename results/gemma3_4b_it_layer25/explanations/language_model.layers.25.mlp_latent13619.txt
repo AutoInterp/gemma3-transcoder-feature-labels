@@ -1,0 +1,1 @@
+"Various programming-related text, including code snippets, URLs, and API keys, as well as general text from websites, emails, and documentation."

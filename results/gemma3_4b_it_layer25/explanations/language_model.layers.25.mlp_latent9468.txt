@@ -1,0 +1,1 @@
+"Texts containing geographical locations, such as city names, street addresses, and landmarks, often accompanied by GPS coordinates or postal codes."

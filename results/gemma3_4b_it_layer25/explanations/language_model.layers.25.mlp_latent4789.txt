@@ -1,0 +1,1 @@
+"Texts often contain specific phrases or words at the top or bottom of a paragraph, such as titles, subtitles, or key information, which are highlighted by their placement."

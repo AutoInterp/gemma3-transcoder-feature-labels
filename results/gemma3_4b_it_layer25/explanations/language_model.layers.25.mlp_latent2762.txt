@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, primarily Java and C++, with a focus on mathematical and graphical concepts, such as geometry, trigonometry, and linear algebra."

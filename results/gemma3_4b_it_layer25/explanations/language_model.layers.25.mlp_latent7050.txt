@@ -1,0 +1,1 @@
+"Texts referencing various open-source licenses, including GNU General Public License, Creative Commons licenses, and MIT License, often accompanied by information about software distribution and usage rights."

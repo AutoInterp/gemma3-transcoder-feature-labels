@@ -1,0 +1,1 @@
+"Various dates and times in different formats, including year-month-day, year-month-day hour:minute:second, and other variations, often used to specify publication dates, timestamps, or event times."

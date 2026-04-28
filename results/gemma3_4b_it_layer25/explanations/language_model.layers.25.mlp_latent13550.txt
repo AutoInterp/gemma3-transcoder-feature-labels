@@ -1,0 +1,1 @@
+"Text segments enclosed by delimiters often contain complex scientific or technical information, and sometimes appear to be quotes or excerpts from academic papers or articles."

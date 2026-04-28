@@ -1,0 +1,1 @@
+"Various programming languages and code snippets, including JavaScript, Java, C++, and PHP, with a focus on object-oriented programming, data structures, and user interface development."

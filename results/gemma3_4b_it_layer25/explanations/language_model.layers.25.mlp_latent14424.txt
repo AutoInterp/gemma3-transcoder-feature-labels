@@ -1,0 +1,1 @@
+"Text snippets that are not grammatically complete or are code fragments, often containing mathematical or programming expressions."

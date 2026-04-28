@@ -1,0 +1,1 @@
+"Text describing technical concepts, programming, and software development, including explanations of protocols, data structures, and algorithms."

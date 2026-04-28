@@ -1,0 +1,1 @@
+"Texts often contain tangential information, such as side comments, explanations, or additional details, which are not crucial to the main topic but provide context or interest. These tangential sections can be identified by their lower activation values compared to the main topic."

@@ -1,0 +1,1 @@
+"Code snippets related to session management in web applications, including session creation, attribute setting, and retrieval, primarily in Java and JavaScript."

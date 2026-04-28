@@ -1,0 +1,1 @@
+"Texts often contain proper nouns, names, and titles, which are frequently highlighted or emphasized, and sometimes followed by a period or other punctuation."

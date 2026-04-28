@@ -1,0 +1,1 @@
+"HTML and CSS code snippets, often containing div elements, CSS classes, and other web development code, frequently found in online documentation and tutorials."

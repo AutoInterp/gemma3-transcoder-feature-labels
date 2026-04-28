@@ -1,0 +1,1 @@
+"Texts often contain long, complex sentences or phrases that are given a low activation score, suggesting that they may be background information or context, while shorter, more direct statements or questions are given higher activation scores, indicating they are more central to the text's meaning."

@@ -1,0 +1,1 @@
+"Text fragments that appear to be unrelated to the main topic, often providing additional information or context, but not directly contributing to the narrative. These fragments are typically found between delimiters and have low activation values."

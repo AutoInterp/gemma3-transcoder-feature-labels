@@ -1,0 +1,1 @@
+"Common database table schema and SQL queries, including table creation, data retrieval, and manipulation."

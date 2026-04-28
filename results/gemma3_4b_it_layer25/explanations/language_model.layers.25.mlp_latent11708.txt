@@ -1,0 +1,1 @@
+"Various types of text data, including news articles, academic papers, and online content, with a focus on extracting specific information such as names, dates, and references."

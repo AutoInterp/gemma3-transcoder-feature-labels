@@ -1,0 +1,1 @@
+"Text snippets often contain company names, product descriptions, and technical terms, frequently accompanied by numerical data, such as prices, percentages, and measurements."

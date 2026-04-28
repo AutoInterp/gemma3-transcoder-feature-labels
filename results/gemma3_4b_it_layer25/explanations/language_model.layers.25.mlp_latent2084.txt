@@ -1,0 +1,1 @@
+"Binary and hexadecimal color codes, RGB color codes, and other numerical representations of colors, often used in programming and design."

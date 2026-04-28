@@ -1,0 +1,1 @@
+"Text contains mathematical and programming concepts, with a focus on linear algebra, group theory, and computational complexity. The language is formal and technical, with frequent use of mathematical notation and programming syntax."

@@ -1,0 +1,1 @@
+"Text snippets from various programming languages, documentation, and web development contexts, including code examples, function definitions, and comments."

@@ -1,0 +1,1 @@
+"Java code snippets from various Android and Spring projects, containing class and method definitions, variable declarations, and import statements."

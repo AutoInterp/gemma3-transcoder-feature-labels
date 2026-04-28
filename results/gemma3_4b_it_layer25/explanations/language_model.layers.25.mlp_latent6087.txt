@@ -1,0 +1,1 @@
+"Various dates and times in different formats, including numerical representations and written descriptions, often used to specify a range or a specific point in time."

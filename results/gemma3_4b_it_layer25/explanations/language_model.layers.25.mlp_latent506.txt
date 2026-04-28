@@ -1,0 +1,1 @@
+"Texts containing error messages, technical descriptions, and explanations of complex concepts, often including programming code and mathematical formulas."

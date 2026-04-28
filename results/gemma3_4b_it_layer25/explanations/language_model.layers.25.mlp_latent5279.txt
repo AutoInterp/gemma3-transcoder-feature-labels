@@ -1,0 +1,1 @@
+"HTML tags and their corresponding semantic meanings, including elements for defining page features, text formatting, and interactive elements."

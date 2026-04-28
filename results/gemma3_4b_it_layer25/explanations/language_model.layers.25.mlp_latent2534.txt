@@ -1,0 +1,1 @@
+"Text fragments that appear to be standalone answers or explanations, often found at the end of a passage, frequently preceded by a delimiter such as \"Full Answer\" or \"Let's say you fetch the source to\"."

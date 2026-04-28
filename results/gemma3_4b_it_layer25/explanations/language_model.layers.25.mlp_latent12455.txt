@@ -1,0 +1,1 @@
+"Texts from various programming and mathematical contexts, including code snippets, equations, and logical expressions, often containing variable names, function calls, and mathematical operations."

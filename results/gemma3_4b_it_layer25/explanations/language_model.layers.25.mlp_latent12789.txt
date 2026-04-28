@@ -1,0 +1,1 @@
+"Various phrases and sentences that contain dates and times, often in a format of year-month-day or hour:minute:second, and sometimes with a time zone offset."

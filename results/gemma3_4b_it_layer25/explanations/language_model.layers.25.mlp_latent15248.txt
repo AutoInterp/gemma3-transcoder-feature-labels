@@ -1,0 +1,1 @@
+"Technical documentation and instructions for software installation, configuration, and troubleshooting, often including code snippets and specific commands."

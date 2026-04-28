@@ -1,0 +1,1 @@
+"Text fragments that appear to be code snippets, programming language syntax, or technical jargon, often unrelated to the surrounding context, suggesting a mix of technical and non-technical content."

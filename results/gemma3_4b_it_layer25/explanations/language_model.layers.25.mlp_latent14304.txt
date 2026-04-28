@@ -1,0 +1,1 @@
+"Text snippets that are likely extracted from articles, news, or documentation, often containing specific information or quotes, and sometimes accompanied by activation values indicating their relevance or importance."

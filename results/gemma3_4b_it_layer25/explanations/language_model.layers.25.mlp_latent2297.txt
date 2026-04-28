@@ -1,0 +1,1 @@
+"Text snippets describing technical instructions, programming concepts, and software development processes, often including code snippets, command lines, and registry keys."

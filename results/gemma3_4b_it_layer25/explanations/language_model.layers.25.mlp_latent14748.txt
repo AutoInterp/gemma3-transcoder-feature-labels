@@ -1,0 +1,1 @@
+"Various programming and technical terms, including function names, variable names, and file paths, often used in context of software development, data analysis, and system administration."

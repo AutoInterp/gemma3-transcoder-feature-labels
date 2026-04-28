@@ -1,0 +1,1 @@
+"The token \"key\" is used in various contexts, including cryptography (public and private keys, encryption, decryption), data storage (keys in databases, file systems), and everyday objects (keys for locks, keys on keyboards)."

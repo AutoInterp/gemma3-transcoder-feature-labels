@@ -1,0 +1,1 @@
+"Various forms of identifiers, such as IMEI, telephone numbers, and IP addresses, that are not highly linkable to a unique individual, but still require careful handling due to their potential for tracking and identification."

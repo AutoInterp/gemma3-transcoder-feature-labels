@@ -1,0 +1,1 @@
+"Various types of text data, including temperature ranges, measurements, and units, as well as dates and times, are often presented in a specific format, typically with a range or a specific value followed by a unit, such as \"°C\", \"inches\", or \"km\"."

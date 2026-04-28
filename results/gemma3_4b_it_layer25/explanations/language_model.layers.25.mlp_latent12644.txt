@@ -1,0 +1,1 @@
+"Technical terms and concepts related to computer networking, data storage, and programming, including protocols, data formats, and algorithms."

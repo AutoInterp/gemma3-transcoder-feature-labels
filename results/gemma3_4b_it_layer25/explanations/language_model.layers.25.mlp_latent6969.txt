@@ -1,0 +1,1 @@
+"Texts describing the process of booting a computer, including bootloaders, BIOS settings, and recovery processes."

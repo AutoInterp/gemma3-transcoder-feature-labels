@@ -1,0 +1,1 @@
+"Numbers representing mathematical values, often used in formulas or equations, frequently in the context of physics, engineering, or programming."

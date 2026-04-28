@@ -1,0 +1,1 @@
+"Technical text discussing network protocols, internet security, and VPNs, with a focus on terminology and configuration settings."

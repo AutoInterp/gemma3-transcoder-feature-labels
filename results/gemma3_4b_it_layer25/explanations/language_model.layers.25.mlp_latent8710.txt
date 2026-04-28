@@ -1,0 +1,1 @@
+"The token \"per\" is often used to indicate a rate or frequency, such as \"per year\", \"per cent\", or \"per game\"."

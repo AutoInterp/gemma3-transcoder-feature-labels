@@ -1,0 +1,1 @@
+"The token \"index\" is used in various contexts, including file paths, database queries, and data structures, often referring to a reference point or a position in a sequence."

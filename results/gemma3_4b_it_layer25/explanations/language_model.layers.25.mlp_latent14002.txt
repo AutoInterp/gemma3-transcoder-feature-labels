@@ -1,0 +1,1 @@
+"SQL code snippets from various database systems, including MySQL, PostgreSQL, and Derby, showcasing table structures, data types, and queries."

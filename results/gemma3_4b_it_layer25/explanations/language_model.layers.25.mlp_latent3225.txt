@@ -1,0 +1,1 @@
+"Various types of text data, including addresses, business names, product information, and event details, often containing geographical locations, company names, and product descriptions."

@@ -1,0 +1,1 @@
+"Texts often contain phrases that indicate a lack or absence of something, such as \"doesn't have\", \"doesn't allow\", \"doesn't matter\", \"doesn't support\", and \"doesn't exceed\", which are used to convey a sense of negation or limitation."

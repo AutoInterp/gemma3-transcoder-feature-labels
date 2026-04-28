@@ -1,0 +1,1 @@
+"Text fragments often appear in a standalone manner, sometimes as a note or a side comment, and are frequently found at the end of a paragraph or a section."

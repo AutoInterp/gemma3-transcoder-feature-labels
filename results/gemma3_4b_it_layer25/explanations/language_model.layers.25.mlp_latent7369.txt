@@ -1,0 +1,1 @@
+"Texts containing Chinese characters, with some examples being programming-related, others being about technology, and a few being about general topics."

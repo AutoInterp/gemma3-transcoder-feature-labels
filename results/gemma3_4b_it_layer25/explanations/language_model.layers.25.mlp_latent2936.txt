@@ -1,0 +1,1 @@
+"Text excerpts often contain proper nouns, such as names of people, places, and organizations, which are frequently accompanied by dates, titles, and other contextual information."

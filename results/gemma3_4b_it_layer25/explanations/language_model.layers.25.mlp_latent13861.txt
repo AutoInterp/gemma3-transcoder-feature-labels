@@ -1,0 +1,1 @@
+"Texts often contain proper nouns, such as names of people, places, and organizations, which are frequently mentioned in conjunction with other words like \"of\", \"in\", \"at\", and \"on\". Additionally, phrases indicating a change in time or location, like \"in the year\", \"on Easter Sunday\", and \"in the hours and days after the election\", are common."

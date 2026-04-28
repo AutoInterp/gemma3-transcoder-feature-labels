@@ -1,0 +1,1 @@
+"Texts often contain dates, names, and quotes, which are frequently used to provide context and support arguments. Additionally, there are instances of technical terms, programming code, and scientific data, indicating a mix of formal and informal writing styles."

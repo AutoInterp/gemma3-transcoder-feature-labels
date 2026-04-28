@@ -1,0 +1,1 @@
+"Various technical and scientific terms, including programming languages (C, C++, Python), computer hardware (GPU, CPU, battery), and environmental data (fuel economy ratings, chemical ions in ice core)."

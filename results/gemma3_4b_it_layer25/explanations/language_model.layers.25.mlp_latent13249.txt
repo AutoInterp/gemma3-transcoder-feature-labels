@@ -1,0 +1,1 @@
+"Code snippets from various programming languages and frameworks, primarily focusing on object-oriented design principles, software design patterns, and database interactions, with a notable emphasis on SOLID principles, dependency inversion, and interface segregation."

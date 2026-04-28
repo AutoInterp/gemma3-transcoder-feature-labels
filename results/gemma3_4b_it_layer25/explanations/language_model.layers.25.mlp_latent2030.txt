@@ -1,0 +1,1 @@
+"Code snippets and technical documentation, including programming languages, APIs, and data structures, with a focus on HTTP requests, responses, and parameters."

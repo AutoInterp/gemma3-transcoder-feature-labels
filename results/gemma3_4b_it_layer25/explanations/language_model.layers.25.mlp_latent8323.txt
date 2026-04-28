@@ -1,0 +1,1 @@
+"The token \"path\" is often used to represent a directory or file location, and is frequently used in conjunction with other words such as \"directory\", \"file\", \"location\", and \"route\" to convey the idea of navigation or movement through a system or network."

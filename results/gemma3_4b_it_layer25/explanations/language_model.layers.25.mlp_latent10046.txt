@@ -1,0 +1,1 @@
+"Error messages and warnings in code, often related to missing or undefined variables, functions, or files, as well as compilation errors and unsupported features."

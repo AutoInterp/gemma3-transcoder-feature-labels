@@ -1,0 +1,1 @@
+"Various types of text data, including dates, times, locations, mathematical expressions, programming code, and scientific or technical terminology, often appearing in specific contexts such as research papers, online forums, or news articles."

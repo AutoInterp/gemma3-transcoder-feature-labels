@@ -1,0 +1,1 @@
+"A mix of geographical locations, book titles, and addresses, with some text snippets describing events, people, and products."

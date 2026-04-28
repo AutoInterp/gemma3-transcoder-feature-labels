@@ -1,0 +1,1 @@
+"Texts containing numerical values, often in the format of \"0,000\" or \"100,000\", which appear to be used for emphasis or to represent large quantities."

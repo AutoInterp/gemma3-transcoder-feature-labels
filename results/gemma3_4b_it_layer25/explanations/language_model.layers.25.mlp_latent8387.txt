@@ -1,0 +1,1 @@
+"Technical documentation and programming-related text, including configuration files, code snippets, and explanations of various technologies and protocols."

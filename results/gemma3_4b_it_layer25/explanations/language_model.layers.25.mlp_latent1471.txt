@@ -1,0 +1,1 @@
+"Texts describing Linux system administration, package management, and software installation, including commands and configuration files."

@@ -1,0 +1,1 @@
+"Texts in multiple languages, including English, Chinese, and German, from various sources such as programming documentation, articles, and books. The patterns found include technical descriptions, programming code, and explanations of various concepts, often with a focus on software development, data structures, and algorithms."

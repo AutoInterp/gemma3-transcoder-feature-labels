@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including C, C++, Java, and SQL, with a focus on string manipulation, data types, and object-oriented programming concepts."

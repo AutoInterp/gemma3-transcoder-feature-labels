@@ -1,0 +1,1 @@
+"Various types of text, including book excerpts, news articles, and code snippets, with a focus on extracting specific information such as numerical values, URLs, and other data."

@@ -1,0 +1,1 @@
+"Text describing color information, including hex codes, RGB values, and color variations such as tints, shades, and complementary colors."

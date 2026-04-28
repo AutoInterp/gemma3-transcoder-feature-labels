@@ -1,0 +1,1 @@
+"Text fragments often containing addresses, names of institutions, or specific locations, frequently appearing at the beginning of a sentence or paragraph."

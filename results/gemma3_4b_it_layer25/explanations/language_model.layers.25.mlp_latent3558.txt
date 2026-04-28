@@ -1,0 +1,1 @@
+"HTTP headers and metadata, including Content-Type, Accept, Accept-Ranges, Content-Length, and other headers used for authentication, authorization, and data transmission."

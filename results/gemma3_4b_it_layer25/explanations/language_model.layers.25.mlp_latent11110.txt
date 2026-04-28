@@ -1,0 +1,1 @@
+"The token \"dependent\" or \"dependency\" is used to convey a relationship between two or more entities, often indicating a reliance or connection between them."

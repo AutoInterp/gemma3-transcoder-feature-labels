@@ -1,0 +1,1 @@
+"Texts from various sources, including news articles, recipes, and technical documents, with a focus on extracting key phrases and sentences. The extracted phrases often contain specific words or phrases that are relevant to the context, such as names of people, places, or organizations, or technical terms and jargon."

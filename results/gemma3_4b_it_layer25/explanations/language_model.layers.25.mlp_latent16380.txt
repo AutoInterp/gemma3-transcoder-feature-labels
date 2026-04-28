@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, showing loops and iterations, often used for data processing, calculations, or traversals."

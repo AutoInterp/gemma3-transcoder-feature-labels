@@ -1,0 +1,1 @@
+"The token \"id\" is frequently used in database-related code, often as a column name or a variable name, and is often followed by other keywords such as \"user\", \"orderId\", \"taskId\", etc."

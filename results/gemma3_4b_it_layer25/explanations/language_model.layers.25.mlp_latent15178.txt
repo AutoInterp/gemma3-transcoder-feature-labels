@@ -1,0 +1,1 @@
+"Various phrases and sentences that are likely to be removed or considered as noise in text analysis, including but not limited to, advertisements, comments, and extraneous information."

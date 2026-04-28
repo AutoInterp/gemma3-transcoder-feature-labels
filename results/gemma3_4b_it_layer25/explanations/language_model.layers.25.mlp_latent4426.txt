@@ -1,0 +1,1 @@
+"Texts containing dates, times, and ranges, often used to describe periods, intervals, or scales."

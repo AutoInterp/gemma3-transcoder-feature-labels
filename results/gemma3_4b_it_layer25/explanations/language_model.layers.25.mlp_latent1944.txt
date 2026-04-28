@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are not essential to the main message, such as instructions, disclaimers, or advertisements, which are often marked by a low activation score."

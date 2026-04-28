@@ -1,0 +1,1 @@
+"The token \"Context\" is a common identifier in various programming languages, often used to represent a reference to the current environment or settings."

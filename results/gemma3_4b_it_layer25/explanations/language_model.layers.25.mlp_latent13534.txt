@@ -1,0 +1,1 @@
+"Text snippets containing metadata, such as publication dates, author information, and citation references, often found at the beginning or end of a document."

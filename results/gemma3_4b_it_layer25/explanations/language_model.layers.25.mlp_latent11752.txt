@@ -1,0 +1,1 @@
+"Code snippets in various programming languages, including PHP, Python, and JavaScript, as well as configuration files and command-line instructions."

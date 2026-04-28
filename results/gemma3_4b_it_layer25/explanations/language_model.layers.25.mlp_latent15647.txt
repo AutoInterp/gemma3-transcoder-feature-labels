@@ -1,0 +1,1 @@
+"Text fragments that are likely to be table headers or section titles, often containing key terms or phrases that summarize the content that follows."

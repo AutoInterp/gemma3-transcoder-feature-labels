@@ -1,0 +1,1 @@
+"Code snippets and technical documentation, often containing domain-specific terminology and syntax."

@@ -1,0 +1,1 @@
+"Various database table schema definitions, including column names and data types, as well as SQL queries and programming code snippets."

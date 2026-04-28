@@ -1,0 +1,1 @@
+"Various file paths, directory names, and configuration file locations, often used in commands or scripts."

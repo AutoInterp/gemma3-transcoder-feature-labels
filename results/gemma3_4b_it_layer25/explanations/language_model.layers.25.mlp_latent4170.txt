@@ -1,0 +1,1 @@
+"Various programming and technical documentation, including code snippets, error messages, and user instructions, often related to web development, security, and data encryption."

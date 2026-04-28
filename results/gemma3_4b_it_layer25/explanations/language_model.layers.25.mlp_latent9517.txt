@@ -1,0 +1,1 @@
+"Large numbers and financial amounts are often represented in a specific format, typically with commas or periods separating groups of three digits, and sometimes with a decimal point for fractions of a dollar."

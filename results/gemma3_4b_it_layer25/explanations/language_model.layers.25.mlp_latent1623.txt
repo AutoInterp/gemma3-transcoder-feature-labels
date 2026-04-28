@@ -1,0 +1,1 @@
+"Text snippets containing specific information such as prices, dates, locations, and product names, often accompanied by numerical data, and sometimes followed by a period or an abbreviation like <eos>."

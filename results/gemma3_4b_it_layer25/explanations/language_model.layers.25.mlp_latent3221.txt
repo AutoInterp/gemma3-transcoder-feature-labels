@@ -1,0 +1,1 @@
+"Various types of text data, including dates, times, locations, scientific and technical information, business and financial data, and quotes, often in a format that is not easily interpretable."

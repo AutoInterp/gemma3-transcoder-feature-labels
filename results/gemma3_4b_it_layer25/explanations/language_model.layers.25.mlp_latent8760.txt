@@ -1,0 +1,1 @@
+"The token \"private\" is often used to describe something that is exclusive, owned, or not publicly accessible, while the token \"public\" is used to describe something that is open, accessible, or shared among many."

@@ -1,0 +1,1 @@
+"Texts often contain proper nouns such as city names, state names, and company names, which are frequently mentioned in conjunction with other geographical or organizational information."

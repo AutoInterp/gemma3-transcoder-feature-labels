@@ -1,0 +1,1 @@
+"Time expressions in 12-hour format, typically with the word \"p.m.\" or \"a.m.\" indicating the time of day."

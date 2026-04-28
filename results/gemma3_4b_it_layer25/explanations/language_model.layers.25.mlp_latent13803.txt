@@ -1,0 +1,1 @@
+"Texts often contain phrases that can be removed or replaced with a more concise version, such as idiomatic expressions, colloquialisms, or redundant words, without affecting the overall meaning."

@@ -1,0 +1,1 @@
+"Texts often contain technical or specialized information, including scientific concepts, mathematical formulas, and programming code, which are frequently embedded within paragraphs of general text."

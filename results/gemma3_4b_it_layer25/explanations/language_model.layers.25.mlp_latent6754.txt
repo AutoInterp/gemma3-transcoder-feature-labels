@@ -1,0 +1,1 @@
+"The token \"x\" is often used as a prefix in various contexts, including programming, operating systems, and technical terms, often referring to a specific technology, system, or concept, such as X11, X Window System, XSD, XForms, X86, X-Men, etc."

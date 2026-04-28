@@ -1,0 +1,1 @@
+"Texts containing sensitive information such as personal data, medical information, and financial data, often in the context of security breaches, medical research, or financial transactions."

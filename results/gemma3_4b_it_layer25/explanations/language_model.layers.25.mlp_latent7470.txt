@@ -1,0 +1,1 @@
+"The token \"better\" is used to convey a positive sentiment, often comparing something to an alternative, and the token \"worse\" is used to convey a negative sentiment, often comparing something to an alternative."

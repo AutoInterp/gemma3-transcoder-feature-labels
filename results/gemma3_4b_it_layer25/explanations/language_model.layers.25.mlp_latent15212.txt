@@ -1,0 +1,1 @@
+"Various programming languages and frameworks, including C#, Java, JavaScript, Python, and JSON, with a focus on code snippets and function definitions."

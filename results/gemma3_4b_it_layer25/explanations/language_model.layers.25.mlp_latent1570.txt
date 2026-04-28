@@ -1,0 +1,1 @@
+"Various units of measurement, including quantities of data (GB, TB, MB), monetary values (billion, million, trillion), and physical units (kg, m, A, Amp-m2), often used in technical, scientific, or financial contexts."

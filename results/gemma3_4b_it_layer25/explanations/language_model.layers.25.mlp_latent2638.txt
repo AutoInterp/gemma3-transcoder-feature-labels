@@ -1,0 +1,1 @@
+"Texts discussing various encryption algorithms, protocols, and techniques, including AES, RSA, TLS, SSL, and others, highlighting their strengths, weaknesses, and applications in secure communication and data protection."

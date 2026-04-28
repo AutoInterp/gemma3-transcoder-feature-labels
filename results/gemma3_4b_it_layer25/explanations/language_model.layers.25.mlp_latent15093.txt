@@ -1,0 +1,1 @@
+"Text snippets often contain specific information such as financial data, weather forecasts, scientific research, or news articles, which are frequently embedded within larger blocks of text."

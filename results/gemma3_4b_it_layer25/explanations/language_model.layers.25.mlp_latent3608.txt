@@ -1,0 +1,1 @@
+"Java code snippets, primarily from Spring and Hibernate frameworks, containing annotations, method implementations, and database operations."

@@ -1,0 +1,1 @@
+"Code snippets and programming-related text, including SQL queries, PHP code, and mathematical expressions, often with specific syntax highlighting and formatting."

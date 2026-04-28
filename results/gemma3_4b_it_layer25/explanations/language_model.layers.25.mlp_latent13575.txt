@@ -1,0 +1,1 @@
+"Text fragments often found at the beginning or end of a document, such as copyright information, author names, and release dates, as well as code snippets and programming language imports."

@@ -1,0 +1,1 @@
+"Code snippets and mathematical expressions in various programming languages and formats, including SQL, Python, Java, and Swift, often containing variable names, function calls, and mathematical operations."

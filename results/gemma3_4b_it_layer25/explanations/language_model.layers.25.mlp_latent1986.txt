@@ -1,0 +1,1 @@
+"Text describing software design principles, patterns, and best practices, including object-oriented programming, abstraction, encapsulation, inheritance, polymorphism, and separation of concerns, as well as design patterns such as Model-View-Controller and Single Responsibility Principle."

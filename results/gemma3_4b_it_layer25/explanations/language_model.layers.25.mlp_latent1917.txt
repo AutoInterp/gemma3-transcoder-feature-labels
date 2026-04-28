@@ -1,0 +1,1 @@
+"Various types of data, including numerical values, prices, and measurements, often accompanied by units of measurement, and sometimes presented in tables or lists."

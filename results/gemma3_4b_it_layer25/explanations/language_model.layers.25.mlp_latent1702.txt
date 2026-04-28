@@ -1,0 +1,1 @@
+"Texts from various sources, including academic papers, news articles, and online content, with a mix of technical and non-technical language. The common patterns found in the text include citations and references, mathematical and scientific terminology, and usage of specific formatting and syntax for programming code and data."

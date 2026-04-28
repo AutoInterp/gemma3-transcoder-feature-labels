@@ -1,0 +1,1 @@
+"Text fragments often appear in a specific format, such as code snippets, URLs, or academic references, which can be identified by their unique structure and syntax. These fragments are often used to provide additional information, context, or citations within the main text."

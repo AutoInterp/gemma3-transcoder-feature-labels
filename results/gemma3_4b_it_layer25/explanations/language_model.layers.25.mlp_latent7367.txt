@@ -1,0 +1,1 @@
+"The token \"the\" is often present in the context of a sentence, but its activation values vary greatly, suggesting that it is not a key indicator of a specific pattern."

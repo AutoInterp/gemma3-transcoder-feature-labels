@@ -1,0 +1,1 @@
+"The token \"list\" is often used in the context of a collection of items, such as a list of items, a list of options, a list of variables, or a list of items in a UI component."

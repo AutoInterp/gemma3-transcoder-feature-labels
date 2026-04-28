@@ -1,0 +1,1 @@
+"Text snippets from various programming languages, documentation, and articles, including Java, Oracle, Spring, AngularJS, HTML, CSS, JavaScript, Python, and C#."

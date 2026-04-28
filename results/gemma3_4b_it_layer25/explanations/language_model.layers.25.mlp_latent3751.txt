@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including syntax, function calls, and variable assignments, often with a focus on specific data types, file operations, or error handling."

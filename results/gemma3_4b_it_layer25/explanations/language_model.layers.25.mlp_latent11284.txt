@@ -1,0 +1,1 @@
+"SQL code snippets, including table definitions, data types, and database operations, often with specific syntax and formatting for various database management systems."

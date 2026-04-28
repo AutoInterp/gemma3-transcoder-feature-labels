@@ -1,0 +1,1 @@
+"Text snippets often containing lists of items, URLs, or technical specifications, frequently found at the end of a paragraph or as a standalone block of text."

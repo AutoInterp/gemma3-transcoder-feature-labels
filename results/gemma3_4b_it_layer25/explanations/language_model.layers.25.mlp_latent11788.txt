@@ -1,0 +1,1 @@
+"Texts containing dates in the format of a year or a range of years, often used to provide context or establish a timeline."

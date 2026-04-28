@@ -1,0 +1,1 @@
+"Various types of text data, including articles, product descriptions, exam information, trigger code, and SQL queries, often containing specific keywords and phrases related to their respective contexts."

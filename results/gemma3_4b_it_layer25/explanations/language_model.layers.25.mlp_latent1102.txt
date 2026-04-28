@@ -1,0 +1,1 @@
+"Code snippets and programming concepts, including function definitions, class implementations, and data structures, often with accompanying comments and explanations."

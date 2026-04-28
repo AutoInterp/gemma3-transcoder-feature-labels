@@ -1,0 +1,1 @@
+"Various types of text, including news articles, technical documentation, and code snippets, with a focus on extracting specific information or patterns."

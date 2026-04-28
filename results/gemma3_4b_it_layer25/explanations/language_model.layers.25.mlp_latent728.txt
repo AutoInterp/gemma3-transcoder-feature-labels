@@ -1,0 +1,1 @@
+"Text snippets often contain URLs, citations, or references, which are frequently denoted by a period followed by a citation number or a URL."

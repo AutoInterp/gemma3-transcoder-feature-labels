@@ -1,0 +1,1 @@
+"The age value is often presented as a placeholder or tooltip, providing an idea of the expected age range for a particular activity, product, or service."

@@ -1,0 +1,1 @@
+"C++ code snippets, including function definitions, variable declarations, and conditional statements, often related to programming concepts, data structures, and algorithms."

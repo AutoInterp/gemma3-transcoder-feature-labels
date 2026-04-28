@@ -1,0 +1,1 @@
+"HTML code snippets with various attributes, tags, and styles, often related to web development and accessibility features such as ARIA."

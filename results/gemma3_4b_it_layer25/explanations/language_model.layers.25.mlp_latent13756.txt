@@ -1,0 +1,1 @@
+"Scientific and technical text with frequent use of precise numerical values, often in the range of 0.000 to 0.01, and units of measurement, typically in metric or imperial systems."

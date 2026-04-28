@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, primarily C#, Java, and C++. The patterns found include method declarations, class definitions, and function implementations, often with variable and parameter names."

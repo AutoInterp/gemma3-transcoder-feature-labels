@@ -1,0 +1,1 @@
+"Various types of text data, including numerical values, addresses, measurements, chemical formulas, song lyrics, and product information, often presented in a formal or structured format."

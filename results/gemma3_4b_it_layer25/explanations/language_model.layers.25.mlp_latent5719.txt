@@ -1,0 +1,1 @@
+"Texts often contain proper nouns, such as names of locations, organizations, and people, which are frequently associated with high activation values. Additionally, texts may include technical or scientific terms, especially in abstracts or academic papers, which also tend to have high activation values."

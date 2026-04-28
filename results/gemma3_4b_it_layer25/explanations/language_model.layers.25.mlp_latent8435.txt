@@ -1,0 +1,1 @@
+"Code snippets in various programming languages, including Go, Python, and XML, with a focus on data structures, algorithms, and software development."

@@ -1,0 +1,1 @@
+"Text discussing spatial references, geographic coordinates, and mapping concepts, often referencing specific software and technologies."

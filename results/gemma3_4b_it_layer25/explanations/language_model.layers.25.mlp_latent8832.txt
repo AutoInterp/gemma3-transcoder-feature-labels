@@ -1,0 +1,1 @@
+"Various programming languages and systems, including Java, C#, C++, Linux, macOS, Windows, and others, with a focus on system administration, debugging, and repair."

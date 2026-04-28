@@ -1,0 +1,1 @@
+"Code snippets in various programming languages, including C#, JavaScript, and Python, often used for demonstration or explanation purposes."

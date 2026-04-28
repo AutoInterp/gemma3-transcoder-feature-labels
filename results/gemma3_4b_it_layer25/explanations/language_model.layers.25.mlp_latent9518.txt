@@ -1,0 +1,1 @@
+"HTML tags and strings, often used for formatting and structuring content, such as headings, input fields, and text."

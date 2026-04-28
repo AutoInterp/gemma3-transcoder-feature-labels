@@ -1,0 +1,1 @@
+"Various dates and years are often represented in a specific format, typically with a four-digit number, sometimes followed by a hyphen and another four-digit number, or sometimes with a comma and a two-digit number."

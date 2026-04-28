@@ -1,0 +1,1 @@
+"Texts containing Chinese characters, often with English translations or explanations, and sometimes accompanied by code snippets or mathematical expressions, indicating a mix of technical and educational content."

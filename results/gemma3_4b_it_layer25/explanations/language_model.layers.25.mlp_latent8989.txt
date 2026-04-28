@@ -1,0 +1,1 @@
+"Various types of text data, including dates and times in different formats, URLs, email addresses, and scientific citations, often appearing in code snippets or as part of a larger text."

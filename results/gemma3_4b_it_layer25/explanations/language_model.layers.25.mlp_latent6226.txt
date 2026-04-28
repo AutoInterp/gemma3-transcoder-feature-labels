@@ -1,0 +1,1 @@
+"Various programming languages and database queries, including SQL, Python, and C++. The text contains code snippets, function definitions, and variable declarations, indicating a focus on software development and data analysis."

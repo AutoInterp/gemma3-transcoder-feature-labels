@@ -1,0 +1,1 @@
+"A mix of geographical locations, business names, and addresses, often in the format of \"name- address, city, country\"."

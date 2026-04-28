@@ -1,0 +1,1 @@
+"Text primarily discussing statistical concepts, specifically distributions such as normal, t, F, and chi-square, and their properties, applications, and tests."

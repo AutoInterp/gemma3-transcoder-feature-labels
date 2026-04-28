@@ -1,0 +1,1 @@
+"Texts discussing various topics, including science, technology, health, finance, and more, often contain phrases or sentences that are cut off or truncated, typically denoted by the symbol <eos>."

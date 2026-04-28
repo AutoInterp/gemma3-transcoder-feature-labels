@@ -1,0 +1,1 @@
+"Texts are a collection of command-line instructions, tutorials, and programming examples, often with a focus on technical topics such as software development, system administration, and troubleshooting."

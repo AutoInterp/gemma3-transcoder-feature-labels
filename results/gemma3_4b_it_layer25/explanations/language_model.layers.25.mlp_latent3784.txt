@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, primarily C++, Java, and JavaScript, with a focus on geometry, spatial analysis, and computer graphics, including concepts such as paths, shapes, and coordinate systems."

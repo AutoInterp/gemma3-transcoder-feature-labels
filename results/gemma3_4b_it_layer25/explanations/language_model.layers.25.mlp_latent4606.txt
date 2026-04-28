@@ -1,0 +1,1 @@
+"Various database schema and SQL queries, including table creation, data types, and indexing."

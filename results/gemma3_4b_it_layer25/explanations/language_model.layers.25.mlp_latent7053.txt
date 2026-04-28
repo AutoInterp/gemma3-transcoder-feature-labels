@@ -1,0 +1,1 @@
+"Various programming and technical terms, including file paths, API endpoints, and code snippets, often related to software development, data storage, and system administration."

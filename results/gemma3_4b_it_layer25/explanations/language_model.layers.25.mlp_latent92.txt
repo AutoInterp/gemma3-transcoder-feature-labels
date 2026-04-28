@@ -1,0 +1,1 @@
+"Paths and URLs, both file system and network, are frequently found in the text."

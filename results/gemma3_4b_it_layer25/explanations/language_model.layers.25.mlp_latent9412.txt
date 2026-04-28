@@ -1,0 +1,1 @@
+"Texts containing dates in the format of \"18XX\" or \"19XX\", often used to denote centuries or specific years in historical contexts."

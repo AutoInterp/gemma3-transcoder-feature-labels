@@ -1,0 +1,1 @@
+"Various types of text data, including business information, product descriptions, event details, and customer reviews, often containing addresses, phone numbers, and other contact information."

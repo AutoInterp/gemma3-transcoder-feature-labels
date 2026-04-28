@@ -1,0 +1,1 @@
+"The text contains various file-related terms and concepts, including file formats (e.g. JSON, CSV, Gerber), file operations (e.g. reading, writing, copying), file paths and locations (e.g. usr partition, core file), and file management (e.g. splitting, renaming)."

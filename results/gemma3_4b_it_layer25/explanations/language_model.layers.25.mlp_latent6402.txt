@@ -1,0 +1,1 @@
+"Technical instructions and troubleshooting guides for various operating systems, including Windows, Linux, and Mac, often involving command-line interfaces and terminal commands."

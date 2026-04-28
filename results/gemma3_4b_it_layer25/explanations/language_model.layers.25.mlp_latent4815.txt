@@ -1,0 +1,1 @@
+"Various programming code snippets and command line arguments, including Perl, Python, Java, and VBA scripts, as well as shell commands and C++ code."

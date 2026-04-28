@@ -1,0 +1,1 @@
+"Texts containing programming commands, configuration options, and system administration instructions, often with a focus on Unix-based systems and version control systems like Git."

@@ -1,0 +1,1 @@
+"Text fragments often contain proper nouns, such as names of locations, organizations, and individuals, which are frequently mentioned in the context of events, activities, or achievements."

@@ -1,0 +1,1 @@
+"Text containing various types of formatting, such as HTML tags, LaTeX code, and special characters, often used to represent mathematical or scientific concepts, and sometimes used to denote emphasis or style in written text."

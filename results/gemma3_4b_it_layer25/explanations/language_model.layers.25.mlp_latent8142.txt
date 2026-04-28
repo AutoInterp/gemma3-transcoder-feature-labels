@@ -1,0 +1,1 @@
+"Various programming-related terms, including function calls, variable declarations, and data structures, as well as code snippets in multiple programming languages."

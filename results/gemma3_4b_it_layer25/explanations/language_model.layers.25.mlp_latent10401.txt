@@ -1,0 +1,1 @@
+"Text snippets containing geographical locations, names of cities, countries, and regions, as well as specific addresses, URLs, and other types of metadata."

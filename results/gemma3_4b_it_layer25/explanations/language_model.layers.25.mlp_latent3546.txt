@@ -1,0 +1,1 @@
+"Database table and column names, code snippets, and programming language syntax."

@@ -1,0 +1,1 @@
+"Text snippets often contain URLs, references, or citations, which are frequently marked by delimiters, and sometimes accompanied by activation values indicating their importance."

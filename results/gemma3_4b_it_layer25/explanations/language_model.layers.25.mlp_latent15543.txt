@@ -1,0 +1,1 @@
+"Text fragments that are not part of the main content, often indicating a transition or a new topic, such as quotes, citations, or external links."

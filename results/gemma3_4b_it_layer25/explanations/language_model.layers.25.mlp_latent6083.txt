@@ -1,0 +1,1 @@
+"Various URLs, file paths, and document references, often used to provide additional information or context."

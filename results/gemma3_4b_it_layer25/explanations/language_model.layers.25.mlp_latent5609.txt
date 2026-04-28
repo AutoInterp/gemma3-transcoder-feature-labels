@@ -1,0 +1,1 @@
+"Text fragments often appear to be cut off mid-sentence, suggesting that the text is being analyzed in a way that focuses on individual words or phrases rather than complete sentences or paragraphs."

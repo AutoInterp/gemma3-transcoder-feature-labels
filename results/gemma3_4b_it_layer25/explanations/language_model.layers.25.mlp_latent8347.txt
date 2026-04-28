@@ -1,0 +1,1 @@
+"The token \"log\" and its variants (\"logged\", \"logging\") are used in various contexts, including programming (e.g., logging errors, debugging), mathematics (e.g., logarithms), and everyday language (e.g., logging in, logging out)."

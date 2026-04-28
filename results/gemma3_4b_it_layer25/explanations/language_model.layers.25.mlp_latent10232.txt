@@ -1,0 +1,1 @@
+"Various programming-related terms, technical jargon, and system calls, often used in the context of software development, networking, and computer systems."

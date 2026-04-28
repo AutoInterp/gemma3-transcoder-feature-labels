@@ -1,0 +1,1 @@
+"Texts containing dates in the format of \"B.C.\" or \"A.D.\", often used to denote years in historical contexts."

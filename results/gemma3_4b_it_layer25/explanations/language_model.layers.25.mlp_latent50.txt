@@ -1,0 +1,1 @@
+"Various programming code snippets and text from technical documents, including SQL queries, programming languages, and network protocols."

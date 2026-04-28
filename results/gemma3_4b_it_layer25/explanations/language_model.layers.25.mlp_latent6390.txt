@@ -1,0 +1,1 @@
+"Texts containing file-related operations, such as copying, uploading, and processing files, often in the context of programming, software development, and data analysis."

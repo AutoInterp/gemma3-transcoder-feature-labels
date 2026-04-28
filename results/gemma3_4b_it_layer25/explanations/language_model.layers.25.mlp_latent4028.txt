@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including C, C++, and VB, with a focus on Windows-specific functions and APIs, such as registry editing, file system operations, and GUI programming."

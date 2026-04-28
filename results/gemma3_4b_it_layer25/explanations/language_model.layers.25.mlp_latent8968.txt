@@ -1,0 +1,1 @@
+"Various types of text data, including addresses, phone numbers, email addresses, company information, and news articles, often containing specific details such as dates, locations, and financial information."

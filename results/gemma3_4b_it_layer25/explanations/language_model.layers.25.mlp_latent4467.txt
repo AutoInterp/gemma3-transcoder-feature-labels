@@ -1,0 +1,1 @@
+"Text segments often appear in pairs, typically enclosed by HTML tags or other delimiters, and are frequently related to article titles, subtitles, or other content divisions."

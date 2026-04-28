@@ -1,0 +1,1 @@
+"Texts discussing technical topics, including computer science, programming, and software development, often contain formal and technical language, such as code snippets, API calls, and programming concepts."

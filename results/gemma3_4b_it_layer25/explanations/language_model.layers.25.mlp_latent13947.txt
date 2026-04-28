@@ -1,0 +1,1 @@
+"Code snippets in various programming languages, including SQL, C#, and C++, with a focus on color codes and hexadecimal values."

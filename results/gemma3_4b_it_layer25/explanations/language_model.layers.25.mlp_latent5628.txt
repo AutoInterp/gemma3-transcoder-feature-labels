@@ -1,0 +1,1 @@
+"Technical text discussing various electronic and digital concepts, including signal processing, digital-to-analog conversion, analog-to-digital conversion, and digital communication systems."

@@ -1,0 +1,1 @@
+"Texts containing commands, configuration files, and programming instructions, often with a focus on technical setup, deployment, and debugging."

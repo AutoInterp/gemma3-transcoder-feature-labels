@@ -1,0 +1,1 @@
+"C++ and Java code snippets with various syntax elements, including function calls, variable declarations, and class definitions."

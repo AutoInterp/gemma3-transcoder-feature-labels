@@ -1,0 +1,1 @@
+"The token \"worser\" is used in place of \"worse\" to convey a stronger negative sentiment, often in a humorous or ironic way."

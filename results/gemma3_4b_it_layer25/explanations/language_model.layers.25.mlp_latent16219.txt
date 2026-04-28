@@ -1,0 +1,1 @@
+"Texts related to software configuration, setup, and management, including installation, configuration files, and troubleshooting."

@@ -1,0 +1,1 @@
+"Texts that are not enclosed in delimiters are often paragraphs of coherent text, while those enclosed in delimiters are often standalone phrases or sentences that are being used to illustrate a point or provide additional information."

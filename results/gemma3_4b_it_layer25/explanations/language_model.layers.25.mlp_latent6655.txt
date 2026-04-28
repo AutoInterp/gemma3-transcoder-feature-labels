@@ -1,0 +1,1 @@
+"HTML tags and attributes used in web development, including elements for text formatting, links, images, forms, and accessibility features."

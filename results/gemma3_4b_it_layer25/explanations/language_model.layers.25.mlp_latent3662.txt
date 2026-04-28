@@ -1,0 +1,1 @@
+"Various types of text, including addresses, sentences, and code snippets, with a focus on extracting specific information such as names, locations, and numerical values."

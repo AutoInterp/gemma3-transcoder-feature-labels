@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are enclosed in double angle brackets, which are likely to be quotes, citations, or references. These enclosed texts are often related to specific topics or subjects, and their activations are generally low, indicating that they are not the primary focus of the text."

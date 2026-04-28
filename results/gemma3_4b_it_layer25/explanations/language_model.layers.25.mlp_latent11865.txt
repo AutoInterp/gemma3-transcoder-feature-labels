@@ -1,0 +1,1 @@
+"The token \"greater than\" and its variants (\"greater than or equal to\") are used to compare values in mathematical and logical expressions."

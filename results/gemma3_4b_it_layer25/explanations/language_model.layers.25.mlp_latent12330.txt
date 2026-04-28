@@ -1,0 +1,1 @@
+"Texts discussing Linux operating system, its distributions, and related software, tools, and applications, often referencing specific versions, commands, and configurations."

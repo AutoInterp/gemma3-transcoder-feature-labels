@@ -1,0 +1,1 @@
+"The token \"sqrt\" is used to represent the mathematical operation of finding the square root of a number, often used in mathematical formulas and equations."

@@ -1,0 +1,1 @@
+"Texts from various programming languages, including Java, Python, and SQL, as well as snippets from scientific papers, medical information, and online articles. The patterns found in these examples include code syntax, variable declarations, function calls, and data types, indicating a collection of programming-related text."

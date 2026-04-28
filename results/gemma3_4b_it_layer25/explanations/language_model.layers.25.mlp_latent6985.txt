@@ -1,0 +1,1 @@
+"Phrases indicating time or sequence, such as \"later\", \"after\", \"in the first and second generations\", \"in the early morning hours\", \"in the Middle Ages\", \"in the 1920s\", \"in 1704\", \"in 1843\", \"in 1876\", \"in 1944\", \"in 1973\", and \"in the 1930s\"."

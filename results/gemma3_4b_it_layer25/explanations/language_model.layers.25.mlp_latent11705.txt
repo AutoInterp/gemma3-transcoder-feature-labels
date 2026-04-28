@@ -1,0 +1,1 @@
+"Various phrases and sentences are contained within code-like blocks, often with a specific formatting or syntax, but are not actual code."

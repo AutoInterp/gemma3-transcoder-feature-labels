@@ -1,0 +1,1 @@
+"The token \"array\" is a fundamental data structure in programming, used to store and manipulate collections of elements. It is a common concept across various programming languages and is often used in conjunction with other programming concepts such as variables, loops, and functions."

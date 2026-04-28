@@ -1,0 +1,1 @@
+"Various types of text data, including addresses, instructions, product information, and articles, often containing specific details such as dates, locations, and technical specifications."

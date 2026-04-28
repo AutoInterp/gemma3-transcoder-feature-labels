@@ -1,0 +1,1 @@
+"Dates in the format of year, month, and day, often in the format of January 1, 2020, or January 9, 2013."

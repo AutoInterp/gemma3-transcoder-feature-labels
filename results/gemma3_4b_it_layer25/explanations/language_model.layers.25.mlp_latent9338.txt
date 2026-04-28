@@ -1,0 +1,1 @@
+"Technical documentation and programming code snippets, often referencing specific software, hardware, and technologies, with a focus on system administration, development, and IT-related topics."

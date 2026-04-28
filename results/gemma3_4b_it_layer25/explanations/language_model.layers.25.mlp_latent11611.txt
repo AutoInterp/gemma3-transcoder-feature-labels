@@ -1,0 +1,1 @@
+"Texts that are enclosed in delimiters are often quotes or phrases that are being referenced or explained, and are typically not as highly activated as the surrounding text."

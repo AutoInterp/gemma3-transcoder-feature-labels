@@ -1,0 +1,1 @@
+"Technical text describing network protocols, specifically TCP, including its states, packet sequences, and potential issues with simultaneous opens, sequence numbers, and connection closures."

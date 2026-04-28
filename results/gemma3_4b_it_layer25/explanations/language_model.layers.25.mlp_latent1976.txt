@@ -1,0 +1,1 @@
+"SQL queries with various complexities, including linear and quadratic time complexities, and examples of poorly optimized queries that can lead to performance issues."

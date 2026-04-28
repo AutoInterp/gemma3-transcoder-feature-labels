@@ -1,0 +1,1 @@
+"Text snippets containing geographical locations, addresses, and city names, often used as identifiers or references."

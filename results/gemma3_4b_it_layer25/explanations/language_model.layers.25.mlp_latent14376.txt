@@ -1,0 +1,1 @@
+"End of text markers, such as \"<eos>\", and closing tags, like \"</\" and \">\", often found at the end of a text snippet or a response."

@@ -1,0 +1,1 @@
+"Text describing mathematical concepts, specifically from the fields of topology, operator algebras, and category theory, with a focus on definitions, theorems, and properties of various mathematical structures such as ordinals, operator systems, and Banach algebras."

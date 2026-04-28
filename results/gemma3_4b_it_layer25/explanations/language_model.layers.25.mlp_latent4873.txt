@@ -1,0 +1,1 @@
+"The token \"Go\" appears in various contexts, including programming languages (e.g. Go, Gollvm), proper nouns (e.g. Goebbels, GoDaddy, GoFundMe), and idiomatic expressions (e.g. \"go for it\", \"go with the flow\")."

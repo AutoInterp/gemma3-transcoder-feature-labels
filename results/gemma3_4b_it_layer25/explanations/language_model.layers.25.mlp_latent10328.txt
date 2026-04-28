@@ -1,0 +1,1 @@
+"Dates in various formats, including full dates, years, and specific days of the week, often accompanied by times and other metadata."

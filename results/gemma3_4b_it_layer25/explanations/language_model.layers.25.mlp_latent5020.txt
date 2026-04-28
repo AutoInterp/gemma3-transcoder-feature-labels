@@ -1,0 +1,1 @@
+"Texts with low activation values are likely to be quotes, citations, or references, often containing formal or technical language."

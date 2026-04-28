@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including SQL, Python, JavaScript, and C#, as well as text from articles, blog posts, and other written content."

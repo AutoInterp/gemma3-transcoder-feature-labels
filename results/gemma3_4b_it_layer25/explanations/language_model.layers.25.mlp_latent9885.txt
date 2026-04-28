@@ -1,0 +1,1 @@
+"Texts containing database-related queries, SQL syntax, and character encoding settings, as well as programming code snippets in various languages, highlighting the importance of character handling and encoding in software development."

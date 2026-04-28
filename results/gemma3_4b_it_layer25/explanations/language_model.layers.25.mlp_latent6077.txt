@@ -1,0 +1,1 @@
+"Texts often contain long sequences of words that are not crucial to the meaning, but rather provide context or background information, which can be identified by their low activation values."

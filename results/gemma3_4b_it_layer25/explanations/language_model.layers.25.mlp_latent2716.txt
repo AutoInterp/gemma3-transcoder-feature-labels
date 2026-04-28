@@ -1,0 +1,1 @@
+"Nouns representing physical locations or access points, such as buildings, areas, roads, and bodies of water."

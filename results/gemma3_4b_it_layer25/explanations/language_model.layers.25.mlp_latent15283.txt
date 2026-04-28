@@ -1,0 +1,1 @@
+"Text snippets often contain geographical locations, names of people, places, and events, as well as technical terms and data. These snippets are frequently enclosed in a specific format, possibly indicating a specific type of information or a source."

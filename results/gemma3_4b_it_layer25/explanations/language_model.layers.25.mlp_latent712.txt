@@ -1,0 +1,1 @@
+"Code snippets and programming concepts, including function definitions, data structures, and algorithm explanations, often accompanied by mathematical or technical terminology."

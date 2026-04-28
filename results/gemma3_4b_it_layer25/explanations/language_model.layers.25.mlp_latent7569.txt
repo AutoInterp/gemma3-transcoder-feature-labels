@@ -1,0 +1,1 @@
+"The token \"for\" is often used to indicate the start of a loop in programming code, iterating over a range of values or a collection of elements."

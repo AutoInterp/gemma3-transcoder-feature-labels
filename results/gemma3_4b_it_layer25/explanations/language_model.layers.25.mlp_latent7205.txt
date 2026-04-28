@@ -1,0 +1,1 @@
+"Various numerical values and units, including measurements in inches, feet, and board feet, as well as monetary values and time durations."

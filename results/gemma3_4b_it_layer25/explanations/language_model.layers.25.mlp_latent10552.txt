@@ -1,0 +1,1 @@
+"Postal addresses, including street numbers, city names, states, countries, and zip codes, often accompanied by additional information such as phone numbers, email addresses, or website URLs."

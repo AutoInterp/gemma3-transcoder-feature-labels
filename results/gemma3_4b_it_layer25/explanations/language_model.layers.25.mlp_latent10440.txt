@@ -1,0 +1,1 @@
+"Texts containing a mix of programming code, technical descriptions, and general information on various topics, including biology, history, and technology. The patterns found in the examples include code snippets in multiple programming languages, technical terms and jargon, and formal descriptions of concepts and processes."

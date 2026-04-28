@@ -1,0 +1,1 @@
+"Texts often contain proper nouns, such as names of people, places, and organizations, which are frequently mentioned in conjunction with other words like \"the\", \"of\", and \"in\". Additionally, phrases and sentences often begin with transitional words or phrases like \"as\", \"but\", and \"and\", indicating a connection to the preceding or following text."

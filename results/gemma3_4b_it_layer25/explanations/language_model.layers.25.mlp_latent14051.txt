@@ -1,0 +1,1 @@
+"Various programming languages and frameworks, including Python, Java, JavaScript, and Spring Security, as well as mathematical and scientific concepts, such as neural networks, deep learning, and linear regression."

@@ -1,0 +1,1 @@
+"Numerical values and enumerations used to list steps, points, or items in a sequence, often used for instructional or informative purposes."

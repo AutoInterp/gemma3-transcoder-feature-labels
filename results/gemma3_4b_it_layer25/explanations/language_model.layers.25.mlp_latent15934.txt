@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, primarily assertions used for testing and debugging purposes, often checking for expected values or behaviors."

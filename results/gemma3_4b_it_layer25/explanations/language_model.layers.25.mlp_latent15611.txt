@@ -1,0 +1,1 @@
+"Text snippets often contain URLs, product names, book titles, and other specific references, which are frequently found in online articles, blog posts, and product descriptions."

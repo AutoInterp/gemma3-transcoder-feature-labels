@@ -1,0 +1,1 @@
+"The token \"once\" is used to indicate a single instance or occurrence of an event, often used in phrases such as \"once a year\", \"once a week\", or \"once again\"."

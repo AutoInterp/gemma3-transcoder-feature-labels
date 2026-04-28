@@ -1,0 +1,1 @@
+"Texts referencing various open-source licenses, including GNU General Public License, Creative Commons License, Apache License, and MIT License, often accompanied by copyright information and permissions for redistribution and modification."

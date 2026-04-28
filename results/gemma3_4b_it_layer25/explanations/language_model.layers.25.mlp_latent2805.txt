@@ -1,0 +1,1 @@
+"Strings of numbers, often in hexadecimal or decimal format, and sometimes accompanied by other text, likely representing code snippets or data."

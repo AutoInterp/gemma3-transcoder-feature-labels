@@ -1,0 +1,1 @@
+"The token \"load\" and its variants (e.g. \"loading\", \"load-balancing\", \"load-carrying\") are used in a variety of contexts, including computing, energy, and everyday language, often referring to the amount of work, power, or capacity being handled or managed."

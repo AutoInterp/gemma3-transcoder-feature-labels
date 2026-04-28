@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including JavaScript, Java, and SQL, containing variable and function names, data types, and database schema definitions."

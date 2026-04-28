@@ -1,0 +1,1 @@
+"The token \"email\" is frequently mentioned in the context of communication, often as a noun or part of a verb phrase, and is sometimes accompanied by other related tokens such as \"address\", \"account\", \"contact\", and \"send\"."

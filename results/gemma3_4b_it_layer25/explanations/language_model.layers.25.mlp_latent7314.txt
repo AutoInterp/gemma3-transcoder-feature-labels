@@ -1,0 +1,1 @@
+"Various instructions and prompts for user interaction, including navigation, configuration, and troubleshooting steps, often found in technical documentation, user manuals, and online help resources."

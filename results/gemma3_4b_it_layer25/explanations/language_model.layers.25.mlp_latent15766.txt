@@ -1,0 +1,1 @@
+"Various types of code snippets, including programming code, SQL queries, and configuration files, often containing specific keywords or phrases related to the context in which they appear."

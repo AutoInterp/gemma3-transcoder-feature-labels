@@ -1,0 +1,1 @@
+"Texts are primarily composed of technical commands, programming languages, and system administration instructions, often with a focus on Unix-like systems and various software tools."

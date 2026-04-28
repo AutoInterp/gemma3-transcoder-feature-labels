@@ -1,0 +1,1 @@
+"Texts from various programming and technical documentation, including code snippets, license agreements, and setup instructions, often containing specific keywords and phrases related to software development, licensing, and configuration."

@@ -1,0 +1,1 @@
+"Various types of text fragments, including URLs, citations, and code snippets, often found at the end of a paragraph or article."

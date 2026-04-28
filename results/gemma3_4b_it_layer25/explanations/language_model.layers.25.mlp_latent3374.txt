@@ -1,0 +1,1 @@
+"Text snippets in various programming languages, including Java, PL/SQL, and XML, as well as code comments and documentation."

@@ -1,0 +1,1 @@
+"Texts that contain a specific phrase or sentence that is not directly related to the main topic, but rather provides additional information, context, or a personal anecdote, often marked by a low activation score."

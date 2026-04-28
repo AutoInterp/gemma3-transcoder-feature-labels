@@ -1,0 +1,1 @@
+"Text snippets containing version numbers, release notes, and technical details about software, hardware, and operating systems."

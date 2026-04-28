@@ -1,0 +1,1 @@
+"Texts discussing various topics, including health, science, education, and business, often contain phrases or sentences that are not directly related to the main topic, but provide additional information or context. These phrases or sentences are often marked by a significant drop in activation values, indicating a shift in the topic or a transition to a new idea."

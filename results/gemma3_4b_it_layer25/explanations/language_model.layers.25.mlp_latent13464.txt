@@ -1,0 +1,1 @@
+"Text contains various URLs, code snippets, and special characters, often used for escaping or formatting, such as percent signs, square brackets, and Unicode characters."

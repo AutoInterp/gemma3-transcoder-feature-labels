@@ -1,0 +1,1 @@
+"The token \"len\" is used in various contexts, including function names, variable names, and method calls, often related to list or array operations, such as getting the length of a list, checking if a list is empty, or slicing a list."

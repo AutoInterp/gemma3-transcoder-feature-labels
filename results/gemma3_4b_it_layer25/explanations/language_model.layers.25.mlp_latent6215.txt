@@ -1,0 +1,1 @@
+"Text snippets often contain URLs, phone numbers, and other contact information, as well as quotes, references, and citations, which are frequently embedded within larger blocks of text."

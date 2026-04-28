@@ -1,0 +1,1 @@
+"Various programming code snippets and technical text, including SQL queries, programming languages (e.g. Java, Python), and markup languages (e.g. XML)."

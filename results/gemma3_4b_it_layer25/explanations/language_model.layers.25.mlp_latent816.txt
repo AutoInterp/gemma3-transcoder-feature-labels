@@ -1,0 +1,1 @@
+"Texts from various sources, including technical documentation, articles, and code snippets, with a focus on extracting specific information or patterns, such as variable names, function calls, and data types."

@@ -1,0 +1,1 @@
+"Frequent use of directional references such as top, bottom, left, and right to describe spatial relationships or locations on a screen, map, or other visual interface."
