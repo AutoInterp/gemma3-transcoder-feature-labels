@@ -1,0 +1,1 @@
+"Various programming and scripting commands, file paths, and system configurations, often related to Linux or Unix-like systems, and programming languages such as Java, Python, and C++."

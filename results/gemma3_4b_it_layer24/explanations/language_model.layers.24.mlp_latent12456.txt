@@ -1,0 +1,1 @@
+"Texts containing URLs, domain names, or specific file paths, often used for referencing external resources or providing additional information."

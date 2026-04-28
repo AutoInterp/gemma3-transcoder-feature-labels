@@ -1,0 +1,1 @@
+"Texts containing dates, specifically month names, often in the format of \"October 23rd\" or \"September 2019\", and sometimes accompanied by year information."

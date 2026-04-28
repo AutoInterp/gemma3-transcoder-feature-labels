@@ -1,0 +1,1 @@
+"Java code snippets from various projects, primarily involving Android and Spring applications, with a focus on data storage, user authentication, and API interactions."

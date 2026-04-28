@@ -1,0 +1,1 @@
+"Texts containing programming code, technical terms, and various types of data, including database queries, API calls, and file paths, often in the context of software development, data analysis, or system administration."

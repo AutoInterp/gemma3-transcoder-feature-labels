@@ -1,0 +1,1 @@
+"Various types of text data, including phone numbers, addresses, product information, restaurant names, and articles, often containing specific keywords or phrases related to locations, events, or products."

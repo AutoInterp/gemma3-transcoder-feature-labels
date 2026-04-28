@@ -1,0 +1,1 @@
+"Text describing color theory, color models, and color representation in various formats, including RGB, CMYK, and XYZ."

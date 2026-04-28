@@ -1,0 +1,1 @@
+"Texts containing technical information about web development, programming languages, and software applications, often referencing specific tools, frameworks, and technologies such as HTML, CSS, JavaScript, and MySQL."

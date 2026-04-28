@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including SQL, shell scripts, C/C++, and Ruby, with a focus on system administration, networking, and security."

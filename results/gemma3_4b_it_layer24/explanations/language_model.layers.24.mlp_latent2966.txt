@@ -1,0 +1,1 @@
+"Locations, often cities or towns, frequently appearing in text, often as part of a list or address."

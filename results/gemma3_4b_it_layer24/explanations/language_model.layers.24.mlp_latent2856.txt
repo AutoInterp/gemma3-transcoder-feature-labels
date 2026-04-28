@@ -1,0 +1,1 @@
+"Texts describing technical instructions, commands, and processes for running software, scripts, and applications, often including error handling, troubleshooting, and configuration settings."

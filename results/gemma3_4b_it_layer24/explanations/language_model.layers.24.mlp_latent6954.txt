@@ -1,0 +1,1 @@
+"Various dates and times in the format of year-month-day or year-month, often in conjunction with other information such as hours and seconds."

@@ -1,0 +1,1 @@
+"Various types of text, including code snippets, academic papers, news articles, and advertisements, with a focus on extracting specific information or patterns from the text."

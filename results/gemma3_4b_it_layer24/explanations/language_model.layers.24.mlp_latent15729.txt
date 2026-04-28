@@ -1,0 +1,1 @@
+"A collection of addresses, primarily in the format of \"Street Name, City, Country\" or \"Address, City, State, Zip Code\", often followed by additional information such as business names, phone numbers, or directions."

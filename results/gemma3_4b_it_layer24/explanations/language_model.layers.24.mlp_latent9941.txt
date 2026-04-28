@@ -1,0 +1,1 @@
+"Text snippets containing various types of information, including news articles, sports updates, product descriptions, and technical code, with a focus on extracting specific keywords and phrases."

@@ -1,0 +1,1 @@
+"Database schema definitions, including table structures, column definitions, and data types, primarily in SQL and Go programming languages."

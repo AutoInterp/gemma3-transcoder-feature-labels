@@ -1,0 +1,1 @@
+"Code snippets in various programming languages, primarily Java, with comments and documentation in Chinese and English, highlighting specific functions, methods, and variables."

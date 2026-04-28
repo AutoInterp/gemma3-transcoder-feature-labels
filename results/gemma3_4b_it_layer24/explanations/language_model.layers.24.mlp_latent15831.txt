@@ -1,0 +1,1 @@
+"Texts containing various types of information, including news articles, quotes, and technical code, with a focus on extracting specific words or phrases from the text."

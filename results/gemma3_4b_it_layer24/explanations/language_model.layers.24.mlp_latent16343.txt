@@ -1,0 +1,1 @@
+"Dates and timestamps in various formats, including year/month/day, year/month/day hour:minute, and ISO 8601 format, often accompanied by other metadata such as author names, copyright information, and version numbers."

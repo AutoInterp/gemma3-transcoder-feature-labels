@@ -1,0 +1,1 @@
+"The token \"<<\" often precedes a phrase or sentence that is a quote, a statement, or a description, and the token \">>\" marks the end of it."

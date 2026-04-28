@@ -1,0 +1,1 @@
+"Time-related information, including time zones, dates, and times, often in a format that includes numerical values and geographical coordinates."

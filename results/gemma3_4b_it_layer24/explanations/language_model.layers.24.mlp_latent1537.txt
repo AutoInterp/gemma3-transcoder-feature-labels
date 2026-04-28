@@ -1,0 +1,1 @@
+"Various HTTP request and response codes, error messages, and validation rules from web application code."

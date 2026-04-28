@@ -1,0 +1,1 @@
+"Various code snippets and programming languages, including C++ and Python, with a focus on data structures, functions, and object-oriented programming."

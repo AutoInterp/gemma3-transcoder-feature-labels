@@ -1,0 +1,1 @@
+"Various types of metadata and identifiers, such as dates, URLs, and IDs, often found in the context of digital content, including articles, videos, and social media posts."

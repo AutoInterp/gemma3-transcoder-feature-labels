@@ -1,0 +1,1 @@
+"Code snippets in various programming languages, including zsh, Python, Ruby, and JavaScript, with a focus on Git commands, AWS, and Jupyter notebooks."

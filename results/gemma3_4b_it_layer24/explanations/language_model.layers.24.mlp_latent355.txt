@@ -1,0 +1,1 @@
+"Text samples from various programming and technical documentation sources, including code snippets, error messages, and explanations of programming concepts and tools."

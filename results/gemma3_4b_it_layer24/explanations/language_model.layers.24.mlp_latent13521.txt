@@ -1,0 +1,1 @@
+"Technical descriptions of hardware and software, including specifications, features, and usage instructions, often accompanied by code snippets and technical jargon."

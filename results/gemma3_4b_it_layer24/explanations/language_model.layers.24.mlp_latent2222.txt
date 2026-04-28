@@ -1,0 +1,1 @@
+"Texts often contain quotes or phrases that are set apart from the rest of the text, sometimes with a change in font or style, and sometimes with a preceding or following delimiter."

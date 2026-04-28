@@ -1,0 +1,1 @@
+"Various numerical values and units, including temperatures, speeds, weights, and quantities, often used to describe physical properties, measurements, or economic data."

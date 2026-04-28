@@ -1,0 +1,1 @@
+"Code snippets and programming-related text, including programming languages, frameworks, libraries, and tools, as well as technical documentation and error messages."

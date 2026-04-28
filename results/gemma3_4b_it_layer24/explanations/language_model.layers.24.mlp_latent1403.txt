@@ -1,0 +1,1 @@
+"Texts in Chinese, Japanese, and English, containing a mix of programming concepts, technical terms, and everyday conversations, often with a focus on object-oriented programming, data structures, and software development."

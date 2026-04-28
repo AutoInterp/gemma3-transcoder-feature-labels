@@ -1,0 +1,1 @@
+"Texts containing dates, times, and event information, often in a structured format, possibly from news articles or event calendars."

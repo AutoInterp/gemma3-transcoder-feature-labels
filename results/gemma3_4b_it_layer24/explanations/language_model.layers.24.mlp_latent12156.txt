@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, primarily Java and Python, containing assertions and unit tests, often using frameworks such as JUnit and Mockito, to verify expected behavior and edge cases."

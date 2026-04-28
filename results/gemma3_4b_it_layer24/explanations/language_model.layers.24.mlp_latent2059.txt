@@ -1,0 +1,1 @@
+"Tokens indicating a pause or a transition in the text, often used to signal a change in topic, a suggestion, or a question."

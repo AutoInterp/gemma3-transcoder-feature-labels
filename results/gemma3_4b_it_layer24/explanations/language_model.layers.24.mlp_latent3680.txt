@@ -1,0 +1,1 @@
+"Various programming code snippets, including Java, Python, and C++ code, as well as text from documentation, error messages, and log files."

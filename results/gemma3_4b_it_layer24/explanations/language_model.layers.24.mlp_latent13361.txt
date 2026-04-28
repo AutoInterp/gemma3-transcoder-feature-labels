@@ -1,0 +1,1 @@
+"Various programming-related terms, database management concepts, and technical jargon, often used in the context of software development, database optimization, and programming languages such as TypeScript and C#."

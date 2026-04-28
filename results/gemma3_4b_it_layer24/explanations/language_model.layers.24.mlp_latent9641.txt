@@ -1,0 +1,1 @@
+"Various types of text data, including code snippets from programming languages (JavaScript, Ruby, etc.), mathematical expressions, and plain text, with no discernible common pattern or theme."

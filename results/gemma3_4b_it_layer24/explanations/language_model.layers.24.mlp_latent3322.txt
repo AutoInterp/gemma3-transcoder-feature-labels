@@ -1,0 +1,1 @@
+"Text snippets often contain proper nouns, names, and titles, which are frequently found in the middle or at the end of a sentence."

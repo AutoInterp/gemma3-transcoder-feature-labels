@@ -1,0 +1,1 @@
+"Text discussing various concepts and techniques related to linear relationships, including linear regression, linear equations, linear programming, linear interpolation, linear correlation, and linear time."

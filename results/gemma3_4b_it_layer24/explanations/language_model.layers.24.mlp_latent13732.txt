@@ -1,0 +1,1 @@
+"Various types of addresses, including physical addresses, phone numbers, URLs, and IP addresses, often found in the context of business or organizational information."

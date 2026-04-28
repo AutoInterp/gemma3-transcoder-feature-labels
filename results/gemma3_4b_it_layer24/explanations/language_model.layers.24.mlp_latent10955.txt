@@ -1,0 +1,1 @@
+"Dates and times in various formats, often used as delimiters for events or articles."

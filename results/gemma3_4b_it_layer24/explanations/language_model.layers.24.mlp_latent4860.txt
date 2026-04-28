@@ -1,0 +1,1 @@
+"Large blocks of text, often from external sources, such as articles, books, or official documents, are embedded within the main text. These blocks are typically separated from the main text by delimiters and contain information that is not directly related to the surrounding context."

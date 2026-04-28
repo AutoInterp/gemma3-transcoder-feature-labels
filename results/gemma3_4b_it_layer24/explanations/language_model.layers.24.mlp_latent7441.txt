@@ -1,0 +1,1 @@
+"Texts often contain geographical locations, names of people, organizations, and events, which are frequently mentioned in conjunction with dates, times, and other contextual information."

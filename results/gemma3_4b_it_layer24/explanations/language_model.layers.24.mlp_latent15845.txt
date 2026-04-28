@@ -1,0 +1,1 @@
+"Texts often contain Chinese characters, and the analysis focuses on English phrases and sentences, sometimes with a programming or technical context. The patterns found include idioms, phrases used in programming, and sentences describing technical concepts or processes."

@@ -1,0 +1,1 @@
+"Various numerical values representing quantities, rates, or prices, often used for comparison or calculation, such as percentages, dollars per unit, or hours per day."

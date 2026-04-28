@@ -1,0 +1,1 @@
+"Various types of text data, including URLs, email addresses, programming code, and social media handles, often found in online contexts."

@@ -1,0 +1,1 @@
+"Various types of text data, including addresses, phone numbers, business hours, product information, news articles, and online forum comments, often containing specific details such as names, locations, and prices."

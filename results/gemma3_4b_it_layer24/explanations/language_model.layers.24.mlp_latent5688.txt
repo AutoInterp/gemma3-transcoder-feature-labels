@@ -1,0 +1,1 @@
+"SQL code and database-related text, including table structures, queries, and data models."

@@ -1,0 +1,1 @@
+"Texts containing geographical locations, often in the format of city names, street addresses, or country names, frequently accompanied by postal codes, and sometimes followed by a description or a reference to a specific event or institution."

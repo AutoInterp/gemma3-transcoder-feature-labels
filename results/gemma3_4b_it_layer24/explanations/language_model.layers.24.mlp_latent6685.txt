@@ -1,0 +1,1 @@
+"Numbers and currency values in various formats, including decimal and percentage representations, as well as monetary amounts in the thousands and millions."

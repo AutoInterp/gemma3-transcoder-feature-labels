@@ -1,0 +1,1 @@
+"The token \"10\" appears frequently in the text, often representing a quantity, measurement, or threshold, and is sometimes accompanied by other numbers or units."

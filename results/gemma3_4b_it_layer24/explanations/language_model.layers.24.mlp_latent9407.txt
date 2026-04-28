@@ -1,0 +1,1 @@
+"The token \"ill\" or its variants (\"illness\", \"ill-equipped\", \"illiberal\", \"ill-\") often appear in the context of health, disease, or negative connotations, while the token \"IL\" or its variants (\"IL-2\", \"IL-62\", \"ILbe\") often appear in the context of names, abbreviations, or acronyms."

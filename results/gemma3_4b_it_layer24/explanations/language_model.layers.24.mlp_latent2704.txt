@@ -1,0 +1,1 @@
+"Various types of text fragments, including citations, URLs, and references, often containing numerical information, and sometimes appearing in a specific format, such as a list or a quote."

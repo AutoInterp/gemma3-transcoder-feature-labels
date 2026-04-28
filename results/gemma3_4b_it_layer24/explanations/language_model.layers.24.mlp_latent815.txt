@@ -1,0 +1,1 @@
+"HTML code snippets with various attributes and tags, including input fields, buttons, and links, as well as JavaScript code and CSS variables."

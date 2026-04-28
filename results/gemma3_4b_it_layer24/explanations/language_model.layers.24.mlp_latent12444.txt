@@ -1,0 +1,1 @@
+"Mathematical text with various equations and formulas, often involving linear algebra, optimization, and signal processing concepts."

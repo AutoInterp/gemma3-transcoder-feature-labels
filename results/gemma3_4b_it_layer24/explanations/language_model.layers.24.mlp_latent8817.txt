@@ -1,0 +1,1 @@
+"Various paths and directories in Unix-like systems, often used in commands or configuration files, such as /etc, /usr, /home, /var, and /opt."

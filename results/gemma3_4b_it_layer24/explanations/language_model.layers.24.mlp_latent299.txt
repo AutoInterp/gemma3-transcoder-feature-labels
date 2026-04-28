@@ -1,0 +1,1 @@
+"Texts often contain hyperlinks to external resources, and the surrounding context is usually a brief description or explanation of the link's content."

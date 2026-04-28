@@ -1,0 +1,1 @@
+"Large numbers and monetary values in scientific notation or with specific formatting, often used for emphasis or to convey a sense of magnitude."

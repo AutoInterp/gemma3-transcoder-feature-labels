@@ -1,0 +1,1 @@
+"Code snippets in various programming languages, including C, C++, and Perl, with a focus on mathematical and algorithmic concepts, such as prime factorization, palindrome detection, and exponential functions."

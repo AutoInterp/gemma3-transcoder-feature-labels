@@ -1,0 +1,1 @@
+"The token \"sort\" and its variants, often related to the concept of ordering or arranging items in a specific manner, appearing in various contexts such as algorithms, data structures, and everyday language."

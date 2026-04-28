@@ -1,0 +1,1 @@
+"A wide range of phrases and sentences that contain a specific word or phrase, often a noun or a unit of time, preceded by \"a\" or \"an\", which is not necessarily the most important token in the sentence."

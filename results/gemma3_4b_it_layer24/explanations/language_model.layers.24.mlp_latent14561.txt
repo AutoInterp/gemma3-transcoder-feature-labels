@@ -1,0 +1,1 @@
+"Texts discussing technical topics, including computer hardware, software, and programming, often referencing specific operating systems (Windows, macOS, Linux), programming languages (Swift, Objective-C, Python), and tools (MATLAB, filterBuilder, Wintool)."

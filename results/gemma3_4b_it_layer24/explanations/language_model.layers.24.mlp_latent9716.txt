@@ -1,0 +1,1 @@
+"Java code snippets with variable declarations, method implementations, and class definitions, often containing import statements and comments."

@@ -1,0 +1,1 @@
+"Text snippets containing URLs, phone numbers, email addresses, and other sensitive information, often redacted or partially hidden."

@@ -1,0 +1,1 @@
+"Text fragments that are not part of the main content, such as metadata, footnotes, or citations, often denoted by the presence of a closing delimiter like \"eos\"."

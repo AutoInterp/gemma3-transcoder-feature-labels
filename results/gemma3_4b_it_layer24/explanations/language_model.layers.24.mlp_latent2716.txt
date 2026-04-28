@@ -1,0 +1,1 @@
+"The token \"next\" is used to indicate a sequence or a transition to something else, often referring to a future event, location, or step."

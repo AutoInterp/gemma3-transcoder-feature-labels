@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are direct quotes, references to external sources, or explanations of complex concepts, which are frequently set apart from the main text. These phrases or sentences often have lower activation values, indicating that they may be less central to the main idea or argument being presented."

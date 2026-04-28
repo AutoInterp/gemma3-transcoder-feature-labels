@@ -1,0 +1,1 @@
+"Phone numbers, dates, and other specific data points, often in a format that is not easily machine-readable, such as mixed alphanumeric characters and special symbols."

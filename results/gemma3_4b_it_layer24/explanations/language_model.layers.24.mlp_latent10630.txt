@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are set apart from the rest of the text, usually to convey a sense of importance, warning, or to provide additional information. These phrases are often preceded by a delimiter, such as a double set of angle brackets, and may be followed by a period or other punctuation mark."

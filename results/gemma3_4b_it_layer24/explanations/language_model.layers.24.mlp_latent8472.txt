@@ -1,0 +1,1 @@
+"Texts describing technical instructions, tutorials, and troubleshooting guides for various software, hardware, and system configurations, often including command-line interfaces, programming concepts, and user interface interactions."

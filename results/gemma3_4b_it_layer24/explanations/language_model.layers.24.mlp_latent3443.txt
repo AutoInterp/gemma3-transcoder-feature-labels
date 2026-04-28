@@ -1,0 +1,1 @@
+"WAI-ARIA attributes used to improve accessibility of web elements, including roles, states, and properties to provide semantic meaning and assistive technology support."

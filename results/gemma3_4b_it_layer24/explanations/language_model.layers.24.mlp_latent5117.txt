@@ -1,0 +1,1 @@
+"Various phrases and sentences that are likely to be boilerplate text, such as function descriptions, API documentation, and generic advice, often found in programming and technical contexts."

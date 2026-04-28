@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including Python, C++, and Java, showcasing mathematical and scientific concepts, such as calculus, geometry, and physics, as well as computer graphics and machine learning."

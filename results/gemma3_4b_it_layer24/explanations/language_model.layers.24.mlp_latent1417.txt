@@ -1,0 +1,1 @@
+"Texts often contain proper nouns, such as names of organizations, locations, and people, which are frequently mentioned in conjunction with other words like \"Administration\", \"Commission\", \"Association\", and \"Committee\". These proper nouns often serve as identifiers for specific entities and are used to convey context and meaning within the text."

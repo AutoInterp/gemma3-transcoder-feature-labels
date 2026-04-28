@@ -1,0 +1,1 @@
+"Iteration over a range of indices, often used in loops to access elements of an array or list."

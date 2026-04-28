@@ -1,0 +1,1 @@
+"Texts often contain article titles, subtitles, or section headers, which are frequently highlighted as important. Additionally, there are instances of quoted text, often with a specific context or meaning, and sometimes with a question mark at the end."

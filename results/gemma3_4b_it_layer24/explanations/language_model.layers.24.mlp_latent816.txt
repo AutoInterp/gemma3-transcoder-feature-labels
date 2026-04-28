@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are set apart from the rest of the text, sometimes indicating a change in tone, a quote, or a separate idea. These phrases or sentences can be marked by a change in formatting, such as a new paragraph or a different font style, and may be preceded by a symbol like <eos> or a period."

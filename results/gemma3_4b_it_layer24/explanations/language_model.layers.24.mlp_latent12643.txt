@@ -1,0 +1,1 @@
+"Code snippets with error messages, stack traces, and debugging information, often related to programming issues such as syntax errors, runtime exceptions, and logical errors."

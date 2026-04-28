@@ -1,0 +1,1 @@
+"Texts containing geographical coordinates, often in the format of degrees, minutes, and seconds, typically used to describe a location on Earth."

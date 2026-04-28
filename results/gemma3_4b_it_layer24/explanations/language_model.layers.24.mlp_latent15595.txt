@@ -1,0 +1,1 @@
+"HTML and CSS code snippets with variable names, function calls, and descriptions of user interface elements, likely from a web development or game development context."

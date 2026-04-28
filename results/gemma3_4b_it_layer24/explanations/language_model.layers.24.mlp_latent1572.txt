@@ -1,0 +1,1 @@
+"Texts containing a mix of various data types, including addresses, dates, numbers, and text from different sources, such as articles, books, and online content."

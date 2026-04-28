@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including JavaScript, TypeScript, and C++, with a focus on functions, classes, and event handling."

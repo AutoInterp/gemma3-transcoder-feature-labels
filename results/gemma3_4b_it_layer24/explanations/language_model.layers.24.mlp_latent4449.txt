@@ -1,0 +1,1 @@
+"A collection of product descriptions, technical specifications, and code snippets, often containing lists of ingredients, product features, or method calls, frequently with a focus on technical or scientific details."

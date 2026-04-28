@@ -1,0 +1,1 @@
+"Code snippets, primarily in JavaScript, from various sources, including Angular and NodeJS projects, as well as other programming-related content."

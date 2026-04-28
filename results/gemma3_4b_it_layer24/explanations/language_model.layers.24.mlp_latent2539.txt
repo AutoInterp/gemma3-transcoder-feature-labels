@@ -1,0 +1,1 @@
+"Text snippets often contain sports-related information, such as cricket scores, baseball statistics, and player performances. Additionally, there are code snippets from various programming languages, including Java, C++, and Python, which are used to illustrate concepts or solve problems."

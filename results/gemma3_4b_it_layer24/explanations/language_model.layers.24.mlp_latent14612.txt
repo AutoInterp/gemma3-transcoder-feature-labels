@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, primarily Ruby, with a focus on syntax and structure, including method definitions, class definitions, and error handling."

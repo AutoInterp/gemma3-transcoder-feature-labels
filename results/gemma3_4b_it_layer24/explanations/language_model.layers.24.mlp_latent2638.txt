@@ -1,0 +1,1 @@
+"Texts often contain proper nouns, titles, and names of people, places, and events, which are frequently highlighted in the given examples. Additionally, the text may include quotes, phrases, and sentences that are set apart from the rest of the text, often indicating a change in tone, style, or context."

@@ -1,0 +1,1 @@
+"The token \"prime\" or \"prime minister\" is often used to refer to a high-ranking government official, and the token \"prime\" is also used in mathematical contexts to describe a number that is divisible only by itself and 1."

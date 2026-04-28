@@ -1,0 +1,1 @@
+"Texts containing various types of data, including measurements, dates, times, and numerical values, often in a format that is easily machine-readable, such as CSV or JSON."

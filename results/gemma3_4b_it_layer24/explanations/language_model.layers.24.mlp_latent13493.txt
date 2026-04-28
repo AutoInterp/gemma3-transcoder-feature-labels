@@ -1,0 +1,1 @@
+"Various programming languages, frameworks, and libraries, including C#, Java, Python, JavaScript, and SQL, as well as technical terms and concepts from computer science, software development, and data analysis."

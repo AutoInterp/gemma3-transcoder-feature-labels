@@ -1,0 +1,1 @@
+"Text fragments containing dates, URLs, code snippets, and mathematical equations, often found at the end of a paragraph or section, possibly indicating a reference or a footnote."

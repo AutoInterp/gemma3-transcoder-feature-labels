@@ -1,0 +1,1 @@
+"Texts often contain fragments of sentences, paragraphs, or articles, frequently with a lack of context, suggesting they are extracted or quoted from larger sources."

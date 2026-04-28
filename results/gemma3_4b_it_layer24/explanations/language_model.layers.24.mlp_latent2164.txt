@@ -1,0 +1,1 @@
+"Text fragments often appear at the beginning or end of a code block, a paragraph, or a quotation, indicating a transition or a pause in the narrative flow."

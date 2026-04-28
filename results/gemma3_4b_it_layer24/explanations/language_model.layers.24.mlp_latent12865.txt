@@ -1,0 +1,1 @@
+"Various scientific article metadata and citations, including DOIs, PMIDs, and PMCIDs, often accompanied by journal titles and publication information."

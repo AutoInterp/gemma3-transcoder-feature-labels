@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including JavaScript, Java, Python, and SQL, with a focus on mathematical and algorithmic concepts, such as geometry, trigonometry, and data analysis."

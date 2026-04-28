@@ -1,0 +1,1 @@
+"The token \"profanity\" or related words such as \"profess\", \"professor\", \"proficiency\", \"professors\", \"professing\", \"profane\", \"profanity-js\" and \"nepotism\" are found in the text, often in the context of academic or professional settings, but also in informal language."

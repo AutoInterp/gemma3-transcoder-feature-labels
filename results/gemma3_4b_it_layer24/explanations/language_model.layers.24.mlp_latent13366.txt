@@ -1,0 +1,1 @@
+"Texts often contain boilerplate information, such as disclaimers, terms of service, and promotional content, which are frequently found at the end of a document or webpage."

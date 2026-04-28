@@ -1,0 +1,1 @@
+"Texts often contain HTML attributes, technical terms, and specialized vocabulary related to various fields such as computer science, economics, law, and technology."

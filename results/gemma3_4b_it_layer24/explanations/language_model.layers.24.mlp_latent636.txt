@@ -1,0 +1,1 @@
+"Text snippets from various programming languages, including Java, JavaScript, PHP, and SQL, as well as text from articles, books, and online content. The patterns found in the examples include code snippets, variable declarations, function calls, and data structures, indicating a focus on programming and technical documentation."

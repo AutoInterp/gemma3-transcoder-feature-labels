@@ -1,0 +1,1 @@
+"The token \"<<\" often marks the beginning of a sentence or a new idea, and the token \">>\" often marks the end of a sentence or a new idea, indicating a shift in context or a new topic."

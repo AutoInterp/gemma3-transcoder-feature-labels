@@ -1,0 +1,1 @@
+"Various commands and scripts for package management, software installation, and system configuration, primarily using tools such as npm, yarn, pkgsrc, and bosh."

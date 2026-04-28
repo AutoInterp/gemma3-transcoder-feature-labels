@@ -1,0 +1,1 @@
+"Various text snippets, mostly from articles and quotes, with a focus on the structure and formatting of code and programming languages."

@@ -1,0 +1,1 @@
+"Various types of text, including scientific articles, financial data, and news articles, with a focus on extracting numerical information and specific phrases."

@@ -1,0 +1,1 @@
+"The token \"class\" is used to define a category or a type of object in various programming contexts, often referring to a blueprint or a template for creating objects with similar properties and behaviors."

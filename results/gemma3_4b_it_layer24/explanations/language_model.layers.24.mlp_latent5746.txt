@@ -1,0 +1,1 @@
+"Text snippets from various programming languages, documentation, and technical articles, often containing function definitions, code examples, and explanations of programming concepts."

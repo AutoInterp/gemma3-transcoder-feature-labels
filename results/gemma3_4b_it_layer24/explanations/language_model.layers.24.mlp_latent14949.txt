@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, primarily C/C++, Java, and C#, with a focus on algorithmic and mathematical operations, data structures, and control flow."

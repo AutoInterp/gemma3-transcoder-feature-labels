@@ -1,0 +1,1 @@
+"Code snippets and programming-related text, including function calls, variable declarations, and method definitions, often in multiple programming languages."

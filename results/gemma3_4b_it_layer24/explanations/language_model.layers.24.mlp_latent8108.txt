@@ -1,0 +1,1 @@
+"Texts with low activation values are likely to be formal or technical, such as academic or professional writing, while texts with higher activation values are more likely to be informal or conversational, often containing idioms, colloquialisms, or personal anecdotes."

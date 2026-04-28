@@ -1,0 +1,1 @@
+"Street addresses and postal codes, often used as identifiers for locations, organizations, or individuals."

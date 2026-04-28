@@ -1,0 +1,1 @@
+"HTML and CSS code snippets, often containing attribute names, class names, and function calls, with varying levels of context and relevance to the surrounding text."

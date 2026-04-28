@@ -1,0 +1,1 @@
+"Texts often contain code snippets, technical instructions, and programming-related information, frequently found in the middle of paragraphs or as standalone blocks."

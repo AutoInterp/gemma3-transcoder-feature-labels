@@ -1,0 +1,1 @@
+"Java code snippets with method annotations, test cases, and variable declarations, likely from a Spring or JUnit project."

@@ -1,0 +1,1 @@
+"Texts describing data protection policies, data management, and data analysis, often referencing specific laws, regulations, and technologies such as GDPR, cookies, and database management systems."

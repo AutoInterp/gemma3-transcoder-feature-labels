@@ -1,0 +1,1 @@
+"Texts discussing software development, testing, and quality assurance, with a focus on best practices, principles, and methodologies such as DRY, YAGNI, and BDD."

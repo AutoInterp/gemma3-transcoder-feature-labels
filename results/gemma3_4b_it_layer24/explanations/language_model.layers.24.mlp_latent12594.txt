@@ -1,0 +1,1 @@
+"Text delimiters used to enclose specific information, such as titles, ratings, or descriptions, often followed by a specific type of content, like numerical values or quotes."

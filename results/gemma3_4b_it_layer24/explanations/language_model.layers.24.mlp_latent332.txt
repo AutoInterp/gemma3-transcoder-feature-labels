@@ -1,0 +1,1 @@
+"HTML, CSS, and JavaScript code snippets related to web development, including DOM manipulation, styling, and accessibility features such as ARIA attributes."

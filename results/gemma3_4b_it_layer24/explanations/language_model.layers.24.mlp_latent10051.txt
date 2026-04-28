@@ -1,0 +1,1 @@
+"Addresses and locations, often including geographical coordinates, are frequently found in the text."

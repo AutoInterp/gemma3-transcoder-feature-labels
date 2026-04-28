@@ -1,0 +1,1 @@
+"Texts describing Linux operating system, its installation, configuration, and usage, as well as comparisons with other operating systems like Windows."

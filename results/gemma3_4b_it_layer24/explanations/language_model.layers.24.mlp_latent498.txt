@@ -1,0 +1,1 @@
+"SQL code snippets, primarily database schema definitions, queries, and data manipulation statements, often involving unique identifiers, indexing, and data retrieval."

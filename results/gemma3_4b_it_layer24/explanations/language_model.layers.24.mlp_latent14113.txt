@@ -1,0 +1,1 @@
+"Texts with high activation values are often quotes, references, or citations, while lower activation values are typically found in original text."

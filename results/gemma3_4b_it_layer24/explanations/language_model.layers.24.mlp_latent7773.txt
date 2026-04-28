@@ -1,0 +1,1 @@
+"Texts from various sources, including emails, articles, and conversations, with a focus on extracting specific words or phrases that are relevant to the context. The extracted words or phrases often have varying levels of importance, as indicated by their activation values."

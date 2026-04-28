@@ -1,0 +1,1 @@
+"Various programming concepts, technical terms, and mathematical formulas are presented in the text, including object-oriented programming, data structures, algorithms, machine learning, and computer science terminology."

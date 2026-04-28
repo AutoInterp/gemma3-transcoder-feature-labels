@@ -1,0 +1,1 @@
+"Various dates, times, and URLs are embedded in the text, often in a format that is not typical of natural language."

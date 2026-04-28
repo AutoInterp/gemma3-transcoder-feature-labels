@@ -1,0 +1,1 @@
+"Paths to external files or directories, often used in programming or scripting, frequently found at the end of a text snippet."

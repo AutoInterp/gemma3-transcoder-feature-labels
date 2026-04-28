@@ -1,0 +1,1 @@
+"Numbers representing percentages, interest rates, and growth rates, often used to describe financial or economic data."

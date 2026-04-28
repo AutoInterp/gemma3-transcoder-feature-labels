@@ -1,0 +1,1 @@
+"Text snippets from various sources, including articles, books, and code, with a focus on extracting specific words or phrases. The extracted words or phrases often have high activation values, indicating their importance in the context."

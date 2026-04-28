@@ -1,0 +1,1 @@
+"Various units of measurement, such as tons, kilowatts, gigaliters, and degrees Celsius, are used to express quantities in different contexts, including energy production, water supply, and financial transactions."

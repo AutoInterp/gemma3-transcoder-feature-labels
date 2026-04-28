@@ -1,0 +1,1 @@
+"Java code snippets with variable names, class names, and method names."

@@ -1,0 +1,1 @@
+"Texts with low activation values are often quotes, titles, or foreign phrases, while high activation values are associated with original content, particularly in the form of sentences or phrases that convey a specific idea or emotion."

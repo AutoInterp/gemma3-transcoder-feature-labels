@@ -1,0 +1,1 @@
+"Text snippets often contain technical or programming-related information, including code snippets, error messages, and explanations of various concepts and technologies."

@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including Java, JUnit, Mockito, Spring, and Selenium, with a focus on imports, annotations, and class definitions."

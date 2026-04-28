@@ -1,0 +1,1 @@
+"Timestamps and dates in various formats, often in conjunction with geographical locations, times of day, and events."

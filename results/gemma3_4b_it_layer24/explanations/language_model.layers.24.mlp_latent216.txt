@@ -1,0 +1,1 @@
+"Technical text discussing mathematical concepts, theorems, and proofs in various fields, including algebraic geometry, differential privacy, and modal logic."

@@ -1,0 +1,1 @@
+"R programming code snippets, primarily involving statistical modeling, data analysis, and visualization, with various functions and parameters used to manipulate and interpret data."

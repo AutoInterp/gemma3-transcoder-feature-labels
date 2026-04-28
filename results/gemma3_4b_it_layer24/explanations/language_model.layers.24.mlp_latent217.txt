@@ -1,0 +1,1 @@
+"The token \"1.\" is often used as a delimiter to indicate the start of a list or a numbered point, frequently preceding a brief description or explanation."

@@ -1,0 +1,1 @@
+"Various programming-related text snippets, including code, comments, and documentation, from different programming languages and frameworks, such as C#, Java, Python, and others."

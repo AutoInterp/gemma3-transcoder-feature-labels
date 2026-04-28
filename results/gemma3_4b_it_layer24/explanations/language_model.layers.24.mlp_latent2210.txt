@@ -1,0 +1,1 @@
+"Text snippets often contain URLs, error messages, or promotional content, which are typically enclosed in angle brackets."

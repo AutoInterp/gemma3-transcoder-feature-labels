@@ -1,0 +1,1 @@
+"Code snippets and terminal commands, often with explanations or instructions, in a programming or technical context."

@@ -1,0 +1,1 @@
+"Various dates and times in the format of \"00\" or \"0\" followed by a number, often used as a delimiter in text."

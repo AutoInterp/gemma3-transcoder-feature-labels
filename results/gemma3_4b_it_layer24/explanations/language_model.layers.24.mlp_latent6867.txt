@@ -1,0 +1,1 @@
+"Texts from various programming and technical domains, including formal language theory, compiler design, and software development, with a focus on parsing, grammars, and language processing."

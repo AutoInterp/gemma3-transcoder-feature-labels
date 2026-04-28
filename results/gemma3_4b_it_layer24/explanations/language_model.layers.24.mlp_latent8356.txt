@@ -1,0 +1,1 @@
+"Tokens containing URLs, API keys, or other sensitive information, often used for authentication or data transfer."

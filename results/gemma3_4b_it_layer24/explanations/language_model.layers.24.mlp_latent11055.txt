@@ -1,0 +1,1 @@
+"Various programming-related terms, including function names, variable names, and data types, as well as technical terms from other fields such as HTTP, SQL, and graphics."

@@ -1,0 +1,1 @@
+"Code snippets in various programming languages, including Python, Java, and shell scripts, with a focus on string manipulation, regular expressions, and data processing."

@@ -1,0 +1,1 @@
+"Texts often contain technical or formal language, such as acronyms (e.g. RFC), abbreviations (e.g. AK), and specialized terminology (e.g. electron mobility, efferent). Additionally, there are instances of idiomatic expressions (e.g. \"like for like\"), and quotes or references to external sources (e.g. \"Shaylah\", \"Isaac Newton\")."

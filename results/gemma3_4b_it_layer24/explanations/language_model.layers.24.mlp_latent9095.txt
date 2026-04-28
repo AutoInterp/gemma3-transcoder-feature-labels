@@ -1,0 +1,1 @@
+"Texts often contain lists of items, frequently with a numerical index, and sometimes with a specific format or structure, such as instructions, advice, or information about locations."

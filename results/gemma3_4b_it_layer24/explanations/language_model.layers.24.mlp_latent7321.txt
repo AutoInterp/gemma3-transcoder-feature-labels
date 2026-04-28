@@ -1,0 +1,1 @@
+"Texts that are not part of the main content, such as citations, references, and external links, often appear at the end of a paragraph or section, and are frequently preceded by a delimiter."

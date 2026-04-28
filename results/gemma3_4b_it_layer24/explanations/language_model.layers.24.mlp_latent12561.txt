@@ -1,0 +1,1 @@
+"Text representing various types of data, including descriptions, instructions, code snippets, and user interface elements, often used in programming, web development, and design contexts."

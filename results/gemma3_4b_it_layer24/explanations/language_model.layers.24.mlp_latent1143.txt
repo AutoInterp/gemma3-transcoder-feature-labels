@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including Java, C++, and CSS, with a focus on graphics, user interface design, and image manipulation."

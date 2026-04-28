@@ -1,0 +1,1 @@
+"Various types of text data, including news articles, addresses, company information, and programming code, often containing specific keywords and phrases related to location, organization, and event."

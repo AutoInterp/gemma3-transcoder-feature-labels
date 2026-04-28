@@ -1,0 +1,1 @@
+"HTML code snippets with variable names, function parameters, and attribute values."

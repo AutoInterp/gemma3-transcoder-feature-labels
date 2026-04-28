@@ -1,0 +1,1 @@
+"Various programming-related terms, database schema definitions, and HTML tags."

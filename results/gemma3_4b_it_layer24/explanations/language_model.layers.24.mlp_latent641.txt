@@ -1,0 +1,1 @@
+"Texts are primarily composed of SQL queries, database-related terminology, and programming code, indicating a focus on database management, query optimization, and software development."

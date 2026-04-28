@@ -1,0 +1,1 @@
+"Code snippets in various programming languages, including Python, Ruby, and Rust, with a focus on syntax, functions, and data structures."

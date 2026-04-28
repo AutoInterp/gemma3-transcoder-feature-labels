@@ -1,0 +1,1 @@
+"Texts containing technical terms, programming concepts, and domain-specific jargon, often related to computer science, networking, and cybersecurity."

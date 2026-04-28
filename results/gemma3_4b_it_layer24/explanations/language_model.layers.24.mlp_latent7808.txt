@@ -1,0 +1,1 @@
+"Mathematical text with various concepts and theorems from algebra, geometry, topology, and analysis, including discussions of linear maps, Banach algebras, discriminant sets, and ODE models."

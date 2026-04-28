@@ -1,0 +1,1 @@
+"The token \"1,000\" and its variations (e.g. \"1,000s\", \"1,000s of\") are frequently used to represent large quantities or amounts, often in the context of numbers, statistics, or financial data."

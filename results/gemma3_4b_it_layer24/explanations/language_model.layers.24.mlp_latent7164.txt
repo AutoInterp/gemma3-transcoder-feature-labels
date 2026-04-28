@@ -1,0 +1,1 @@
+"Texts often contain geographical locations, such as city or state names, and sometimes specific addresses or coordinates."

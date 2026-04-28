@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are cut off or truncated, typically denoted by a period followed by a non-sentence fragment, such as a filename, a date, or a URL."

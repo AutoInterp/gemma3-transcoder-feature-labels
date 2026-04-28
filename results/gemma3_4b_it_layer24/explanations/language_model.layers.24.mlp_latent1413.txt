@@ -1,0 +1,1 @@
+"Texts from various sources, including articles, emails, and online forums, with a focus on extracting specific phrases or sentences that may be relevant to the task. The extracted phrases often contain technical terms, names, and specific information, suggesting a task related to information retrieval, entity extraction, or text summarization."

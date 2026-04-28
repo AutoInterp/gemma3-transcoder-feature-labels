@@ -1,0 +1,1 @@
+"Numerical values representing quantities, such as distances, amounts, percentages, and numbers of people, often used to convey information or statistics."

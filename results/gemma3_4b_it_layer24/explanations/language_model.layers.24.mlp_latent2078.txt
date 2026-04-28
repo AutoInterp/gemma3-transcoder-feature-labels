@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are not directly related to the main topic, such as thank you messages, disclaimers, and advertisements, which are likely to be removed or filtered out in order to improve the relevance and coherence of the content."

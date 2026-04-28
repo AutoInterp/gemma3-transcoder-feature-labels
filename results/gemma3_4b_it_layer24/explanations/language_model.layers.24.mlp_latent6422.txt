@@ -1,0 +1,1 @@
+"Texts from various sources, including academic papers, articles, and books, on topics such as mathematics, philosophy, and computer science, with a focus on formal systems, logic, and lambda calculus."

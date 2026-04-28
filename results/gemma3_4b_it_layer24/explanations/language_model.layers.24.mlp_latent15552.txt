@@ -1,0 +1,1 @@
+"Various types of numerical values, including measurements, quantities, and statistics, often presented in a formal or technical context."

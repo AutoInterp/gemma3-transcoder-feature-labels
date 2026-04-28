@@ -1,0 +1,1 @@
+"Dates and times, often in the format of day, month, and year, or day and time, frequently accompanied by locations and event descriptions."

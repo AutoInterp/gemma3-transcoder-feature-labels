@@ -1,0 +1,1 @@
+"HTML and XML code snippets embedded within text, often containing formatting instructions, color codes, or other programming elements."

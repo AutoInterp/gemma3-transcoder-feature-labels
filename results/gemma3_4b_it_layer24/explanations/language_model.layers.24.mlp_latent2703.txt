@@ -1,0 +1,1 @@
+"The token \"user\" and its variations (\"users\", \"user's\", \"user-friendly\", etc.) are frequently used in the context of describing interactions, interfaces, and experiences related to individuals accessing or utilizing a system, application, or service."

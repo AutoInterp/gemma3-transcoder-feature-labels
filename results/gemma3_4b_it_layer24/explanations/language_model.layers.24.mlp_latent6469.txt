@@ -1,0 +1,1 @@
+"Technical documentation and user guides, often with a formal tone, describing software, programming, and computer-related concepts, including configuration, optimization, and troubleshooting."

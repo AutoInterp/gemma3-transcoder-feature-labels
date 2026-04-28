@@ -1,0 +1,1 @@
+"Text contains mathematical and scientific concepts, including trigonometric functions (sin, cos, csc), calculus (derivative), and algebraic expressions (square root, cube root, Euler's formula)."

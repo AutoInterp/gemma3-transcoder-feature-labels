@@ -1,0 +1,1 @@
+"Texts often contain hyperlinks or URLs, sometimes embedded within a sentence, and sometimes as a standalone reference."

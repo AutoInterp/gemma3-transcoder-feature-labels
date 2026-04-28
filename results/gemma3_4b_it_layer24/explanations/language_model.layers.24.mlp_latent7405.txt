@@ -1,0 +1,1 @@
+"Texts often contain sequences of words that are not grammatically significant, such as punctuation marks, special characters, and end-of-sentence markers, which are typically ignored in language analysis."

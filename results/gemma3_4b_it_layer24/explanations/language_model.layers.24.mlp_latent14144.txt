@@ -1,0 +1,1 @@
+"Texts with low activation values are often unrelated or nonsensical, while those with high activation values are often meaningful phrases or sentences."

@@ -1,0 +1,1 @@
+"Numbers representing quantities, measurements, or counts, often used to describe sizes, amounts, or frequencies."

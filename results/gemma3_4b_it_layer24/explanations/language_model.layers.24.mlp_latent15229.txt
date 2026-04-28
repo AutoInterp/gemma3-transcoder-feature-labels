@@ -1,0 +1,1 @@
+"Code comments and documentation in various programming languages, often containing explanations of code functionality, algorithm descriptions, and references to external resources."

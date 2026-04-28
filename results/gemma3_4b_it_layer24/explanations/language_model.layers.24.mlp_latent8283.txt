@@ -1,0 +1,1 @@
+"DOIs (Digital Object Identifiers) and PubMed IDs, often found at the end of scientific articles, used for citation and referencing purposes."

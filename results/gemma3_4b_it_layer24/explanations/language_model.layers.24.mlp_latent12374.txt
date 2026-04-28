@@ -1,0 +1,1 @@
+"Texts related to cryptography, encryption, and digital security, including concepts, techniques, and protocols such as AES, blockchain, and proof-of-work."

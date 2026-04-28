@@ -1,0 +1,1 @@
+"Various types of text data, including URLs, phone numbers, addresses, measurements, mathematical expressions, programming code, and text from books and articles, often containing technical or specialized information."

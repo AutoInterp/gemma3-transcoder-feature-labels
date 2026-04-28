@@ -1,0 +1,1 @@
+"Text fragments often containing addresses, names, locations, and other metadata, frequently appearing at the beginning or end of a text block."

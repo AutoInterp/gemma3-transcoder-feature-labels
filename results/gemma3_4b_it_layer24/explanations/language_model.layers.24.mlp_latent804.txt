@@ -1,0 +1,1 @@
+"Texts often contain addresses, phone numbers, and URLs, which are frequently found in the middle of a sentence or paragraph."

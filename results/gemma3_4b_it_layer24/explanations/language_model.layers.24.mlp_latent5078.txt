@@ -1,0 +1,1 @@
+"Texts from various sources, including academic papers, news articles, and product descriptions, with a focus on extracting specific words or phrases. The extracted words or phrases often have a specific meaning or context, such as proper nouns, technical terms, or idiomatic expressions."

@@ -1,0 +1,1 @@
+"Various directory paths and file locations in Unix-like systems, including system directories, user directories, and specific directories for applications such as Apache, PHP, and TeX."

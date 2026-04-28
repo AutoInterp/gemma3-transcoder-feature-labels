@@ -1,0 +1,1 @@
+"Text fragments enclosed in delimiters are often lengthy and contain complete sentences or paragraphs, possibly indicating a quote or a block of information."

@@ -1,0 +1,1 @@
+"The text contains a mix of academic papers, programming code, and general text. The common patterns found include: programming code snippets, academic citations, and variable names in programming languages."

@@ -1,0 +1,1 @@
+"Text fragments often contain geographical locations, names of cities, countries, and landmarks, as well as historical events and cultural references."

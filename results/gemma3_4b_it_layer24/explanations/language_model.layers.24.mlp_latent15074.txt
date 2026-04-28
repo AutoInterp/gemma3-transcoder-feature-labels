@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, SQL queries, and configuration files, often containing variable assignments, function calls, and database operations."

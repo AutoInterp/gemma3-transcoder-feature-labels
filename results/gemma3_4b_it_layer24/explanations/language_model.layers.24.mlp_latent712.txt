@@ -1,0 +1,1 @@
+"Text snippets often contain citations, references, or quotes, frequently accompanied by activation values of 1, indicating a possible delimiter or separator in the text."

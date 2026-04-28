@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including Prolog, C, and Rust, with a focus on mathematical and scientific concepts, such as equations, algorithms, and data analysis."

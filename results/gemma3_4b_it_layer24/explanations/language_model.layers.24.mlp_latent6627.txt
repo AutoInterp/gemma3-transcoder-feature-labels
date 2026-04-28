@@ -1,0 +1,1 @@
+"Various programming-related terms, database schema, and error messages, often containing specific keywords, identifiers, and syntax."

@@ -1,0 +1,1 @@
+"Texts containing mathematical equations, formulas, and derivations, often related to calculus, algebra, and physics, interspersed with programming code snippets, scientific articles, and educational content."

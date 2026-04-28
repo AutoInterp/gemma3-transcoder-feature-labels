@@ -1,0 +1,1 @@
+"The text contains a mix of programming code, database schema, and various types of written content, including articles, essays, and step-by-step guides. The common pattern found in the text is the presence of code snippets and database schema, which are often used in conjunction with written content to provide context and explanation."

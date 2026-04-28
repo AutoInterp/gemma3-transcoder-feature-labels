@@ -1,0 +1,1 @@
+"Text fragments that appear to be prices, promotions, or offers, often including monetary values, product descriptions, and terms and conditions."

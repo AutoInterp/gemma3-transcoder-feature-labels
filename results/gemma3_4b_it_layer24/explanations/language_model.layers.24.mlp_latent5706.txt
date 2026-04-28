@@ -1,0 +1,1 @@
+"SQL queries and programming code snippets, often containing variable names, function calls, and database operations."

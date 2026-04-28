@@ -1,0 +1,1 @@
+"HTTP-related terms and concepts, including URLs, HTTP status codes, authentication, and API requests, as well as related technical terms and programming code."

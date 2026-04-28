@@ -1,0 +1,1 @@
+"Various identifiers and attributes of objects, such as names, emails, passwords, and other metadata, often used in programming and data analysis contexts."

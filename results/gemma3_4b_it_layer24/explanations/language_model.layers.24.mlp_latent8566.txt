@@ -1,0 +1,1 @@
+"Locations, primarily airports, cities, and landmarks, often accompanied by geographical information, such as distances and directions."

@@ -1,0 +1,1 @@
+"Large numbers and quantities are often represented in a specific format, typically with commas or spaces separating groups of three digits, and sometimes with scientific notation or abbreviations."

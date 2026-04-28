@@ -1,0 +1,1 @@
+"Technical text discussing various computer networking protocols, including TCP, IP, and DNS, as well as related concepts such as encoding, arbitration, and signal processing."

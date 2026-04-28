@@ -1,0 +1,1 @@
+"Numbers representing years, time intervals, or quantities, often used for measurement or comparison."

@@ -1,0 +1,1 @@
+"Text snippets containing SQL code, programming instructions, and technical documentation, often related to software development, database management, and computer programming."

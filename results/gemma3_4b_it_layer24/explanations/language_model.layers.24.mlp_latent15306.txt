@@ -1,0 +1,1 @@
+"Text snippets often contain proper nouns, names, and titles, which are frequently highlighted in the given examples. Additionally, the text frequently includes phrases and sentences that are likely to be found in articles, reviews, and other written content, such as descriptions of products, events, and people."

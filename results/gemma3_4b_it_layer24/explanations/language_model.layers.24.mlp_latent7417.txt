@@ -1,0 +1,1 @@
+"Texts containing URLs, file paths, or other types of references to external resources, often used for navigation or citation."

@@ -1,0 +1,1 @@
+"Various types of geographical locations, measurements, and distances, often presented in a formal or technical manner, such as coordinates, addresses, and travel times."

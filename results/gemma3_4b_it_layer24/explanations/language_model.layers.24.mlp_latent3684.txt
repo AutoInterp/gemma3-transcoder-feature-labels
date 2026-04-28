@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, highlighting syntax, architecture, and design patterns, including object-oriented programming, reflection, and metadata-based marshalling."

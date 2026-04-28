@@ -1,0 +1,1 @@
+"Technical text describing computer networking concepts, protocols, and configurations, including TCP/IP, network devices, and data transmission."

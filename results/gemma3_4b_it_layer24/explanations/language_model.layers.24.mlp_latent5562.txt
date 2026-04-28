@@ -1,0 +1,1 @@
+"Texts describing error messages, error codes, and error handling in various contexts, including software development, system administration, and user experience."

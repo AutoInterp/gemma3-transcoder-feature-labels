@@ -1,0 +1,1 @@
+"Texts from various programming and technical documentation, including code snippets, configuration files, and release notes, often containing version numbers, license information, and instructions for installation and usage."

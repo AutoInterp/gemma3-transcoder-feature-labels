@@ -1,0 +1,1 @@
+"Technical and academic text discussing various statistical and machine learning concepts, including time series analysis, exponential smoothing, Bayesian model evaluation, and sparse coding."

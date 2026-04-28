@@ -1,0 +1,1 @@
+"Text snippets that appear to be irrelevant or unrelated to the surrounding context, often containing technical jargon, numbers, or specific names, which may be extracted from various sources such as documents, articles, or online content."

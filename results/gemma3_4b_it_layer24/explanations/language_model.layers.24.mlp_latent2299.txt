@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including bash, Python, Java, JavaScript, and C++, as well as text from documentation, tutorials, and articles."

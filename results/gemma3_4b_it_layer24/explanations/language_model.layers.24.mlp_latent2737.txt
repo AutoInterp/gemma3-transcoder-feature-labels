@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including configuration files, scripts, and documentation, often containing URLs, GitHub links, and API calls."

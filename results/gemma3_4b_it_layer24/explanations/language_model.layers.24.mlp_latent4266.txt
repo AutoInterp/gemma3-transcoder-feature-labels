@@ -1,0 +1,1 @@
+"Mathematical and technical texts, primarily in the fields of algebraic geometry, topology, and computer science, featuring formal definitions, theorems, and proofs, as well as code snippets and programming concepts."

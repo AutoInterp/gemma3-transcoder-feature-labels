@@ -1,0 +1,1 @@
+"Texts that are not part of the main content, such as citations, references, and metadata, often appear in a specific format, sometimes with a unique structure or syntax, and are frequently found at the end of a document or section."

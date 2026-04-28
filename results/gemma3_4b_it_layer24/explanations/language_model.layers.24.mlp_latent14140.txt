@@ -1,0 +1,1 @@
+"Large numbers and scientific notation are frequently used in text to represent quantities, often in the context of scientific or mathematical concepts."

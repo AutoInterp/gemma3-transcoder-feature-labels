@@ -1,0 +1,1 @@
+"Text fragments often appear in a list format, with a specific structure and organization, such as numbered or lettered items, and sometimes with sub-items. These fragments may be related to technical or informative content, including instructions, explanations, and examples."

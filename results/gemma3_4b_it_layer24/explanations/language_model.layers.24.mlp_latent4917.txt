@@ -1,0 +1,1 @@
+"HTML, CSS, and JavaScript code snippets, primarily related to web development, including user interface elements, event handling, and API interactions."

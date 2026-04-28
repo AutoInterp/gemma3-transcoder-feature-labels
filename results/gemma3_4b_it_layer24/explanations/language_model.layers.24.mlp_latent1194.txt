@@ -1,0 +1,1 @@
+"Technical documentation, specifically code snippets and variable descriptions, often in a table format, detailing properties, methods, and default values of various components or systems."

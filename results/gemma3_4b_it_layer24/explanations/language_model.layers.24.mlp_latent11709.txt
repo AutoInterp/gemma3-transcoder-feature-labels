@@ -1,0 +1,1 @@
+"Encapsulated strings often represent URLs, article titles, or other external references, sometimes with additional context or explanations."

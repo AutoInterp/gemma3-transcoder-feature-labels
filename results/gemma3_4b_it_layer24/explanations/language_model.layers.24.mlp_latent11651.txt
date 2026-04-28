@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including JavaScript, Java, and C#, with some text from articles and books. The code is often surrounded by comments, explanations, or other text, and the activations are mostly related to the code itself, with some exceptions where the activations are related to the surrounding text."

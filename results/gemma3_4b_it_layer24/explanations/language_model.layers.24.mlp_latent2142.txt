@@ -1,0 +1,1 @@
+"Texts describing technical topics, including programming, software development, and IT-related concepts, often referencing specific products, services, and technologies such as Azure, SQL, Power BI, and .NET."

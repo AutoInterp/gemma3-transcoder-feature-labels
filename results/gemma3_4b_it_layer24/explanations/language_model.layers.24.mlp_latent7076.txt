@@ -1,0 +1,1 @@
+"Various programming languages and code snippets, with a focus on \"hello world\" examples and basic programming concepts."

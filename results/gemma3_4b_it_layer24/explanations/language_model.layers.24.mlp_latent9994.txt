@@ -1,0 +1,1 @@
+"The token \"7\" is often used as a delimiter to separate items in a list, and is frequently found in conjunction with other numbers, likely indicating a ranking or sequence."

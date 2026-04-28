@@ -1,0 +1,1 @@
+"Texts often contain proper nouns and geographic locations, such as city and country names, which are frequently used to provide context and establish setting."

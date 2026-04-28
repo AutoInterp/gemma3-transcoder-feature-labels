@@ -1,0 +1,1 @@
+"Texts are often instructions or guides, frequently containing technical information, and sometimes including code snippets or configuration files."

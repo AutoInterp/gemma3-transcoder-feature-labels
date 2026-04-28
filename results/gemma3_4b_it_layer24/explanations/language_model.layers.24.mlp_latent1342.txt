@@ -1,0 +1,1 @@
+"Various numerical values and dates, often used as identifiers or in mathematical expressions, frequently appearing in code snippets, technical descriptions, and data."

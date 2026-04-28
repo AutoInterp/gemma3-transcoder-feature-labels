@@ -1,0 +1,1 @@
+"Texts often contain URLs, references, and citations, which are frequently found at the end of a paragraph or article."

@@ -1,0 +1,1 @@
+"Boolean values and their usage in various programming contexts, including conditional statements, function returns, and variable assignments."

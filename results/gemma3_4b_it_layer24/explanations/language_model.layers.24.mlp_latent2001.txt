@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including Java and Android, with a focus on Android development, including layout files, activity classes, and utility methods."

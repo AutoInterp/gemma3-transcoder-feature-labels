@@ -1,0 +1,1 @@
+"Addresses and geographical locations, often in the format of postal codes, city names, and street names, frequently appearing in text."

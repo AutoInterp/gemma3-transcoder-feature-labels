@@ -1,0 +1,1 @@
+"Texts often contain specific days of the week, such as Tuesday, Monday, Friday, and Saturday, which serve as temporal markers."

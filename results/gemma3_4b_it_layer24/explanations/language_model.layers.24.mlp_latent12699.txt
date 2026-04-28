@@ -1,0 +1,1 @@
+"Various types of data and information presented in a structured format, often with specific details and metrics, such as nutritional information, game rules, and technical specifications."

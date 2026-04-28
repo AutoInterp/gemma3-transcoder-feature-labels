@@ -1,0 +1,1 @@
+"Texts often contain idiomatic expressions, proper nouns, and technical terms that are crucial for understanding the context. The presence of these important tokens can be indicative of a specific topic, theme, or genre. Additionally, the text may contain phrases or sentences that are crucial for conveying the author's tone, sentiment, or opinion."

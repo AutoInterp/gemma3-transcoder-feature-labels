@@ -1,0 +1,1 @@
+"Text fragments often appear in pairs, typically enclosed by HTML tags or other delimiters, and contain information such as code snippets, data, or explanations. These fragments are often separated by a blank line, denoted by the \"<eos>\" tag."

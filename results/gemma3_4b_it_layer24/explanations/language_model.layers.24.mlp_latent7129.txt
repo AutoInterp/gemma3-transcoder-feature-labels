@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including Java, XML, and JavaScript, with a focus on network protocols, data structures, and security."

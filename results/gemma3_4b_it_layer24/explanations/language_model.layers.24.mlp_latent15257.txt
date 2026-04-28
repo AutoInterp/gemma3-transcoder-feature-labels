@@ -1,0 +1,1 @@
+"Various numerical values and units, including dates, times, temperatures, pressures, concentrations, and financial values, often in scientific or technical contexts."

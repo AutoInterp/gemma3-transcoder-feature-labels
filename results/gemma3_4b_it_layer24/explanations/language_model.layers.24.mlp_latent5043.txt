@@ -1,0 +1,1 @@
+"Various programming languages and frameworks, including C++, Java, C#, Python, JavaScript, and SQL, as well as their respective syntax and structures."

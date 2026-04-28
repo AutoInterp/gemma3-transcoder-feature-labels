@@ -1,0 +1,1 @@
+"Various metadata and formatting elements, including publication dates, categories, and ISBN numbers, often found in bibliographic or catalog entries."

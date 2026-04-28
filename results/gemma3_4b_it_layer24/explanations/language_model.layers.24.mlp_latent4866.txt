@@ -1,0 +1,1 @@
+"Code snippets and programming concepts, often with specific syntax and formatting, frequently including function calls, variable declarations, and HTML/CSS/JavaScript elements."

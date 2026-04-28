@@ -1,0 +1,1 @@
+"The token \"string\" is often used to refer to a sequence of characters, and is frequently used in programming contexts to describe variables, functions, and data types."

@@ -1,0 +1,1 @@
+"Texts containing mathematical equations, scientific concepts, and technical descriptions, often with specific formatting and notation, such as equations, matrices, and variable names."

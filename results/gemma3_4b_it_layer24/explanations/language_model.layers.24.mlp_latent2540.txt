@@ -1,0 +1,1 @@
+"Various types of text enclosed in HTML tags, XML elements, or other markup languages, including quotations, code samples, and table data."

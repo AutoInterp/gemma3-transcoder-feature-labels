@@ -1,0 +1,1 @@
+"Technical text describing network protocols, IP addresses, subnetting, and network security, including explanations of TCP/IP, DNS, DHCP, NAT, VPN, and network monitoring."

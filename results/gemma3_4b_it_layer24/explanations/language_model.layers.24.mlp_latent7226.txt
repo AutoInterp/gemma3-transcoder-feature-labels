@@ -1,0 +1,1 @@
+"Text snippets containing various types of data, including phone numbers, addresses, SQL queries, programming code, and plain text, often with different formatting and syntax."

@@ -1,0 +1,1 @@
+"Various dates and years extracted from text, often in a format that includes the day, month, and year, sometimes with additional information such as the day of the week."

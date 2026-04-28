@@ -1,0 +1,1 @@
+"Various programming and technical instructions, including code snippets, error messages, and troubleshooting steps, often related to software development, system administration, and network configuration."

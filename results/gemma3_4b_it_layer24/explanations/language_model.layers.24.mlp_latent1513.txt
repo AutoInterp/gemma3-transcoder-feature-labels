@@ -1,0 +1,1 @@
+"Dates in various formats, including full dates, abbreviated dates, and ordinal numbers, often used to specify a time period or event."

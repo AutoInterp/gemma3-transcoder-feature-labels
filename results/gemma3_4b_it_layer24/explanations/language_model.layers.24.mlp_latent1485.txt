@@ -1,0 +1,1 @@
+"Various programming and markup languages, including HTML, CSS, JavaScript, and Perl, as well as text from articles and documentation, with a focus on technical and programming-related concepts, including data types, functions, and error handling."

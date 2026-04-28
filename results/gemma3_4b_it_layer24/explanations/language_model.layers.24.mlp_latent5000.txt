@@ -1,0 +1,1 @@
+"Text fragments containing HTML code, programming code, or technical jargon, often used to explain or illustrate a concept, and sometimes accompanied by a question or a statement of interest."

@@ -1,0 +1,1 @@
+"Texts that are often fragmented, incomplete, or contain quotes, and are frequently interrupted by the mention of a specific phrase or sentence that is repeated with a low activation value, suggesting a possible pattern of filler text or placeholder content."

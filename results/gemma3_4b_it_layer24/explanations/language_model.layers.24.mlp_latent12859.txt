@@ -1,0 +1,1 @@
+"Dates in the format of day, month, year, often appearing at the beginning of a text, possibly indicating the date of a meeting, event, or publication."

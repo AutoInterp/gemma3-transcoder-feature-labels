@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including HTML, CSS, JavaScript, Ruby, and Java, with emphasis on user interface elements, such as buttons, forms, and alerts, as well as API documentation and code comments."

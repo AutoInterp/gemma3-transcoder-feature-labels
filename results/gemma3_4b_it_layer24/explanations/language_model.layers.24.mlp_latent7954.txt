@@ -1,0 +1,1 @@
+"Shell scripts and commands, with a focus on file system operations, variable manipulation, and conditional statements."

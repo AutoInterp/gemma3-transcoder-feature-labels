@@ -1,0 +1,1 @@
+"Text fragments that appear to be metadata or supplementary information, often containing dates, categories, ISBN numbers, and other bibliographic details."

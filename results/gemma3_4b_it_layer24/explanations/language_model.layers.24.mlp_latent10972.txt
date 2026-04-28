@@ -1,0 +1,1 @@
+"Texts describing error messages, error handling, and debugging processes in various programming contexts, often involving code snippets and technical terminology."

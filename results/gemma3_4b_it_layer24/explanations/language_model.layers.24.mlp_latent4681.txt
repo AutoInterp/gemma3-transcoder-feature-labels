@@ -1,0 +1,1 @@
+"Texts often contain sequences of sentences or phrases that provide additional information, explanations, or context, which are typically marked by a lower activation value, indicating less importance or relevance to the main topic."

@@ -1,0 +1,1 @@
+"The token \"CRYPTO\" is not present in the given text examples. However, the text contains various technical terms, product names, and domain-specific jargon, indicating a focus on technical and scientific topics, including computer science, medicine, and engineering."

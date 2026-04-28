@@ -1,0 +1,1 @@
+"Various types of structured data, including tables, lists, and specifications, often containing technical or descriptive information about products, services, or systems."

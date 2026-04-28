@@ -1,0 +1,1 @@
+"Java code snippets from Android applications, including activity lifecycle methods, view initialization, and utility functions."

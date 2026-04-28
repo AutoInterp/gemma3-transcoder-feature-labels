@@ -1,0 +1,1 @@
+"Code snippets and HTML elements, often with JavaScript or CSS, embedded within a larger text."

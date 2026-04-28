@@ -1,0 +1,1 @@
+"Addresses and geographical locations, often in the format of \"place-name, country\" or \"street address, city, country\"."

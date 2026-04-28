@@ -1,0 +1,1 @@
+"The text contains a mix of programming code, technical documentation, and news articles. Common patterns include function and method definitions, variable declarations, and conditional statements in programming code, as well as structured data formats like JSON and SQL. In the news articles, idiomatic expressions and sentence structures are used to convey information."

@@ -1,0 +1,1 @@
+"Various time-related expressions and durations, including hours, days, weeks, months, and years, often used in a context of measurement, scheduling, or comparison."

@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, primarily C++ and GLSL, with a focus on graphics rendering, shader programming, and OpenGL functionality."

@@ -1,0 +1,1 @@
+"Code comments and method descriptions in various programming languages, including Java, C++, and others, containing information about function parameters, return types, and error handling."

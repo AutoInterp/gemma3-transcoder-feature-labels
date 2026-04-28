@@ -1,0 +1,1 @@
+"Various numerical values, including integers, decimal numbers, and scientific notation, often used in mathematical expressions, formulas, and data representation."

@@ -1,0 +1,1 @@
+"Code snippets in various programming languages, including Objective-C, Python, C, and others, often with comments and explanations."

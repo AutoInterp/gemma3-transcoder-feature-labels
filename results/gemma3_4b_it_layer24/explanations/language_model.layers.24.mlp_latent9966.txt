@@ -1,0 +1,1 @@
+"SQL code snippets from various databases and programming languages, including PostgreSQL, MySQL, and others, showcasing table structures, queries, and database operations."

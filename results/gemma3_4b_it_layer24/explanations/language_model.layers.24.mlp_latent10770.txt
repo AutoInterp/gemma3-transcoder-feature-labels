@@ -1,0 +1,1 @@
+"A collection of color codes in various formats, including hexadecimal, RGB, and HSL, as well as some code snippets related to color manipulation and display."

@@ -1,0 +1,1 @@
+"Texts describing geographical locations, spatial relationships, and map generation, often involving coordinates, polygons, and boundaries between land and water."

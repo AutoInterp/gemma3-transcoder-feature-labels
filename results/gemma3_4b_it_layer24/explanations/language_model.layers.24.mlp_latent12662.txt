@@ -1,0 +1,1 @@
+"Texts from various mathematical and technical domains, including algebra, calculus, number theory, and computer science, often containing formal definitions, theorems, and proofs, as well as code snippets and programming concepts."

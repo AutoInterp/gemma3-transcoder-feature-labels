@@ -1,0 +1,1 @@
+"Text snippets often contain quotes, citations, or references to external sources, which are frequently marked with a delimiter."

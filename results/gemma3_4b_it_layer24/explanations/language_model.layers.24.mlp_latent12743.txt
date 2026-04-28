@@ -1,0 +1,1 @@
+"Various code snippets and programming languages, including SQL, Java, and PHP, as well as mathematical formulas and explanations of scientific concepts, such as the Greatest Common Factor (GCF) and the Pareto Principle."

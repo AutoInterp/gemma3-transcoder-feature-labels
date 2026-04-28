@@ -1,0 +1,1 @@
+"Large numbers and financial values are often used in text to convey specific information, such as prices, quantities, or amounts. These numbers are frequently used in a context that requires precision and accuracy, and are often accompanied by units of measurement or other relevant details."

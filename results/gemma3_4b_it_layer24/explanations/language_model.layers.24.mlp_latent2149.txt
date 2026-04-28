@@ -1,0 +1,1 @@
+"Texts containing URLs, email addresses, and other online information, as well as technical and scientific content, including mathematical formulas and programming code."

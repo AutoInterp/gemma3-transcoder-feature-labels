@@ -1,0 +1,1 @@
+"The token \"still\" is used to indicate a continuation of a state, action, or situation, often used to contrast with a previous state or to emphasize a point."

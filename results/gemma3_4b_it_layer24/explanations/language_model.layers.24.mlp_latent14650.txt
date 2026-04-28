@@ -1,0 +1,1 @@
+"Text fragments containing various types of information, including article titles, social media handles, URLs, code snippets, and advertisements, often separated by HTML tags or special characters."

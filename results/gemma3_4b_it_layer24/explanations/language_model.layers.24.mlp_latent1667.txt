@@ -1,0 +1,1 @@
+"Texts describing technical processes, software setup, and troubleshooting, often including step-by-step instructions and explanations of complex concepts."

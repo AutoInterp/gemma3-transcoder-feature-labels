@@ -1,0 +1,1 @@
+"Dates and times in various formats, often appearing at the beginning of a text or section, and sometimes accompanied by other metadata such as locations or package information."

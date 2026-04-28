@@ -1,0 +1,1 @@
+"Ranges of time, quantities, and percentages are commonly used in text to convey specific information, such as duration, frequency, and magnitude."

@@ -1,0 +1,1 @@
+"Text fragments often appear in a programming or technical context, but are frequently interrupted by unrelated text, possibly indicating a mixed-source or mixed-format document."

@@ -1,0 +1,1 @@
+"Code snippets in various programming languages, including HTML, CSS, JavaScript, and others, with varying levels of syntax highlighting and formatting."

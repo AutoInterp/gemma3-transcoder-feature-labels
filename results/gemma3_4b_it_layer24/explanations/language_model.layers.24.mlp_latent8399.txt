@@ -1,0 +1,1 @@
+"The term \"boot\" and its variations, such as \"bootloader\", \"boot command\", \"boot flag\", \"boot device\", and \"boot up\", are used to describe the process of starting a computer system, loading an operating system, or accessing a specific mode or feature."

@@ -1,0 +1,1 @@
+"Various programming-related terms, code snippets, and technical concepts, including Java, JavaScript, Ruby, and Kotlin, as well as software development methodologies and architecture patterns."

@@ -1,0 +1,1 @@
+"Text primarily discussing statistical concepts, mathematical formulas, and data analysis techniques, including regression, variance, sampling distributions, confidence intervals, and hypothesis testing."

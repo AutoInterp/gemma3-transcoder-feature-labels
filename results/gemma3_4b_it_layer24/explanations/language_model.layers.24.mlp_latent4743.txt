@@ -1,0 +1,1 @@
+"Texts often contain phrases that provide additional information, such as product descriptions, advertisements, or explanations, which are typically set apart from the main content with a delimiter."

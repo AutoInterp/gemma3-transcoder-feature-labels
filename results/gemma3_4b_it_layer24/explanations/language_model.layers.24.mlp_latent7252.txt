@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including Swift, Objective-C, Java, C++, and SQL, as well as text from tutorials, documentation, and articles."

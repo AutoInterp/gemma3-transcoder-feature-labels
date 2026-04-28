@@ -1,0 +1,1 @@
+"Code snippets and programming-related text, including syntax, data types, and programming languages, as well as SQL queries and database-related information."

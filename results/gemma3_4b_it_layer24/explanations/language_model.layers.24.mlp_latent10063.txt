@@ -1,0 +1,1 @@
+"Texts containing programming code, mathematical equations, and SQL queries, often with a focus on technical explanations and problem-solving."

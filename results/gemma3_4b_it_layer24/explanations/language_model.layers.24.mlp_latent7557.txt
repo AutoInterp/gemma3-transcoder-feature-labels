@@ -1,0 +1,1 @@
+"Texts discussing database management, data storage, and retrieval, with a focus on technical details and programming concepts, including SQL, MongoDB, and PHP."

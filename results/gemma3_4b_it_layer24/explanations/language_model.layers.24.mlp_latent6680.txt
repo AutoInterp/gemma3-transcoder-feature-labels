@@ -1,0 +1,1 @@
+"Texts describing various types of configuration files, settings, and management systems, often related to software development, system administration, and data storage."

@@ -1,0 +1,1 @@
+"Various programming languages and code snippets, including C#, Java, Python, and SQL, as well as text from books, articles, and online content. The patterns found in these examples suggest a diverse range of topics and styles, with no clear common thread beyond the fact that they are all written in a formal or technical tone."

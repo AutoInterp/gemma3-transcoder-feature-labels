@@ -1,0 +1,1 @@
+"Java and other programming language code snippets, primarily from Spring and JUnit frameworks, with various annotations and method calls."

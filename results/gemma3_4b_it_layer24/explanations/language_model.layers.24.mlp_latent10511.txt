@@ -1,0 +1,1 @@
+"Dates and times in various formats, including UTC, GMT, and local time, often accompanied by specific events or activities."

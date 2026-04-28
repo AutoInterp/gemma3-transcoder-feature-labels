@@ -1,0 +1,1 @@
+"Dates and time periods, often in the format of a range, used to specify a duration or a specific point in time."

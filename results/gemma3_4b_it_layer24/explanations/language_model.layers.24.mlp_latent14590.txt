@@ -1,0 +1,1 @@
+"Text fragments often appear between delimiters, sometimes indicating a quotation or a specific location, and are frequently related to specific objects, events, or concepts."

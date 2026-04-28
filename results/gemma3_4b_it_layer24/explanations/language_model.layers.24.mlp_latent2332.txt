@@ -1,0 +1,1 @@
+"Texts describing various aspects of computer networking, database connections, and communication protocols, including setup procedures, connection establishment, and data transfer."

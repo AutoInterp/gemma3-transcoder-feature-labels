@@ -1,0 +1,1 @@
+"Text snippets enclosed in angle brackets << >> often represent quotes, citations, or extracted information, while the rest of the text is the main content."

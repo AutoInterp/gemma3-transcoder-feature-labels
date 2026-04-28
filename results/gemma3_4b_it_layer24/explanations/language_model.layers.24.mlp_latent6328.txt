@@ -1,0 +1,1 @@
+"Various programming and technical terms, including function calls, variable names, and file paths, often used in a context of tutorials, documentation, and coding examples."

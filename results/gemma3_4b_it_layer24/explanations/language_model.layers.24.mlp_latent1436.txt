@@ -1,0 +1,1 @@
+"The token \"after\" is used to indicate a point in time following a specific event or action, often used to describe a consequence, a continuation, or a sequence of events."

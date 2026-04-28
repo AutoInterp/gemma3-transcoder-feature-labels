@@ -1,0 +1,1 @@
+"Texts describing technical concepts, troubleshooting steps, and system configurations, often involving command-line interfaces, programming languages, and cloud computing."

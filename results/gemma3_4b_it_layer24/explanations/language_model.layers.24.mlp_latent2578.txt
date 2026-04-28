@@ -1,0 +1,1 @@
+"Various numerical values and statistical measures, including probabilities (P values), percentages, and ratios, often used in scientific and technical contexts."

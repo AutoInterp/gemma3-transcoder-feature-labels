@@ -1,0 +1,1 @@
+"Various programming and markup languages, including CSS, HTML, JavaScript, and Python, with a focus on graphical user interfaces, image processing, and data visualization."

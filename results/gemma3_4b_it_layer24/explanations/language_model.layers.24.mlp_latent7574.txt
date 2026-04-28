@@ -1,0 +1,1 @@
+"Text fragments containing various types of code, including programming languages, SQL queries, and markup languages, as well as hexadecimal color codes and Unicode characters."

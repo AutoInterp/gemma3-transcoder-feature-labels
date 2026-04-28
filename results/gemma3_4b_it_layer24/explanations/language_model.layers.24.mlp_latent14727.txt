@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including SQL, Go, and C, as well as mathematical equations and text from academic papers and books."

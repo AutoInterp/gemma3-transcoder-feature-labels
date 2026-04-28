@@ -1,0 +1,1 @@
+"Text snippets often contain informal or conversational language, including abbreviations, slang, and colloquial expressions, as well as fragments of code, URLs, and other technical information."

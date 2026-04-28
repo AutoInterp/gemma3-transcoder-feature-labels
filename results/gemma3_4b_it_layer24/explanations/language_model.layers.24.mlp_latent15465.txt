@@ -1,0 +1,1 @@
+"Text snippets often contain URLs, code snippets, or other non-narrative content, frequently found at the end of a paragraph or section."

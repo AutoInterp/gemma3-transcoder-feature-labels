@@ -1,0 +1,1 @@
+"Texts discussing programming languages, specifically C++ and Swift, with examples of code snippets and technical discussions about data structures, algorithms, and software development."

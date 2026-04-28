@@ -1,0 +1,1 @@
+"Texts discussing software, licensing, and security, often referencing technical terms and concepts, such as rekeying, patents, and JMX."

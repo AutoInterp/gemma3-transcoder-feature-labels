@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including SQL, C, Java, and assembly, as well as text from user manuals, technical documentation, and online forums, often containing error messages, troubleshooting instructions, and technical specifications."

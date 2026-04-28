@@ -1,0 +1,1 @@
+"HTML code snippets with variable names and descriptions, likely from a documentation or a code editor, describing CSS and JavaScript variables and their functions."

@@ -1,0 +1,1 @@
+"Database schema and code snippets in various programming languages, including SQL, Python, and JavaScript, highlighting field types, data structures, and formatting."

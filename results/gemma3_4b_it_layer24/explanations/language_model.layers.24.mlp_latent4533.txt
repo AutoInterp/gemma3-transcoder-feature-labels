@@ -1,0 +1,1 @@
+"Code snippets in various programming languages, including Python, Bash, and HTML, often used for educational or reference purposes."

@@ -1,0 +1,1 @@
+"Text snippets often contain technical or scientific information, including chemical names, medical conditions, and laboratory procedures, as well as programming code and data analysis results."

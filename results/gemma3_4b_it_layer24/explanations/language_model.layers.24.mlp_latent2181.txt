@@ -1,0 +1,1 @@
+"SQL queries and database operations in various programming languages, including PHP, Java, and Python, with a focus on database connections, queries, and data manipulation."

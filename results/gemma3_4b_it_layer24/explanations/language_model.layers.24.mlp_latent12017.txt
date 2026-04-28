@@ -1,0 +1,1 @@
+"Texts discussing various concepts related to detection, navigation, and measurement, including radar, sonar, echolocation, GPS, and other technologies, as well as mathematical and scientific principles underlying these concepts."

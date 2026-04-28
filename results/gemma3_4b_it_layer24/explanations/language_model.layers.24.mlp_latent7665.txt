@@ -1,0 +1,1 @@
+"Text snippets with low activation values, often containing special characters, URLs, or programming code, indicating irrelevant or background information."

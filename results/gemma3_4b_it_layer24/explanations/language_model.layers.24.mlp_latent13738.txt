@@ -1,0 +1,1 @@
+"Texts from various sources, including articles, blog posts, and product descriptions, with a focus on extracting specific phrases or sentences for analysis. The extracted phrases often contain idioms, proper nouns, or technical terms, and are used to identify patterns in language."

@@ -1,0 +1,1 @@
+"Various units of measurement, including length, width, height, weight, speed, temperature, and area, are used to describe objects, distances, and quantities in the text."

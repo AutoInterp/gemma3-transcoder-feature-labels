@@ -1,0 +1,1 @@
+"Code snippets with conditional statements and logical operations, often used for decision-making and control flow in programming."

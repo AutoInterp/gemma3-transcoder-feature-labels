@@ -1,0 +1,1 @@
+"Text segments enclosed by delimiters often represent a quote, a title, or a phrase that is being referenced or highlighted, and are typically followed by a change in topic or a new idea."

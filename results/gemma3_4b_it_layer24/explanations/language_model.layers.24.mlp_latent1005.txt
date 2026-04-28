@@ -1,0 +1,1 @@
+"Technical terms and concepts related to cloud computing, data storage, and infrastructure as code, often used in the context of programming and software development."

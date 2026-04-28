@@ -1,0 +1,1 @@
+"Texts often contain proper nouns, geographical locations, and names of people, places, and organizations. Additionally, there are instances of technical terms, jargon, and specialized vocabulary in fields such as medicine, law, and science."

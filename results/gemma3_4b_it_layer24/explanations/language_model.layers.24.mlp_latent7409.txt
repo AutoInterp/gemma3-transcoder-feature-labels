@@ -1,0 +1,1 @@
+"Various programming languages, frameworks, and libraries, including Java, Spring, and JUnit, as well as mathematical and scientific concepts, such as equations, algorithms, and statistical analysis."

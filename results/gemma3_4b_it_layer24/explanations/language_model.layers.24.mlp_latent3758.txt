@@ -1,0 +1,1 @@
+"Texts containing URLs, URIs, or other web-related information, often used to identify and link to external resources, and sometimes embedded in larger blocks of text."

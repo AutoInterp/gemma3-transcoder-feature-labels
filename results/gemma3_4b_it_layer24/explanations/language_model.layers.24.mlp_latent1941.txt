@@ -1,0 +1,1 @@
+"Texts containing various types of content, including articles, book summaries, and programming code, with a focus on extracting specific information or phrases."

@@ -1,0 +1,1 @@
+"Texts related to computer networking, concurrency, and synchronization, including TCP/IP protocols, socket programming, thread management, and synchronization primitives such as mutexes and condition variables."

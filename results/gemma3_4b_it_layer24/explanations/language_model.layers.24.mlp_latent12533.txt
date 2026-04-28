@@ -1,0 +1,1 @@
+"Texts describing technical processes, software installation, and system administration, often including error messages, code snippets, and troubleshooting instructions."

@@ -1,0 +1,1 @@
+"Various numerical ranges and comparisons, including between numbers, wavelengths, and frequencies, as well as between different values and limits."

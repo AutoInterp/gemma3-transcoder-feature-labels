@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including C#, Java, and XML, with varying levels of activation for different elements such as keywords, attributes, and methods."
