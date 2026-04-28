@@ -1,0 +1,1 @@
+"Code snippets in various programming languages, including Java, Go, and Python, as well as HTML, CSS, and JavaScript, often with comments and variable names."

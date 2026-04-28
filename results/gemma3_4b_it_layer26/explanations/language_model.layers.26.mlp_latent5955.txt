@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are enclosed in angle brackets, which appear to be code snippets or programming examples, but are actually part of the narrative. These snippets are often used to provide additional context or information, and are typically set apart from the rest of the text."

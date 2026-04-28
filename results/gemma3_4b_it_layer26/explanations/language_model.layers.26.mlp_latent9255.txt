@@ -1,0 +1,1 @@
+"Texts containing various types of data, including numerical values, colors, and URLs, often used for formatting or referencing purposes."

@@ -1,0 +1,1 @@
+"Code snippets in R programming language, often containing function definitions, data analysis, and statistical calculations."

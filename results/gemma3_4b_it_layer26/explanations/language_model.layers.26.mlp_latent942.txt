@@ -1,0 +1,1 @@
+"Text samples containing various programming languages, including HTML, JavaScript, CSS, PHP, and C++, as well as documentation and tutorials on web development, programming concepts, and software tools."

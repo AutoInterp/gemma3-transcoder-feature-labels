@@ -1,0 +1,1 @@
+"URLs and code snippets, often containing search queries, API calls, or configuration settings."

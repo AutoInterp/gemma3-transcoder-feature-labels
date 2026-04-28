@@ -1,0 +1,1 @@
+"Text describing programming concepts, data structures, and algorithms, often with technical jargon and mathematical notation."

@@ -1,0 +1,1 @@
+"Text fragments often containing proper nouns, names, or technical terms, sometimes with a specific format or structure, such as dates, locations, or code snippets."

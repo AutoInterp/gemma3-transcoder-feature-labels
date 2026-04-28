@@ -1,0 +1,1 @@
+"Code snippets in various programming languages, including Java, SQL, and PHP, often containing function definitions, variable declarations, and database queries."

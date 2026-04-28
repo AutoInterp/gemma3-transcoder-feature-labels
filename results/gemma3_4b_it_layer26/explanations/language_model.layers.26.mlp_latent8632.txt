@@ -1,0 +1,1 @@
+"Texts discussing object-oriented programming, procedural programming, and mathematical concepts such as exponential and logarithmic functions, with applications in real-life scenarios, including data protection, finance, and education."

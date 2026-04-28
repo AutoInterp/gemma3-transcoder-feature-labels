@@ -1,0 +1,1 @@
+"Code snippets in various programming languages, including Perl, Python, and JavaScript, with a focus on string manipulation, regular expressions, and validation."

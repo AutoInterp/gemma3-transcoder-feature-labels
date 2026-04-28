@@ -1,0 +1,1 @@
+"Text contains a mix of various data types, including numbers, dates, times, and special characters, often used for formatting or representing different types of information."

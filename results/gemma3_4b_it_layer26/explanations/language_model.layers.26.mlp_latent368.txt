@@ -1,0 +1,1 @@
+"Texts describing command-line interfaces, tools, and operations, often including technical instructions and syntax for executing commands."

@@ -1,0 +1,1 @@
+"Texts often contain specific numbers, such as percentages, days, hours, and years, which are used to convey information, compare data, or describe events."

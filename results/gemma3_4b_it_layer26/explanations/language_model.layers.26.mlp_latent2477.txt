@@ -1,0 +1,1 @@
+"Technical text discussing computer hardware, software, and programming concepts, with a focus on graphics processing units (GPUs), multi-core processors, and high-performance computing."

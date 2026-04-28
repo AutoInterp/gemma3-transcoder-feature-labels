@@ -1,0 +1,1 @@
+"HTML elements and attributes, including tags, classes, and IDs, used for styling, layout, and accessibility."

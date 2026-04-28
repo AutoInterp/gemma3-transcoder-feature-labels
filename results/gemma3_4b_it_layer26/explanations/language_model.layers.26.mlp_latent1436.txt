@@ -1,0 +1,1 @@
+"The use of a dash character as a delimiter for a range or a single value, often in file names, input parameters, or other contexts."

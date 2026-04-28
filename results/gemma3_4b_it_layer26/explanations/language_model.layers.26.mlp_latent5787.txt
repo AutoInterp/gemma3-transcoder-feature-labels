@@ -1,0 +1,1 @@
+"Various types of text, including programming code, academic papers, book titles, and online content, with a focus on extracting specific information such as dates, categories, and ISBN numbers."

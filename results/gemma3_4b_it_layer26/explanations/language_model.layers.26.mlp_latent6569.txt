@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are cut off abruptly, followed by a closing delimiter, often indicating the end of a quote or a section of text."

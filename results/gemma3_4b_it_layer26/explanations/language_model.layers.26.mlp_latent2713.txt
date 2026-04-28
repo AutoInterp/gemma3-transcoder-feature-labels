@@ -1,0 +1,1 @@
+"SQL code snippets with varying levels of complexity, including queries, table creations, and data insertions, often with specific database management system (DBMS) syntax."

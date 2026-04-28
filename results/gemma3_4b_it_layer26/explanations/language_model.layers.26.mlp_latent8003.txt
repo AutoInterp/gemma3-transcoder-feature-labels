@@ -1,0 +1,1 @@
+"Texts containing a mix of English and Chinese characters, with some examples being quotes, articles, and code snippets."

@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, primarily Python, with a focus on syntax, functions, and variable names."

@@ -1,0 +1,1 @@
+"Text snippets often appear in scientific or technical contexts, such as research articles, medical texts, or programming documentation, and are frequently enclosed in angle brackets."

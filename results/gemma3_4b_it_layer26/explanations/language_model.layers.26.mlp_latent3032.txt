@@ -1,0 +1,1 @@
+"The token \"os\" is often used as a prefix in various contexts, including operating system names (e.g., OS X, OS/2), file paths (e.g., os.path.join), and programming concepts (e.g., os.Bundle)."

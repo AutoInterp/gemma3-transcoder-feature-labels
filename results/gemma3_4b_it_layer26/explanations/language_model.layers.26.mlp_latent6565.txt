@@ -1,0 +1,1 @@
+"Text snippets representing dates and times, often in a format that includes hours, minutes, and sometimes additional details such as day of the week, month, or year."

@@ -1,0 +1,1 @@
+"Various programming code snippets, function definitions, and data structures from different programming languages, including C++, Java, Python, and SQL, as well as text from books, articles, and online content."

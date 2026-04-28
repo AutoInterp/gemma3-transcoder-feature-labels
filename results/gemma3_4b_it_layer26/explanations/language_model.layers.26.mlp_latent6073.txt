@@ -1,0 +1,1 @@
+"Texts often contain fragments of various lengths, sometimes related to a specific topic, and sometimes not. These fragments can be sentences, phrases, or even single words, and they may be separated by unrelated text or other content."

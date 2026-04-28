@@ -1,0 +1,1 @@
+"The token \"ever\" is used to indicate a point in time that has passed, often used in conjunction with words like \"since\" to describe a duration or a change that has occurred."

@@ -1,0 +1,1 @@
+"The token \"$\" is used to represent monetary values, often in a range or with a specific amount, in various contexts such as prices, costs, and income."

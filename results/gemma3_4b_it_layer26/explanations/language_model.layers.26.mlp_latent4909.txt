@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are incomplete or truncated, frequently denoted by special characters such as <eos> or <<. These phrases are often followed by a new paragraph or section, indicating a shift in topic or context."

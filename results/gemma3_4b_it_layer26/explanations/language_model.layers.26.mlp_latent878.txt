@@ -1,0 +1,1 @@
+"Texts from various programming languages, scripts, and configuration files, including shell commands, Makefiles, and configuration files for Linux and other operating systems."

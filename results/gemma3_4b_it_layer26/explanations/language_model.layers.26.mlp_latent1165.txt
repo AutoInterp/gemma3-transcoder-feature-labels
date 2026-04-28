@@ -1,0 +1,1 @@
+"Text snippets often contain specific phrases or sentences that are likely to be boilerplate or template text, such as product descriptions, return policies, or legal disclaimers."

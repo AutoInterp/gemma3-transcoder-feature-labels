@@ -1,0 +1,1 @@
+"Code snippets in various programming languages, including Perl, C, and Java, with a focus on mathematical and algorithmic problems, such as prime number generation, palindrome detection, and data manipulation."

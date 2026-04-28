@@ -1,0 +1,1 @@
+"Various types of delimiters and quotation marks used to enclose strings, often representing code, data, or text within a programming context."

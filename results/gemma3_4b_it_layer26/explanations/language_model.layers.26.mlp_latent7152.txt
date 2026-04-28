@@ -1,0 +1,1 @@
+"Code snippets with syntax highlighting and formatting, often with JavaScript or HTML code, and sometimes with comments or error messages."

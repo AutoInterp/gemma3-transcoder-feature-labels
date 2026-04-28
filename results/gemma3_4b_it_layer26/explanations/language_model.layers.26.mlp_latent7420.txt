@@ -1,0 +1,1 @@
+"Texts often contain proper nouns such as company names, locations, and personal names, which are frequently mentioned in the context of news, events, or product releases."

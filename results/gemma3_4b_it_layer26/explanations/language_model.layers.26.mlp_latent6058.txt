@@ -1,0 +1,1 @@
+"Various phrases and sentences that are likely to be extracted as important text, often containing proper nouns, technical terms, or specific information, such as locations, product names, and company names."

@@ -1,0 +1,1 @@
+"Geographic locations, often cities or regions, frequently mentioned in the text."

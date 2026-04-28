@@ -1,0 +1,1 @@
+"Code snippets and technical terms from various programming languages and software development frameworks, often including file paths, function calls, and error messages."

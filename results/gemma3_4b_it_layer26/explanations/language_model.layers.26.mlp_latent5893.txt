@@ -1,0 +1,1 @@
+"Texts describing programming concepts, coding practices, and software development processes, often including code snippets and explanations of programming languages such as Python."

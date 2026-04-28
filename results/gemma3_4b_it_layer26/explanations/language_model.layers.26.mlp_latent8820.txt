@@ -1,0 +1,1 @@
+"Texts containing programming-related information, including installation instructions, API documentation, and code snippets, often with specific version numbers and technical details."

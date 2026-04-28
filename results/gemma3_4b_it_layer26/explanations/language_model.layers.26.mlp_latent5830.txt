@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including Java, C++, C#, and others, with varying levels of activation for different tokens. The code appears to be a mix of comments, method definitions, and variable declarations, with some sections of code being more active than others."

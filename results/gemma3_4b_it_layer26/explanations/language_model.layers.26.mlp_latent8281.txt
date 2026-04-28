@@ -1,0 +1,1 @@
+"Code snippets in various programming languages, including C, Python, and Mathematica, often containing mathematical expressions, function definitions, and algorithm implementations."

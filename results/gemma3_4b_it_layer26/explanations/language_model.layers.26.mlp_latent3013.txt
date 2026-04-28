@@ -1,0 +1,1 @@
+"Text primarily consists of mathematical concepts, equations, and theorems, with a focus on linear algebra, geometry, and calculus. The language used is formal and technical, with an emphasis on precise definitions and rigorous proofs."

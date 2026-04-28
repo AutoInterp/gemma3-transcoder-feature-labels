@@ -1,0 +1,1 @@
+"Various types of addresses, including physical locations, phone numbers, and email addresses, often accompanied by other contextual information."

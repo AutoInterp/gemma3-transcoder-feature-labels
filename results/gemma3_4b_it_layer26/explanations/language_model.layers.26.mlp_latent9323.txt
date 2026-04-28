@@ -1,0 +1,1 @@
+"Text segments that are not part of the main content, often containing citations, references, or supplementary information."

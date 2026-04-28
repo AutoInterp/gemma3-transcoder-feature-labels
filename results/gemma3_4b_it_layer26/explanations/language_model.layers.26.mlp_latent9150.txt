@@ -1,0 +1,1 @@
+"Various scientific and academic references, including journal articles, conference papers, and book chapters, often with DOI or PMID identifiers, and sometimes accompanied by activation values for specific tokens."

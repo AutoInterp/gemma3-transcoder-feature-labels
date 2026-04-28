@@ -1,0 +1,1 @@
+"Various phrases and sentences often appear in the middle of a text, sometimes with a quotation mark, and are likely to be extracted or quoted from another source, such as a book, article, or conversation."

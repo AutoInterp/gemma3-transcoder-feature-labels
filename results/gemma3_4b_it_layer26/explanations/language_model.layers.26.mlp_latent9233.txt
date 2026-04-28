@@ -1,0 +1,1 @@
+"Texts often contain phrases indicating a duration of time, such as \"long time\", \"short time\", \"three year time period\", \"longer duration\", \"long-term impact\", \"short-term impact\", and \"long periods\"."

@@ -1,0 +1,1 @@
+"Texts containing bibliographic information, academic references, and citations, often in the format of scientific papers or book chapters, with various metadata such as ISBN, DOI, and PMID."

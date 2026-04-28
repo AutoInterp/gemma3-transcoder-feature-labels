@@ -1,0 +1,1 @@
+"Text fragments often contain proper nouns, names of people, places, or organizations, and sometimes specific dates or events."

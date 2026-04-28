@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including JavaScript, Python, Java, and C++, with a focus on mathematical and scientific concepts, such as probability, statistics, and physics."

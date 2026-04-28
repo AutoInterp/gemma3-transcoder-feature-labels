@@ -1,0 +1,1 @@
+"Texts containing numerical values, mathematical expressions, and various types of data, including integers, decimals, and factorials, often in the context of programming, science, or everyday life."

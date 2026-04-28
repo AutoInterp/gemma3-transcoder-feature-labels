@@ -1,0 +1,1 @@
+"HTML code snippets with various attributes and tags, including meta tags, CSS classes, and JavaScript code."

@@ -1,0 +1,1 @@
+"Various types of text data, including news articles, academic papers, product descriptions, and social media posts, often containing specific information such as dates, locations, and numerical values."

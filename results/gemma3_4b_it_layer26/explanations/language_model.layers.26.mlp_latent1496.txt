@@ -1,0 +1,1 @@
+"SQL code snippets, database table structures, and queries, often related to data management, backup, and analysis."

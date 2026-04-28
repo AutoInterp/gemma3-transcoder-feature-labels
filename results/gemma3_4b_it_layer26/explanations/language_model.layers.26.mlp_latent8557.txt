@@ -1,0 +1,1 @@
+"Texts containing scientific and technical information, including chemical reactions, mathematical formulas, and descriptions of physical phenomena, often accompanied by code snippets and programming language syntax."

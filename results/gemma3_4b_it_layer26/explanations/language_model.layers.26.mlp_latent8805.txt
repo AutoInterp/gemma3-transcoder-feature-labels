@@ -1,0 +1,1 @@
+"Various types of metadata and technical information, including HTTP headers, timestamps, version numbers, and citation information, often found at the beginning or end of text."

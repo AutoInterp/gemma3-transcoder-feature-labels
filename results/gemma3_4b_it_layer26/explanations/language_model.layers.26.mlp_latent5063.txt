@@ -1,0 +1,1 @@
+"Texts often contain article titles, author information, and metadata, which are frequently enclosed in HTML tags or other markup."

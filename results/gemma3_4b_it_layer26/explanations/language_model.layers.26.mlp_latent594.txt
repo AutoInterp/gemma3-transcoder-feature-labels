@@ -1,0 +1,1 @@
+"Various types of text, including addresses, phone numbers, URLs, and citations, often appearing in a specific format with delimiters."

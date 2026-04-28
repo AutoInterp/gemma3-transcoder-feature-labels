@@ -1,0 +1,1 @@
+"The token \"set\" is used in various contexts, including programming (e.g., setting variables, properties, or permissions), database operations (e.g., creating tables), and everyday language (e.g., setting up something, making a decision)."

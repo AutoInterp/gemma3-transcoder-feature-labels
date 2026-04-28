@@ -1,0 +1,1 @@
+"Texts containing email-related content, including error messages, notifications, and instructions for subscription, password recovery, and contact information."

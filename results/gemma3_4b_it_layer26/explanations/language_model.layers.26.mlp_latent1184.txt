@@ -1,0 +1,1 @@
+"OPS, or On-Base Plus Slugging, is a baseball statistic that measures a player's ability to get on base and hit for power, calculated by adding their on-base percentage and slugging percentage."

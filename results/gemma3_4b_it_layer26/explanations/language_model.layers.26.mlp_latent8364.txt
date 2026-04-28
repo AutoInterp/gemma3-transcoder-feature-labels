@@ -1,0 +1,1 @@
+"Text snippets often contain proper nouns, such as names, titles, and locations, which are frequently followed by a description or a quotation."

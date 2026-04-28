@@ -1,0 +1,1 @@
+"HTML and CSS code snippets, mostly related to web development and user interface design, with some JavaScript and Python code."

@@ -1,0 +1,1 @@
+"Texts from various sources, including news articles, technical documentation, and advertisements, with a focus on extracting specific phrases and sentences for analysis. The extracted phrases often contain technical terms, names, and specific details, indicating a focus on information extraction and analysis."

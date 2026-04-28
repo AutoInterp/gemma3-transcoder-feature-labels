@@ -1,0 +1,1 @@
+"Texts that are separated by delimiters often represent a continuation of the same idea or a shift in context, with the delimiter serving as a transition marker."

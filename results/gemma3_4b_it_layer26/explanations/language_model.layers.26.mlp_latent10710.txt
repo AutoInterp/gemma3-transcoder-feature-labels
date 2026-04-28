@@ -1,0 +1,1 @@
+"The token \"file\" is often used in the context of computer systems, referring to a location on a storage device where data is stored, or a program that is executed. It can also be used to describe a document or a piece of information. The token is frequently associated with various file-related operations, such as reading, writing, copying, and deleting."

@@ -1,0 +1,1 @@
+"Texts often contain phrases indicating future events or actions, such as \"next month\", \"next year\", \"last week\", \"last year\", and \"upcoming year\", which serve as temporal markers."

@@ -1,0 +1,1 @@
+"Text snippets in various programming languages, including C, C++, Java, Python, and JavaScript, as well as snippets of SQL, HTML, and other markup languages."

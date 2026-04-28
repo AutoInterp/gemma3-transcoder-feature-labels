@@ -1,0 +1,1 @@
+"Text fragments often contain proper nouns, titles, and specific phrases, which are frequently found at the beginning or end of a sentence. These fragments may also include technical terms, names of people, places, and organizations, as well as specific dates and events."

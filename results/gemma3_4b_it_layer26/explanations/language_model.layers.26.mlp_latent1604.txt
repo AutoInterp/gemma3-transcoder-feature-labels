@@ -1,0 +1,1 @@
+"Texts discussing software development, specifically database management, object-relational mapping, and application architecture, with a focus on design patterns, frameworks, and best practices."

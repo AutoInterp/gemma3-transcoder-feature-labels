@@ -1,0 +1,1 @@
+"Text snippets often appear in a code-like format, possibly indicating programming code or technical documentation, and are frequently enclosed in angle brackets or other delimiters."

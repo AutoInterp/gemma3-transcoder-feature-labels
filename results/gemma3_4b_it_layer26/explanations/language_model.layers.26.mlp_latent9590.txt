@@ -1,0 +1,1 @@
+"Texts containing various types of code, including programming languages such as JavaScript, Python, and SQL, as well as data types like JSON and XML."

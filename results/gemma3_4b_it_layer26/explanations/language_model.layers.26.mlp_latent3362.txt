@@ -1,0 +1,1 @@
+"Text discussing the Greatest Common Factor (GCF) and Least Common Multiple (LCM) of numbers, including methods for finding them such as prime factorization, Euclid's algorithm, and division."

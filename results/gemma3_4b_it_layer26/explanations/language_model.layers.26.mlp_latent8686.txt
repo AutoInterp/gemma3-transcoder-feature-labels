@@ -1,0 +1,1 @@
+"Texts with low activation values are often irrelevant or background information, while high activation values are often associated with key phrases, proper nouns, and specific events. The text also contains a mix of formal and informal language, with some sections appearing to be written in a more academic or technical tone, while others are more conversational."

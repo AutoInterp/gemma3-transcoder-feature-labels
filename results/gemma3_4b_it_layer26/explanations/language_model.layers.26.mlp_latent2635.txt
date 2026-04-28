@@ -1,0 +1,1 @@
+"CSS classes and variables used for styling and layout in web development, often related to Kendo UI components."

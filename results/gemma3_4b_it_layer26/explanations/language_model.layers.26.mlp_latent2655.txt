@@ -1,0 +1,1 @@
+"Texts describing database concepts, SQL queries, and data modeling, including discussions on query optimization, data types, and performance."

@@ -1,0 +1,1 @@
+"Texts discussing Uniform Resource Identifiers (URIs), their structure, and internationalization, including character handling, encoding, and the distinction between URIs and other types of identifiers."

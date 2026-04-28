@@ -1,0 +1,1 @@
+"Text fragments that could not be matched by a regular expression pattern, often indicating a mismatch or an error in the pattern."

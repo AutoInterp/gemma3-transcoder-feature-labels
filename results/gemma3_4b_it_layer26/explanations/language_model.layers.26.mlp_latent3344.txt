@@ -1,0 +1,1 @@
+"Text snippets often appear in a specific format, such as a title or a description, and are frequently enclosed in double quotes or angle brackets. These snippets can be book titles, song names, product descriptions, or other types of text."

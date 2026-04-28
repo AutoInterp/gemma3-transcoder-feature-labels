@@ -1,0 +1,1 @@
+"Various types of metadata and information related to digital content, such as software, music, and videos, including licensing information, file sizes, and download links."

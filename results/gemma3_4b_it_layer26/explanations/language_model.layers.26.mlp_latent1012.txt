@@ -1,0 +1,1 @@
+"Texts discussing character encoding, data types, and data storage, particularly focusing on Unicode and UTF-8."

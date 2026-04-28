@@ -1,0 +1,1 @@
+"Various types of data, including numbers, text, and code snippets, often appearing in isolation or as part of a larger context."

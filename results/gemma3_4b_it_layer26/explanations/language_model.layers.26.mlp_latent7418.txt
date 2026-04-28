@@ -1,0 +1,1 @@
+"Text fragments often contain technical or medical information, instructions, or product descriptions, frequently including lists, code snippets, and references to trademarks or specific products."

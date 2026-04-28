@@ -1,0 +1,1 @@
+"Various forms of user input fields, such as email addresses, phone numbers, and text fields, often accompanied by instructions or labels."

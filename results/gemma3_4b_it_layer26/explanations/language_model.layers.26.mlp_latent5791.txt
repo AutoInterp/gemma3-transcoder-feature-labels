@@ -1,0 +1,1 @@
+"Priority queue enforcing rules for nodes based on their properties, such as size, priority, or other attributes, to manage the number of nodes being held in the queue and ensure efficient processing."

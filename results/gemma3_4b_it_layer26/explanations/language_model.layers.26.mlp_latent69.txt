@@ -1,0 +1,1 @@
+"Text fragments often appear in a programming or technical context, sometimes as code snippets, and sometimes as quoted text from other sources, such as academic papers, books, or websites. These fragments are often enclosed in delimiters, and their activations suggest that they are being analyzed for their content or structure."

@@ -1,0 +1,1 @@
+"Various programming languages and syntax, including conditional statements (if-else), loops, and functions, as well as code snippets and examples from different programming contexts."

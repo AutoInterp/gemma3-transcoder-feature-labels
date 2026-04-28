@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are interrupted or referenced later in the text, indicated by phrases like \"Back to\" or \"That's good, as you set the temperature for the beer and it's currently at\"."

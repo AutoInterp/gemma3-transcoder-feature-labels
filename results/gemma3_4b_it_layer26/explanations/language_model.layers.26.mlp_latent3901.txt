@@ -1,0 +1,1 @@
+"Texts often contain phrases indicating time or duration, such as \"as soon as possible\", \"within a few years\", \"within the first 2 or 3 years\", and \"within this team\". Additionally, phrases indicating location or containment, like \"within the support portal\", \"within the Union\", \"within the landscape of Minneapolis\", and \"within the U.S.\" are also common."

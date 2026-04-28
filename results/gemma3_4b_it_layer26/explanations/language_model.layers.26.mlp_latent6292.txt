@@ -1,0 +1,1 @@
+"Code snippets in various programming languages, including Python, SQL, and others, often with comments and error messages."

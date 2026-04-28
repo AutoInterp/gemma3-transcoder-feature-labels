@@ -1,0 +1,1 @@
+"Text snippets often contain specific phrases or sentences that are not directly related to the main topic, but rather serve as examples, explanations, or references. These snippets can be found in various contexts, such as programming code, technical descriptions, or everyday conversations."

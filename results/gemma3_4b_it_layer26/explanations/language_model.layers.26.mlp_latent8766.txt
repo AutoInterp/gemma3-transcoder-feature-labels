@@ -1,0 +1,1 @@
+"Various types of identifiers, such as article IDs, publication IDs, and database IDs, often found in scientific or academic contexts."

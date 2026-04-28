@@ -1,0 +1,1 @@
+"Texts from various programming languages, including Java, Python, Perl, and others, as well as snippets of code, comments, and error messages."

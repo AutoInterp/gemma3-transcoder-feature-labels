@@ -1,0 +1,1 @@
+"Texts with low activation values are often irrelevant or nonsensical, while those with high activation values are often meaningful phrases or sentences. The high activation values are often found in idiomatic expressions, quotes, and coherent sentences."

@@ -1,0 +1,1 @@
+"Locations and addresses, often in the format of a city, street, and postal code, typically in the United Kingdom."

@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including VBA, VBScript, and batch files, showcasing file operations, error handling, and conditional statements."

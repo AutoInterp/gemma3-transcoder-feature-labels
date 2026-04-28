@@ -1,0 +1,1 @@
+"Text primarily discussing object-oriented programming (OOP) concepts, including classes, objects, inheritance, encapsulation, and polymorphism, with examples from various programming languages such as Java, Python, and JavaScript."

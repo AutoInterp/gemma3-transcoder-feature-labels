@@ -1,0 +1,1 @@
+"Perl code snippets with various functions and subroutines for tasks such as validating dates, checking for prime numbers, and manipulating strings."

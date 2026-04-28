@@ -1,0 +1,1 @@
+"Text fragments often contain URLs, names, dates, and other specific information, which are frequently found at the end of a sentence or paragraph."

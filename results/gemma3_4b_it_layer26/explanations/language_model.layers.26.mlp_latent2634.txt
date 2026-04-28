@@ -1,0 +1,1 @@
+"Various types of text, including news articles, product descriptions, and blog posts, with a focus on extracting specific information such as product features, prices, and author names."

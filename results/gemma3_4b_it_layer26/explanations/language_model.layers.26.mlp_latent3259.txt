@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, primarily SQL and Java, with a focus on database operations, including connection establishment, query execution, and data retrieval."

@@ -1,0 +1,1 @@
+"Geographic locations, distances, and directions, often used in conjunction with dates and times, to provide context for events or descriptions."

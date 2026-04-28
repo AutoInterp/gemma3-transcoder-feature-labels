@@ -1,0 +1,1 @@
+"Texts from various sources, including articles, books, and online content, with a mix of formal and informal writing styles, and a wide range of topics. The common thread is the presence of a delimiter-like token \"<eos>\" at the end of some paragraphs, indicating a possible separation between sections or paragraphs."

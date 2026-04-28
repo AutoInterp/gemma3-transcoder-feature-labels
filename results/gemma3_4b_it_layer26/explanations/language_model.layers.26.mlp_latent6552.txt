@@ -1,0 +1,1 @@
+"Texts from various sources, including articles, websites, and code snippets, with a focus on extracting specific information, such as URLs, product IDs, and hexadecimal values."

@@ -1,0 +1,1 @@
+"Text fragments that appear to be questions or statements that are being cut off or truncated, often with a link or further information provided after the delimiter."

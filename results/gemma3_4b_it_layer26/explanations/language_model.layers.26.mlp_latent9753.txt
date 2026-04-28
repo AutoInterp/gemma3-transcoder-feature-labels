@@ -1,0 +1,1 @@
+"HTML code snippets with variable names and descriptions, likely from a documentation or a codebase, showcasing theme variables and their usage in a UI framework."

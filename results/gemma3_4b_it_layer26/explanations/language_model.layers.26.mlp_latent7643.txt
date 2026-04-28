@@ -1,0 +1,1 @@
+"Text snippets separated by a delimiter, often indicating a new section or a change in context, with varying lengths and content."

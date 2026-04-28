@@ -1,0 +1,1 @@
+"SQL commands and database schema definitions, including table structures, indexes, and stored procedures."

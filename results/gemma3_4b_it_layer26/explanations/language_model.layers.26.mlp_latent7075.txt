@@ -1,0 +1,1 @@
+"A collection of commands and instructions for various operating systems, including Windows and Linux, covering topics such as system configuration, password management, and troubleshooting."

@@ -1,0 +1,1 @@
+"Code snippets and programming concepts, including function calls, error handling, and data structures, often with context from programming documentation and tutorials."

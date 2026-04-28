@@ -1,0 +1,1 @@
+"SQL code snippets, likely from database schema definitions, with various data types and constraints."

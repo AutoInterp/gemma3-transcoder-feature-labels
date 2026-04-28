@@ -1,0 +1,1 @@
+"Shell scripts and commands, including examples of usage, syntax, and error handling, as well as snippets of code in various programming languages."

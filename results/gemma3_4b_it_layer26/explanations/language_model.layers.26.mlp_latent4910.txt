@@ -1,0 +1,1 @@
+"Various programming code snippets, mostly in Java, Python, and SQL, along with some HTML and CSS, and a few text passages discussing health, wellness, and technology."

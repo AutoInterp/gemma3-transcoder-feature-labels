@@ -1,0 +1,1 @@
+"Various addresses, locations, and geographical information, often in the format of city, state/province, and postal code."

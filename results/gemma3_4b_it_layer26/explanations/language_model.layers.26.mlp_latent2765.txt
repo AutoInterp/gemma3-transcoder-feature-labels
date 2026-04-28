@@ -1,0 +1,1 @@
+"Code snippets in various programming languages, including PHP, Python, Java, and LaTeX, with a focus on string manipulation, regular expressions, and mathematical equations."

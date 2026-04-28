@@ -1,0 +1,1 @@
+"File paths and directory locations, often used in programming and system administration contexts."

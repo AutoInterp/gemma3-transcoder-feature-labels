@@ -1,0 +1,1 @@
+"Various sequences of numbers, often representing dates, times, or other numerical data, frequently appearing in the context of technical or informative text."

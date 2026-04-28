@@ -1,0 +1,1 @@
+"Various programming code snippets and text from different languages, including Java, Python, JavaScript, SQL, and others, with a focus on syntax and structure."

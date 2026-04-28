@@ -1,0 +1,1 @@
+"Text snippets often contain technical or specialized information, such as programming code, medical terminology, or software-related concepts, and are frequently accompanied by activation values indicating their relevance or importance."

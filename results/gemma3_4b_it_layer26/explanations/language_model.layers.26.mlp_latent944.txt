@@ -1,0 +1,1 @@
+"Texts containing citations, references, and academic citations in the format of [number] or [number] Author's Name, Year, often with a title or publication information."

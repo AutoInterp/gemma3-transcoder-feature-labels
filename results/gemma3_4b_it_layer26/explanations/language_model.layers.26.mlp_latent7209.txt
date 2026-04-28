@@ -1,0 +1,1 @@
+"Texts often contain phrases that express a positive sentiment, such as \"even better\", \"totally alone\", \"best\", \"perfect pair\", \"better efforts\", \"good luck\", \"great work\", and \"good night's sleep\". Additionally, phrases that express a negative sentiment, such as \"god-awful\", \"poor\", \"worst\", and \"bad manners\" are also present."

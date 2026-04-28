@@ -1,0 +1,1 @@
+"The concept of signal and noise, where signal refers to a desired or meaningful information and noise refers to unwanted or random variations that can interfere with the signal, often used in various contexts such as audio, image, and data processing."

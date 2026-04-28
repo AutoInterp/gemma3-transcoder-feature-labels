@@ -1,0 +1,1 @@
+"Texts frequently contain percentages, fractions, and ratios, often used to describe probabilities, proportions, or measurements."

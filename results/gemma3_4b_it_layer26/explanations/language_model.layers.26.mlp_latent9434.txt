@@ -1,0 +1,1 @@
+"HTML and XML tags, CSS classes, and programming language syntax highlighting, indicating a text that is primarily composed of code snippets and technical documentation."

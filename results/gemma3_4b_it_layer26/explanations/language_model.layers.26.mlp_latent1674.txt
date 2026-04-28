@@ -1,0 +1,1 @@
+"Text fragments often contain URLs, code snippets, or technical terms, frequently appearing at the end of a sentence or paragraph, and sometimes followed by a quotation mark or an ellipsis."

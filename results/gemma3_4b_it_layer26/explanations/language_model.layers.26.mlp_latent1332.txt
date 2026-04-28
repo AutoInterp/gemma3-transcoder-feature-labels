@@ -1,0 +1,1 @@
+"Texts often contain long, unstructured passages of information, sometimes including quotes, lists, or technical descriptions, which are frequently interrupted by short, concise statements or instructions."

@@ -1,0 +1,1 @@
+"Various numerical values, including prices, quantities, and measurements, often in scientific notation or with units."

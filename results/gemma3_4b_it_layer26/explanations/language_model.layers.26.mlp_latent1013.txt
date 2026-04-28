@@ -1,0 +1,1 @@
+"The text contains a mix of programming code, documentation, and articles. The common pattern found is the use of angle brackets `<` and `>` to denote HTML tags, XML tags, or code blocks in programming languages such as C++, Java, and JavaScript."

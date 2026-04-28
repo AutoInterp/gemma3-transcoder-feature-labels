@@ -1,0 +1,1 @@
+"Texts describing colors, their hex codes, RGB values, and conversions, often including color palettes and comparisons."

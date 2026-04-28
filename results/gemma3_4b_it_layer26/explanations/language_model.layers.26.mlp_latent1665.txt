@@ -1,0 +1,1 @@
+"SQL code snippets, including table structures, foreign key constraints, and encryption functions, likely from a database management system."

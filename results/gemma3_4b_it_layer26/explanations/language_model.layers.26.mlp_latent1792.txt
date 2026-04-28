@@ -1,0 +1,1 @@
+"SQL code snippets from database schema definitions, including table and column creations, foreign key constraints, and index definitions."

@@ -1,0 +1,1 @@
+"HTML and CSS code snippets with various attributes, classes, and styles, often used for layout, design, and accessibility purposes."

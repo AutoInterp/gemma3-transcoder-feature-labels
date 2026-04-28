@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including Java, JavaScript, and SQL, often with comments and error messages."

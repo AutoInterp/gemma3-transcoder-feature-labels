@@ -1,0 +1,1 @@
+"Various programming code snippets, including HTML, CSS, JavaScript, CoffeeScript, Python, and shell scripts, as well as text from technical documentation, error messages, and online content."

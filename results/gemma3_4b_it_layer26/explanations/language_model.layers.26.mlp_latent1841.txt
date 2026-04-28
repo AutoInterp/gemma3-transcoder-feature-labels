@@ -1,0 +1,1 @@
+"The token \"date\" or \"time\" is often used in the context of scheduling, deadlines, or specific points in the past or future, frequently accompanied by numerical values representing years, months, days, hours, minutes, or seconds."

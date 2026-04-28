@@ -1,0 +1,1 @@
+"Text snippets enclosed in angle brackets << >>, often containing proper nouns, locations, or specific phrases, indicating a possible use of markup or metadata in the text."

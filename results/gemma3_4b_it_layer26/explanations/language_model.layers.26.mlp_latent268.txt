@@ -1,0 +1,1 @@
+"Code snippets and programming concepts, including function calls, variable declarations, and data types, from various programming languages such as Java, C#, Python, and Delphi."

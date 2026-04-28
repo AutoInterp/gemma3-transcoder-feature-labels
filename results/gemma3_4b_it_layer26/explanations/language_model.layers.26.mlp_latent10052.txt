@@ -1,0 +1,1 @@
+"Text fragments often containing a date, a title, or a caption, frequently found at the beginning of a paragraph or section, and sometimes followed by a quotation or a description."

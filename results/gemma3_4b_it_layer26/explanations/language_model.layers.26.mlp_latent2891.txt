@@ -1,0 +1,1 @@
+"Texts containing answers to multiple-choice questions, often with a format of (a) option followed by a description or explanation."

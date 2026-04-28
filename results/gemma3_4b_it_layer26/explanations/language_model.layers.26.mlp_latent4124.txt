@@ -1,0 +1,1 @@
+"Texts often contain long sequences of unimportant words, possibly serving as filler or background information, while important information is sometimes embedded within or near specific keywords or phrases."

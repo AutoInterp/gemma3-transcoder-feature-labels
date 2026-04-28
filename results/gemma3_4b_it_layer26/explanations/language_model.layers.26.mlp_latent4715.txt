@@ -1,0 +1,1 @@
+"The token \"even\" and \"odd\" are used to describe properties of numbers, often in the context of mathematical operations, comparisons, or patterns."

@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, primarily Java and JavaScript, with a focus on web development, API interactions, and data manipulation."

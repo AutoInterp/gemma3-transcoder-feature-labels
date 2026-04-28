@@ -1,0 +1,1 @@
+"Code snippets in various programming languages, including SQL, C#, and Python, often containing function or method definitions, variable declarations, and conditional statements."

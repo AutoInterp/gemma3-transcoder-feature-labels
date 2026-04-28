@@ -1,0 +1,1 @@
+"Texts often contain phrases indicating time or location, such as \"in the way\", \"at the same time\", \"in the process of\", \"in the context of\", and \"in the heart of\", as well as phrases indicating comparison, such as \"in the same way\" and \"in whichever way\"."

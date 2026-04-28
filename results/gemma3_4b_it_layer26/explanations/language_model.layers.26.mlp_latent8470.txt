@@ -1,0 +1,1 @@
+"The token \"for\" is used in various programming contexts, such as loops, conditional statements, and function calls, as well as in idiomatic expressions."

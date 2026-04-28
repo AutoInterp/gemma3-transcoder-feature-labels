@@ -1,0 +1,1 @@
+"Texts from various sources, including news articles, technical documents, and educational materials, with a focus on extracting specific phrases, sentences, or code snippets. The patterns found include quotes from press releases, code snippets from programming languages, and excerpts from academic or technical papers."

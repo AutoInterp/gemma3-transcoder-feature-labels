@@ -1,0 +1,1 @@
+"Strings representing URLs, file paths, or other types of identifiers, often used for referencing or accessing external resources."

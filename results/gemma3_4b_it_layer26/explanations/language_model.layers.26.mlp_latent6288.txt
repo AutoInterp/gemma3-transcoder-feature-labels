@@ -1,0 +1,1 @@
+"Identifiers are valid if they follow the rules of being a sequence of letters, digits, or underscores, and do not start with a digit. Invalid identifiers are those that contain special characters, are too long, or do not follow the naming conventions."

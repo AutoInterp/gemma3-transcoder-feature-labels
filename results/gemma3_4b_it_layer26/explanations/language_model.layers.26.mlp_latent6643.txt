@@ -1,0 +1,1 @@
+"Texts containing geographical locations, names of people, places, and organizations, as well as various types of data, such as addresses, phone numbers, and URLs."

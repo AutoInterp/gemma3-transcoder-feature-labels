@@ -1,0 +1,1 @@
+"Various numerical values and monetary amounts, often used for comparison, statistics, or financial data."

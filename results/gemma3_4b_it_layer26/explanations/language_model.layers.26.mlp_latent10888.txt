@@ -1,0 +1,1 @@
+"Text fragments enclosed in delimiters often represent standalone information, such as links, quotes, or additional context, and are frequently found at the end of a paragraph or section."

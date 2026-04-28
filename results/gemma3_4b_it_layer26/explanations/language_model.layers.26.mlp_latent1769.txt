@@ -1,0 +1,1 @@
+"Texts discussing various mathematical and statistical concepts, including optimization problems, machine learning, data analysis, and computational complexity, often with a focus on explaining complex ideas in an accessible way."

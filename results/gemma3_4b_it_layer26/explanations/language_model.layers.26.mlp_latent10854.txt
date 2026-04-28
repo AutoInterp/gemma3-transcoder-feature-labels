@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including C++, Python, and R, with a focus on mathematical and scientific applications, such as interest rates, probability, and data analysis."

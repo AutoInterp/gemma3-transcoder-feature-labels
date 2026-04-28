@@ -1,0 +1,1 @@
+"Texts containing error messages, instructions, and technical information, often with a focus on troubleshooting and problem-solving, frequently including code snippets and command-line inputs."

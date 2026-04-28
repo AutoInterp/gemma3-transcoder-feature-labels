@@ -1,0 +1,1 @@
+"Texts related to HTTP protocol, including its methods, headers, authentication, and security features, as well as examples of HTTP requests and responses."

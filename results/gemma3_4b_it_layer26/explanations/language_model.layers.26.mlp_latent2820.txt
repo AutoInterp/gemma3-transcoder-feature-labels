@@ -1,0 +1,1 @@
+"Various version numbers and identifiers, often used in software development, documentation, and licensing."

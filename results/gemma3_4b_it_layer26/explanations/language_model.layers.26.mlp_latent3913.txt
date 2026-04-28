@@ -1,0 +1,1 @@
+"Large numbers, often in the format of \"X,000\" or \"X,000,000\", are used to represent quantities, emphasizing magnitude and scale."

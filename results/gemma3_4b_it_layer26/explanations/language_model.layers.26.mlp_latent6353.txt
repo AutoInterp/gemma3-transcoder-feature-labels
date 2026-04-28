@@ -1,0 +1,1 @@
+"Texts often contain phrases indicating a change of location or a transition to a new topic, such as \"from\", \"at\", \"in\", \"on\", and \"by\", often preceding a specific date, time, or place."

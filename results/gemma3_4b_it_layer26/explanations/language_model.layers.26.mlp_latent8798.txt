@@ -1,0 +1,1 @@
+"Technical text discussing computer hardware, software, and engineering concepts, often referencing specific manufacturers such as Intel, ARM, and Asus, and using technical terms like BIOS, NAND, and CMOS."

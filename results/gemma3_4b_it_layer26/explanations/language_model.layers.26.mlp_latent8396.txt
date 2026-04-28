@@ -1,0 +1,1 @@
+"Texts that are not part of the main content, often serving as a delimiter or a transition between paragraphs, and sometimes containing metadata or references."

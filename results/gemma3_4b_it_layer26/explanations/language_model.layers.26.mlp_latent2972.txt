@@ -1,0 +1,1 @@
+"A collection of technical instructions and troubleshooting guides, primarily focused on software and hardware issues, presented in a step-by-step format with varying levels of detail and complexity."

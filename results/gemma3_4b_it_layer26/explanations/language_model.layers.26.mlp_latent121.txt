@@ -1,0 +1,1 @@
+"Various programming languages and database queries, including SQL, Java, Swift, and JavaScript, as well as data types, such as integers, floats, and strings, and database table structures."

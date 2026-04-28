@@ -1,0 +1,1 @@
+"Text fragments that are too long to fit within a limited amount of memory or space, often with ellipses or truncation."

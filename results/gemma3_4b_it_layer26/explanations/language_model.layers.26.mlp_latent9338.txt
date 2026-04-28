@@ -1,0 +1,1 @@
+"Text contains a mix of technical and non-technical content, including programming code, academic papers, news articles, and personal anecdotes. The text also includes various domain-specific terms and jargon, such as AWS, Java, and investment banking."

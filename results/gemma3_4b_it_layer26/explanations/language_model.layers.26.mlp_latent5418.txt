@@ -1,0 +1,1 @@
+"Texts from various programming and technical documentation, including code snippets, API references, and user manuals, often containing technical terms, syntax, and examples."

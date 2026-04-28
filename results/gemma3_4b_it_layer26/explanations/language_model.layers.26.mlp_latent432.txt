@@ -1,0 +1,1 @@
+"Texts often contain quotes, phrases, or sentences that are set apart from the rest of the text, sometimes with a lower activation value, indicating they may be external sources, citations, or references."

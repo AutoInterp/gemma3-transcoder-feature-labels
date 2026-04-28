@@ -1,0 +1,1 @@
+"Texts containing various types of data, including numbers, dates, times, and special characters, often in a format that is machine-readable or used in programming."

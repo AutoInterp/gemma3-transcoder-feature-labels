@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including Python, Java, and SQL, with some text from articles and books. The code is often interleaved with text, making it difficult to discern the context."

@@ -1,0 +1,1 @@
+"Text describing mathematical concepts, specifically from algebraic topology, differential geometry, and operator theory, with a focus on definitions, theorems, and examples."

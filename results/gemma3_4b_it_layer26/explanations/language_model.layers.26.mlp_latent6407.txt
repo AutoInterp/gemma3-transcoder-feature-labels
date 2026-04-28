@@ -1,0 +1,1 @@
+"Various code snippets and programming concepts, including data types, variables, functions, loops, and conditional statements, from multiple programming languages such as Java, Python, and C++."

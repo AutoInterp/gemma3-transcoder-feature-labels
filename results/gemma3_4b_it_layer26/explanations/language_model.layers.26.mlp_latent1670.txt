@@ -1,0 +1,1 @@
+"Time intervals expressed in various units, often used to describe the duration of events, processes, or periods of time, such as hours, days, weeks, months, and years."

@@ -1,0 +1,1 @@
+"Texts containing various types of metadata, such as timestamps, URLs, citations, and formatting information, often in a programming or technical context."

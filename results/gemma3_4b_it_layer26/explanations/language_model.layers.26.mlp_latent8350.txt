@@ -1,0 +1,1 @@
+"Text describing mathematical concepts, specifically topological groups, fiber bundles, and category theory, with frequent use of abstract algebra and differential geometry terminology."

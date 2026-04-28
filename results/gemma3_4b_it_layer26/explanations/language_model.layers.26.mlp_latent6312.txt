@@ -1,0 +1,1 @@
+"Time intervals and durations expressed in minutes, often used in instructions, recipes, and schedules."

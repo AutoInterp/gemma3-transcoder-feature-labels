@@ -1,0 +1,1 @@
+"Text snippets often contain version numbers, URLs, names of people, places, and organizations, as well as technical terms and instructions."

@@ -1,0 +1,1 @@
+"Text fragments containing code snippets, URLs, and external links, often unrelated to the surrounding context."

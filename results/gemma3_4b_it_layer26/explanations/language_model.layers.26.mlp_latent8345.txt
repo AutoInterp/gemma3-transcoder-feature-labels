@@ -1,0 +1,1 @@
+"Text primarily consists of mathematical expressions and definitions, with a focus on ordinals, limit ordinals, and properties of functions and matrices."

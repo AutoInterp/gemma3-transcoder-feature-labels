@@ -1,0 +1,1 @@
+"A collection of addresses, names of places, and geographical locations, often in the format of street names, city names, and country names."

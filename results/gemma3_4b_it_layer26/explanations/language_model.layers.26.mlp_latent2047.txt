@@ -1,0 +1,1 @@
+"Texts describing various file-related concepts, including file systems, file associations, file permissions, file copying, file editing, and file management, often using programming languages and file formats as examples."

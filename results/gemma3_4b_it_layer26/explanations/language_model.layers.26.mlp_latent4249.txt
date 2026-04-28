@@ -1,0 +1,1 @@
+"Various programming code snippets and mathematical formulas in different programming languages and formats, including Python, JavaScript, and SQL."

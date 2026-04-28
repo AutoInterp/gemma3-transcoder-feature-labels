@@ -1,0 +1,1 @@
+"Texts often contain specific dates, times, and durations, which are used to convey information about schedules, events, and activities."

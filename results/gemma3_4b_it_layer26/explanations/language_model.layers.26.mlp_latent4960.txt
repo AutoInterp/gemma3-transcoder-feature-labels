@@ -1,0 +1,1 @@
+"C# code snippets, mostly related to database operations and object-oriented programming, with some English text and Turkish phrases."

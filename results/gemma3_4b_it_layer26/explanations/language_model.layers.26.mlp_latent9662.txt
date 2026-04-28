@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are not directly related to the main topic, such as advertisements, tags, or unrelated information. Additionally, there are instances of incomplete or fragmented sentences, possibly due to automated text generation or truncation."

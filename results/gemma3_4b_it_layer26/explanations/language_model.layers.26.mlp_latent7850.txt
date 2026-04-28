@@ -1,0 +1,1 @@
+"Texts containing addresses, names of locations, and institutions, often in the format of \"Name-Address, City, Country\"."

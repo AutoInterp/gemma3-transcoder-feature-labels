@@ -1,0 +1,1 @@
+"Code snippets related to cryptography, specifically SSL/TLS, AES encryption, and hash functions, with various activation patterns indicating different functions, variables, and data types."

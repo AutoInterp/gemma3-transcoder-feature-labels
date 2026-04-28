@@ -1,0 +1,1 @@
+"Text discussing password management, security, and authentication, including guidelines for creating strong passwords, resetting forgotten passwords, and protecting against password-related threats."

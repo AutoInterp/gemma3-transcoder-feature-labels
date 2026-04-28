@@ -1,0 +1,1 @@
+"Text snippets often contain lists of items, product names, or descriptions of events, and sometimes contain code or technical terms."

@@ -1,0 +1,1 @@
+"Texts often contain parenthetical remarks or additional information that is not crucial to the main message, denoted by a low activation value."

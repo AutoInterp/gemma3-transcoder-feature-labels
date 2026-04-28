@@ -1,0 +1,1 @@
+"Texts containing programming-related terms, technical documentation, and configuration files, often with specific syntax and formatting."

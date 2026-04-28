@@ -1,0 +1,1 @@
+"Texts often contain proper nouns, such as names of places, organizations, and people, which are frequently mentioned in conjunction with other words like \"of\", \"in\", or \"at\". Additionally, there are instances of idiomatic expressions, and texts may include technical or specialized vocabulary, especially in the context of product descriptions or industry-specific topics."

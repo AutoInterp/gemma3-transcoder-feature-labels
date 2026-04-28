@@ -1,0 +1,1 @@
+"Text fragments containing programming code, database queries, or technical instructions, often in a specific programming language or markup language."

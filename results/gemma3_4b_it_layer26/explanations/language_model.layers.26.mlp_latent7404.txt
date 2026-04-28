@@ -1,0 +1,1 @@
+"Texts discussing programming languages, algorithms, and mathematical concepts, often referencing specific programming languages (such as JavaScript, TypeScript, Swift, Kotlin, and Scheme) and their features, as well as various mathematical and computational problems and solutions."

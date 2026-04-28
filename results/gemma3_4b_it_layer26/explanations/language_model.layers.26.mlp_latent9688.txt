@@ -1,0 +1,1 @@
+"Large numbers and monetary values, often in the format of dollars, euros, or other currencies, frequently accompanied by mathematical operations or comparisons."

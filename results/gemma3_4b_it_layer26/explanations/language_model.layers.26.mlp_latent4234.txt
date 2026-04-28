@@ -1,0 +1,1 @@
+"Various types of data, including numerical values, SQL queries, mathematical expressions, and text from different sources, often with specific formatting or syntax."

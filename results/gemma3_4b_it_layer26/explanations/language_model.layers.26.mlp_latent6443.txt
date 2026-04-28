@@ -1,0 +1,1 @@
+"Text contains numerous instances of figure captions and references to figures, often with descriptive titles and sometimes accompanied by activation values for surrounding text."

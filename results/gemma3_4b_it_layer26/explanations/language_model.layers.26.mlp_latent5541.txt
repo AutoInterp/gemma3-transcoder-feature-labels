@@ -1,0 +1,1 @@
+"Various programming and technical instructions, including code snippets, command lines, and step-by-step guides for tasks such as data analysis, software installation, and system configuration."

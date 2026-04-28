@@ -1,0 +1,1 @@
+"Various programming code snippets, mathematical formulas, and technical descriptions of algorithms and data structures, often including variable names, function calls, and syntax."

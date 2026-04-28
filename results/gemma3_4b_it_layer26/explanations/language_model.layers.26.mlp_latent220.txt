@@ -1,0 +1,1 @@
+"Text snippets often found in programming documentation, tutorials, and online forums, typically describing code examples, syntax, or usage."

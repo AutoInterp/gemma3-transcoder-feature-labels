@@ -1,0 +1,1 @@
+"Various types of links, buttons, and interactive elements, such as email addresses, phone numbers, and URLs, often used for navigation, contact, or further information."

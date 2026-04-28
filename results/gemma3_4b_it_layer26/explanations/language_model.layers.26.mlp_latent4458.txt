@@ -1,0 +1,1 @@
+"Various database-related concepts, including database connections, queries, triggers, data storage, and management systems, as well as database design and security."

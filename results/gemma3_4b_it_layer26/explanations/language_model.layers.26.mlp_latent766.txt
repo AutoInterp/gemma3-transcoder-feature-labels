@@ -1,0 +1,1 @@
+"Texts containing various programming and technical topics, including Linux, Windows, Python, Ruby, JavaScript, and SQL, as well as general computing and software installation instructions."

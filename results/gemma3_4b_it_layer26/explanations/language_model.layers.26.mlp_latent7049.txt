@@ -1,0 +1,1 @@
+"Various programming code snippets in different languages, including Python, Java, and C, with a focus on syntax, data types, and control structures."
