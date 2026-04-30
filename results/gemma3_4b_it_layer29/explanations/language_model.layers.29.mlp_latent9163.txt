@@ -1,0 +1,1 @@
+"The token \"low\" and \"high\" are used to describe various attributes such as energy, wavelength, price, altitude, performance, and quality, often in contrast to each other."

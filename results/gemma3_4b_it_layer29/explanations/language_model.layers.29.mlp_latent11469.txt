@@ -1,0 +1,1 @@
+"Text snippets containing geographical locations, addresses, and names of places, often in the format of \"place, city, country\" or \"street address, city, country\"."

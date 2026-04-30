@@ -1,0 +1,1 @@
+"Text contains various units of time, including seconds, minutes, hours, and milliseconds, often used to describe durations, intervals, or rates of change."

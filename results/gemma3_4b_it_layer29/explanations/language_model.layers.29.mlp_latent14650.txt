@@ -1,0 +1,1 @@
+"Long sequences of text that are likely to be definitions, explanations, or instructions, often containing technical or specialized vocabulary."

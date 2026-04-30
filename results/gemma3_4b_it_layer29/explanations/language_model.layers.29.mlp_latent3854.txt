@@ -1,0 +1,1 @@
+"Various types of tables, schedules, and lists, often containing numerical data, are embedded within the text."

@@ -1,0 +1,1 @@
+"The token \"C++\" appears frequently in the text, often in the context of programming, but also in other unrelated sentences, suggesting that it is being used as a proper noun or a brand name, rather than a reference to the programming language."

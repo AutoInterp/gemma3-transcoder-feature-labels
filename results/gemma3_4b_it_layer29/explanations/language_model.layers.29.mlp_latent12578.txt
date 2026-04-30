@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including Python, SQL, and C#, with a focus on syntax and variable names, as well as mathematical expressions and equations."

@@ -1,0 +1,1 @@
+"Text fragments that appear to be standalone sentences, paragraphs, or quotes, often with varying levels of importance, and sometimes with specific formatting or metadata."

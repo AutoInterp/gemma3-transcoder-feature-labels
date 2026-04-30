@@ -1,0 +1,1 @@
+"Text snippets often appear in a format that is not a complete sentence, sometimes with a lack of context, and frequently contain technical or specialized information."

@@ -1,0 +1,1 @@
+"Text snippets often contain technical information, troubleshooting steps, or explanations of complex concepts, frequently including code snippets, instructions, or comparisons between different products or systems."

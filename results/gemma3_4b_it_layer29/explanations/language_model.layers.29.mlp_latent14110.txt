@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are enclosed in delimiters, which are likely used to indicate a specific type of content, such as a proper noun, a technical term, or a quotation. The enclosed text may be a single word, a phrase, or a longer passage."

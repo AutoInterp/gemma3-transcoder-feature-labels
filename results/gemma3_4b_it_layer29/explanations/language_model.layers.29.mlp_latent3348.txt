@@ -1,0 +1,1 @@
+"Texts that contain phrases or sentences that are set apart from the rest of the text, often to convey a sense of emphasis or to highlight a particular idea. These phrases or sentences often have a higher activation value, indicating their importance in the text."

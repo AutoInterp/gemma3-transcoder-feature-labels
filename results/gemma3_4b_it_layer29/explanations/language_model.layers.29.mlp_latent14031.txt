@@ -1,0 +1,1 @@
+"Text containing color codes in hexadecimal format, often used in CSS or HTML, and sometimes accompanied by RGB values or color descriptions."

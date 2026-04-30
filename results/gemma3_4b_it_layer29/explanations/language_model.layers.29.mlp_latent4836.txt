@@ -1,0 +1,1 @@
+"Various text elements such as dates, times, URLs, and color codes, often appearing in a specific format."

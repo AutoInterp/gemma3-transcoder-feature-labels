@@ -1,0 +1,1 @@
+"Technical text describing computer networking concepts, protocols, and programming languages, including TCP/IP, HTTP, PHP, Erlang, and others."

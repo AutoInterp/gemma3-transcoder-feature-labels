@@ -1,0 +1,1 @@
+"Texts often contain numerical values, such as dates, amounts of money, and quantities, which are frequently used in conjunction with descriptive phrases or sentences. Additionally, the texts may include quotes, references to historical events, or explanations of scientific concepts, often accompanied by technical terms and jargon."

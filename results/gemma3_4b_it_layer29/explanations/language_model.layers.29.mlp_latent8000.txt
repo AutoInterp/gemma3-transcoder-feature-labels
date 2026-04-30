@@ -1,0 +1,1 @@
+"Text fragments often appear between delimiters, which are typically used to indicate a pause or a shift in context, and may contain standalone sentences, phrases, or even code snippets. These fragments often seem to be extracted from larger texts and may not form a coherent narrative on their own."

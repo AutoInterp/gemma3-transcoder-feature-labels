@@ -1,0 +1,1 @@
+"Texts often contain time-related phrases, such as durations of days, weeks, months, or years, used to describe events, processes, or periods of time."

@@ -1,0 +1,1 @@
+"Text primarily consists of technical language related to statistical analysis, hypothesis testing, and research methodology, with discussions on sample size, variance, significance, and correlation coefficients."

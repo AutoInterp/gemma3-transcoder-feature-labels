@@ -1,0 +1,1 @@
+"Text containing Persian numbers, mathematical equations, and programming code, often involving data conversion, formatting, and manipulation."

@@ -1,0 +1,1 @@
+"Tokens representing time or duration, often used to describe a period in the past, such as years, months, weeks, or days, and sometimes used to describe a specific point in time, like \"ago\" or \"later\"."

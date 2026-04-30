@@ -1,0 +1,1 @@
+"Various types of text, including articles, quotes, code snippets, and mathematical expressions, often with specific formatting and delimiters."

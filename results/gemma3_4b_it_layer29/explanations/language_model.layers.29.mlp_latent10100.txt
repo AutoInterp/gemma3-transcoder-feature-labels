@@ -1,0 +1,1 @@
+"Dates and addresses, often in a format that includes country or state names, and sometimes accompanied by a specific location or region."

@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, primarily C# and Go, with a focus on concurrency and multithreading concepts, as well as database operations and data manipulation."

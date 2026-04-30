@@ -1,0 +1,1 @@
+"Text contains various programming-related terms, including data types, functions, and concepts, often with specific numerical values or ranges, and sometimes accompanied by code snippets or mathematical expressions."

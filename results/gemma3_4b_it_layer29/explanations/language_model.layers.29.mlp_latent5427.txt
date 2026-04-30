@@ -1,0 +1,1 @@
+"URLs, DOIs, and citations to academic papers, books, and online resources, often accompanied by metadata such as author names, publication dates, and page numbers."

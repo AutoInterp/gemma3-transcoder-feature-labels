@@ -1,0 +1,1 @@
+"Technical documentation and programming guides, often with a focus on troubleshooting and error handling, frequently using imperative language and step-by-step instructions."

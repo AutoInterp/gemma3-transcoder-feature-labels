@@ -1,0 +1,1 @@
+"Text discussing object-oriented programming (OOP) concepts, principles, and design patterns, including inheritance, polymorphism, abstraction, encapsulation, and composition."

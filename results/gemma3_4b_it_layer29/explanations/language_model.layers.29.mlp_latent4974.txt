@@ -1,0 +1,1 @@
+"Texts from various sources, including news articles, technical documentation, and programming code, with a focus on specific words or phrases that are highlighted or contained within certain delimiters. The highlighted words or phrases often represent technical terms, proper nouns, or specific concepts, and are frequently accompanied by numerical values or other metadata."

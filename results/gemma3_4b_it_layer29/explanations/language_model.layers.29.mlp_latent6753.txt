@@ -1,0 +1,1 @@
+"Texts about Linux and its various distributions, including installation, configuration, and package management."

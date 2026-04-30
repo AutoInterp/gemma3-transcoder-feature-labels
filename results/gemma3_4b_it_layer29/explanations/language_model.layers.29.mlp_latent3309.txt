@@ -1,0 +1,1 @@
+"Text fragments often appear between delimiters, which are typically used to describe a scene, object, or setting, providing additional context to the narrative."

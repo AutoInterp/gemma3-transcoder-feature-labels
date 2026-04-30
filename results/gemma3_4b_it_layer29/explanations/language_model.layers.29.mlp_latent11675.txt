@@ -1,0 +1,1 @@
+"Distances and travel times between locations, often used to describe accessibility, proximity, or convenience of a place."

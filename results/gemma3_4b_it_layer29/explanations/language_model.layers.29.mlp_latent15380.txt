@@ -1,0 +1,1 @@
+"Text is primarily composed of mathematical equations and descriptions of solving systems of equations, differential equations, and other mathematical problems, often in the context of physics, engineering, and computer science."

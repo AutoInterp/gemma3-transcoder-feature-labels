@@ -1,0 +1,1 @@
+"Texts containing technical information, such as scientific formulas, programming code, and data analysis, often accompanied by specific time or date references, and sometimes including URLs or email addresses."

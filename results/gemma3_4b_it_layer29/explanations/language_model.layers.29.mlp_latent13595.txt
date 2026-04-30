@@ -1,0 +1,1 @@
+"The token \"cents\" or other monetary units (e.g. \"dime\", \"baht\", \"francs\") often appear in text discussing financial transactions, prices, or costs."

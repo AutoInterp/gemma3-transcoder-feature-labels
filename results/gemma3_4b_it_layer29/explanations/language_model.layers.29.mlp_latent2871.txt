@@ -1,0 +1,1 @@
+"Texts in various programming languages, including PHP, JavaScript, and SQL, with comments and explanations in Russian."

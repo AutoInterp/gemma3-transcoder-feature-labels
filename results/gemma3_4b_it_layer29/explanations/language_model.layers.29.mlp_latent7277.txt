@@ -1,0 +1,1 @@
+"Text describing various algorithms, data structures, and mathematical concepts, including sorting algorithms, Voronoi diagrams, public-key cryptography, and control theory, often referencing academic papers and research."

@@ -1,0 +1,1 @@
+"Texts discussing software development, programming, and engineering, with a focus on avoiding common issues such as dependency rot, bugs, and performance bottlenecks, as well as implementing efficient and effective solutions, including the use of design patterns, data structures, and algorithms."

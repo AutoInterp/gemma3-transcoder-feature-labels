@@ -1,0 +1,1 @@
+"Various types of code, identifiers, and data, including hexadecimal numbers, Unicode codepoints, and SQL queries, often found in programming and technical contexts."

@@ -1,0 +1,1 @@
+"Texts discussing mathematical concepts, specifically ordinal numbers, modal logic, and set theory, with a focus on formal definitions, proofs, and applications in computer science and philosophy."

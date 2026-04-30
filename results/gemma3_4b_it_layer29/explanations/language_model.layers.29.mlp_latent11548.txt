@@ -1,0 +1,1 @@
+"Texts often contain product names, company names, and brand names, which are frequently used as nouns. Additionally, the texts may include specific dates, locations, and event names, which serve as contextual markers."

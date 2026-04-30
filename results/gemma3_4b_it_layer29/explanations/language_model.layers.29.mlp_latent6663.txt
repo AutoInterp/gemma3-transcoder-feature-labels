@@ -1,0 +1,1 @@
+"Various types of text, including scientific papers, news articles, and informal conversations, often contain sequences of numbers, abbreviations, and technical terms, which may be enclosed in angle brackets or other delimiters."

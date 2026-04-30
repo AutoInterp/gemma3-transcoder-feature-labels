@@ -1,0 +1,1 @@
+"The text contains various mentions of JSON, a data interchange format, and its related concepts, such as JSON Path, JSON hierarchy, and JSON parsing."

@@ -1,0 +1,1 @@
+"Texts often contain phrases that provide additional information, such as weights, percentages, or numbers, which are frequently used to support a claim or provide context. These phrases often appear in a specific format, such as \"approximately X kilograms\" or \"over Y percent\"."

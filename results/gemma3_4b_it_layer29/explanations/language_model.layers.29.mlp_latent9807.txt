@@ -1,0 +1,1 @@
+"Various strings representing URLs, IDs, and other unique identifiers, often used in programming or technical contexts, such as GitHub, SQL, and Xojo documentation."

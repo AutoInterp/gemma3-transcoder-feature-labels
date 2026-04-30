@@ -1,0 +1,1 @@
+"Encapsulated strings often represent URLs, URNs, or other types of identifiers, and sometimes contain informative or descriptive text."

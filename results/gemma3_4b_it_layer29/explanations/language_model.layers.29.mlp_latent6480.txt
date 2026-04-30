@@ -1,0 +1,1 @@
+"Phrases indicating time or sequence, such as \"shortly before\", \"after\", \"later\", and \"days after\", often used to describe events or actions in relation to each other."

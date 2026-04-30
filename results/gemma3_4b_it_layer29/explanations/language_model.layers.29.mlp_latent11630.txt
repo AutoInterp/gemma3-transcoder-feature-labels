@@ -1,0 +1,1 @@
+"Various phrases and sentences that are likely to be extracted as news headlines or summaries, often containing keywords like \"news\", \"impact\", \"latest\", and \"update\"."

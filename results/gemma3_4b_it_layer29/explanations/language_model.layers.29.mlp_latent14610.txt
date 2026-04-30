@@ -1,0 +1,1 @@
+"Text contains a mix of geographical locations, names, and various types of data, including dates, times, and numerical values, often in the context of news articles, academic papers, and travel information."

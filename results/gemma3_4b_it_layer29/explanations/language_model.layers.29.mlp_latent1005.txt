@@ -1,0 +1,1 @@
+"SQL code snippets, likely from database management systems, containing commands for creating, modifying, or querying tables, as well as various programming code snippets from different languages, including Python, Java, and C++."

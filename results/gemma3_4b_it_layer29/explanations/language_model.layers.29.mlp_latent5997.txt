@@ -1,0 +1,1 @@
+"The token \"horizontal\" and \"vertical\" are used to describe different orientations, positions, or axes in various contexts, often in relation to geometry, physics, or engineering."

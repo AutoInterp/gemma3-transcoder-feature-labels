@@ -1,0 +1,1 @@
+"Texts discussing bugs, errors, and issues, often in the context of software, hardware, or other systems, with a focus on troubleshooting, fixing, and preventing problems."

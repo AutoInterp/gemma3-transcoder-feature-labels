@@ -1,0 +1,1 @@
+"The token \"O\" or \"O-\" is often a prefix to proper nouns, abbreviations, or acronyms, and sometimes appears in idiomatic expressions or titles."

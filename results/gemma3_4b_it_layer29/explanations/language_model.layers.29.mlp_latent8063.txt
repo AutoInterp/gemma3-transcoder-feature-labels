@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are not directly related to the main content, such as calls to action, advertisements, or links to external resources. These phrases often appear at the end of a passage, and may be separated from the main content by a blank line or a change in formatting."

@@ -1,0 +1,1 @@
+"Technical documentation and programming-related text, often with a focus on troubleshooting, error handling, and code implementation."

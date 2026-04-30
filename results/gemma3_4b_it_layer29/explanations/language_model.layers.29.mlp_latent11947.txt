@@ -1,0 +1,1 @@
+"Time durations and frequencies, often used to describe the length of time something takes to happen, last, or be completed."

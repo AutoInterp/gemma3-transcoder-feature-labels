@@ -1,0 +1,1 @@
+"Texts from various programming languages, documentation, and technical articles, including code snippets, configuration files, and command-line options."

@@ -1,0 +1,1 @@
+"Texts containing code snippets, often in programming languages such as Python, Java, or C++, and sometimes in markup languages like HTML or SQL."

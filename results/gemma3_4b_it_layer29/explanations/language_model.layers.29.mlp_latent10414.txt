@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, primarily Java and Python, with a focus on method calls, variable assignments, and conditional statements."

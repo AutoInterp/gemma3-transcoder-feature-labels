@@ -1,0 +1,1 @@
+"HTML and CSS code snippets with varying levels of activation, indicating the presence of specific elements, attributes, and classes."

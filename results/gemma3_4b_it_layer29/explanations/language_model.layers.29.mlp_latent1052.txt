@@ -1,0 +1,1 @@
+"Instructions and recipes often contain sequences of actions, ingredients, and tools, frequently including verbs like \"add\", \"mix\", \"heat\", \"drizzle\", and \"spray\", and nouns like \"bowl\", \"pan\", \"skillet\", and \"spoon\"."

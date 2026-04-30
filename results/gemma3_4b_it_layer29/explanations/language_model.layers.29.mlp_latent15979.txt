@@ -1,0 +1,1 @@
+"The text contains a mix of programming code, user input, and natural language. The code snippets are primarily in Java, with some SQL and JavaScript. The user input and natural language are in various languages, including English, Spanish, and Portuguese. The text also includes comments, error messages, and function names, which provide context to the code."

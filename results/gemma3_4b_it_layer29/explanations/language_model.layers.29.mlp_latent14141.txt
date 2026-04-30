@@ -1,0 +1,1 @@
+"Texts describing various concepts related to image processing, computer vision, and photography, including techniques for image enhancement, distortion correction, and data hiding."

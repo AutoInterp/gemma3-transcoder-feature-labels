@@ -1,0 +1,1 @@
+"Texts often contain proper nouns, names of organizations, and technical terms, which are frequently found in articles, news, and online content."

@@ -1,0 +1,1 @@
+"Texts containing various commands, scripts, and configuration files, often related to system administration, programming, and software installation."

@@ -1,0 +1,1 @@
+"Texts discussing object-oriented programming, design, and analysis, with a focus on concepts, principles, and implementation in various programming languages, including Python, C#, Java, and Objective-C."

@@ -1,0 +1,1 @@
+"Texts often contain hyperlinks, references, or citations denoted by phrases like \"search\", \"MeSH\", or \"to: navigation\", which are typically followed by a link or a reference number."

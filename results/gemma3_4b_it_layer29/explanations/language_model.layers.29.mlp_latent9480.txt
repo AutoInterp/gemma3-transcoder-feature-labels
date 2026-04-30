@@ -1,0 +1,1 @@
+"Strings used in various programming contexts, such as variable names, function parameters, and error messages, often containing special characters like underscores, quotes, and percent signs."

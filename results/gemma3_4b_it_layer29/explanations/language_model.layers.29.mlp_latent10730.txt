@@ -1,0 +1,1 @@
+"Timestamps in various formats, often in conjunction with dates, and sometimes followed by a newline character or a specific string like \"<eos>\"."

@@ -1,0 +1,1 @@
+"Various types of text data, including phone numbers, email addresses, URLs, scientific citations, and numerical values, often appearing in isolation or as part of a larger context."

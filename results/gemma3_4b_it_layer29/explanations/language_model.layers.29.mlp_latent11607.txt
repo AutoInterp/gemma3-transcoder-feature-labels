@@ -1,0 +1,1 @@
+"HTML tags and their attributes, including semantic elements, form elements, and layout elements, as well as JavaScript code and CSS classes."

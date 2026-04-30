@@ -1,0 +1,1 @@
+"Texts discussing technical concepts, including computer science, electronics, and programming, often contain specific keywords and phrases related to these fields, such as \"UNIX pipes\", \"TCP\", \"checksum\", and \"diffraction\"."

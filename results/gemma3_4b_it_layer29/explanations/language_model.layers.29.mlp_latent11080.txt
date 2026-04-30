@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are set apart from the rest of the text, sometimes to provide additional context or to highlight a specific point. These phrases can be found at the end of a sentence, often preceded by a delimiter, and may contain information that is not directly related to the main topic."

@@ -1,0 +1,1 @@
+"Texts discussing encryption, cryptography, and security protocols, including AES, SSL/TLS, and VPNs, highlighting the importance of secure data transmission and protection against unauthorized access."

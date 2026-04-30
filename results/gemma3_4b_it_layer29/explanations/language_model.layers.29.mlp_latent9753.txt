@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are tangential or serve as a transition, frequently starting with words like \"however\", \"what\", or \"of\", and sometimes including phrases like \"you may want to\" or \"in other words\"."

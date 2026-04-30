@@ -1,0 +1,1 @@
+"Dates and times in various formats, often appearing at the beginning of a text snippet, followed by a title or a brief description."

@@ -1,0 +1,1 @@
+"The token \"event\" is used in various contexts, including computer programming (event handlers, event-driven architecture), data modeling (Entity-relationship modeling), and everyday language (events, meetings, gatherings)."

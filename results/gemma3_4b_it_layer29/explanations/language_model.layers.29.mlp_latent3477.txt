@@ -1,0 +1,1 @@
+"Mathematical expressions and equations from various fields, including linear regression, multilevel regression, power flow problems, probability, statistics, and physics, often involving matrices, vectors, and functions."

@@ -1,0 +1,1 @@
+"Texts describing various programming and system administration tasks, including code snippets, directory structures, and configuration files."

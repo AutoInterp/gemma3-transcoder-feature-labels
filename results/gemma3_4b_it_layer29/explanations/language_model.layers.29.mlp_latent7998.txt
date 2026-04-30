@@ -1,0 +1,1 @@
+"Locations and venues, often with specific addresses, used to describe the context of events, properties, or services."

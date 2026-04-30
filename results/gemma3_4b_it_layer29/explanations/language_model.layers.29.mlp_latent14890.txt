@@ -1,0 +1,1 @@
+"Texts discussing various topics, including science, law, literature, and technology, often contain phrases or sentences that are not directly related to the main subject matter, but rather provide additional information, explanations, or examples. These phrases or sentences are often marked by a low activation value, indicating that they are not crucial to the main topic."

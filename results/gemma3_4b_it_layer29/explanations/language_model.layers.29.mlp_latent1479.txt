@@ -1,0 +1,1 @@
+"The token \"you\" is often used as a subject pronoun, and the token \"don't\" is frequently used as a negation of the verb, often in informal or conversational language."

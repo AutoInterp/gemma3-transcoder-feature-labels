@@ -1,0 +1,1 @@
+"Various numerical values, dates, and temperature ranges, often used in scientific or technical contexts, such as research papers, medical studies, and technical specifications."

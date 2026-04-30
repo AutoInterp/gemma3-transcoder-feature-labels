@@ -1,0 +1,1 @@
+"Text discussing various aspects of the web, including web browsers, web servers, web development, web security, and web accessibility, with a focus on technical details and terminology."

@@ -1,0 +1,1 @@
+"Various types of text data, including dates, times, locations, event descriptions, programming code, mathematical equations, and product information, often with specific formatting and syntax."

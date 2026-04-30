@@ -1,0 +1,1 @@
+"Numerical values representing monetary amounts, often used to convey financial information, prices, or costs."

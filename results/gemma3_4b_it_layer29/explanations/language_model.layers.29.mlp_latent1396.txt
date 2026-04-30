@@ -1,0 +1,1 @@
+"Various types of text, including mathematical equations, programming code, scientific articles, and everyday conversations, with a focus on extracting specific information or patterns."

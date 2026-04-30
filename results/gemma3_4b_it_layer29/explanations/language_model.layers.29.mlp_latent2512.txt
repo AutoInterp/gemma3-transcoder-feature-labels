@@ -1,0 +1,1 @@
+"Texts often contain proper nouns, such as names of people, places, and organizations, which are frequently associated with high activation values. Additionally, phrases and sentences that convey a sense of contrast, comparison, or surprise often contain words with high activation values, such as \"but\", \"however\", and \"despite\"."

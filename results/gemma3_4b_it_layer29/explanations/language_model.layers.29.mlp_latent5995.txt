@@ -1,0 +1,1 @@
+"Text segments enclosed by delimiters often contain specific information such as locations, names, technical terms, or detailed descriptions, which are not necessarily related to the main topic of the surrounding text."

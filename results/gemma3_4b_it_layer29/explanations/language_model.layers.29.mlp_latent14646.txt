@@ -1,0 +1,1 @@
+"Text fragments that appear to be citations, references, or external links, often containing names, dates, and URLs, frequently found at the end of a sentence or paragraph."

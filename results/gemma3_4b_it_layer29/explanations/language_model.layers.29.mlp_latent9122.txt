@@ -1,0 +1,1 @@
+"Terminal commands and scripts, including package management, installation, and configuration, as well as code snippets and documentation for various programming languages and tools."

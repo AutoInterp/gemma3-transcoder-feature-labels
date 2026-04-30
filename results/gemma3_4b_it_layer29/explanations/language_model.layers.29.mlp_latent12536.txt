@@ -1,0 +1,1 @@
+"Texts from various sources, including news articles, product descriptions, and social media posts, with a focus on extracting specific words or phrases. The extracted words often represent locations, names, events, or objects, and are frequently used in context to convey meaning."

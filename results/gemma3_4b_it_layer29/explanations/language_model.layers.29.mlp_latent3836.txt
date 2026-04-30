@@ -1,0 +1,1 @@
+"Text snippets often appear between delimiters, sometimes containing URLs, code, or quotes, and are frequently related to various topics such as science, history, literature, and technology."

@@ -1,0 +1,1 @@
+"Various geometric shapes and concepts, including polygons (hexagon, square, rectangle, triangle, circle, oval, star, heart), lines (parallel, perpendicular, slope), and spatial relationships (distance, angle, area, volume)."

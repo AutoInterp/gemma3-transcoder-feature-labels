@@ -1,0 +1,1 @@
+"Text snippets often contain citations, references, or quotes, which are frequently marked with special formatting, such as italic or bold text, and sometimes accompanied by additional information like page numbers or publication dates."

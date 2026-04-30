@@ -1,0 +1,1 @@
+"Texts discussing mathematical concepts, equations, and problems often contain phrases and sentences that describe the behavior of variables, functions, or values approaching zero, being zero, or having a significant impact when zero is involved."

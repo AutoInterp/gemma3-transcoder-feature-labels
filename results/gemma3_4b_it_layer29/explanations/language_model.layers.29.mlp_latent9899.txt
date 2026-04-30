@@ -1,0 +1,1 @@
+"Text snippets containing URLs, SQL queries, and code segments, often indicating external links, database operations, or programming instructions."

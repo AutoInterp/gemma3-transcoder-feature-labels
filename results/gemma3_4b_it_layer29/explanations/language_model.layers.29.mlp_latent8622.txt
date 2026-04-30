@@ -1,0 +1,1 @@
+"The token \"re\" or \"re-\" at the beginning of words, often indicating a prefix or a verb form, and the token \"re-\" or \"re-\" in the middle of words, often indicating a prefix or a repeated action."

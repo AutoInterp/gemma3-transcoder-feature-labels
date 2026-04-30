@@ -1,0 +1,1 @@
+"Technical text describing network protocols, routing, and security measures, including DNS, IP addresses, firewalls, and VPNs."

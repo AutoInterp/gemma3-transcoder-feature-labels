@@ -1,0 +1,1 @@
+"Frequent use of high-dimensional data and space, often in the context of machine learning, neural networks, and data analysis, with a focus on reducing dimensionality and preserving intrinsic manifold structure."

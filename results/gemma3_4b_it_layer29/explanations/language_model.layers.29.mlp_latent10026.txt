@@ -1,0 +1,1 @@
+"Text snippets often contain URLs, titles, or other metadata, frequently appearing at the end of a paragraph or section, and sometimes enclosed in HTML tags or other markup."

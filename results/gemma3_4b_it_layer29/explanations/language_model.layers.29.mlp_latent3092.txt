@@ -1,0 +1,1 @@
+"Time and date expressions, often in the format of a 12-hour clock with AM/PM, and sometimes accompanied by geographical locations or event descriptions."

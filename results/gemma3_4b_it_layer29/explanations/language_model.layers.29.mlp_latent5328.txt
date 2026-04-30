@@ -1,0 +1,1 @@
+"Shell scripts and commands in various programming languages, including bash, perl, and others, used for file management, system administration, and data processing."

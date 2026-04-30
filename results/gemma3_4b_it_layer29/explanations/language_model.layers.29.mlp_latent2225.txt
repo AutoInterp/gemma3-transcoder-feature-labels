@@ -1,0 +1,1 @@
+"Locations, names of places, and geographical descriptions."

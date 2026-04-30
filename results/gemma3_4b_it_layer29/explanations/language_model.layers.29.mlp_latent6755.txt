@@ -1,0 +1,1 @@
+"Text primarily discussing statistical concepts, probability distributions, and mathematical models, including Bayes' rule, the Central Limit Theorem, and various probability distributions such as the F-distribution, Chi-squared distribution, and exponential distribution."

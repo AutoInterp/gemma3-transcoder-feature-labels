@@ -1,0 +1,1 @@
+"Various types of text, including articles, conversations, and formal documents, with a focus on extracting specific phrases or sentences that contain relevant information."

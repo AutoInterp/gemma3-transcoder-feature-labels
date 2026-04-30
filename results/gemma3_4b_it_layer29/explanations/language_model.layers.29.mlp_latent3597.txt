@@ -1,0 +1,1 @@
+"Texts often contain quotes, citations, or references to external sources, which are frequently marked with delimiters. These delimiters may indicate a change in the text's format, such as a shift from prose to a formal citation or a quote."

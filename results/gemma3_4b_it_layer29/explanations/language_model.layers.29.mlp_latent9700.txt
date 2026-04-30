@@ -1,0 +1,1 @@
+"The token \"long\" and \"short\" are used to describe time periods, often contrasting between a prolonged duration and a brief or temporary period."

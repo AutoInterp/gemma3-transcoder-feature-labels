@@ -1,0 +1,1 @@
+"Various snippets of code, mostly in programming languages such as Ruby, SQL, and JSON, along with HTML and CSS, and some text in different languages."

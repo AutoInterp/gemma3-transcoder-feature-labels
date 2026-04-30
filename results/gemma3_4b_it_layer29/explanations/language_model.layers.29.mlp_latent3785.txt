@@ -1,0 +1,1 @@
+"Parts of speech identification, specifically verb conjugations, noun forms, and grammatical functions, as indicated by their corresponding tags and descriptions."

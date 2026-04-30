@@ -1,0 +1,1 @@
+"Texts often contain geographical locations, specifically cities and states, such as Boston, Massachusetts, and Worcester. Additionally, there are instances of organizations, institutions, and companies, including universities, transit authorities, and pharmaceutical companies."

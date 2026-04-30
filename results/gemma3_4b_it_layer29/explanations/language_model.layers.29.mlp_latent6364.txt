@@ -1,0 +1,1 @@
+"Text snippets often contain code, quotes, or references to external sources, which are embedded within the main text."

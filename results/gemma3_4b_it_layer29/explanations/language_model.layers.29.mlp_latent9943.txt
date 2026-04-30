@@ -1,0 +1,1 @@
+"Code snippets and technical documentation, primarily related to programming, system administration, and software development, often including command-line interfaces, error messages, and configuration instructions."

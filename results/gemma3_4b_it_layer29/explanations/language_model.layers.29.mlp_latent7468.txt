@@ -1,0 +1,1 @@
+"Text contains various units of measurement, including physical quantities (e.g., speed, density, temperature, energy), currency, and quantities of substances (e.g., mass, volume, atoms)."

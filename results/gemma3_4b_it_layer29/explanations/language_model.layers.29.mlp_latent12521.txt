@@ -1,0 +1,1 @@
+"Texts containing various types of identifiers, such as serial numbers, digital object identifiers, and other unique codes, often used to reference or categorize information."

@@ -1,0 +1,1 @@
+"Text contains a large number of proper nouns, specifically names of universities, cities, and individuals, often in the context of academic or research-related topics."

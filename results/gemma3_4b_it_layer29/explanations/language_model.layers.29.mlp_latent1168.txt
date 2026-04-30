@@ -1,0 +1,1 @@
+"Texts with low activation values are likely to be introductory or transitional phrases, while those with higher activation values are often main content or key points."

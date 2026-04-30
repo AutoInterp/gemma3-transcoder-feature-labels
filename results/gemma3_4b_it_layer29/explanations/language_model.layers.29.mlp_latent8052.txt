@@ -1,0 +1,1 @@
+"Various types of code snippets, including programming code, HTML, CSS, and JSON, as well as hexadecimal color codes and RGB values."

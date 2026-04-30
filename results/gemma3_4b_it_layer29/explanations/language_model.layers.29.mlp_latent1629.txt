@@ -1,0 +1,1 @@
+"Texts are often composed of multiple paragraphs, each containing a distinct topic or idea, and sometimes a quote or a reference. The activation values suggest that the most important information is often found in the first few sentences of a paragraph, and that quotes or references are often used to support or illustrate a point."

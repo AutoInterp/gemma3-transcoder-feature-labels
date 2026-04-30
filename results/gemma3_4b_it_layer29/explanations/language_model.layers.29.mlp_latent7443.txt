@@ -1,0 +1,1 @@
+"Texts describing various computer-aided design (CAD) software, 3D modeling, and rendering technologies, including Autodesk, Maya, Solidworks, V-Ray, and Mental ray, used in industries such as architecture, engineering, and manufacturing."

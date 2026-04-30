@@ -1,0 +1,1 @@
+"Geographic locations and directions, including cardinal points (north, south, east, west), latitude and longitude, and regional names, often used to describe spatial relationships and boundaries."

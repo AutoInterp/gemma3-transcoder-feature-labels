@@ -1,0 +1,1 @@
+"The token \"more\" is frequently used to indicate a request for additional information, a continuation of a thought, or an expansion on a previous statement."

@@ -1,0 +1,1 @@
+"Numerical values representing quantities, often used for comparison or measurement, such as amounts of money, distances, or population sizes."

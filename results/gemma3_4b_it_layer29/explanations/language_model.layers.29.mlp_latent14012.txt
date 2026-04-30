@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including Java, Python, C++, JavaScript, Ruby, and SQL, with a focus on extracting specific information or patterns from the code."

@@ -1,0 +1,1 @@
+"Texts often contain proper nouns and titles of organizations, government departments, and institutions, which are frequently mentioned in conjunction with specific locations, events, or activities."

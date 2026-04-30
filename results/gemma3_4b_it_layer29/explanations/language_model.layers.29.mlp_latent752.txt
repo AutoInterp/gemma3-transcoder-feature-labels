@@ -1,0 +1,1 @@
+"Code snippets in various programming languages, including SQL, PHP, and Java, with comments and variable names in multiple languages, including Spanish."

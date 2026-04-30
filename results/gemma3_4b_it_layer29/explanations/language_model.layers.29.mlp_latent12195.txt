@@ -1,0 +1,1 @@
+"Text primarily discussing geometric shapes, particularly polygons, and their properties, including regularity, planarity, and intersections."

@@ -1,0 +1,1 @@
+"Large numbers representing financial values, often used in the context of investments, returns, and economic transactions."

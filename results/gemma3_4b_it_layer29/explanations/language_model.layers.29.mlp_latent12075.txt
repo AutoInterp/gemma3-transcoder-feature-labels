@@ -1,0 +1,1 @@
+"Hexadecimal color codes and their corresponding RGB values, used for describing colors in various contexts such as design, programming, and digital art."

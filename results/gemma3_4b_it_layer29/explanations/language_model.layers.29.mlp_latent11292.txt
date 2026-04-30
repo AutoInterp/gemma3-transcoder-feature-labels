@@ -1,0 +1,1 @@
+"The token \"shell\" is often used to refer to a Unix shell or a command-line interface, and is frequently mentioned in the context of scripting, programming, and automation."

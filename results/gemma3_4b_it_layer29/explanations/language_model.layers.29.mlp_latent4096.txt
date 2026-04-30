@@ -1,0 +1,1 @@
+"Texts often contain proper nouns and locations, such as names of people, places, and organizations, which are frequently mentioned in conjunction with other words like \"house\", \"basement stairs\", \"White House\", \"Paris Fashion Week\", and \"Navy Pier\"."

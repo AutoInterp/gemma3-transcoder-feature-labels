@@ -1,0 +1,1 @@
+"Various types of images and links embedded in text, including inline images, external links, and URLs."

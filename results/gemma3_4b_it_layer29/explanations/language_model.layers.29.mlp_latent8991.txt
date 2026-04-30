@@ -1,0 +1,1 @@
+"Various types of metadata and information blocks, often containing specific details such as dates, measurements, technical specifications, and event information, frequently appearing at the beginning or end of a text."

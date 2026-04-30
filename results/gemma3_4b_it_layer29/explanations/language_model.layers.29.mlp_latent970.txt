@@ -1,0 +1,1 @@
+"Timestamps and version numbers, often found in the format of \"Last modified: [date]\" or \"Updated [date]\"."

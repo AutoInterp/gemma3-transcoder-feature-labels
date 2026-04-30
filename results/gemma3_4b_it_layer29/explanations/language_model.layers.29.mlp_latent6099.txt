@@ -1,0 +1,1 @@
+"Texts often contain addresses, locations, and geographical information, which can be represented as a sequence of words including street names, city names, and zip codes."

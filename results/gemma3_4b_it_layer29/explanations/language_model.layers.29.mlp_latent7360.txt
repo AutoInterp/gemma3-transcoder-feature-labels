@@ -1,0 +1,1 @@
+"The token \"O\" or \"O-\" is often a prefix to a proper noun, abbreviation, or a word derived from Greek roots, frequently related to names, places, or concepts in various fields such as history, science, literature, and culture."

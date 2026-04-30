@@ -1,0 +1,1 @@
+"Texts in multiple languages, including English, Spanish, and Portuguese, with a mix of formal and informal writing styles, including code snippets in Java and JavaFX, and excerpts from books and articles on various topics."

@@ -1,0 +1,1 @@
+"Code snippets in various programming languages, primarily JavaScript, with a focus on conditional statements, function calls, and variable declarations."

@@ -1,0 +1,1 @@
+"The token \"number\" and its variants (e.g. \"numbers\", \"num\", \"nums\") are often used in mathematical contexts to describe quantities, counts, or magnitudes."

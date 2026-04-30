@@ -1,0 +1,1 @@
+"Timestamps in various formats, including date and time combinations, often used to indicate when a message or event occurred."

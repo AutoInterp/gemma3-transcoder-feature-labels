@@ -1,0 +1,1 @@
+"Text segments often contain specific phrases or sentences that are enclosed in delimiters, which may indicate a quote, a citation, or a separate section of text."

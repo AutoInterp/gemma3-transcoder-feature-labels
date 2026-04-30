@@ -1,0 +1,1 @@
+"Text contains mathematical equations, formulas, and proofs, often involving calculus, algebra, and geometry, with a focus on theoretical computer science and mathematical analysis."

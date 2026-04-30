@@ -1,0 +1,1 @@
+"Technical text discussing electronics, circuit design, and engineering concepts, including operational amplifiers, voltage dividers, and impedance matching."

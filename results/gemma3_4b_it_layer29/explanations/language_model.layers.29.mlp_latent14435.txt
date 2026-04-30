@@ -1,0 +1,1 @@
+"Texts often contain long phrases or sentences that are not crucial to the main idea, but provide additional context or information. These phrases are often separated from the main text by a delimiter, and their activations are relatively low."

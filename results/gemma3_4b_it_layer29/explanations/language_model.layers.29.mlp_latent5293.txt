@@ -1,0 +1,1 @@
+"Various types of text data, including articles, book excerpts, and online content, with a focus on information extraction and analysis."

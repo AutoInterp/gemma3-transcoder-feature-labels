@@ -1,0 +1,1 @@
+"Texts discussing programming languages, software development, and related concepts, including design patterns, data science, and machine learning."

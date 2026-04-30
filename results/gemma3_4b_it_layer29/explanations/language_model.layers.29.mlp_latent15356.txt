@@ -1,0 +1,1 @@
+"Large numbers and financial values, often used to convey significant amounts or statistics, frequently accompanied by units of currency, percentages, or other metrics."

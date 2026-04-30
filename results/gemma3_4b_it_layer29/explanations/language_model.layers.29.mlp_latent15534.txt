@@ -1,0 +1,1 @@
+"Texts often contain dates, names, and locations, which are frequently embedded within larger sentences or phrases. Additionally, there are instances of technical or scientific terminology, such as \"nociceptors\" and \"power set\", which are used to describe specific concepts or processes."

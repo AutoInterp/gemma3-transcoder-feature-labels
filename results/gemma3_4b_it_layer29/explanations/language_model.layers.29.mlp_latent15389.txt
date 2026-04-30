@@ -1,0 +1,1 @@
+"Texts are programming-related documentation, tutorials, and explanations of various programming concepts, languages, and technologies, including object-oriented programming, data structures, and software development methodologies."

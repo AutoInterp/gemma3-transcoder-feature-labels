@@ -1,0 +1,1 @@
+"Time durations and intervals expressed in minutes, hours, or days, often used to describe the length of a process, event, or activity."

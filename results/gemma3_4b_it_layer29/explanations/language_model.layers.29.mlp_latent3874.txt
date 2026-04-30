@@ -1,0 +1,1 @@
+"URLs and URLs with parameters, often used for referencing external resources or providing additional information."

@@ -1,0 +1,1 @@
+"Code snippets and programming-related text, including comments, function signatures, and XML/HTML elements, often containing programming-related keywords and syntax."

@@ -1,0 +1,1 @@
+"Various numerical values and codes, including IP addresses, subnet masks, and hexadecimal color codes, often used in technical or programming contexts."

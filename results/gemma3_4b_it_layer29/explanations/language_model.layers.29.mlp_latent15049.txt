@@ -1,0 +1,1 @@
+"Instructions and technical guides often contain imperative sentences and phrases, frequently including specific actions, tools, and safety precautions, and sometimes referencing technical specifications or troubleshooting steps."

@@ -1,0 +1,1 @@
+"Texts containing technical information, programming concepts, and software development principles, often with a focus on optimization, caching, and software design patterns."

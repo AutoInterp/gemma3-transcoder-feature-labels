@@ -1,0 +1,1 @@
+"Dates in various formats, including year only, year with month, and year with month and day, often appearing in the context of academic or technical writing, citations, and references."

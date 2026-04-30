@@ -1,0 +1,1 @@
+"Texts often contain proper nouns such as names of locations (e.g. \"Park Road\", \"Hyde Park\", \"London\", \"Utah\", \"Iceland\", \"Europe\", \"Girona Airport\", \"South Dakota\", \"Boyne City Historical Museum\"), organizations (e.g. \"Ryan air\", \"Subway\", \"GiveMeSport\", \"MediaNews Group\", \"CDC\"), and events (e.g. \"Tiana's Birthday Bash\", \"Valentine's Day\")."

@@ -1,0 +1,1 @@
+"Code snippets in various programming languages, primarily Java, with a focus on user input, calculations, and GUI development."

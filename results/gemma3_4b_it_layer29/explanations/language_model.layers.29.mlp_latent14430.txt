@@ -1,0 +1,1 @@
+"Texts often contain phrases that are cut off mid-sentence, with the rest of the sentence or paragraph continuing on a new line."

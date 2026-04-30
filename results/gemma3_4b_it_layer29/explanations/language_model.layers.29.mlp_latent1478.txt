@@ -1,0 +1,1 @@
+"Text fragments often contain URLs, technical terms, or unrelated information, which are frequently enclosed in delimiters, indicating they are not essential to the main text."

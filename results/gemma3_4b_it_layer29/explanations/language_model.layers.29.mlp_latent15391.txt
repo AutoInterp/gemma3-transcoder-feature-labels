@@ -1,0 +1,1 @@
+"Code snippets in various programming languages, including SQL, C++, and Java, often used for database queries, unit testing, and other development tasks."

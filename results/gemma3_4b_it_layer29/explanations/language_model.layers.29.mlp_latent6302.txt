@@ -1,0 +1,1 @@
+"Texts discussing data security, protection, and privacy, including methods for preventing unauthorized access, data exfiltration, and cyber threats, as well as the importance of secure storage and encryption."

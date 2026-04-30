@@ -1,0 +1,1 @@
+"Various dates and times are represented in a format that includes numbers and possibly abbreviations, often in conjunction with other contextual information."

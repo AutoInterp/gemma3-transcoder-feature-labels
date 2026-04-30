@@ -1,0 +1,1 @@
+"Texts often contain long sequences of words that are not crucial to the meaning, but rather provide additional information or context. These sequences are sometimes enclosed in delimiters, and their importance is indicated by low activation values."

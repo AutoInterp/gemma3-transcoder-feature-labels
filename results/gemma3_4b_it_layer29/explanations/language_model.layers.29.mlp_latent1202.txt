@@ -1,0 +1,1 @@
+"Phrases and sentences that are set off by a delimiter, often indicating a quotation, a parenthetical remark, or a separate idea, and sometimes containing a transition or a conjunction."

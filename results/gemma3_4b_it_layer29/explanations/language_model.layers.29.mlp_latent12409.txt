@@ -1,0 +1,1 @@
+"The token \"secure\" and its variants are used to describe protection from threats, unauthorized access, or malicious activities, often in the context of data, information, or physical locations."

@@ -1,0 +1,1 @@
+"Texts discussing various topics, including science, technology, politics, health, and entertainment, with a focus on specific words or phrases that are not necessarily related to the overall topic, but rather serve as a trigger for the model to generate a response."

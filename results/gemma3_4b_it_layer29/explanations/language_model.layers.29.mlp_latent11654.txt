@@ -1,0 +1,1 @@
+"Text fragments often begin with a command or instruction, sometimes followed by a detailed explanation or a sequence of steps."

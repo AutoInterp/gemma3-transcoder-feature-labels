@@ -1,0 +1,1 @@
+"Time durations in minutes or hours, often used to describe cooking times, exercise routines, or other activities."

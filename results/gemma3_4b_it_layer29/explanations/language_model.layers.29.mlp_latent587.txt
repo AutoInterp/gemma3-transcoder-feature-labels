@@ -1,0 +1,1 @@
+"Various numerical values representing time periods, such as years, months, and days, often used in dates, durations, and frequencies."

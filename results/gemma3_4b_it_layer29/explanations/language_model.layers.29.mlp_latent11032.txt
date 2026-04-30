@@ -1,0 +1,1 @@
+"Technical text discussing machine learning, computer vision, and data processing, with frequent mentions of algorithms, models, and mathematical concepts."

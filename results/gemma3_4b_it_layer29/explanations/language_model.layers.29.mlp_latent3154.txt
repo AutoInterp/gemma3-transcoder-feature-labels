@@ -1,0 +1,1 @@
+"Text fragments containing numerical data, citations, references, and URLs, often appearing in academic or technical contexts."

@@ -1,0 +1,1 @@
+"Various HTML elements and their attributes, including tags for formatting text, creating links, and defining images, as well as JavaScript and accessibility-related concepts."

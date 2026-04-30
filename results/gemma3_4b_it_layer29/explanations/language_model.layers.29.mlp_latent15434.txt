@@ -1,0 +1,1 @@
+"Technical text describing radio frequencies, communication systems, and wireless technologies, including various bands (MF, HF, VHF, UHF), frequencies, and protocols (DSC, DTV, Wi-Fi, Bluetooth)."

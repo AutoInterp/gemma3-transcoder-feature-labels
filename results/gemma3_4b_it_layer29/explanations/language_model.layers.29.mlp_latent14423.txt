@@ -1,0 +1,1 @@
+"Texts discussing geospatial concepts, techniques, and tools, including GIS, photogrammetry, spatial statistics, and computer vision, often referencing specific software and databases such as PostGIS, ArcGIS, and GRASS GIS."

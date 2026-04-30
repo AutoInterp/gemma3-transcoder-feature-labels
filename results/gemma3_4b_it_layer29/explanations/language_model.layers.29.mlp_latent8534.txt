@@ -1,0 +1,1 @@
+"Various types of text data, including addresses, URLs, citations, code snippets, and news article titles, often containing specific keywords and phrases."

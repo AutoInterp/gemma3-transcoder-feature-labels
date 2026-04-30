@@ -1,0 +1,1 @@
+"Titles of addresses, articles, and proper nouns are capitalized."

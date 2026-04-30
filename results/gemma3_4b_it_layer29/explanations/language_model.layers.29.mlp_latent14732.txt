@@ -1,0 +1,1 @@
+"Various field names, table names, and column names from database schema and programming code, often containing alphanumeric characters and underscores."

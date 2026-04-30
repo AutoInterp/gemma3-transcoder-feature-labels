@@ -1,0 +1,1 @@
+"Text discussing the applications and properties of exponential and logarithmic functions in various mathematical and real-world contexts, including sorting algorithms, database query plans, and data analysis."

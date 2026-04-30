@@ -1,0 +1,1 @@
+"Numerical values representing amounts of money, often used in financial contexts, such as loan amounts, property values, and insurance premiums."

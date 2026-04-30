@@ -1,0 +1,1 @@
+"Code snippets and programming concepts, including variable declarations, function definitions, and conditional statements, often found in programming documentation or tutorials."

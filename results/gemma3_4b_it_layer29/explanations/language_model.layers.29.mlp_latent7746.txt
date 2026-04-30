@@ -1,0 +1,1 @@
+"Large numbers and monetary values are often represented in a specific format, typically with commas or periods separating thousands or millions, and sometimes with dollar signs or other currency indicators."

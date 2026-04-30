@@ -1,0 +1,1 @@
+"Texts describing open-source software licenses, copyright information, and terms of use, often referencing specific licenses such as the GNU General Public License, Apache License, and Creative Commons License."

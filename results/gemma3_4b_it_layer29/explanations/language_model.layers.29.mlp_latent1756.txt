@@ -1,0 +1,1 @@
+"Various types of text data, including addresses, technical specifications, programming code, and plain text, often containing numerical values, dates, and names."

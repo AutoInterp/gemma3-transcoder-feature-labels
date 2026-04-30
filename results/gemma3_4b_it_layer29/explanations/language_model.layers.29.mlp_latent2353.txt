@@ -1,0 +1,1 @@
+"The token \"tr\" or \"tri\" at the beginning of words, often indicating a prefix related to three or a specific type, and the token \"tr\" or \"trunc\" at the end of words, often indicating a suffix related to cutting or shortening."

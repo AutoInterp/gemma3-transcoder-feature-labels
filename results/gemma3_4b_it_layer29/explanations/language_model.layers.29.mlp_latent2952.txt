@@ -1,0 +1,1 @@
+"Texts often contain URLs or references to external sources, sometimes within a sentence or paragraph, and sometimes as a standalone statement."

@@ -1,0 +1,1 @@
+"Text snippets containing programming-related information, including code examples, API documentation, and developer tutorials, often with a focus on troubleshooting and problem-solving."

@@ -1,0 +1,1 @@
+"Time-related expressions and durations, often used to convey the length of an activity, event, or process."

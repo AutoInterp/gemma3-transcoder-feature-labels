@@ -1,0 +1,1 @@
+"Texts that contain URLs or social media handles, often at the end of a sentence or paragraph, and are frequently accompanied by a low activation value, suggesting they may be added as an afterthought."

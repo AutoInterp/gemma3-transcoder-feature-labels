@@ -1,0 +1,1 @@
+"Dates and time periods, often in the format of a range or a specific point in time, frequently used in conjunction with other information such as events, releases, or deadlines."

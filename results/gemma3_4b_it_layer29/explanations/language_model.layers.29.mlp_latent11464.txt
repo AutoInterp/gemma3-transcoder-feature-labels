@@ -1,0 +1,1 @@
+"Various programming code snippets and text from news articles, with common patterns including file paths, variable names, and function calls in the code, and names of people, places, and events in the news articles."

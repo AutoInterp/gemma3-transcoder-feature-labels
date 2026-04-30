@@ -1,0 +1,1 @@
+"Texts containing technical instructions, programming code, and software documentation, often with a focus on troubleshooting, configuration, and implementation."

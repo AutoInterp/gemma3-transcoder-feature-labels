@@ -1,0 +1,1 @@
+"Ranges of time, often in minutes or hours, used to describe various activities, processes, or durations."

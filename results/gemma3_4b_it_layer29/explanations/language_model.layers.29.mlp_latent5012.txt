@@ -1,0 +1,1 @@
+"Texts containing URLs, file paths, and other types of references to external resources, often found in technical documentation, academic papers, and online content."

@@ -1,0 +1,1 @@
+"Technical descriptions of computer hardware and software, specifically focusing on memory, storage, and performance optimization."

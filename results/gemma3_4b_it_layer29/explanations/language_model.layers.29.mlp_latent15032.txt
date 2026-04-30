@@ -1,0 +1,1 @@
+"Various programming and scripting languages, including HTML, JavaScript, PHP, Python, and Java, as well as file paths, URLs, and code snippets, indicating a collection of code examples and tutorials."

@@ -1,0 +1,1 @@
+"Texts containing proper nouns, often names of people, places, or organizations, which are capitalized."

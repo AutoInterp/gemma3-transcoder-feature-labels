@@ -1,0 +1,1 @@
+"Various numerical values and units, including measurements in inches, millimeters, degrees, percentages, and amounts of money, often used in calculations or comparisons."

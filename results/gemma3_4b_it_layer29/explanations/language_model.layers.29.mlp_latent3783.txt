@@ -1,0 +1,1 @@
+"Iterative loops in various programming languages, often used for traversing arrays, lists, or other data structures, and for repeating a block of code until a certain condition is met."

@@ -1,0 +1,1 @@
+"Numbers representing large quantities, often in the millions or billions, used to convey scale, cost, or population."

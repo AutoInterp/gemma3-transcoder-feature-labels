@@ -1,0 +1,1 @@
+"Texts from various sources, including news articles, Wikipedia entries, and online forums, with a focus on extracting specific phrases or sentences for analysis. The extracted phrases often contain proper nouns, technical terms, or specific events, indicating a pattern of interest in factual information and detailed descriptions."

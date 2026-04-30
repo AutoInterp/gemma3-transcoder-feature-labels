@@ -1,0 +1,1 @@
+"The token \"32\" and \"64\" are used to represent different versions or specifications of a system, software, or hardware, often in the context of bit depth or compatibility."

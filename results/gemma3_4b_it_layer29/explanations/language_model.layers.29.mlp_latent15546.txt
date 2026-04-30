@@ -1,0 +1,1 @@
+"Time and date expressions, including specific hours, days, months, and years, often accompanied by location information and event details."

@@ -1,0 +1,1 @@
+"The token \"layer\" is used to describe various concepts, including physical structures (e.g., the layers of the Earth's atmosphere, the layers of a cake), biological structures (e.g., the layers of the skin, the layers of muscle tissue), and abstract concepts (e.g., the layers of a network, the layers of a hierarchical model)."

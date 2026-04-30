@@ -1,0 +1,1 @@
+"Large numbers and dates in scientific notation, often used to convey complex financial or statistical information."

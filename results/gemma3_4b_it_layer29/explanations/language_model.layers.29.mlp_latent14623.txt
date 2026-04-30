@@ -1,0 +1,1 @@
+"Time periods expressed in weeks, months, or days, often used to describe duration of events, treatment, or waiting periods."

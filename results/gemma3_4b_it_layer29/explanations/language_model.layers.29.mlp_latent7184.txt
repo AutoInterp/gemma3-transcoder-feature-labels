@@ -1,0 +1,1 @@
+"Text describing web development concepts, technologies, and best practices, including HTML, CSS, JavaScript, and web accessibility."

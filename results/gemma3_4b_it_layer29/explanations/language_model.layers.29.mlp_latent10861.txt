@@ -1,0 +1,1 @@
+"Texts discussing statistical concepts, specifically standard deviation, standard error, and regression coefficients, often in the context of data analysis and mathematical modeling."

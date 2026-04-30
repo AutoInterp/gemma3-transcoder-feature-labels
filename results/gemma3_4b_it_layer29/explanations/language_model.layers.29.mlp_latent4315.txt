@@ -1,0 +1,1 @@
+"Various phrases and sentences that are likely to be extracted as important text segments, often containing key information or context, and frequently found in instructional or informative passages."

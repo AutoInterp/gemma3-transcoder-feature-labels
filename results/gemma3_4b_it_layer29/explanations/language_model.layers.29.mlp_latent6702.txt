@@ -1,0 +1,1 @@
+"Various types of text data, including book titles, articles, and online content, with a focus on dates, times, and citations."

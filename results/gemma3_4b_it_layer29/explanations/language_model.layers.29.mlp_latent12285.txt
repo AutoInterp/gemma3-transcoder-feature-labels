@@ -1,0 +1,1 @@
+"C++ source code with various functions, classes, and data structures, including vectors, linked lists, and graphs, as well as utility functions for string manipulation and error handling."

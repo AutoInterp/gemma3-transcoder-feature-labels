@@ -1,0 +1,1 @@
+"Various sequences of characters enclosed in double quotes, single quotes, or backticks, often representing code snippets, data, or specific text within a larger context."

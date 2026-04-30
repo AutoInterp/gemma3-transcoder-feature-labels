@@ -1,0 +1,1 @@
+"Texts discussing software development, object-oriented programming, and design principles, with a focus on avoiding repetition, single responsibility, and open-closed principles."

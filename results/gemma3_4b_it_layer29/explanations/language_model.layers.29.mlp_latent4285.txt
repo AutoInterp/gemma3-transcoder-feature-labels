@@ -1,0 +1,1 @@
+"Addresses and locations, often in the format of a street address or a list of nearby places, and sometimes including distances."

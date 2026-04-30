@@ -1,0 +1,1 @@
+"Texts often contain phrases that describe a large number, a significant amount of time, or a substantial part, such as \"over 74,000 individuals\", \"in just 48 hours\", \"a substantial part of\", and \"a great community of people\". Additionally, texts may include phrases that describe a comparison, such as \"wider\", \"taller\", and \"more expensive\"."

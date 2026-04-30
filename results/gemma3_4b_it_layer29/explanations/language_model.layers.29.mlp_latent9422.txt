@@ -1,0 +1,1 @@
+"Code snippets and programming statements, often containing variable names, function calls, and database queries, frequently found in the context of software development and technical documentation."

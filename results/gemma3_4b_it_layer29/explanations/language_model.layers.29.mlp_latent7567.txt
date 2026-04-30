@@ -1,0 +1,1 @@
+"Text snippets containing specific information such as names, dates, URLs, and technical terms, often found within code blocks, quotes, or formal descriptions."

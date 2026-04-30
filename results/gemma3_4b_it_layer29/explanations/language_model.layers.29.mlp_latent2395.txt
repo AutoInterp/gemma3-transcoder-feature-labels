@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are not crucial to the main topic, but provide additional information, explanations, or context. These phrases are often set apart from the main text and may be preceded by a delimiter."

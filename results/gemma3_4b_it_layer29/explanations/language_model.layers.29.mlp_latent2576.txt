@@ -1,0 +1,1 @@
+"Texts often contain hyperlinks, URLs, and other external references, as well as quotes, citations, and references to external sources."

@@ -1,0 +1,1 @@
+"The token \"os\" is often used as a prefix in various programming contexts, such as operating system names (e.g., Mac OS, Windows), file paths, and programming libraries (e.g., os.Bundle, os.Bundle;). It is also used in scientific and medical contexts, such as osmolality and ossification."

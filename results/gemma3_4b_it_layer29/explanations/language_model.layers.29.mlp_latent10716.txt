@@ -1,0 +1,1 @@
+"HTML and programming code snippets with various syntax highlighting, including languages such as Ruby, JavaScript, and SQL, as well as HTML elements and attributes."

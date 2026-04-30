@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are set apart from the rest of the text, usually to provide additional information, definitions, or explanations. These phrases or sentences are often preceded by a delimiter, such as a dash or a line break, and may be formatted differently from the surrounding text."

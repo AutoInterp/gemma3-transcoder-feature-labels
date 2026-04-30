@@ -1,0 +1,1 @@
+"Text describing data-related concepts, including data structures, data types, data storage, data analysis, data mining, and data centers, often referencing specific programming languages, software, and technologies."

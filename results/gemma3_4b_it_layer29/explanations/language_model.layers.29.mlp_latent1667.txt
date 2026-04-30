@@ -1,0 +1,1 @@
+"URLs and URIs, often used to link to external resources or provide additional information."

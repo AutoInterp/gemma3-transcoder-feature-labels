@@ -1,0 +1,1 @@
+"Commas are used to separate items in a list, to indicate a pause in a sentence, or to separate clauses. They are also used in programming to separate function parameters, variables, or to indicate a comment."

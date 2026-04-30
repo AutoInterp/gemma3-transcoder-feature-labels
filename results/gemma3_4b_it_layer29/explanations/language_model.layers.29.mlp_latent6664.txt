@@ -1,0 +1,1 @@
+"Texts often contain proper nouns, such as names of people, places, and organizations, which are frequently mentioned in conjunction with other words like titles, dates, and locations. Additionally, phrases and sentences may be interrupted by external links, abbreviations, and other non-essential information."

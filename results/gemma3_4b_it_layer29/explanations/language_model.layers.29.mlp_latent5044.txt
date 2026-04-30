@@ -1,0 +1,1 @@
+"Various commands and syntax for file operations, including copying, listing, deleting, and modifying files, as well as configuration and deployment processes."

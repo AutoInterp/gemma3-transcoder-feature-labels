@@ -1,0 +1,1 @@
+"Texts containing technical terms, mathematical equations, and programming code, often related to computer science, physics, and engineering, with a focus on data analysis and visualization."

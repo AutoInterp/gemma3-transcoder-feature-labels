@@ -1,0 +1,1 @@
+"Text primarily discussing statistical concepts, distributions, and hypothesis testing, with a focus on normal, chi-square, t, F, and exponential distributions, as well as regression analysis and sampling methods."

@@ -1,0 +1,1 @@
+"Text describing technical instructions, programming concepts, and troubleshooting steps, often including code snippets, command-line examples, and explanations of software functionality."

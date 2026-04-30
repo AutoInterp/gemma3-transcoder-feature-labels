@@ -1,0 +1,1 @@
+"Text primarily discussing operating systems, specifically Linux, Unix, and their related software, tools, and applications, with a focus on technical details and configuration."

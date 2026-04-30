@@ -1,0 +1,1 @@
+"Text segments enclosed by delimiters often contain standalone sentences, paragraphs, or quotes, frequently used to provide context, explanations, or examples."

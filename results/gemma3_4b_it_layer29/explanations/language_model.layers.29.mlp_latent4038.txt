@@ -1,0 +1,1 @@
+"Various types of text delimiters, including HTML tags, formatting markers, and special characters, often used to separate or highlight specific content."

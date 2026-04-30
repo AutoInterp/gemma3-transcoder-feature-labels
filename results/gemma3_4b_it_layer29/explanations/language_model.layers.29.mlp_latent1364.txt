@@ -1,0 +1,1 @@
+"Time expressions in 24-hour format, often accompanied by dates, locations, or events, and sometimes followed by a description of an activity or a schedule."

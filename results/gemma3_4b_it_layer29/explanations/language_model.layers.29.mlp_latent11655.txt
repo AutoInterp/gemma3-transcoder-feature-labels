@@ -1,0 +1,1 @@
+"Texts often contain phrases indicating location, such as \"in a\", \"in the\", or \"in London\", and sometimes these phrases are used to describe a specific situation or context."

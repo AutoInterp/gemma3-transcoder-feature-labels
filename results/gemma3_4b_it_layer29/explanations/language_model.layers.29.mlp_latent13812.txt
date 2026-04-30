@@ -1,0 +1,1 @@
+"Texts often contain lists of items or rules, frequently with a dash or bullet point separating each item, and sometimes with a following explanation or details."

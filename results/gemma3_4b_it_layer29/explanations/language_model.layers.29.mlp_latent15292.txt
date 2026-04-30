@@ -1,0 +1,1 @@
+"Text contains various HTML tags and formatting elements, such as strikethrough, strong, subscript, and superscript, as well as special characters like <eos> and <>."

@@ -1,0 +1,1 @@
+"Texts containing product information, such as beer styles, wine descriptions, and product features, often accompanied by numerical data, like volumes, points, or percentages."

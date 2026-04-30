@@ -1,0 +1,1 @@
+"Texts discussing data handling, software applications, and business operations, with a focus on Microsoft Excel, its functions, and related tools such as VBA, Power BI, and other productivity software."

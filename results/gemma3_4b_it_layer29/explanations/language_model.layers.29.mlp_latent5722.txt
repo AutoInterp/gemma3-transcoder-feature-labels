@@ -1,0 +1,1 @@
+"Texts containing titles, subtitles, and headings, often used to categorize and organize content, and sometimes accompanied by activation values of 0, indicating a lack of importance or relevance."

@@ -1,0 +1,1 @@
+"Various numerical values, including percentages, amounts of money, and scientific measurements, often presented in a specific format with decimal points and units."

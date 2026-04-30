@@ -1,0 +1,1 @@
+"Texts discussing various programming concepts, technologies, and languages, including object-oriented programming, aspect-oriented programming, XML, Kotlin, Java, Silverlight, and TypeScript, as well as general topics like data processing, security, and user experience."

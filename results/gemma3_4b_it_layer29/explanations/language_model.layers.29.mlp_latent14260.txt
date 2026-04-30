@@ -1,0 +1,1 @@
+"Academic citations and references in the format of author-year or title-year, often with a specific structure and keywords, such as \"Proceedings of the\" or \"In Advances in Neural Information Processing Systems\"."

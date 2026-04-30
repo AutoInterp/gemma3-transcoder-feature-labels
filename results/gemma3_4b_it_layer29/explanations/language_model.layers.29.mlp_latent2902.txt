@@ -1,0 +1,1 @@
+"The token \"T\" or \"t\" is often followed by a word that starts with the same letter, indicating a proper noun or a title, often referring to a person, place, or concept."

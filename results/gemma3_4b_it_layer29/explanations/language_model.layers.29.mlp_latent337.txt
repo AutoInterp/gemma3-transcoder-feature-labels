@@ -1,0 +1,1 @@
+"The token \"key\" is used in various contexts, including as a noun referring to a physical object used to unlock something, a metaphorical key to understanding or access, and a term in computer science referring to a unique identifier or a cryptographic key."

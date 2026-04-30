@@ -1,0 +1,1 @@
+"Timestamps in the format of \"HH:MM\" or \"HH:MM AM/PM\" or \"HH:MM:SS\" or \"HH:MM:SS AM/PM\" are present in the text."

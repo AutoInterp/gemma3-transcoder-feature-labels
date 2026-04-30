@@ -1,0 +1,1 @@
+"Texts discussing computer graphics, 3D modeling, animation, and rendering, with a focus on software such as Blender, Unreal Engine, and Mental Ray, and techniques like photogrammetry, IK, and particle simulations."

@@ -1,0 +1,1 @@
+"Text describing mathematical concepts, specifically ordinal numbers, cofinality, and properties of groups, categories, and topological spaces, with frequent use of formal notation and terminology."

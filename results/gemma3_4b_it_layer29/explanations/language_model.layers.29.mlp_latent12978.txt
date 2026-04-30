@@ -1,0 +1,1 @@
+"Texts often contain parenthetical information, which can be a list of safety precautions, warnings, or additional details, usually set apart from the main text with double angle brackets."

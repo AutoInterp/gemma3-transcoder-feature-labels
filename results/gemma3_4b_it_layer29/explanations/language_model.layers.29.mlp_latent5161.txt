@@ -1,0 +1,1 @@
+"Texts often contain long, complex sentences with multiple clauses and phrases, sometimes with multiple paragraphs or sections. The activation values are generally low, indicating that the model is not focusing on specific words or phrases, but rather on the overall structure and content of the text."

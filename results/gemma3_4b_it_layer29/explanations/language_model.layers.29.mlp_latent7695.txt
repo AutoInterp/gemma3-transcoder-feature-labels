@@ -1,0 +1,1 @@
+"Text fragments often appear between delimiters, and their importance is measured by activation values. These fragments frequently contain technical or informative content, such as explanations of medical conditions, descriptions of electrical systems, or discussions of programming concepts."

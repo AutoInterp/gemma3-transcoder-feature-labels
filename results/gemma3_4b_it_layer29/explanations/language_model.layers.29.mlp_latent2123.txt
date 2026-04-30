@@ -1,0 +1,1 @@
+"Numerical values representing quantities, prices, or ranges, often used to convey specific information or comparisons."

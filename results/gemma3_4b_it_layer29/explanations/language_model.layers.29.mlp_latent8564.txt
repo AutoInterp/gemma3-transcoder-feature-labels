@@ -1,0 +1,1 @@
+"Texts discussing various programming concepts, tools, and languages, including object-oriented programming, Java, Python, and Swift, as well as software development methodologies and design patterns."

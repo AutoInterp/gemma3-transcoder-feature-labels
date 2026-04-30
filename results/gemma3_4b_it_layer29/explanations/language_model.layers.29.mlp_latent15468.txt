@@ -1,0 +1,1 @@
+"Text discussing Greatest Common Factor (GCF) and Least Common Multiple (LCM) calculations, including examples and methods for finding GCF and LCM of various numbers."

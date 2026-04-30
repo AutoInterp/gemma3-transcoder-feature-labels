@@ -1,0 +1,1 @@
+"Code snippets and programming-related text, including comments, function calls, and variable declarations, often in a programming language such as C or C++."

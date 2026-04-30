@@ -1,0 +1,1 @@
+"Texts often contain questions and phrases asking for specific information, such as duration, cost, or frequency, and explanations or instructions on how to accomplish something, including steps and considerations."

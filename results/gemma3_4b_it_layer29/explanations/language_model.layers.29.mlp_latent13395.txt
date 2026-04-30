@@ -1,0 +1,1 @@
+"The token \"s\" or \"S\" often appears at the beginning of a word, indicating a singular or plural noun, or sometimes a prefix."

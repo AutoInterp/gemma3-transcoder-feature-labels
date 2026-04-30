@@ -1,0 +1,1 @@
+"Technical text discussing machine learning, sparse coding, and optimization methods, with a focus on mathematical formulations and algorithmic descriptions."
