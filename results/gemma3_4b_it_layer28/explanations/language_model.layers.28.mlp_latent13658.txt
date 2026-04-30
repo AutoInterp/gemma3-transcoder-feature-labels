@@ -1,0 +1,1 @@
+"Numbers representing very small or precise quantities, often used in scientific or technical contexts, such as measurements, probabilities, or efficiencies."

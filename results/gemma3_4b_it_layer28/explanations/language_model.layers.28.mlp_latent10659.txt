@@ -1,0 +1,1 @@
+"Text primarily discussing mathematical concepts, specifically differential geometry, topology, and algebra, with a focus on manifolds, curvature, and group theory."

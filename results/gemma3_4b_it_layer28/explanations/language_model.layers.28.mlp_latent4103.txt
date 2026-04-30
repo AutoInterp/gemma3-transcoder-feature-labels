@@ -1,0 +1,1 @@
+"Text fragments that are not part of the main content, often containing metadata, citations, or references, and are typically separated from the main text by a delimiter."

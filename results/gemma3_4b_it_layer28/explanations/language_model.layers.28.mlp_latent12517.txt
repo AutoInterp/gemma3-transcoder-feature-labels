@@ -1,0 +1,1 @@
+"Technical text discussing computer networking, protocols, and security, with a focus on low-level details and implementation specifics."

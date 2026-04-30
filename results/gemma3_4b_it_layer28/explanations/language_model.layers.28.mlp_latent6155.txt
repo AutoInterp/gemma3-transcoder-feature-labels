@@ -1,0 +1,1 @@
+"Texts describing programming concepts, algorithms, and mathematical proofs, often including code snippets, equations, and technical terminology."

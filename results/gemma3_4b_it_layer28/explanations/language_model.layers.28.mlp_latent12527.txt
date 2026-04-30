@@ -1,0 +1,1 @@
+"Text contains various units of measurement, including speed (miles per hour, kilometers per hour, feet per second), rate (operations per watt, eggs per day, tweets per day), and capacity (terabytes per gram, pounds per week)."

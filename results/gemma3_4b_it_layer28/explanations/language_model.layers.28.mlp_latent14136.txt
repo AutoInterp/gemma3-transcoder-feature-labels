@@ -1,0 +1,1 @@
+"Numerical values representing large amounts of money, often used in financial or business contexts, such as prices, investments, and revenues."

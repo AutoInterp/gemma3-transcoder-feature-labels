@@ -1,0 +1,1 @@
+"Various types of text data, including error messages, code snippets, academic papers, news articles, and social media posts, with a focus on extracting specific information or patterns from the text."

@@ -1,0 +1,1 @@
+"Text fragments containing SQL code, programming language syntax, and technical documentation, often used to explain complex concepts or provide examples."

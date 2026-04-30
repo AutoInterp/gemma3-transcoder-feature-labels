@@ -1,0 +1,1 @@
+"Various units of measurement, including currency, calories, cubic feet, tons, grams, kilograms, and other physical quantities, often used in scientific, economic, or everyday contexts."

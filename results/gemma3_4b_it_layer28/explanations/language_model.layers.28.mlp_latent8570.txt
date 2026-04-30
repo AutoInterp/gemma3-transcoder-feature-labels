@@ -1,0 +1,1 @@
+"Various types of addresses, including physical locations, email addresses, and URLs, often accompanied by additional information such as hours of operation, contact details, or other relevant data."

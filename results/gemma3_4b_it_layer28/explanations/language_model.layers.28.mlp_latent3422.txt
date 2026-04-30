@@ -1,0 +1,1 @@
+"Texts containing programming-related terms, technical jargon, and snippets of code, often accompanied by explanations, tutorials, or discussions about software development, debugging, and problem-solving."

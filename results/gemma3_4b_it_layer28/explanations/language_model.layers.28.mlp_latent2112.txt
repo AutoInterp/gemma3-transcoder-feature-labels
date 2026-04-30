@@ -1,0 +1,1 @@
+"The token \"D\" appears frequently in the text, often as an abbreviation or part of a proper noun, and is sometimes followed by other letters or punctuation."

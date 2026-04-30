@@ -1,0 +1,1 @@
+"Text primarily focused on number theory, including prime numbers, divisors, factorials, and mathematical operations such as division and remainder."

@@ -1,0 +1,1 @@
+"Texts in various programming languages, markup languages, and natural languages, including SQL, HTML, JavaScript, and English, with a focus on code snippets, data structures, and mathematical expressions."

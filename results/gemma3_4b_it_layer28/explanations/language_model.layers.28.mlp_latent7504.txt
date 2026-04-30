@@ -1,0 +1,1 @@
+"Various types of text data, including numerical values, dates, URLs, and text snippets, often appearing in a specific context such as citations, references, or metadata."

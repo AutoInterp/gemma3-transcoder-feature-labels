@@ -1,0 +1,1 @@
+"Text snippets often appear between delimiters, sometimes containing a quotation or a phrase, and are followed by a list of activations, which seem to represent the importance or relevance of certain words within the snippet."

@@ -1,0 +1,1 @@
+"Various programming-related terms and identifiers, including database table and column names, function and method names, variable names, and error messages."

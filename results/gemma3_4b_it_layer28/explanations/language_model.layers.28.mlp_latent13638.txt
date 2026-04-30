@@ -1,0 +1,1 @@
+"A collection of academic citations and references in various formats, including DOIs, Bibcodes, and PubMed IDs, often accompanied by activation values for specific strings within the citations."

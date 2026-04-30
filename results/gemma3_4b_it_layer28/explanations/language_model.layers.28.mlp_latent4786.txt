@@ -1,0 +1,1 @@
+"Texts often contain URLs, email addresses, and phone numbers, which are frequently embedded within sentences. Additionally, there are instances of quotes, citations, and references to external sources, such as websites, books, and experts."

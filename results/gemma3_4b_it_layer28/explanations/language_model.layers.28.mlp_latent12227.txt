@@ -1,0 +1,1 @@
+"Code snippets and paragraphs of text, often with technical or academic content, are enclosed within a specific sequence of characters, indicating a block of code or a quote."

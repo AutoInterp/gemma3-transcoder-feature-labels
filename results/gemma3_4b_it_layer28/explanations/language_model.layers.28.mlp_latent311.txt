@@ -1,0 +1,1 @@
+"Texts containing technical terms, programming concepts, and mathematical formulas, often in the context of computer science, engineering, and data analysis."

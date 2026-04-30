@@ -1,0 +1,1 @@
+"Text segments enclosed in double angle brackets << >> often represent a quote, a title, or a description of a location, and are sometimes used to set off a parenthetical remark or a separate idea."

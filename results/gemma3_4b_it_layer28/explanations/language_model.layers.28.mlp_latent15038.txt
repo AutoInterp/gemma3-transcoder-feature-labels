@@ -1,0 +1,1 @@
+"Texts often contain idiomatic expressions, proper nouns, and technical terms that are crucial for understanding the context. Additionally, there are instances of code snippets, URLs, and image file names, which are not necessarily important for the text's meaning but provide additional information."

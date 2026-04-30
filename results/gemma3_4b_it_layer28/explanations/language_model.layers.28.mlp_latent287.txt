@@ -1,0 +1,1 @@
+"Texts describing technical instructions, troubleshooting, and system configuration for various operating systems, including Linux, Windows, and macOS, often involving command-line interfaces and software installation."

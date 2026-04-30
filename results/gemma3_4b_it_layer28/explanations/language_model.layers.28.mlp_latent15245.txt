@@ -1,0 +1,1 @@
+"Text describing color codes, including hex codes, RGB values, and CMYK values, often used in web development and design."

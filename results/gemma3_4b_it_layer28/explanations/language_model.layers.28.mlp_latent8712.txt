@@ -1,0 +1,1 @@
+"The token \"email\" and its variants, often accompanied by a specific format (e.g., \"email@example.com\"), representing a digital address used for communication."

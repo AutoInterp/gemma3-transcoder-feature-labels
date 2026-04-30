@@ -1,0 +1,1 @@
+"Technical documentation and programming-related text, including explanations of algorithms, data structures, and software features, often using specialized terminology and referencing specific standards or protocols."

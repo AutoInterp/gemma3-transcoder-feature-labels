@@ -1,0 +1,1 @@
+"Various types of text data, including dates, times, URLs, social media posts, programming code, and academic citations, often containing specific keywords and phrases."

@@ -1,0 +1,1 @@
+"File paths and directories, often used to describe locations of files, programs, or configurations, and sometimes used to provide instructions or troubleshooting steps."

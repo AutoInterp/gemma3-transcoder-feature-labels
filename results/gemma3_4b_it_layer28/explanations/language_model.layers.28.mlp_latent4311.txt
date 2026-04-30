@@ -1,0 +1,1 @@
+"Various time expressions, including times of day, dates, and durations, often in a format that includes hours, minutes, and sometimes seconds."

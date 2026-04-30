@@ -1,0 +1,1 @@
+"Texts containing time-related information, including time zones, dates, and times, often in the format of GMT or UTC, and sometimes accompanied by geographical locations."

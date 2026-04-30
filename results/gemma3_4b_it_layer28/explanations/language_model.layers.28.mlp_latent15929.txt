@@ -1,0 +1,1 @@
+"Text fragments that are not part of the main content, such as comments, instructions, and metadata, often containing information about user interactions, moderation, and formatting."

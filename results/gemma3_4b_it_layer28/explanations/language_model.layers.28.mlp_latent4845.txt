@@ -1,0 +1,1 @@
+"Text segments enclosed by delimiters often represent a complete sentence or a phrase with a specific meaning, and sometimes contain proper nouns or specific information."

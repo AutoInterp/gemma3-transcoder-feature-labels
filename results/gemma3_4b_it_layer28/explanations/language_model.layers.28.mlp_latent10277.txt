@@ -1,0 +1,1 @@
+"Shell scripts and commands, primarily written in Bash, with various system administration tasks, file operations, and network interactions."

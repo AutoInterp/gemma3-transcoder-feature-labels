@@ -1,0 +1,1 @@
+"Text describing geometric concepts, including polygons, polyhedra, edges, vertices, and spatial relationships, often in the context of computer graphics, mathematics, and geography."

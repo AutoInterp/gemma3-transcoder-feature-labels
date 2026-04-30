@@ -1,0 +1,1 @@
+"Texts describing technical issues, errors, and solutions, often related to software, hardware, and network problems, including error messages, troubleshooting steps, and potential causes."

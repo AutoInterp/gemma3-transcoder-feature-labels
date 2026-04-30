@@ -1,0 +1,1 @@
+"Text fragments often contain citations, references, or metadata, such as author names, publication dates, and locations, which are typically denoted by specific keywords or phrases."

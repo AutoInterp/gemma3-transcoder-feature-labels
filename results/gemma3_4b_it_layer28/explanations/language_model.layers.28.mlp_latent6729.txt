@@ -1,0 +1,1 @@
+"Texts often contain idiomatic expressions, proper nouns, and technical terms, which can be identified by their unique activation patterns. Additionally, the presence of commas and other punctuation marks can indicate a pause or separation in thought, while certain phrases or sentences may be used to convey a sense of irony or contradiction."

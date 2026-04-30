@@ -1,0 +1,1 @@
+"Various programming languages, data structures, and mathematical concepts, as well as technical terms from fields like computer science, biology, and finance, often appearing in code snippets or technical descriptions."

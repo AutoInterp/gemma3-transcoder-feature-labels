@@ -1,0 +1,1 @@
+"Text contains a mix of various data types, including numbers, dates, times, and text, often in a format that is not strictly grammatical or idiomatic."

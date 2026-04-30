@@ -1,0 +1,1 @@
+"The token \"low\" is used to describe a range of concepts, including physical quantities (e.g. temperature, frequency, power), economic or financial aspects (e.g. cost, price, wages), and social or cultural contexts (e.g. social status, behavior)."

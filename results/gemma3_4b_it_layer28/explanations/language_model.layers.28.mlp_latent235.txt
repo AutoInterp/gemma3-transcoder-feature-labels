@@ -1,0 +1,1 @@
+"Texts describing technical topics, including programming, software development, and data processing, often referencing specific tools, frameworks, and languages such as Python, C++, Java, and Swift."

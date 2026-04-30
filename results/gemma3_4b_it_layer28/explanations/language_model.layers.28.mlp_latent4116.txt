@@ -1,0 +1,1 @@
+"Various technical and programming-related terms, including function names, variable names, and database table names, often in the context of explaining or documenting code."

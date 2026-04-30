@@ -1,0 +1,1 @@
+"Texts containing programming commands, instructions, and code snippets, often related to version control systems like Git, package management, and software development."

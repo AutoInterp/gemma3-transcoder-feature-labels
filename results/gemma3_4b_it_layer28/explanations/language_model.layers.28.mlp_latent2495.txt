@@ -1,0 +1,1 @@
+"Texts in multiple languages, including Spanish, Portuguese, and English, with various formats such as paragraphs, code snippets, and XML elements. The presence of special characters, accents, and non-ASCII characters is notable."

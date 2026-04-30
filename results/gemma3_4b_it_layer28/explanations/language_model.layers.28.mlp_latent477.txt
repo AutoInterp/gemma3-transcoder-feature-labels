@@ -1,0 +1,1 @@
+"Texts often contain phrases that are repeated or referenced in a previous part of the text, such as \"Please see the previous question\" or \"as it was said before\". This suggests that the text is structured to facilitate easy reference and understanding, possibly for educational or informative purposes."

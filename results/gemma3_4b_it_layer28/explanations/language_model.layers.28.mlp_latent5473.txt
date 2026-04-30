@@ -1,0 +1,1 @@
+"Technical descriptions of computer networking concepts, including IP addresses, subnets, and network protocols, often accompanied by explanations of security measures and encryption methods."

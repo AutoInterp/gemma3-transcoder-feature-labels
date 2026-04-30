@@ -1,0 +1,1 @@
+"Texts from various sources, including news articles, books, and online content, with a focus on extracting specific words or phrases. The extracted words or phrases often relate to geographical locations, names, and technical terms, indicating a pattern of extracting relevant information from text."

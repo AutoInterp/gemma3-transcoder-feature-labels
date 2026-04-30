@@ -1,0 +1,1 @@
+"The dependency inversion principle, a design principle in software development that states high-level modules should not depend on low-level modules, but both should depend on abstractions."

@@ -1,0 +1,1 @@
+"The token \"user\" is often used to refer to a person interacting with a system, application, or website, and is frequently associated with concepts such as profiles, settings, experience, and interface."

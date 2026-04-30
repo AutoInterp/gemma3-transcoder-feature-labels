@@ -1,0 +1,1 @@
+"Texts containing French diacritical marks, such as accents, cedillas, and trémas, often used in loanwords or proper nouns."

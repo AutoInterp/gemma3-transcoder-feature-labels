@@ -1,0 +1,1 @@
+"HTML tags used for formatting text, including links, bold and big text, and line breaks, as well as other markup languages such as XML and LaTeX."

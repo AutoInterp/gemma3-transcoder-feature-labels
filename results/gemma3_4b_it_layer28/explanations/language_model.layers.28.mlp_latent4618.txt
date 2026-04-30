@@ -1,0 +1,1 @@
+"Code snippets and technical documentation, including programming languages (e.g., PHP, MySQL), software applications (e.g., Photoshop, Xcode), and operating systems (e.g., Windows, Linux, macOS)."

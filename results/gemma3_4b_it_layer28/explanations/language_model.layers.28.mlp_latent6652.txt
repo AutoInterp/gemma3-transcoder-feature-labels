@@ -1,0 +1,1 @@
+"Code snippets and programming-related text, including comments, method descriptions, and variable explanations, often in a programming language such as Java, Ruby, or C#."

@@ -1,0 +1,1 @@
+"Text contains mathematical and scientific concepts, including equations, formulas, and technical terms, often with specific numerical values or ranges, such as zero, infinity, or percentages."

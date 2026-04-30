@@ -1,0 +1,1 @@
+"Various phrases and sentences that are likely to be database table or column names, SQL queries, or programming code, often containing keywords related to data management, security, and system administration."

@@ -1,0 +1,1 @@
+"Texts often contain phrases that are grammatically correct but semantically unusual, such as phrases that are longer than necessary or contain unnecessary words, often used for emphasis or to create a specific tone."

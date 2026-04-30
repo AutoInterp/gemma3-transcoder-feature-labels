@@ -1,0 +1,1 @@
+"Various code snippets from different programming languages, including Go, Python, and JavaScript, showcasing mathematical operations, data structures, and algorithms, such as finding the highest common factor (HCF), least common multiple (LCM), and generating palindromic numbers."

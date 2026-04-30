@@ -1,0 +1,1 @@
+"Texts from various programming languages, including SQL, JavaScript, PHP, and others, containing code snippets, comments, and variable names, indicating a collection of programming-related examples and explanations."

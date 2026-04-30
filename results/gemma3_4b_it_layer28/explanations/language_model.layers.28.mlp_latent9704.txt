@@ -1,0 +1,1 @@
+"URLs and file paths, often used to provide links to external resources or specify locations of files."

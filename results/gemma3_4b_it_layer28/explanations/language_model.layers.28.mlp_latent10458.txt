@@ -1,0 +1,1 @@
+"Technical descriptions of processes, systems, and software development principles, often referencing specific techniques, patterns, and best practices."

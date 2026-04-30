@@ -1,0 +1,1 @@
+"Code snippets and instructions often begin with a command or a conditional statement, frequently starting with a keyword such as \"if\", \"then\", or \"see\"."

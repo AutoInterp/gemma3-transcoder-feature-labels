@@ -1,0 +1,1 @@
+"Text snippets containing programming-related concepts, technical terms, and code examples, often from various programming languages and domains, including computer science, software development, and data structures."

@@ -1,0 +1,1 @@
+"Texts often contain proper nouns representing geographical locations, names of organizations, and specific events, which are frequently accompanied by dates and other relevant details."

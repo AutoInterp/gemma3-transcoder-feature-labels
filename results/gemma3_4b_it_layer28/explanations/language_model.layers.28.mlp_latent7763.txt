@@ -1,0 +1,1 @@
+"Text snippets often contain specific information, such as names, dates, locations, and technical terms, which are frequently highlighted or enclosed in special markers."

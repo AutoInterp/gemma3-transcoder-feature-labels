@@ -1,0 +1,1 @@
+"Texts describing technical issues, errors, and solutions, often including troubleshooting steps and explanations of complex concepts."

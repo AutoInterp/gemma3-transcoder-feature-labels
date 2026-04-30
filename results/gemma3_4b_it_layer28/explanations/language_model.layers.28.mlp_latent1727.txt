@@ -1,0 +1,1 @@
+"Text fragments that are not part of the main content, often containing technical information, specifications, or additional details, frequently found at the end of a paragraph or section."

@@ -1,0 +1,1 @@
+"Text primarily discussing linear concepts and relationships in mathematics, statistics, and computer science, including linear regression, linear algebra, linear sequences, and linear transformations."

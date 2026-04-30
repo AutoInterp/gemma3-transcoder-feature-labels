@@ -1,0 +1,1 @@
+"Texts containing geographical locations, names of people, and titles of books, articles, or songs, often accompanied by numerical data, such as population figures or distances."

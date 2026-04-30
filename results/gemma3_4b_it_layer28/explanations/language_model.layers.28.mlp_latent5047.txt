@@ -1,0 +1,1 @@
+"R code snippets with various statistical and data analysis functions, including time series analysis, regression, and Bayesian modeling, with a focus on smoothing and estimation of parameters."

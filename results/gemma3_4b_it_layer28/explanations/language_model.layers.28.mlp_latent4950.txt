@@ -1,0 +1,1 @@
+"Long strings of numbers, often representing identifiers, addresses, or other unique codes, frequently found in programming code, contact information, and other formal or technical contexts."

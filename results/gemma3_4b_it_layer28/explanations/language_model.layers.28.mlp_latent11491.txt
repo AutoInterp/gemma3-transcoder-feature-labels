@@ -1,0 +1,1 @@
+"Code snippets and programming-related text, including comments, function definitions, and variable names, often in a mix of languages such as Ruby, Python, and Java."

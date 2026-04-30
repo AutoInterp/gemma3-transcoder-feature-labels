@@ -1,0 +1,1 @@
+"Text fragments often containing geographical locations, proper nouns, and specific names, which are likely to be extracted or highlighted for further analysis or processing."

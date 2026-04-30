@@ -1,0 +1,1 @@
+"Dates and years in the format of \"month day, year\" or \"year\" are often found at the beginning of a text snippet, possibly indicating a reference or citation."

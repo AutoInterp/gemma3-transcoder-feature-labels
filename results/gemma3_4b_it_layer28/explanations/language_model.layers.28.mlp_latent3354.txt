@@ -1,0 +1,1 @@
+"Text snippets that appear to be code or programming-related comments, often containing variable names, function calls, and mathematical expressions."

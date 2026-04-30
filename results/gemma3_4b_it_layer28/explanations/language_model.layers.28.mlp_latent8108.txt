@@ -1,0 +1,1 @@
+"Texts discussing color theory, color representation, and color-related concepts, including color models (RGB, CMYK, HSB), color blindness, and color schemes."

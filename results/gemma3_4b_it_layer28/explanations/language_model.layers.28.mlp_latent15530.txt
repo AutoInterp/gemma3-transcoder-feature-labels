@@ -1,0 +1,1 @@
+"Geographic locations, specifically place names, addresses, and park names, often used as context for events or descriptions."

@@ -1,0 +1,1 @@
+"Various types of text, including code snippets, mathematical equations, and plain text, with a focus on extracting specific information or patterns from the text."

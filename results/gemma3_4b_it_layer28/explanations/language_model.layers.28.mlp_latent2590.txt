@@ -1,0 +1,1 @@
+"Text snippets often containing lists of items, ingredients, or other enumerations, sometimes with formatting or code examples."

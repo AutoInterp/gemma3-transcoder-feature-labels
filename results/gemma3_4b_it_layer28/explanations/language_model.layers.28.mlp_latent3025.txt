@@ -1,0 +1,1 @@
+"HTML5 elements and attributes used for structuring and styling web pages, including semantic elements, meta tags, CSS selectors, and accessibility features."

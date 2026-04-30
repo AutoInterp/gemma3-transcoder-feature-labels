@@ -1,0 +1,1 @@
+"Shell scripts and programming code snippets in various programming languages, including bash, ruby, and PHP, with a focus on system administration, file manipulation, and error handling."

@@ -1,0 +1,1 @@
+"Code snippets and programming concepts, including class inheritance, method overriding, and object-oriented programming principles, as well as programming languages such as Python and JavaScript."

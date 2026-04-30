@@ -1,0 +1,1 @@
+"Various types of text, including academic papers, technical documents, and articles, often contain specific phrases or sentences that are formatted differently, such as titles, headings, and citations, which are associated with higher activation values."

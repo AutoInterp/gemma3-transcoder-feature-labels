@@ -1,0 +1,1 @@
+"Phrases and sentences that are often at the end of a paragraph or article, providing additional information, context, or a quote from an expert, often with a lower activation score compared to the rest of the text."

@@ -1,0 +1,1 @@
+"Various programming-related terms, database schema, and technical descriptions, including function and method names, variable names, and data structures."

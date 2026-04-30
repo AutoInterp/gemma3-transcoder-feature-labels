@@ -1,0 +1,1 @@
+"Texts often contain specific numbers and quantities, such as ages, distances, times, and amounts, which are used to provide context and convey information."

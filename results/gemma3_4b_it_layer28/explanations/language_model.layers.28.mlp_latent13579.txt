@@ -1,0 +1,1 @@
+"Loops iterating over a range of indices, often used for array or list traversal, and conditional statements checking for certain conditions."

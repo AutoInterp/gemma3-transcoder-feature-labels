@@ -1,0 +1,1 @@
+"Texts describing technical issues, solutions, and explanations, often in a formal or instructional tone, frequently including programming code, mathematical equations, and technical jargon."

@@ -1,0 +1,1 @@
+"Ranges of numerical values, often representing prices, quantities, or amounts, frequently used in financial, scientific, or technical contexts."

@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are not directly related to the main topic, but rather serve as tangential information, such as product descriptions, advertisements, or unrelated quotes. These phrases are often separated from the main text by a delimiter, indicating a shift in context."

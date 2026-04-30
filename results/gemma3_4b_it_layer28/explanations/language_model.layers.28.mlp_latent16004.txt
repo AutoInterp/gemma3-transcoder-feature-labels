@@ -1,0 +1,1 @@
+"The term \"feature\" is used to describe various concepts, including document characteristics, text embeddings, and application functionalities, often in the context of machine learning, web development, and data analysis."

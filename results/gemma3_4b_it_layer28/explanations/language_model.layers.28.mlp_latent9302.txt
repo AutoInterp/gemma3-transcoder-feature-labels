@@ -1,0 +1,1 @@
+"Text contains a mix of geographical locations, names of people, institutions, and artworks, along with various types of text such as articles, book titles, and quotes. The text also includes technical terms and jargon from fields like mathematics, computer science, and medicine."

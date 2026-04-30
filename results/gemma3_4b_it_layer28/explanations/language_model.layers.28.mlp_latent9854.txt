@@ -1,0 +1,1 @@
+"Texts containing programming-related terms, concepts, and code snippets from various programming languages, including VBA, VBScript, VST, VBA, Varray, VNode, and others."

@@ -1,0 +1,1 @@
+"Various types of delimiters and punctuation marks, including commas, periods, and quotation marks, often used to separate or enclose specific information, such as file names, URLs, or image references."

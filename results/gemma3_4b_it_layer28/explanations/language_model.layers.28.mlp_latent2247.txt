@@ -1,0 +1,1 @@
+"The token \"c\" appears frequently in various contexts, often as an abbreviation or prefix for words related to computer science, programming languages (e.g., C, C++, C#), and technical terms (e.g., C-states, CINV, CROWD)."

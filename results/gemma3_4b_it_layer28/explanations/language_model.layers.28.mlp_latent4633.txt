@@ -1,0 +1,1 @@
+"Texts describing various strategies to prevent or mitigate issues such as errors, bugs, crashes, and damage, often related to software development, electrical systems, and physical safety."

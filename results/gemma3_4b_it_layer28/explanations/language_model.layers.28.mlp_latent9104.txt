@@ -1,0 +1,1 @@
+"Texts describing technical instructions, programming concepts, and software usage, often including code snippets, API documentation, and troubleshooting guides."

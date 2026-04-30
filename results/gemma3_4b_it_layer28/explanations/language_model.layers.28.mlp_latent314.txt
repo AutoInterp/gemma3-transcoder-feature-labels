@@ -1,0 +1,1 @@
+"Texts containing programming code, commands, and scripts in various programming languages, including shell, Python, Ruby, and others, often with explanations and examples."

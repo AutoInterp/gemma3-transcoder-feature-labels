@@ -1,0 +1,1 @@
+"Texts that are often fragmented, with multiple sentences or phrases separated by a delimiter, and sometimes followed by a quotation mark."

@@ -1,0 +1,1 @@
+"Mathematical and programming concepts, including equations, algorithms, and data structures, often represented using LaTeX and programming languages such as C++ and Python."

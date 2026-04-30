@@ -1,0 +1,1 @@
+"Technical text discussing color theory, image processing, and digital photography, with a focus on color spaces, gamma correction, and image quality."

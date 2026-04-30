@@ -1,0 +1,1 @@
+"Perl and Ruby code snippets with various syntax and functions, including string manipulation, array operations, and conditional statements."

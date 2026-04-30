@@ -1,0 +1,1 @@
+"Various programming and configuration files, including shell scripts, configuration files, and XML files, with a focus on paths, directories, and file names."

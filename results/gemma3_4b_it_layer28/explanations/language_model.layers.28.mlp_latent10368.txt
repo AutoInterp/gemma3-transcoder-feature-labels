@@ -1,0 +1,1 @@
+"Geographic locations, property descriptions, and measurements."

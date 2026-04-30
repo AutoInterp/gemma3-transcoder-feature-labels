@@ -1,0 +1,1 @@
+"Texts often contain phrases that are set apart from the rest of the text, which may be explanations, disclaimers, or additional information. These phrases are sometimes used to provide context or clarify a point, and are often set off from the main text with a blank line or a change in formatting."

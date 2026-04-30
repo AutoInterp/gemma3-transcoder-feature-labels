@@ -1,0 +1,1 @@
+"Texts describing licenses and permissions for software, open-source projects, and digital content, often referencing specific license types such as MIT, Apache, GNU General Public License, and Creative Commons."

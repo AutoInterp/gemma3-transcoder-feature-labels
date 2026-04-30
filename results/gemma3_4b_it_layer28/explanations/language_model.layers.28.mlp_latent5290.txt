@@ -1,0 +1,1 @@
+"Numbers representing monetary values, quantities, or sizes, often used for comparison or to convey information about objects, events, or processes."

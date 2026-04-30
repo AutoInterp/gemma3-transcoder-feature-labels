@@ -1,0 +1,1 @@
+"Book or article citations in the format of \"Title. Author. Page number. ISBN\" often found at the end of a paragraph or section."

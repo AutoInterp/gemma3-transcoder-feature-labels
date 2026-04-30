@@ -1,0 +1,1 @@
+"Text contains a mix of mathematical expressions, formulas, and programming code, often related to probability, statistics, and algebra."

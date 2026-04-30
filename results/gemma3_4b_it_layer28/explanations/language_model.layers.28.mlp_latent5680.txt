@@ -1,0 +1,1 @@
+"Text snippets containing programming code, database queries, and SQL commands, as well as fragments of web development frameworks, APIs, and software documentation."

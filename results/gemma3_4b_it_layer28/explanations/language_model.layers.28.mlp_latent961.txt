@@ -1,0 +1,1 @@
+"Text describing various programming concepts, data formats, and network protocols, including character encoding, URI internationalization, and database schema definitions."

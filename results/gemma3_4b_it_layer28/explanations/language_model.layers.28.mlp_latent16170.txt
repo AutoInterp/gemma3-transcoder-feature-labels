@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, primarily used to illustrate logical operations, conditional statements, and function behaviors."

@@ -1,0 +1,1 @@
+"Texts in Spanish and English, mostly related to programming, computer science, and various topics, with some examples of code in Java, Python, and other languages."

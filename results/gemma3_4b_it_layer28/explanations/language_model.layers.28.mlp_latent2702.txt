@@ -1,0 +1,1 @@
+"Technical text discussing computer hardware, software, and operating systems, specifically focusing on bootloaders, BIOS, and recovery processes."

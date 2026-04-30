@@ -1,0 +1,1 @@
+"Code snippets and error messages from various programming languages, including Python, PHP, JavaScript, and SQL, often containing syntax errors, attribute errors, or other issues."

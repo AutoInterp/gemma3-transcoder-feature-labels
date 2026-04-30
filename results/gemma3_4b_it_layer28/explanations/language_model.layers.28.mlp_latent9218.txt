@@ -1,0 +1,1 @@
+"Numbers representing percentages, monetary values, and measurements, often used in financial, scientific, and everyday contexts."

@@ -1,0 +1,1 @@
+"Texts containing geographical locations, names of people, and specific events, often accompanied by numerical data, measurements, and technical information."

@@ -1,0 +1,1 @@
+"Texts often contain phrases indicating a transition or a change in context, such as \"by category\", \"depending on\", \"depending on the context\", and \"depending on the amount of money\". These phrases signal a shift in the discussion or a consideration of multiple factors."

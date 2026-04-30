@@ -1,0 +1,1 @@
+"Texts discussing IP addresses, their types (public, private), and related concepts such as CIDR notation, subnet masks, and VPNs."

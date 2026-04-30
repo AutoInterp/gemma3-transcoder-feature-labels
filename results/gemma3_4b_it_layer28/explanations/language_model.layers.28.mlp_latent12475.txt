@@ -1,0 +1,1 @@
+"Texts containing error messages, warnings, or explanations of technical issues, often including code snippets, debugging information, or instructions for troubleshooting."

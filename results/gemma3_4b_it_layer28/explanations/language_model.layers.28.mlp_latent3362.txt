@@ -1,0 +1,1 @@
+"Numerical ordinal indicators (1st, 2nd, 3rd, etc.) used to describe position, ranking, or sequence."

@@ -1,0 +1,1 @@
+"Texts often contain proper nouns, such as names of people, places, and organizations, which are frequently capitalized. Additionally, technical terms and jargon from various fields, including science, medicine, and technology, are commonly used and may be highlighted due to their importance in the context."

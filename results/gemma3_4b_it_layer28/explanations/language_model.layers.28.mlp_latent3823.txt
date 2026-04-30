@@ -1,0 +1,1 @@
+"Texts often contain phrases that are set apart from the rest of the text, typically indicating a shift in narrative, a change in scene, or a new idea being introduced. These phrases often have a higher activation value, suggesting that they are more significant or meaningful in the context of the text."

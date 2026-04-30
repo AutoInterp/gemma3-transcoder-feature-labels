@@ -1,0 +1,1 @@
+"Text fragments that appear to be links or references, often containing additional information or context, and sometimes used to provide navigation or search functionality."

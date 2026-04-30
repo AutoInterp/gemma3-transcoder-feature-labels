@@ -1,0 +1,1 @@
+"Code snippets, specifically Java code, with variable names, class names, and method calls, often used in a programming context."

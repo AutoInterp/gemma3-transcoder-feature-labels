@@ -1,0 +1,1 @@
+"Various numerical values and units, often representing quantities, measurements, or amounts, such as calories, hours, pounds, and frequencies."

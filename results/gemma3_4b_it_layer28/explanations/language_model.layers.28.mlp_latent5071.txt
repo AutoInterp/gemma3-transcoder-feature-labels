@@ -1,0 +1,1 @@
+"Numerical data, often in the form of lists or sequences, representing various types of information such as measurements, statistics, or financial data."

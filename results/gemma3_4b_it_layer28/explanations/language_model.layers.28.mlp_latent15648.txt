@@ -1,0 +1,1 @@
+"The token \"drag\" is often used in the context of interacting with graphical user interfaces, such as moving objects, resizing elements, or navigating through menus."

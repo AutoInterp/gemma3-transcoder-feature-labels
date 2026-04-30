@@ -1,0 +1,1 @@
+"Texts are code snippets from programming languages, likely Python, with comments and docstrings explaining the purpose and functionality of the code."

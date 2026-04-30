@@ -1,0 +1,1 @@
+"Texts describing various concepts, techniques, and technologies related to image processing, computer vision, and data analysis, often accompanied by references to academic papers, images, and real-world applications."

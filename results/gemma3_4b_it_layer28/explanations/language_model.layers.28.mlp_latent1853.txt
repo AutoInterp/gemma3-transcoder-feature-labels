@@ -1,0 +1,1 @@
+"The presence of vowels in a word triggers the addition of \"way\" to the end, and the token \"er\" is added to the end of comparative adjectives describing size."

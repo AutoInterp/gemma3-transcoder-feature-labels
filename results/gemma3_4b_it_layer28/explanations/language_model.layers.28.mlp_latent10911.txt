@@ -1,0 +1,1 @@
+"Numerical values representing distances, temperatures, altitudes, and sizes, often used in scientific or everyday contexts to describe physical properties or measurements."

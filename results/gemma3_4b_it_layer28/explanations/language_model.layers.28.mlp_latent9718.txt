@@ -1,0 +1,1 @@
+"Texts that describe troubleshooting or problem-solving steps, often with a focus on technical issues, and frequently include phrases that indicate a pause or a step in the process, such as \"if this happens\", \"then you should\", or \"try this\"."

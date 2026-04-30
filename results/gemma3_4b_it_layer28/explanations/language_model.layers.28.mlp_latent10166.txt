@@ -1,0 +1,1 @@
+"Texts often contain product descriptions, instructions, or explanations that are enclosed in quotation marks or appear as standalone paragraphs, sometimes with a title or a heading."

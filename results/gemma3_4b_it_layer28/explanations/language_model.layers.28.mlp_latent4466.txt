@@ -1,0 +1,1 @@
+"Various numerical values, dates, and units of measurement, often used in scientific, technical, or statistical contexts."

@@ -1,0 +1,1 @@
+"Texts are mostly in Russian and English, and contain a mix of programming code, technical documentation, and general information on various topics, including computer science, software development, and design."

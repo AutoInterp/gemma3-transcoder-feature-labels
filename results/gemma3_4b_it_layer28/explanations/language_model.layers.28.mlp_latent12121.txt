@@ -1,0 +1,1 @@
+"The token \"model\" is often used to refer to a conceptual representation, a system, or a pattern, and is frequently found in contexts related to design, development, and analysis, such as software, economics, and science."

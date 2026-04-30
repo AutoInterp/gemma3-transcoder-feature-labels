@@ -1,0 +1,1 @@
+"Technical documentation and programming code snippets, often with specific commands, options, and syntax highlighting."

@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including Python, R, and others, with a focus on mathematical and scientific applications, as well as web development and data analysis."

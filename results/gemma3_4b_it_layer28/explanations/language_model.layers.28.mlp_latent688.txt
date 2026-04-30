@@ -1,0 +1,1 @@
+"Dates in the format of year followed by a two or four digit number, often with additional information such as month, day, or time."

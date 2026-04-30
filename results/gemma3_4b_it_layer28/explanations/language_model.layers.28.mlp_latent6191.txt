@@ -1,0 +1,1 @@
+"Texts containing URLs, email addresses, IP addresses, and other technical information, often in the context of programming, hosting, or online services."

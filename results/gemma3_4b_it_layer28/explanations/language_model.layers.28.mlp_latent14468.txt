@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are set apart from the rest of the text, usually to convey a sense of quotation, emphasis, or a change in tone, and are often followed by a lower activation score for the surrounding text."

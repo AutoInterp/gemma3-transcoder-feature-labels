@@ -1,0 +1,1 @@
+"Textual representations of various data types, including hexadecimal codes, RGB color values, URLs, API keys, programming code snippets, and mathematical formulas, often used in technical contexts such as software development, data analysis, and scientific research."

@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including comments, function definitions, and example usage, often with a focus on specific libraries or frameworks."

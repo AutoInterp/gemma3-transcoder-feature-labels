@@ -1,0 +1,1 @@
+"Numbers representing financial values, such as salaries, costs, prices, and revenue, often used in the context of personal finance, business, and economics."

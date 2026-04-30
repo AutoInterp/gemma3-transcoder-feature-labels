@@ -1,0 +1,1 @@
+"Various types of citations, references, and links, often in the format of a DOI or a URL, frequently appearing at the end of a text block."

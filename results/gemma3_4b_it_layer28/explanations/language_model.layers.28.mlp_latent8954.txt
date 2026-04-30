@@ -1,0 +1,1 @@
+"Various numerical values, including measurements, quantities, and prices, often in scientific notation or hexadecimal format, as well as RGB and CMYK color values."

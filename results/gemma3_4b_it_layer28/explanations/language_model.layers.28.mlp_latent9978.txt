@@ -1,0 +1,1 @@
+"Text fragments that appear to be cut from other sources, such as articles, books, or websites, and inserted into the current text."

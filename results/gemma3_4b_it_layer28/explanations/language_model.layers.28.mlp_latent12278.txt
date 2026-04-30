@@ -1,0 +1,1 @@
+"Text containing HTML or CSS code, color codes in various formats (hex, RGB, HSB), and URLs, often used to describe technical concepts or provide examples."

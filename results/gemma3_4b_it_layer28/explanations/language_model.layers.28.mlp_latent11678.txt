@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are not directly related to the main topic, such as author information, advertisements, or unrelated quotes, which are typically separated from the main content by a blank line."

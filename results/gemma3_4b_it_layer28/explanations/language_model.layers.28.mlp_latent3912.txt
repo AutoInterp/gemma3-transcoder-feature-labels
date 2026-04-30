@@ -1,0 +1,1 @@
+"Text samples from programming documentation, tutorials, and code snippets, showcasing various programming languages, syntax, and commands."

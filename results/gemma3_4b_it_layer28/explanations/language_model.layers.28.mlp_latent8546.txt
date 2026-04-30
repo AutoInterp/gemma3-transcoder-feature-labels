@@ -1,0 +1,1 @@
+"Email addresses, telephone numbers, and other personal information are often redacted or omitted from text, while specific phrases or sentences containing sensitive information are sometimes replaced with ellipses."

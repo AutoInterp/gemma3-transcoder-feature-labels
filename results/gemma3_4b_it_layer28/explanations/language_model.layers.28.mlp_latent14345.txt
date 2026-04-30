@@ -1,0 +1,1 @@
+"Various numerical values and ranges, often representing measurements, prices, or quantities, frequently accompanied by units of measurement or descriptive text."

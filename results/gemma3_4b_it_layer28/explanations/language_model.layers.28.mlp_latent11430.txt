@@ -1,0 +1,1 @@
+"URLs and image sources, often used as attributes or properties in code snippets."

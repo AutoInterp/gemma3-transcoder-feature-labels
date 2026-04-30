@@ -1,0 +1,1 @@
+"Texts describing advanced mathematical concepts, specifically differential geometry, topology, and algebraic geometry, with a focus on Riemannian manifolds, fiber bundles, and ordinals."

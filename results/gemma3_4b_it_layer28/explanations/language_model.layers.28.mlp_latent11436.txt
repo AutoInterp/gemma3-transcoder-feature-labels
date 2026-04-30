@@ -1,0 +1,1 @@
+"Texts discussing object-oriented programming concepts, inheritance, encapsulation, and the benefits of a simple and reliable system."

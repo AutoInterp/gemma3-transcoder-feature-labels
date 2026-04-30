@@ -1,0 +1,1 @@
+"File extensions and file types, including executable files (.exe), configuration files (.bat, .aspx), and data files (.css, .db, .wav), as well as file paths and locations on a computer."

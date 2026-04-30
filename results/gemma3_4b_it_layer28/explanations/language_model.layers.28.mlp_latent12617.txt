@@ -1,0 +1,1 @@
+"MySQL database management and query commands, including table structure, data export, and SQL queries."

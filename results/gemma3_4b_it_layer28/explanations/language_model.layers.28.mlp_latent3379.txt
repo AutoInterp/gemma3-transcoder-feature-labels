@@ -1,0 +1,1 @@
+"Text describing various file formats, image processing, and data conversion, including explanations of technical terms and concepts related to computer programming, image editing, and data serialization."

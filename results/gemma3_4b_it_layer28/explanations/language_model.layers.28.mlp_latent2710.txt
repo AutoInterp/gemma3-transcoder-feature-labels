@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including C, C++, Python, JavaScript, and others, often containing function definitions, variable declarations, and conditional statements."

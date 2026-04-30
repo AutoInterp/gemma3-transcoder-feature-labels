@@ -1,0 +1,1 @@
+"Code snippets, specifically Java or Spring code, enclosed in a specific format, often indicating a block of code or a comment."

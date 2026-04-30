@@ -1,0 +1,1 @@
+"Closing brackets and parentheses in programming code, often used to denote the end of a block of code or a function call."

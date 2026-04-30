@@ -1,0 +1,1 @@
+"Texts often contain quotes, titles, and proper nouns, which are frequently highlighted in the given examples. Additionally, there are instances of idiomatic expressions, comparisons, and scientific explanations, which are sometimes presented in a formal or technical tone."

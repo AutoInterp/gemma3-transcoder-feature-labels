@@ -1,0 +1,1 @@
+"Time expressions and schedules, including hours of operation, event times, and deadlines, often in a 12-hour format (e.g., 9:30 AM, 5:00 PM)."

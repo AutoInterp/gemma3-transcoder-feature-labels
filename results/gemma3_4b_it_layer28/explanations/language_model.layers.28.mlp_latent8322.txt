@@ -1,0 +1,1 @@
+"Texts with low activation values are likely to be informative or neutral passages, often containing factual information or explanations. In contrast, passages with higher activation values often contain idiomatic expressions, colloquialisms, or figurative language, which may be used to convey emotions, opinions, or personal experiences."

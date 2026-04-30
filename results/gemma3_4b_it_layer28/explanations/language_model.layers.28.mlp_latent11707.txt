@@ -1,0 +1,1 @@
+"Text snippets often contain dates, URLs, and technical information, such as programming code, mathematical formulas, and color information, which are frequently embedded within larger blocks of text."

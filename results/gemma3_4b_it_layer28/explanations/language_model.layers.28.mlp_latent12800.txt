@@ -1,0 +1,1 @@
+"Text fragments that appear to be the end of a sentence or a quotation, often preceding a new sentence or a list of items."

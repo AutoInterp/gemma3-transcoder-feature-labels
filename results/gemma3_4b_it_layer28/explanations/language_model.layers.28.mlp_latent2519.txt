@@ -1,0 +1,1 @@
+"Texts related to programming, data analysis, and database management, including SQL queries, data structures, and algorithmic concepts."

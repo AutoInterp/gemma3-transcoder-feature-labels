@@ -1,0 +1,1 @@
+"The token \"as\" is used to indicate a duration, frequency, or extent of time, often in phrases such as \"as long as\", \"as often as\", \"as quickly as\", and \"as rapidly as\"."

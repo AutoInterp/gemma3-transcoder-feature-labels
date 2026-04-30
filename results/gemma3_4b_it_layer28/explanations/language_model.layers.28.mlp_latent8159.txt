@@ -1,0 +1,1 @@
+"Various mathematical and programming expressions, including equations, algorithms, and data processing operations, often involving variables, arrays, and loops."

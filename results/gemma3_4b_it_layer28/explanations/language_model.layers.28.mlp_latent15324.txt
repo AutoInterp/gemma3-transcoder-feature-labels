@@ -1,0 +1,1 @@
+"Texts containing geographical locations, names of places, and addresses, often used to provide context or specify a location."

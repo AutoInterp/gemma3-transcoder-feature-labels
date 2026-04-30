@@ -1,0 +1,1 @@
+"Texts often contain instructions or guidelines that require a specific sequence of operations, such as writing a paper, sorting data, or following a process. This sequence is often presented in a step-by-step format, with each step building upon the previous one to achieve a desired outcome."

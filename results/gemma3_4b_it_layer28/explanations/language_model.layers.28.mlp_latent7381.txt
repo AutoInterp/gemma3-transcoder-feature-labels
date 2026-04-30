@@ -1,0 +1,1 @@
+"Text snippets often appear at the end of a line, denoted by a number or a special character, and are likely to be file names, page numbers, or other metadata."

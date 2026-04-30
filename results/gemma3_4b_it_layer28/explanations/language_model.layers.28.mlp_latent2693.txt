@@ -1,0 +1,1 @@
+"Texts describing colors, color codes, and color-related concepts, including hexadecimal codes, RGB values, and color mixing."

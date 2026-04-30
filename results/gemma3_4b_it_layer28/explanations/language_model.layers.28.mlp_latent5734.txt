@@ -1,0 +1,1 @@
+"The token \"Ed\" or \"Eds\" appears frequently in the text, often as part of proper nouns, such as names (e.g., Ed Sullivan, Ed Gabel, Ed Uthman, Ed Warner, Ed Pentin, Ed Uthman, Edward, Eddy, Edda, etc.) or abbreviations (e.g., Ed.D., Ed.D.)."

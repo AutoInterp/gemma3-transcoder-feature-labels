@@ -1,0 +1,1 @@
+"Texts discussing technical concepts, programming, and computer science, with a focus on algorithms, data structures, and software development."

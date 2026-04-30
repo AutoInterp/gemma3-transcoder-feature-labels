@@ -1,0 +1,1 @@
+"Various programming code snippets, including SQL, Java, Python, and C++, as well as text from academic papers, articles, and books, and some configuration files."

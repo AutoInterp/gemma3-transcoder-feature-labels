@@ -1,0 +1,1 @@
+"Large blocks of text describing complex concepts, often technical or scientific, with low activation values for most tokens, indicating that the text is primarily composed of background information or context."

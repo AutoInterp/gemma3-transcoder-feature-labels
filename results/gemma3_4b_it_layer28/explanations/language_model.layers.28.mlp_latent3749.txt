@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, primarily Python and PHP, related to image processing, manipulation, and display, including functions for image resizing, cropping, and filtering, as well as GUI elements for buttons and labels."

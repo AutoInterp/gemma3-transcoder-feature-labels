@@ -1,0 +1,1 @@
+"Texts containing various types of data, including dates, times, locations, and numerical values, often in a structured format, such as XML or HTML, and sometimes in a mixed format with free text."

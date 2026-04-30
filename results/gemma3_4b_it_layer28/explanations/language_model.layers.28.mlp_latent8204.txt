@@ -1,0 +1,1 @@
+"The token \"100\" and its variations (\"1000\", \"100%\") appear frequently in the text, often in contexts related to quantities, measurements, or specific numbers."

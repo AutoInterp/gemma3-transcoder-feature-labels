@@ -1,0 +1,1 @@
+"A collection of color codes in various formats, including hexadecimal, RGB, and CIE-LAB, often used in programming and design contexts."

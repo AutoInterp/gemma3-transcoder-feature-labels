@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, primarily demonstrating object-oriented programming (OOP) concepts such as inheritance, polymorphism, and interface implementation."

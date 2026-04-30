@@ -1,0 +1,1 @@
+"Texts containing various types of data, including numbers, dates, and hexadecimal color codes, often in the context of technical or informative content."

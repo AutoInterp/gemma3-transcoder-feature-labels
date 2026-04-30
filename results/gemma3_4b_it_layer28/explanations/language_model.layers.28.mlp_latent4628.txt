@@ -1,0 +1,1 @@
+"The token \"is\" is used in various contexts, including as a prefix for functions or methods checking properties or conditions, such as primality, string validity, or consonance, and also as a keyword in programming language syntax."

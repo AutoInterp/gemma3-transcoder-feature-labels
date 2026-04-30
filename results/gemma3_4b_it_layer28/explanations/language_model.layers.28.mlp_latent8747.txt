@@ -1,0 +1,1 @@
+"Text snippets containing HTML links, code snippets, and mathematical equations, often used to provide additional information or context."

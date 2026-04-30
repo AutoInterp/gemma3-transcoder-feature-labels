@@ -1,0 +1,1 @@
+"Texts often contain addresses, business names, and phone numbers, which are frequently embedded within larger blocks of text describing various topics such as travel, science, shopping, and news."

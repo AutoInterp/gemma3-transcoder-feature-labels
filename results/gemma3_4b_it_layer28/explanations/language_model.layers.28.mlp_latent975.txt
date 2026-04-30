@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are not essential to the main meaning, but provide additional information or context, such as descriptions, explanations, or examples. These phrases are often set apart from the main text and can be identified by their lower activation values, indicating that they are less crucial to the overall meaning."

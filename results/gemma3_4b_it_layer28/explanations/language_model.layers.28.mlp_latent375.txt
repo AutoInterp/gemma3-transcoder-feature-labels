@@ -1,0 +1,1 @@
+"Various programming languages and code snippets, including SQL, C++, Java, Python, and JavaScript, with a focus on syntax and data structures."

@@ -1,0 +1,1 @@
+"Texts often contain phrases and sentences that are separated by a transition word or phrase, such as \"from the\", \"during the regular\", or \"as we age\". These phrases often serve to introduce a new idea or concept, and are often used to connect ideas or provide context."

@@ -1,0 +1,1 @@
+"Texts containing phrases or sentences that appear to be cut off or truncated, often with a ellipsis (...) or a mention of \"Did you mean:\", indicating a possible error or incomplete information."

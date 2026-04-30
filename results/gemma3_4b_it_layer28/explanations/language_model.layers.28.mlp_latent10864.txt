@@ -1,0 +1,1 @@
+"Text fragments containing geographical locations, names of people, institutions, and dates, often serving as context for the main topic."

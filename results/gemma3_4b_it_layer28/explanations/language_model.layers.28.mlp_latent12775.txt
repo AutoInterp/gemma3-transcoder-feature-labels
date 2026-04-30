@@ -1,0 +1,1 @@
+"Ranges of values, prices, or quantities, often used to describe variability or uncertainty, frequently found in contexts such as financial transactions, measurements, or demographic data."

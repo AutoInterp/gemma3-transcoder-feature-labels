@@ -1,0 +1,1 @@
+"Phrases and sentences that are incomplete or truncated, often due to the presence of a delimiter or a cut-off point in the text."

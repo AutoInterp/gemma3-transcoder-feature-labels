@@ -1,0 +1,1 @@
+"Dates and time periods in various formats, often used to provide context or specify a range of years, months, or days."

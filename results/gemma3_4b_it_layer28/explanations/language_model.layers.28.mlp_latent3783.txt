@@ -1,0 +1,1 @@
+"Numerical values representing monetary amounts, percentages, and quantities, often used in financial, economic, and statistical contexts."

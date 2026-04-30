@@ -1,0 +1,1 @@
+"Technical documentation and tutorials on various programming languages, frameworks, and tools, including PHP, Java, MySQL, Apache, and more, with a focus on configuration, installation, and troubleshooting."

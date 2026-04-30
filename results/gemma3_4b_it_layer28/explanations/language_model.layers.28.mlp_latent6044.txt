@@ -1,0 +1,1 @@
+"Text primarily discussing TCP (Transmission Control Protocol) and its characteristics, including connection-oriented and connectionless networking, with a focus on technical details and implementation."

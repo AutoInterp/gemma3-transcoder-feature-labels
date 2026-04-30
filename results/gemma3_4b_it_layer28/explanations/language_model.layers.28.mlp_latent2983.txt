@@ -1,0 +1,1 @@
+"Technical descriptions of audio and video signal processing, transmission, and analysis, including concepts such as waveform, signal encoding, decoding, and synchronization, as well as discussions of audio equipment and software."

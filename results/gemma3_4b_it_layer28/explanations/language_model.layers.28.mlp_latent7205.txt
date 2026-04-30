@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are followed by a pause or a transition, such as a date, a title, or a change in topic, which are often marked by a phrase like \"followed by the date\" or \"anyways lets get right on into it\"."

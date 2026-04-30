@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are not capitalized, but the first word following a specific clause or punctuation mark is capitalized."

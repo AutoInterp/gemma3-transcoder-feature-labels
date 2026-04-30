@@ -1,0 +1,1 @@
+"Various programming-related text, including code snippets, documentation comments, and error messages, often in a context of web development and Ruby programming."

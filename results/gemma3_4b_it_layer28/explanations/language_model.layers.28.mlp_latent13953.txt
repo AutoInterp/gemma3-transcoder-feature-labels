@@ -1,0 +1,1 @@
+"Annotations used in Java-based Spring framework for defining RESTful APIs, handling HTTP requests, and configuring dependencies."

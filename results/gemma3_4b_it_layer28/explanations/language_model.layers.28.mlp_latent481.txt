@@ -1,0 +1,1 @@
+"Texts often contain phrases that direct the reader to take action, seek help, or provide additional information, such as \"Please see the previous question\", \"Please try\", \"Please reach out for help\", and \"Please call us at\"."

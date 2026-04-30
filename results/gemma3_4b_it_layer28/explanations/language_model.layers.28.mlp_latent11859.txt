@@ -1,0 +1,1 @@
+"Various phrases and sentences that are likely to be extracted or removed from a text due to their lack of relevance or importance, often containing dates, times, URLs, or technical details."

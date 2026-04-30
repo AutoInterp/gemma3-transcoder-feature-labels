@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that have been cut off or truncated, with the remaining part of the sentence continuing on a new line."

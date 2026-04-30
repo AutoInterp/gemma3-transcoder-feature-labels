@@ -1,0 +1,1 @@
+"Code snippets in various programming languages, including HTML, CSS, JavaScript, Ruby, C#, and others, often used to illustrate examples or provide solutions to specific problems."

@@ -1,0 +1,1 @@
+"Text contains various numerical ranges, often used to describe measurements, time intervals, or statistical data."

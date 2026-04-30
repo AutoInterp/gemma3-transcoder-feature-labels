@@ -1,0 +1,1 @@
+"Addresses and locations, often in the format of \"number street name, city, postcode country\", are frequently found in the text."

@@ -1,0 +1,1 @@
+"Time and date expressions, including specific times, dates, and durations, often in the format of 24-hour clock, and sometimes accompanied by additional information such as years, months, or days."

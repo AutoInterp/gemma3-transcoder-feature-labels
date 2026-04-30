@@ -1,0 +1,1 @@
+"Various types of text data, including dates, times, locations, and other metadata, often in a structured format, frequently found in informational or instructional contexts."

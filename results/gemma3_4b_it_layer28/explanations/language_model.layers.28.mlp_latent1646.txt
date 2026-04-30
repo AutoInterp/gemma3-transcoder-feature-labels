@@ -1,0 +1,1 @@
+"Text fragments enclosed in angle brackets << >>, often containing URLs, email addresses, code snippets, or other technical information, and sometimes used to denote a quotation or a specific section of text."

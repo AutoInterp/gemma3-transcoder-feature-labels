@@ -1,0 +1,1 @@
+"Various dates and years, often in the format of a range (e.g. 1791-1866, 1837-1838, 1800s, 1940's, 1950's, 1960's, 1975, 1980s, 1990s, 2006, 2012, 2017, 2018, 2019) and specific years (e.g. 1747, 1872, 1879, 1889, 1910)."

@@ -1,0 +1,1 @@
+"Addresses and postal codes, often used as identifiers for locations, and sometimes used in conjunction with other geographical information."

@@ -1,0 +1,1 @@
+"Quantities of ingredients or measurements in recipes, often in fractions of a unit (e.g. cup, teaspoon, inch), and sometimes in large quantities (e.g. 500kg)."

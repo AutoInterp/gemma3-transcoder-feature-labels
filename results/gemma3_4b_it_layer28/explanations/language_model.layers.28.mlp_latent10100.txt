@@ -1,0 +1,1 @@
+"Technical documentation and programming instructions, often with a focus on troubleshooting and resolving issues, frequently using specific keywords and phrases related to software development, data processing, and system configuration."

@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including bash, Python, Java, C, and others, showcasing syntax, functions, and logic."

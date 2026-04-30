@@ -1,0 +1,1 @@
+"Texts are mostly programming-related documentation, tutorials, and code snippets, often with a focus on Android development, with some general technical and informative content."

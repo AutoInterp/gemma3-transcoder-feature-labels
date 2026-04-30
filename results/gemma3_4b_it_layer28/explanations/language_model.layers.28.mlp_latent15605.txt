@@ -1,0 +1,1 @@
+"The text contains mathematical expressions and equations, with a focus on calculus, algebra, and probability theory. The language is formal and technical, with frequent use of mathematical notation and symbols. The text also includes programming concepts, such as automata and algorithms, and discusses theoretical results in computer science."

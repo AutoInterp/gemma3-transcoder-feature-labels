@@ -1,0 +1,1 @@
+"Mathematical expressions and formulas from various fields, including probability, statistics, combinatorics, and linear algebra, often involving summations, limits, and vector spaces."

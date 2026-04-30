@@ -1,0 +1,1 @@
+"Texts describing password-related processes, including login, password reset, and authentication, often involving user credentials such as usernames and passwords."

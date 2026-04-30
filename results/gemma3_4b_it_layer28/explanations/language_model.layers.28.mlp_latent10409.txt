@@ -1,0 +1,1 @@
+"Code snippets and programming concepts, including function definitions, variable declarations, and usage of various programming languages and frameworks."

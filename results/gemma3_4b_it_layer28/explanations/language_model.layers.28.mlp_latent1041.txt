@@ -1,0 +1,1 @@
+"Text formatting and styling, including font sizes, colors, and styles, as well as HTML tags and CSS classes used to define layout and visual elements."

@@ -1,0 +1,1 @@
+"Code snippets and programming concepts, including operators, syntax, and data types, with a focus on C++ and other programming languages."

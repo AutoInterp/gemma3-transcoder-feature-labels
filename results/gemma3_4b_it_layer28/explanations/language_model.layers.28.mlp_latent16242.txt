@@ -1,0 +1,1 @@
+"Numbers representing large quantities, often used for financial, scientific, or comparative purposes, such as dollar amounts, population sizes, and measurement values."

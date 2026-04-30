@@ -1,0 +1,1 @@
+"The token \"the\" is the most frequently occurring word in the text, often preceding a noun or adjective to indicate a specific or particular instance."
