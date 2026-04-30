@@ -1,0 +1,1 @@
+"Various instances of personal data collection and usage, including user information such as names, addresses, phone numbers, emails, passwords, and other sensitive details, often in the context of user registration, login, and account management."

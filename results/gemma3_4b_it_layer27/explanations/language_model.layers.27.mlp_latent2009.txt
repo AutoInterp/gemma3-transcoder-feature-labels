@@ -1,0 +1,1 @@
+"Text describing the Quicksort algorithm, its implementation, and its properties, including time and space complexity, parallelization, and pivot selection schemes."

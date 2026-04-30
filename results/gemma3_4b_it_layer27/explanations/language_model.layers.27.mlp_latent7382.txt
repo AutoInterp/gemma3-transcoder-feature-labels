@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, primarily focusing on array-related operations, data structures, and algorithms."

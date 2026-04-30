@@ -1,0 +1,1 @@
+"Code snippets and programming concepts, including conditional statements, loops, and data structures, as well as examples of programming languages and their syntax."

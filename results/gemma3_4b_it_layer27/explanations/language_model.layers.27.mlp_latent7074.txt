@@ -1,0 +1,1 @@
+"Text fragments often containing URLs, file paths, or database queries, sometimes followed by a quotation mark or a special character, indicating a code snippet or a specific text block."

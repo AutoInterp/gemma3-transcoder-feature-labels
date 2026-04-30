@@ -1,0 +1,1 @@
+"Text primarily discussing object-oriented programming concepts, including object analysis, object-oriented design, and object-oriented languages such as Python, Java, and Objective-C."

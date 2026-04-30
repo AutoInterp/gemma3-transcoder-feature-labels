@@ -1,0 +1,1 @@
+"Technical text with various mathematical, programming, and scientific concepts, including formulas, algorithms, and terminology from fields such as differential geometry, Finsler geometry, regular expressions, and lattice theory."

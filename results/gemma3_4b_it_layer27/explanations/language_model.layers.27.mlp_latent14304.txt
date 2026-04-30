@@ -1,0 +1,1 @@
+"Texts describing technical processes, product features, and user instructions, often including programming code, mathematical formulas, and scientific explanations."

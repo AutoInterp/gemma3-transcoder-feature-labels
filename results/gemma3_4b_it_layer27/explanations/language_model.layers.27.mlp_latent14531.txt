@@ -1,0 +1,1 @@
+"Texts discussing formal logic, including modal logic, deontic logic, and provability logic, with a focus on axioms, frame conditions, and the properties of logical systems such as soundness and completeness."

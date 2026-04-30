@@ -1,0 +1,1 @@
+"Text snippets containing technical information, often from Wikipedia articles, programming code, and academic papers, frequently interrupted by unrelated content."

@@ -1,0 +1,1 @@
+"Long blocks of text that are not part of the main content, often containing disclaimers, citations, or metadata."

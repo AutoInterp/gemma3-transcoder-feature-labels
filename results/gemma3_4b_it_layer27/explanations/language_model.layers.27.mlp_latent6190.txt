@@ -1,0 +1,1 @@
+"Texts related to command-line interfaces, programming, and technical documentation, often containing technical terms, code snippets, and instructions for executing commands or scripts."

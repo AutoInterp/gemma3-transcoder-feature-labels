@@ -1,0 +1,1 @@
+"Mathematical expressions and proofs, including limits, derivatives, algebraic manipulations, and logical deductions, often involving formal languages and type systems."

@@ -1,0 +1,1 @@
+"Various web page elements, including job listings, property listings, error messages, forms, and articles, often containing links, images, and text."

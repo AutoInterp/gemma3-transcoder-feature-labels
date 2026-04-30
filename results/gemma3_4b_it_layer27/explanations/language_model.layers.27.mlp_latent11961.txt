@@ -1,0 +1,1 @@
+"Code snippets and programming examples in various programming languages, often including command-line instructions, function definitions, and variable assignments."

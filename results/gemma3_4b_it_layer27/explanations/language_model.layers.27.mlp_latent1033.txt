@@ -1,0 +1,1 @@
+"Texts describing command-line interfaces, scripts, and installation processes, often including technical details and instructions for executing specific commands or programs."

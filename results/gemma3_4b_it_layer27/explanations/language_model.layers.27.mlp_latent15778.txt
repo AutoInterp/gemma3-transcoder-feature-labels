@@ -1,0 +1,1 @@
+"The token \"full\" is often used to describe a complete or maximum state, and the token \"half\" is used to describe a reduced or incomplete state, often in contrast to \"full\"."

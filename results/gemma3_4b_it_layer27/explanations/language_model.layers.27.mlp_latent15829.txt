@@ -1,0 +1,1 @@
+"Texts often contain proper nouns, names of places, and specific dates, which are not highlighted in the given examples. The highlighted tokens are mostly common nouns, verbs, and phrases that are not specific to the context, indicating a lack of distinctive patterns in the provided examples."

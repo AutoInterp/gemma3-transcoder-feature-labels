@@ -1,0 +1,1 @@
+"Various programming and technical terms, including file paths, commands, and programming languages, often used in a context of development, deployment, and troubleshooting."

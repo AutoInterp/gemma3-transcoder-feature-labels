@@ -1,0 +1,1 @@
+"Long strings of text that appear to be addresses, locations, or descriptions of places, often containing proper nouns and geographical information."

@@ -1,0 +1,1 @@
+"Addresses and phone numbers, often found at the end of a text, typically in a format of \"Street Address, City, Country, Tel: Phone Number\"."

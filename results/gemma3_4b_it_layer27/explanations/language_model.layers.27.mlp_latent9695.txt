@@ -1,0 +1,1 @@
+"Tokens representing the end of a text or a message, often used as a delimiter in programming or natural language processing."

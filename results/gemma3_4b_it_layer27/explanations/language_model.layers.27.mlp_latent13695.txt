@@ -1,0 +1,1 @@
+"Various programming code snippets and technical documentation, including Java, C#, JavaScript, and HTML, with a focus on software development, data analysis, and research."

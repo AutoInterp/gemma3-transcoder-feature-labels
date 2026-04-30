@@ -1,0 +1,1 @@
+"URLs, IP addresses, and other technical information, often containing configuration settings or error messages."

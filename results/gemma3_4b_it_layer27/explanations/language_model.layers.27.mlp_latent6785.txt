@@ -1,0 +1,1 @@
+"Various HTML and XML tags, including entity references, used for formatting and structuring text, as well as XML schema definitions and attribute declarations."

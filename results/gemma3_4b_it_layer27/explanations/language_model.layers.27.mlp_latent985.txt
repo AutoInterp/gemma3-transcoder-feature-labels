@@ -1,0 +1,1 @@
+"Various types of numerical data, including prices, quantities, and measurements, often presented in a formal or technical context."

@@ -1,0 +1,1 @@
+"Text contains various types of information, including news articles, quotes, and technical code, with a focus on extracting specific phrases or sentences that convey important information or sentiment."

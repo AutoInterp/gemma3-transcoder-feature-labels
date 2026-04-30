@@ -1,0 +1,1 @@
+"Various types of text fragments, including titles, subtitles, and section headers, often containing keywords or phrases that summarize the content."

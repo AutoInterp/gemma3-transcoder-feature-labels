@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including C, C++, JavaScript, and Python, related to network protocols such as TCP/IP, socket programming, and internet communication."

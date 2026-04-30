@@ -1,0 +1,1 @@
+"Texts discussing various topics, including government policies, business strategies, and scientific research, often contain phrases and sentences that provide context or background information, which are frequently marked by a lower activation value, indicating less importance in the overall text."

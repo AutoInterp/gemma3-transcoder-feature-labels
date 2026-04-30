@@ -1,0 +1,1 @@
+"Text with embedded HTML code, including inline styles and color codes, often used for formatting and design purposes."

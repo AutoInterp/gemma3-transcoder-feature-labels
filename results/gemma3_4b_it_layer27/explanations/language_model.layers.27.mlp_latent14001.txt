@@ -1,0 +1,1 @@
+"Street addresses and geographic locations, often including city names, street names, and zip codes, are frequently mentioned in the text."

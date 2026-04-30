@@ -1,0 +1,1 @@
+"Text snippets enclosed in square brackets, often containing titles, chapter names, or other metadata, and code snippets enclosed in various programming language syntax."

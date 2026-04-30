@@ -1,0 +1,1 @@
+"Text discussing statistical concepts, including distributions (F-distribution, Chi-squared distribution, normal distribution), regression analysis, correlation, and hypothesis testing, with a focus on mathematical and methodological explanations."

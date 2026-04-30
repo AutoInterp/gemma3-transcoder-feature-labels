@@ -1,0 +1,1 @@
+"The token \"4\" appears frequently in the text, often in conjunction with numbers or dates, suggesting it is a digit used for numerical representation."

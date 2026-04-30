@@ -1,0 +1,1 @@
+"Technical text discussing programming concepts, data structures, and algorithms, including arrays, lists, and sorting methods, as well as mathematical and statistical concepts, such as probability, variance, and gradient estimators."

@@ -1,0 +1,1 @@
+"Texts containing various forms of errors, such as malformed data, incorrect formatting, or incomplete information, often accompanied by explanations or instructions on how to correct or handle these errors."

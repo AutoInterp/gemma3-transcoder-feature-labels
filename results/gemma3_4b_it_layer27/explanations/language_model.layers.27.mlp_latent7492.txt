@@ -1,0 +1,1 @@
+"Text snippets often contain proper nouns, names of people, places, and organizations, which are frequently found at the beginning of a sentence or paragraph."

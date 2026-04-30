@@ -1,0 +1,1 @@
+"Perl code snippets, primarily focusing on string manipulation, pattern matching, and mathematical operations, with various syntax and idioms specific to the Perl programming language."

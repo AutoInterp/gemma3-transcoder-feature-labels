@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including Java, C++, Python, and SQL, with a focus on string manipulation, data retrieval, and object-oriented programming."

@@ -1,0 +1,1 @@
+"Various numerical values, including weights, altitudes, years, and other quantities, often used in scientific or technical contexts."

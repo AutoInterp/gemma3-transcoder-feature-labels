@@ -1,0 +1,1 @@
+"Code snippets in programming languages, typically Python, defining classes and models, and database-related code."

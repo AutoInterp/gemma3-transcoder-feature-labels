@@ -1,0 +1,1 @@
+"Technical text discussing programming concepts, algorithms, and mathematical formulas, often involving variables, functions, and data structures."

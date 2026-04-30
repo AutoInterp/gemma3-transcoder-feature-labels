@@ -1,0 +1,1 @@
+"Phrases indicating a transition or a change in state, such as \"drop in the ocean\", \"drop off\", \"take-off\", and \"drop\"."

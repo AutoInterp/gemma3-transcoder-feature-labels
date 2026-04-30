@@ -1,0 +1,1 @@
+"Ranges of time expressed in years, often used to describe periods of duration or frequency, such as 1-3 years, 2-3 times, 3-5 years, or up to 3 years."

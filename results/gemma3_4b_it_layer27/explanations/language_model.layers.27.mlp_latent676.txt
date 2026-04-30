@@ -1,0 +1,1 @@
+"Text fragments often containing dates, names, or specific details, sometimes serving as a delimiter between paragraphs or sections."

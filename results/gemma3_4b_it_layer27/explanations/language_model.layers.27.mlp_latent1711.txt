@@ -1,0 +1,1 @@
+"Code snippets and programming concepts, including API documentation, class definitions, and algorithm explanations, often with specific syntax and formatting."

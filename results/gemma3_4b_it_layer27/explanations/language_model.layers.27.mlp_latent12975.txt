@@ -1,0 +1,1 @@
+"Text snippets containing numerical values, mathematical expressions, and scientific notation, often used to describe quantities, measurements, or data."

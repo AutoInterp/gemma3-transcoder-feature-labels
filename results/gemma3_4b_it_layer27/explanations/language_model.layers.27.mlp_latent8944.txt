@@ -1,0 +1,1 @@
+"The token \"delete\" and its variations, often in the context of removing data, files, or objects from a system, database, or directory."

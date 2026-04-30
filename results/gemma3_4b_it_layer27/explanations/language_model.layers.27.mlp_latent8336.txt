@@ -1,0 +1,1 @@
+"Numbers representing various physical quantities, such as time, distance, temperature, and financial values, often used in scientific, technical, and everyday contexts."

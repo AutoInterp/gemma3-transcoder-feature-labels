@@ -1,0 +1,1 @@
+"Code snippets and programming concepts, including error messages, API documentation, and Java code, often with comments and annotations."

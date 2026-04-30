@@ -1,0 +1,1 @@
+"Text snippets often contain code, commands, or technical terms, frequently appearing in a programming or scripting context, with a focus on problem-solving and debugging."

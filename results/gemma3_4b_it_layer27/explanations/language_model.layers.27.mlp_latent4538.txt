@@ -1,0 +1,1 @@
+"Code snippets from a game development framework, specifically jMonkeyEngine3, with various classes, methods, and variables related to game development, user interface, and customization options."

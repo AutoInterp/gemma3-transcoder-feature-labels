@@ -1,0 +1,1 @@
+"Technical text discussing computer networks, hardware, software, and network protocols, with a focus on configuration, troubleshooting, and security."

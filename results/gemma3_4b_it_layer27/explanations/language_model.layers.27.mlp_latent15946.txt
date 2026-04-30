@@ -1,0 +1,1 @@
+"Various mathematical and logical expressions, including formulas, equations, and axioms, often involving variables, functions, and quantifiers, as well as programming code snippets and data structures."

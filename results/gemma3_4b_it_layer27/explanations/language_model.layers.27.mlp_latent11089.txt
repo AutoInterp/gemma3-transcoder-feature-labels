@@ -1,0 +1,1 @@
+"Code snippets in various programming languages, including Java, C#, and SQL, with a focus on data manipulation, user input, and conditional statements."

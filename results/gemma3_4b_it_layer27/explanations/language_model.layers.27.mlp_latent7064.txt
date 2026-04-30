@@ -1,0 +1,1 @@
+"The token \".NET\" and its variants (.net, .netrc, .exe, .msh, .php, .txt, .hcchr, .co.uk, .com) are used to represent various file extensions, programming languages, and technologies."

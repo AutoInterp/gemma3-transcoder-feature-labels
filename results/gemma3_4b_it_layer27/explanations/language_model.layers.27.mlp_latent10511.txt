@@ -1,0 +1,1 @@
+"Texts from various sources, including educational materials, articles, and job postings, often contain phrases or sentences that are not directly related to the main topic, but rather provide additional information, examples, or context. These phrases are often marked by a lower activation score, indicating that they are not as central to the main idea."

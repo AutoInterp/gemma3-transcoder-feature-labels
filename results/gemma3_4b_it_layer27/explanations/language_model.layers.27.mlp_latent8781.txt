@@ -1,0 +1,1 @@
+"Various numerical values representing prices, costs, and quantities, often in different currencies, including dollars, euros, and yuan."

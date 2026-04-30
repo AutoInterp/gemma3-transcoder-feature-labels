@@ -1,0 +1,1 @@
+"The token \"a\" or \"an\" preceding a noun, often used as a definite article, and the token \"the\" preceding a noun, often used as a definite article, but also the token \"the\" preceding a noun that is not the first noun in a sentence."

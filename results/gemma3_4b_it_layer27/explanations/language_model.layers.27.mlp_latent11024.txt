@@ -1,0 +1,1 @@
+"Large numbers and amounts of money are often presented in a specific format, typically with commas or decimal points, and sometimes accompanied by units of currency or measurement."

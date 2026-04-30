@@ -1,0 +1,1 @@
+"R programming code snippets, primarily involving statistical modeling, data visualization, and function definitions, with a focus on Bayesian inference and Gaussian distributions."

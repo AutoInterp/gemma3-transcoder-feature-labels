@@ -1,0 +1,1 @@
+"Texts often contain foreign phrases, idioms, or proper nouns, which are typically marked with a high activation value, indicating their importance in the context."

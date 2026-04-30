@@ -1,0 +1,1 @@
+"URLs, often used as links or references, frequently appear in the text, sometimes within HTML tags or as part of a sentence."

@@ -1,0 +1,1 @@
+"Timestamps in various formats, including date and time, often used to indicate when a post, message, or event occurred."

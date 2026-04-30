@@ -1,0 +1,1 @@
+"Various identifiers and codes used in programming, databases, and other technical contexts, often used to uniquely identify objects, users, or data."

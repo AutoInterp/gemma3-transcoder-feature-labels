@@ -1,0 +1,1 @@
+"The token \"$\" is used to represent monetary values in various contexts, including prices, salaries, investments, and financial transactions."

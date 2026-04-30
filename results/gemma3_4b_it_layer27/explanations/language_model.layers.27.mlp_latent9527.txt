@@ -1,0 +1,1 @@
+"Numerical values representing time, often in minutes, hours, or seconds, used to describe durations or intervals in various contexts."

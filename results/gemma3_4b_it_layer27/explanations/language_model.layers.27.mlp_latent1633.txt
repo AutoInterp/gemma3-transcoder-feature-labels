@@ -1,0 +1,1 @@
+"Texts containing URLs, code snippets, and technical terms, often found in programming documentation, articles, and online forums."

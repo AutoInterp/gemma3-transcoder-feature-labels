@@ -1,0 +1,1 @@
+"Text fragments that are not part of the main content, such as advertisements, special offers, and external links, often marked by HTML tags or other formatting elements."

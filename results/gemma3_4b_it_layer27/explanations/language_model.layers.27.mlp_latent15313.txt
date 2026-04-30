@@ -1,0 +1,1 @@
+"The token \"coffee\" and \"tea\" are often used to describe beverages, but also appear in contexts related to programming languages, such as CoffeeScript, and in idiomatic expressions, like \"a different side of me\" and \"a different cup of tea\"."

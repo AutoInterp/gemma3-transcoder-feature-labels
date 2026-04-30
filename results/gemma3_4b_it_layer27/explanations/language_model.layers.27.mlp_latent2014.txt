@@ -1,0 +1,1 @@
+"Various types of text data, including measurements, prices, addresses, phone numbers, and text in multiple languages, often with specific formatting and syntax."

@@ -1,0 +1,1 @@
+"Text snippets from various programming and technical documentation, including configuration files, command-line instructions, and code examples."

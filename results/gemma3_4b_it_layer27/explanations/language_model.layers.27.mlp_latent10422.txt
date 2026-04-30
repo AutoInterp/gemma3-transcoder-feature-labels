@@ -1,0 +1,1 @@
+"Numerical values and ranges, often used for comparisons, measurements, or limits, such as percentages, amounts, ages, and quantities."

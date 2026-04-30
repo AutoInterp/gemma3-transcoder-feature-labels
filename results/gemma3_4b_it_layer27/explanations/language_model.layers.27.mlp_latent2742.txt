@@ -1,0 +1,1 @@
+"Text primarily discussing statistical concepts, specifically the normal distribution, standard deviation, and sampling distributions, with references to statistical tests and formulas."

@@ -1,0 +1,1 @@
+"Code snippets in various programming languages, including bash, Python, PHP, and others, with a focus on command-line operations, scripting, and system administration."

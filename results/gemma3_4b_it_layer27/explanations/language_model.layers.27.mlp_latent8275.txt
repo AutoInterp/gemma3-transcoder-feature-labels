@@ -1,0 +1,1 @@
+"Text fragments containing technical or specialized information, such as programming code, mathematical equations, and medical terminology, often found within larger blocks of text."

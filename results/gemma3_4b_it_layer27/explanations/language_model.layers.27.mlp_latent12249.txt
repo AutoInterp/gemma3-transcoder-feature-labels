@@ -1,0 +1,1 @@
+"Text fragments that are not part of the main content, often used to provide additional information, instructions, or context, such as code snippets, lists, and explanations."

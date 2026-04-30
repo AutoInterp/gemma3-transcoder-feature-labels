@@ -1,0 +1,1 @@
+"Technical text describing computer networking protocols, specifically TCP/IP, and related concepts such as IP addresses, network segments, and VPNs."

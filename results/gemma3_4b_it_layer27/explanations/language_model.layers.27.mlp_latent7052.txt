@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are cut off or truncated, typically denoted by a special character or a phrase indicating the end of a thought or a section."

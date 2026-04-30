@@ -1,0 +1,1 @@
+"Texts containing HTML code, programming code, or other types of formatted content, often used for documentation, tutorials, or online content."

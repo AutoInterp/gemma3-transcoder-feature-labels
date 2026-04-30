@@ -1,0 +1,1 @@
+"Texts containing URLs, lists of geographical locations, and fragments of news articles or event descriptions."

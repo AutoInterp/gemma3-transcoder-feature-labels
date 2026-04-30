@@ -1,0 +1,1 @@
+"Texts containing URLs, file paths, and code snippets, often used to provide instructions or explanations for technical tasks."

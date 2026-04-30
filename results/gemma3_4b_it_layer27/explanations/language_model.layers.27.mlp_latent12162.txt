@@ -1,0 +1,1 @@
+"The token \"less than\" is used to express a comparison where the value on one side is smaller than the value on the other side, often indicating a threshold or a boundary."

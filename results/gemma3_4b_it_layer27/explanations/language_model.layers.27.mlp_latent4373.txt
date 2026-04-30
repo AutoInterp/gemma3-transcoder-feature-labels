@@ -1,0 +1,1 @@
+"SQL queries and Java code snippets with XML and XAML elements, likely from a database schema and a software application."

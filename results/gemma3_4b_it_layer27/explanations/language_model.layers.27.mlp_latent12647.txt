@@ -1,0 +1,1 @@
+"Various programming and system-related text, including shell scripts, configuration files, and log messages, often containing technical terms and commands."

@@ -1,0 +1,1 @@
+"Texts often contain phrases that express a positive sentiment, such as satisfaction, relief, or excitement, and phrases that express a negative sentiment, such as frustration, disappointment, or regret."

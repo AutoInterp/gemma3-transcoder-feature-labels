@@ -1,0 +1,1 @@
+"Various code snippets from different programming languages, including Python, Java, and others, highlighting the use of the keyword \"self\" to refer to an instance of a class or object."

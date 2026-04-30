@@ -1,0 +1,1 @@
+"Various file and directory paths, commands, and instructions for managing files, directories, and programs on different operating systems, including Windows and Unix-based systems."

@@ -1,0 +1,1 @@
+"Various types of text data, including addresses, phone numbers, directions, book titles, names, dates, and event information, often found in formal or semi-formal contexts such as academic papers, news articles, and official documents."

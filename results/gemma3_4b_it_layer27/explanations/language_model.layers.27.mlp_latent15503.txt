@@ -1,0 +1,1 @@
+"The text contains a mix of programming code, database schema, and natural language text, but the most common pattern found is the use of comments and documentation in code, including Javadoc-style comments, Ruby-style comments, and JavaScript-style comments."

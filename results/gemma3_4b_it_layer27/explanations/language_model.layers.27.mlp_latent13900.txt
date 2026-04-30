@@ -1,0 +1,1 @@
+"Buttons and other interactive elements in text, such as submit, save, exit, and other control buttons, often used in user interfaces and instructions."

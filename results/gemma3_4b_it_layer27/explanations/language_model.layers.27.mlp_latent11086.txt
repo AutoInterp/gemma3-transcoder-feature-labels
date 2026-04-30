@@ -1,0 +1,1 @@
+"Text snippets often contain proper nouns, names of organizations, and technical terms, which are frequently used in formal or technical contexts."

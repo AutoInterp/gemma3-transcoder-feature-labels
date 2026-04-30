@@ -1,0 +1,1 @@
+"Various phrases and sentences that are likely to be extracted or highlighted as important due to their relevance to specific topics, such as financial analysis, compliance, and auditing, or due to their structure, such as quotes or lists."

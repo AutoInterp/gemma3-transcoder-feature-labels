@@ -1,0 +1,1 @@
+"Frequent use of technical terms related to computer science, programming, and cryptography, including hash functions, arrays, and data structures."

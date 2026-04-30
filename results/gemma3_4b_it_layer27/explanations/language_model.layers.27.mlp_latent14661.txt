@@ -1,0 +1,1 @@
+"Texts containing Chinese characters, often discussing technical topics such as programming, machine learning, and data science, with a focus on object-oriented programming, data structures, and algorithms."

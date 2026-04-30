@@ -1,0 +1,1 @@
+"Text snippets containing programming-related information, including code examples, commands, and technical explanations, often with a focus on debugging, troubleshooting, and optimization."

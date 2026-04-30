@@ -1,0 +1,1 @@
+"Configuration files for various systems and applications, including Linux, Windows, and Kubernetes, with a focus on specifying settings, paths, and connections."

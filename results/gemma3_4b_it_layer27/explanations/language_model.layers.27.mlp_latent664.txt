@@ -1,0 +1,1 @@
+"Text fragments often appear at the end of a post or message, typically denoting the end of a quote, a signature, or a closing statement, and are often followed by a delimiter such as \"<eos>\"."

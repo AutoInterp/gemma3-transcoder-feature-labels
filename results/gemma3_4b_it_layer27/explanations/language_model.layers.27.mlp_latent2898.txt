@@ -1,0 +1,1 @@
+"The token \"<<\" often marks the beginning of a quote or a phrase that is being referenced, while the token \">>\" marks the end."

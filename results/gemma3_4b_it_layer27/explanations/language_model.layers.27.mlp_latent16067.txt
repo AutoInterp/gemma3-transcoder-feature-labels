@@ -1,0 +1,1 @@
+"Various programming code snippets and text from different domains, including programming languages, SQL queries, HTML, and natural language text. The text latents are diverse and do not reveal a specific pattern or theme."

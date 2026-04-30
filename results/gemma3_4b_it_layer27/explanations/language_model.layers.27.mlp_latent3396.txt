@@ -1,0 +1,1 @@
+"Texts often contain proper nouns, such as names of places, organizations, and people, which are frequently mentioned in conjunction with other words like \"day\", \"weekend\", \"year\", and \"time\". These proper nouns often serve as identifiers for specific events, locations, or entities, and are frequently used in a context that implies a sense of duration or frequency."

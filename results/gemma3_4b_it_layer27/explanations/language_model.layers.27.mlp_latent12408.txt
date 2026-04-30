@@ -1,0 +1,1 @@
+"Various types of text data, including addresses, articles, and code snippets, with no clear common pattern among them."

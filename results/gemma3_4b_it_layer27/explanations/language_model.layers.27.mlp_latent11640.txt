@@ -1,0 +1,1 @@
+"Texts related to user authentication, account management, and password verification, often involving login processes, password recovery, and security measures."

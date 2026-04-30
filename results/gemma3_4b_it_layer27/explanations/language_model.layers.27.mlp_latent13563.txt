@@ -1,0 +1,1 @@
+"Text describing color theory, color conversion, and color representation in various color spaces, including RGB, CMYK, CIE-LUV, and CIE-LAB."

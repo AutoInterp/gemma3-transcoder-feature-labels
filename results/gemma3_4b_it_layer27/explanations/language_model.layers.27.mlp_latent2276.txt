@@ -1,0 +1,1 @@
+"Text snippets that are likely to be boilerplate or template code, often containing variable placeholders or references to external resources, and sometimes including programming language syntax or markup."

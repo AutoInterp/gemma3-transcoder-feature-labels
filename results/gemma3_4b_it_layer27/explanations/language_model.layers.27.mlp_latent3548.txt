@@ -1,0 +1,1 @@
+"URLs and addresses, often in the format of a location name followed by a street address and sometimes additional information such as a city or zip code."

@@ -1,0 +1,1 @@
+"Various types of text data, including financial information, product listings, news articles, and personal stories, often containing specific details such as numbers, dates, and names."

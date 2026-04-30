@@ -1,0 +1,1 @@
+"Unique identifiers, such as IDs, account numbers, and codes, used to identify and distinguish between objects, users, and locations in various contexts, including databases, financial transactions, and authentication systems."

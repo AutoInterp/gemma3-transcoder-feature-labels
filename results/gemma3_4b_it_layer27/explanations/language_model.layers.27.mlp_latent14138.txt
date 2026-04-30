@@ -1,0 +1,1 @@
+"Various types of text data, including scientific articles, recipes, instructions, news articles, and product descriptions, with a focus on numerical data, measurements, and technical specifications."

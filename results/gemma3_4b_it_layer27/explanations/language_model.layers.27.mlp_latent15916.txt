@@ -1,0 +1,1 @@
+"Large numbers, often in the format of \"$X,000\", are used to represent significant amounts of money, frequently in the context of financial transactions, salaries, investments, or profits."

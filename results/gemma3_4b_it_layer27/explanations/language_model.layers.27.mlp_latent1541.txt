@@ -1,0 +1,1 @@
+"HTML code snippets and explanations of web development concepts, including accessibility, HTTP/1.1, AJAX, and semantic HTML."

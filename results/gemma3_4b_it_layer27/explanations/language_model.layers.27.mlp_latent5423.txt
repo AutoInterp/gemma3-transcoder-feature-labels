@@ -1,0 +1,1 @@
+"SQL queries and database operations, including data retrieval, manipulation, and encryption, as well as various programming languages and their syntax."

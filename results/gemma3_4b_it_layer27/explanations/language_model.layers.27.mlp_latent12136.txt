@@ -1,0 +1,1 @@
+"Text contains various types of code, including programming languages (e.g. C++, JavaScript), markup languages (e.g. HTML), and formatting codes (e.g. ANSI escape sequences), as well as scientific and technical terminology, and various types of text, including articles, stories, and instructions."

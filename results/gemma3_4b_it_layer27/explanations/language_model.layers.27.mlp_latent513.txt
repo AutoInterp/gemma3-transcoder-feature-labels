@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are set apart from the rest of the text, typically to provide additional context or information, and are usually denoted by a delimiter. These phrases or sentences can be used to provide background information, contrast with the main idea, or offer a different perspective."

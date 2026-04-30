@@ -1,0 +1,1 @@
+"Ranges of numbers used to describe quantities, time intervals, and sizes, often used for comparison or to provide context."

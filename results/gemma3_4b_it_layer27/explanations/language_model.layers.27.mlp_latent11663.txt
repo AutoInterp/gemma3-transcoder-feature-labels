@@ -1,0 +1,1 @@
+"Code snippets and programming concepts, including comments, methods, and data structures, often in a programming language such as C or C#."

@@ -1,0 +1,1 @@
+"Text discussing time and space complexity in algorithms, often using metaphors and analogies to explain concepts such as exponential growth, logarithmic time, and asymptotic behavior."

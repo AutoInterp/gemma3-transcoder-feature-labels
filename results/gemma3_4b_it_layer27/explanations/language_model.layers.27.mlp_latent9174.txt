@@ -1,0 +1,1 @@
+"Texts primarily discussing Linux, its applications, and its compatibility with other operating systems, often referencing Unix-like systems and their commands."

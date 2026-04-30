@@ -1,0 +1,1 @@
+"Various programming code snippets, including SQL, C++, Java, Python, and shell scripts, as well as XML, HTML, and JSON fragments, and some text from academic papers and news articles."

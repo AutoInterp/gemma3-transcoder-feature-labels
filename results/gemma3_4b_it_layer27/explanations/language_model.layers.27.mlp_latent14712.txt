@@ -1,0 +1,1 @@
+"Text snippets often contain instructions, descriptions, or information about how to perform a task, access a service, or use a feature, frequently including URLs, commands, or API calls."

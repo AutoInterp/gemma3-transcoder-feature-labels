@@ -1,0 +1,1 @@
+"Capitalized proper nouns and interjections, while maintaining the correct capitalization rules for the rest of the text."

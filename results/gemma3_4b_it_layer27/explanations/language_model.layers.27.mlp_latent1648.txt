@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, primarily Python and Java, with a focus on GUI development using libraries such as tkinter and wxPython."

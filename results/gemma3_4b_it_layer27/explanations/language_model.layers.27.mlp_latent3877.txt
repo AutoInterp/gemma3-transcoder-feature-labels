@@ -1,0 +1,1 @@
+"Various phrases and sentences that are likely to be boilerplate text, such as instructions, warnings, and disclaimers, often found in technical documentation, user manuals, and online articles."

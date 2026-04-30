@@ -1,0 +1,1 @@
+"Various programming code snippets, including Python, JavaScript, and assembly language, with some text from books, articles, and websites."

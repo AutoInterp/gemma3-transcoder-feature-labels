@@ -1,0 +1,1 @@
+"Texts describing various technical concepts, including encryption methods, data transfer protocols, and programming languages, often accompanied by code snippets and mathematical equations."

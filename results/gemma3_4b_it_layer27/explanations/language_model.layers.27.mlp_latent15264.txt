@@ -1,0 +1,1 @@
+"Texts describing technical issues, troubleshooting steps, and solutions related to email services, mail systems, and email clients, often including error messages and system configurations."

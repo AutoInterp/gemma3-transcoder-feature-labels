@@ -1,0 +1,1 @@
+"Geographic locations, proper nouns, and specific names of people, places, and organizations."

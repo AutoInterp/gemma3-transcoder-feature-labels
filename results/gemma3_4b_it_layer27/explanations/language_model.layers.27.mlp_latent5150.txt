@@ -1,0 +1,1 @@
+"Text primarily consists of mathematical concepts and equations, with a focus on linear algebra, matrix theory, and operator algebras."

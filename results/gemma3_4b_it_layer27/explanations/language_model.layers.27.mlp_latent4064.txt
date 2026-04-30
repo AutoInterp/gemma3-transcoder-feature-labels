@@ -1,0 +1,1 @@
+"The token \"limit\" is used to describe a restriction or a boundary, often in a quantitative sense, such as a maximum or minimum value, a constraint, or a threshold."

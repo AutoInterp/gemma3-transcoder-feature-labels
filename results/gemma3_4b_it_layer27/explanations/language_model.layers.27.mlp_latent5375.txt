@@ -1,0 +1,1 @@
+"Text describing concepts related to geometry, transformations, and rotations in various contexts, including physics, computer graphics, and robotics."

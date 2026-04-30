@@ -1,0 +1,1 @@
+"Code snippets related to multithreading, synchronization, and concurrency in various programming languages, including C, C++, and Python, with a focus on mutexes, condition variables, and thread-local objects."

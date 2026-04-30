@@ -1,0 +1,1 @@
+"Various types of text fragments, including time stamps, URLs, citations, and external links, often found at the end of a text or paragraph."

@@ -1,0 +1,1 @@
+"Texts in French and English, mostly technical and formal, discussing various topics such as commerce, physics, engineering, and computer science, with some examples of code and user interfaces."

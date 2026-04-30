@@ -1,0 +1,1 @@
+"Texts often contain numerical values, dates, and specific names, which may be used to identify the context or provide additional information."

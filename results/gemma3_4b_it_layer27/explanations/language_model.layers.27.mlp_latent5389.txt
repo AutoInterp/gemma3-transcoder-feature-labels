@@ -1,0 +1,1 @@
+"Various programming-related terms and concepts, including function names, class names, variable names, and function parameters, as well as some C++ and C code snippets."

@@ -1,0 +1,1 @@
+"Technical text discussing bootloaders, BIOS settings, and boot processes, including various commands, flags, and procedures for troubleshooting and customizing boot processes."

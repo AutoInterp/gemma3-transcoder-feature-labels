@@ -1,0 +1,1 @@
+"HTML and XML code snippets with various attributes, tags, and elements, often used for web development and user interface design."

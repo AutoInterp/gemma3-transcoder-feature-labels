@@ -1,0 +1,1 @@
+"The token \"sum\" is often used in mathematical and computational contexts, referring to the total or aggregate of a set of values, or a function that calculates this total."

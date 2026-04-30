@@ -1,0 +1,1 @@
+"Texts from various domains, including scientific research, academic papers, and literary works, often contain phrases or sentences that are not directly related to the main topic, but rather serve as tangential comments, asides, or philosophical musings. These phrases often have low activation values, indicating that they are not crucial to the overall meaning of the text."

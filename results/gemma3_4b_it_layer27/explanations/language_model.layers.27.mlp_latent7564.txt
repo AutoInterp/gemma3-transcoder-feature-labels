@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, primarily JavaScript, with a focus on functions, classes, and event handling."

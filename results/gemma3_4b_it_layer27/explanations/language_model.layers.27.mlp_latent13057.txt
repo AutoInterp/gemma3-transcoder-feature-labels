@@ -1,0 +1,1 @@
+"Text snippets often contain proper nouns, titles, and names, which are frequently found at the beginning of a sentence or paragraph, and sometimes followed by a quotation mark."

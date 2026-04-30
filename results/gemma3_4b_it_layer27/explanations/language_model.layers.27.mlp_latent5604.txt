@@ -1,0 +1,1 @@
+"Texts related to user authentication, including usernames, passwords, and login processes, often in the context of system configuration, network access, or database management."

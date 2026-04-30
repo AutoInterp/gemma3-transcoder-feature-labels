@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including SQL, Java, and JavaScript, as well as HTML and CSS, often containing function definitions, variable declarations, and conditional statements."

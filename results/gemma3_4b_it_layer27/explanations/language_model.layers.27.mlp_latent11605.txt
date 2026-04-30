@@ -1,0 +1,1 @@
+"Texts containing various types of technical and formal language, including programming code, system messages, and formal descriptions, often with a focus on functionality and implementation details."

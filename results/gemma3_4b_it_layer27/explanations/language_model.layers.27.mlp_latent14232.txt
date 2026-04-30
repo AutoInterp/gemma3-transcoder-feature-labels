@@ -1,0 +1,1 @@
+"Texts containing addresses, phone numbers, and other contact information, often in a format that includes country names, zip codes, and street names."

@@ -1,0 +1,1 @@
+"Text snippets often contain URLs, code, or specific technical information, frequently appearing in a programming or instructional context."

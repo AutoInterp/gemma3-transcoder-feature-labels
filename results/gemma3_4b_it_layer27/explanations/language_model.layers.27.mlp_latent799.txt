@@ -1,0 +1,1 @@
+"Texts often contain incomplete or truncated sentences, likely due to the removal of irrelevant information or the focus on specific key points."

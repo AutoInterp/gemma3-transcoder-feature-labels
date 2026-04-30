@@ -1,0 +1,1 @@
+"Text containing only uppercase letters, often used for search or filtering purposes, such as A-Z indexes or character validation."

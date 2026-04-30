@@ -1,0 +1,1 @@
+"Text segments enclosed by delimiters often contain complex medical or scientific information, including technical terms, research findings, and treatment options."

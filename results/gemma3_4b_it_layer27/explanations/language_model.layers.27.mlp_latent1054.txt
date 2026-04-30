@@ -1,0 +1,1 @@
+"Various mathematical and scientific concepts, including vector spaces, eigenvalues, eigenvectors, linear combinations, sparse coding, distance measures, and physical quantities such as velocity, acceleration, and magnetic moment."

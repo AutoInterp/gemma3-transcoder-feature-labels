@@ -1,0 +1,1 @@
+"Text snippets often contain specific phrases or sentences that are not directly related to the main topic, such as citations, URLs, code snippets, and irrelevant comments, which can be considered as noise or outliers in the text."

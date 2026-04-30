@@ -1,0 +1,1 @@
+"Text snippets containing Unix commands, file paths, and programming code, often related to software development, system administration, and scripting."

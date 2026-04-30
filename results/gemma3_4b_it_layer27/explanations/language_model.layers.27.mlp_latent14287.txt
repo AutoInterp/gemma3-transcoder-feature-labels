@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are incomplete or truncated, typically denoted by the presence of a period or other punctuation mark without a following sentence."

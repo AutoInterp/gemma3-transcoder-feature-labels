@@ -1,0 +1,1 @@
+"Text describing step-by-step instructions or procedures, often with a focus on technical or software-related tasks, and frequently including code snippets or specific commands."

@@ -1,0 +1,1 @@
+"The token \"main\" is often used in programming contexts, referring to the entry point of a program, a main function, or a main class. It is also used in non-programming contexts to refer to the central or primary aspect of something, such as the main street of a town or the main theme of a story."

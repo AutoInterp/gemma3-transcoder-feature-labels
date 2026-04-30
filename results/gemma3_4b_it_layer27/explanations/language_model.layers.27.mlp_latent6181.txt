@@ -1,0 +1,1 @@
+"Texts from various sources, including news articles, sports reports, and academic papers, with a focus on extracting specific phrases or sentences that may be relevant to the analysis. The extracted phrases often contain proper nouns, names of teams, players, or locations, and may be related to sports, politics, or other topics."

@@ -1,0 +1,1 @@
+"Texts containing programming code, technical documentation, and various forms of data, including URIs, Unicode characters, and mathematical expressions."

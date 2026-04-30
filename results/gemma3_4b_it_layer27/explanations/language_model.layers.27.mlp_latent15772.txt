@@ -1,0 +1,1 @@
+"Code snippets and programming concepts, including function prototypes, class definitions, and variable declarations, from various programming languages such as Java, JavaScript, and HTML."

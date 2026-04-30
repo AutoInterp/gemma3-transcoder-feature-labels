@@ -1,0 +1,1 @@
+"Various dates and times in the format of year-month-day or year-month-day hour:minute, often used as a timestamp or reference point."

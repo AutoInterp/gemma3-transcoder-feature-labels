@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are crucial to understanding the main idea or context, which are frequently highlighted by their high activation values. These phrases can be idioms, quotes, or key information that sets the tone for the rest of the text."

@@ -1,0 +1,1 @@
+"Various addresses and locations in text, often in the format of \"number street name, city, country\"."

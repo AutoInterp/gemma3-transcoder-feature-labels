@@ -1,0 +1,1 @@
+"The token \"get\" is used in various contexts, including method names, function calls, and idiomatic expressions, often related to retrieval or acquisition of information or objects."

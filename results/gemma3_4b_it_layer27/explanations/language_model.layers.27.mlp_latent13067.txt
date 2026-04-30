@@ -1,0 +1,1 @@
+"Texts often contain phrases that are cut off mid-sentence, followed by a new sentence or a different topic, indicating a change in thought or a new idea."

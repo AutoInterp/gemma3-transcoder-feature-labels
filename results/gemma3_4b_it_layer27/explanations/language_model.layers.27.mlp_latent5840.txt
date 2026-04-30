@@ -1,0 +1,1 @@
+"Text discussing color theory, color spaces, color models, color vision deficiency, and color correction techniques, including gamma correction, color grading, and color matching."

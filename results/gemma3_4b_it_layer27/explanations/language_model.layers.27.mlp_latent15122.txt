@@ -1,0 +1,1 @@
+"Texts with low activation values are often incoherent or nonsensical phrases, possibly indicating errors or irrelevant information."

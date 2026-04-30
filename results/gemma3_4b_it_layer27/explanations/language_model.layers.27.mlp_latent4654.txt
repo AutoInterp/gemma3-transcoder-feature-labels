@@ -1,0 +1,1 @@
+"Various programming code snippets, including PHP, JavaScript, and HTML, as well as text from technical documentation, error messages, and online content."

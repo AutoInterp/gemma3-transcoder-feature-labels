@@ -1,0 +1,1 @@
+"Various hexadecimal color codes and RGB representations."

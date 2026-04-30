@@ -1,0 +1,1 @@
+"SQL code snippets, database table definitions, and various programming code fragments from different languages, including MySQL, Python, Java, and C++."

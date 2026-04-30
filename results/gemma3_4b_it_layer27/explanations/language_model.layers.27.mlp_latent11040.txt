@@ -1,0 +1,1 @@
+"Texts from various sources, including programming documentation, articles, and online content, showcasing a mix of technical and non-technical language. The common patterns found in these texts include code snippets, API references, error messages, and technical explanations, often accompanied by non-technical descriptions and examples."

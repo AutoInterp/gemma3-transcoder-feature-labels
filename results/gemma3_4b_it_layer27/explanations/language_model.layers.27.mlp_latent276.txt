@@ -1,0 +1,1 @@
+"The token \"en\" or \"en-\" is often used as a prefix to form words related to various concepts, such as locations (e.g., \"en route\", \"en route to\"), measurements (e.g., \"en dash\", \"en-dash\"), chemical compounds (e.g., \"enol\", \"enone\"), and other abstract ideas (e.g., \"enlightenment\", \"enigma\")."

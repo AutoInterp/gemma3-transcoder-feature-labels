@@ -1,0 +1,1 @@
+"SQL code snippets with various database table structures and queries, including column definitions, primary and foreign keys, and indexing."

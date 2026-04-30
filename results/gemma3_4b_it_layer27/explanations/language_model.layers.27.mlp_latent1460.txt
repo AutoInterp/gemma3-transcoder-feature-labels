@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are incomplete or truncated, sometimes due to the context of the conversation or the writer's intention, and may be followed by a continuation or explanation."

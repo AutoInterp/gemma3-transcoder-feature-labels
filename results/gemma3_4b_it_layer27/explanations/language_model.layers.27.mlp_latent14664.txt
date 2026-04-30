@@ -1,0 +1,1 @@
+"Java code snippets with various methods, classes, and functions, including Android-related code, Retrofit, and OkHttp."

@@ -1,0 +1,1 @@
+"Microscale heterogeneity in text, such as specific words or phrases, often has no footprint in macroscale response measures, like overall sentiment or topic, due to the presence of various contextual elements that can alter their meaning or significance."

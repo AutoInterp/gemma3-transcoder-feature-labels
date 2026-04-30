@@ -1,0 +1,1 @@
+"Texts often contain a mix of qualitative and quantitative information, with the latter being presented in the form of numbers, units, and scientific measurements, while the former is conveyed through descriptive language and explanations."

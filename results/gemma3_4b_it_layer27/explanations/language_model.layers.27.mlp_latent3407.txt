@@ -1,0 +1,1 @@
+"Code snippets in various programming languages, including JSON, Python, Java, and others, with a focus on syntax and function definitions."

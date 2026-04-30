@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including C#, JavaScript, and CoffeeScript, with HTML and CSS elements, and a mix of technical documentation and blog posts."

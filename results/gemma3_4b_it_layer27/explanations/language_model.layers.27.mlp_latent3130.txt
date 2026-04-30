@@ -1,0 +1,1 @@
+"Dates and numerical values, often used to specify time periods, quantities, or measurements."

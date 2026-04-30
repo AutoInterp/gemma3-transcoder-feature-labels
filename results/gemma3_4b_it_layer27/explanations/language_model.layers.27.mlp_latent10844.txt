@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are not enclosed in quotation marks, but are set apart from the rest of the text by a blank line or a change in formatting, and are sometimes highlighted by a visual element such as a bold or italic font."

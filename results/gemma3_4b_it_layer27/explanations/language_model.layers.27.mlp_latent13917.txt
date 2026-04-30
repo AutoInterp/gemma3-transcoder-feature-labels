@@ -1,0 +1,1 @@
+"Loops used for iteration and control flow in programming, often used in conjunction with conditional statements and array or list operations."

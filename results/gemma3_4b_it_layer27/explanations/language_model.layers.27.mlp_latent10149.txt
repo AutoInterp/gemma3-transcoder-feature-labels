@@ -1,0 +1,1 @@
+"Various types of addresses, phone numbers, and locations, as well as names of people, places, and organizations, often accompanied by specific details such as prices, dates, and times."

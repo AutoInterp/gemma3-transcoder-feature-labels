@@ -1,0 +1,1 @@
+"Texts from various programming languages, including Java, Python, C++, Ruby, and JavaScript, as well as technical documentation and error messages."

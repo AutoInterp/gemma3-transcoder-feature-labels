@@ -1,0 +1,1 @@
+"Text segments enclosed in delimiters often represent scientific or technical concepts, academic papers, or formal language, and are frequently associated with low activation values, suggesting they may be background or contextual information."

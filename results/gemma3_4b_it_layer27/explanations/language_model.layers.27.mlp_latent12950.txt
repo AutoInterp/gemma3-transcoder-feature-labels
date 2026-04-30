@@ -1,0 +1,1 @@
+"Text snippets often contain URLs, email addresses, and other contact information, as well as specific formatting and syntax for programming code, mathematical equations, and technical documentation."

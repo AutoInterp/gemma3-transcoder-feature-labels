@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including Java, Python, and HTML, with a focus on data structures such as lists, arrays, and linked lists, as well as methods for manipulating and querying these data structures."

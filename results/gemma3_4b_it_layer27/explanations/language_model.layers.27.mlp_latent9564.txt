@@ -1,0 +1,1 @@
+"Various programming-related terms, code snippets, and technical concepts, including function and method names, class and interface definitions, and HTML and CSS elements."

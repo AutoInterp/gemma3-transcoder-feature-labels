@@ -1,0 +1,1 @@
+"The clonal selection theory states that in a pre-existing group of lymphocytes, only those that are most suited to recognize and bind to specific antigens will be activated and proliferate, while others will be eliminated. This process is driven by the affinity of the lymphocytes for the antigens, with the most reactive cells being selected and expanded."

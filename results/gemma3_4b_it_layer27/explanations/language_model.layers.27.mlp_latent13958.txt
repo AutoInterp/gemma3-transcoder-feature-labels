@@ -1,0 +1,1 @@
+"Texts containing various types of code, including programming code, command lines, and configuration settings, often found in technical documentation, tutorials, and programming-related content."

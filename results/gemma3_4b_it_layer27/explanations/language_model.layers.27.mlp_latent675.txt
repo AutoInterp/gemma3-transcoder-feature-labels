@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are cut off or truncated, sometimes with a command or instruction following, and sometimes with a reference to a previous or subsequent part of the text."

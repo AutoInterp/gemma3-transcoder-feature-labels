@@ -1,0 +1,1 @@
+"Technical text describing computer networking protocols, particularly HTTP and TCP, and their implementation in software and hardware systems."

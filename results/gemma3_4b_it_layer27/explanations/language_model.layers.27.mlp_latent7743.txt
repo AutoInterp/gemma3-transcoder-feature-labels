@@ -1,0 +1,1 @@
+"Text contains various types of data, including addresses, names, locations, dates, and numerical values, often in a format that is not typical of natural language."

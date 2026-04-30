@@ -1,0 +1,1 @@
+"Text segments enclosed by delimiters, often containing standalone sentences or phrases, frequently used to separate main content from additional information or to provide context."

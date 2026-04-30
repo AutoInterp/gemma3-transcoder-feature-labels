@@ -1,0 +1,1 @@
+"Large blocks of text, often technical or informative, contained within delimiters, frequently representing code snippets, explanations, or descriptions."

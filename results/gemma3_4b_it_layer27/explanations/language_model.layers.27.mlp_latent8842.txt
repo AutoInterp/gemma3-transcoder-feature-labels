@@ -1,0 +1,1 @@
+"Various Linux and Unix commands, scripts, and programming examples, including file management, permissions, and system administration tasks, as well as snippets of code in languages such as bash, zsh, and Perl."

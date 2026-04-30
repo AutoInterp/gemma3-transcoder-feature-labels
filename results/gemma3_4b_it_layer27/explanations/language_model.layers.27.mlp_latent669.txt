@@ -1,0 +1,1 @@
+"Texts related to user authentication and login processes, including sign-in, sign-up, and password management."

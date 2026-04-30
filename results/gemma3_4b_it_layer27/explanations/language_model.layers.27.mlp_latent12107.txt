@@ -1,0 +1,1 @@
+"Code snippets in various programming languages, with a focus on variable and function names, data types, and control structures."

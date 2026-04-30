@@ -1,0 +1,1 @@
+"Various Linux and Unix commands, scripts, and tools for system administration, network scanning, security auditing, and file management, often used in combination with programming languages such as Bash and Perl."

@@ -1,0 +1,1 @@
+"Texts containing file-related terminology, including file paths, file formats, and file operations, often in a programming or technical context."

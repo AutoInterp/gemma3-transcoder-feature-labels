@@ -1,0 +1,1 @@
+"Text snippets containing geographical locations, IP addresses, domain names, and specific technical terms, often in the context of programming, networking, or scientific research."

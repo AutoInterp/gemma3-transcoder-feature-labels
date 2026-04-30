@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, primarily C++ and Python, containing mathematical equations, geometric transformations, and graphical rendering, often involving variables x and y."

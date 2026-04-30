@@ -1,0 +1,1 @@
+"MySQL database dump scripts containing SQL commands for creating and modifying tables, as well as configuration settings and error handling mechanisms."

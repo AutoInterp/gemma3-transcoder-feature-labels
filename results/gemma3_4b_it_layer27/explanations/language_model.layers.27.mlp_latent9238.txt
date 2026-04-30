@@ -1,0 +1,1 @@
+"Texts discussing data processing, analysis, and transmission, including concepts such as data encryption, anonymization, and portability, as well as the use of data in various applications like machine learning, big data, and scientific research."

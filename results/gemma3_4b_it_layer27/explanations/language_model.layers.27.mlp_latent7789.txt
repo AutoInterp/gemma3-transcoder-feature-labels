@@ -1,0 +1,1 @@
+"Technical descriptions of computer hardware and networking concepts, including data transmission, circuit connections, and device interfaces."

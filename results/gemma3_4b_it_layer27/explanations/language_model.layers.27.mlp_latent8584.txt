@@ -1,0 +1,1 @@
+"Code snippets in various programming languages, including Perl, Java, and C++, with a focus on data structures, image processing, and string manipulation."

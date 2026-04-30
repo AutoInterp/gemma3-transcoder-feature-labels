@@ -1,0 +1,1 @@
+"Dates and timestamps in various formats, often used to indicate publication or creation dates, and sometimes used as part of a larger text."

@@ -1,0 +1,1 @@
+"Timestamps and metadata from various sources, including log files, web pages, and code comments, often in a format that is not human-readable."

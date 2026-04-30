@@ -1,0 +1,1 @@
+"Large numbers and amounts of money are often represented in scientific notation, with the use of \"million\" and \"billion\" to denote specific ranges of values."

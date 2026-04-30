@@ -1,0 +1,1 @@
+"Code snippets and programming concepts, often with a focus on execution time, complexity, and optimization, as well as database and query planning."

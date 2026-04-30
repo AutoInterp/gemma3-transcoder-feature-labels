@@ -1,0 +1,1 @@
+"The token \"square\" and its variants (\"squares\", \"square feet\", \"square metres\", \"square root\") are used to describe units of area, and the token \"squishy\" and its variants (\"squirmed\", \"squirm\") are used to describe something soft or flexible, often in a humorous or unpleasant context."

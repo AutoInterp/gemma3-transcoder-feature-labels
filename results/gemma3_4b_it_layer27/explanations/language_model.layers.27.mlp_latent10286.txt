@@ -1,0 +1,1 @@
+"Text snippets often appear in a format that suggests they are being used as examples or explanations, frequently with a title or a brief description. These snippets can be found within larger blocks of text, and they often contain technical or specialized information."

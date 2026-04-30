@@ -1,0 +1,1 @@
+"Dates in the format of day and month, often used as a reference point for events, deadlines, or historical context."

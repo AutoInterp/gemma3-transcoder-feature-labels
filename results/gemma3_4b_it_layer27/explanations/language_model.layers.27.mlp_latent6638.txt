@@ -1,0 +1,1 @@
+"The token \"'s\" is used to form possessive nouns, and the token \"'ll\" is used to form a contraction of \"will\"."

@@ -1,0 +1,1 @@
+"Texts containing various types of data, including personal identifiable information (PII), technical specifications, programming code, and mathematical equations, often in the context of software development, engineering, or scientific research."

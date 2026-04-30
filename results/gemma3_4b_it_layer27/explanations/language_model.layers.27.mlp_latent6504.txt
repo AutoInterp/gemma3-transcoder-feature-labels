@@ -1,0 +1,1 @@
+"Text containing color information in various formats, including hex codes, RGB values, and color names, often used in design and programming contexts."

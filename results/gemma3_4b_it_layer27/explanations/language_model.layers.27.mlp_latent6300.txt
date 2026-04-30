@@ -1,0 +1,1 @@
+"Instructions and tutorials on how to perform specific tasks, often accompanied by error messages or troubleshooting steps, frequently found in technical documentation, online forums, and educational content."

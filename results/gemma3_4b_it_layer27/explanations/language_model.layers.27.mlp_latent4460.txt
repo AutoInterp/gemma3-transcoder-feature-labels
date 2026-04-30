@@ -1,0 +1,1 @@
+"HTML elements and CSS classes used for styling and structuring web content, including headings, paragraphs, lists, tables, and form elements."

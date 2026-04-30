@@ -1,0 +1,1 @@
+"The token \"°\" representing degrees of temperature, often used in conjunction with Fahrenheit or Celsius scales."

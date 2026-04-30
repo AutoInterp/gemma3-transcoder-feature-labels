@@ -1,0 +1,1 @@
+"Text fragments enclosed by delimiters often represent titles, subtitles, or standalone sentences, possibly indicating a change in topic or a new idea."

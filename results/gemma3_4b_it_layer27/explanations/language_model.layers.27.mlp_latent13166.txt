@@ -1,0 +1,1 @@
+"Text describing algorithms, data structures, and programming concepts, including object-oriented programming, SQL, and encryption."

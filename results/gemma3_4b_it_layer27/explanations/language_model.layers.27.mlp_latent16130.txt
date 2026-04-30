@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including SQL, Java, and Python, containing database-related queries, table structures, and data retrieval operations."

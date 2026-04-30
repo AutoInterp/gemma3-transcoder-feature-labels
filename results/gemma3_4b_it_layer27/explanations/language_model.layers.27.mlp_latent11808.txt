@@ -1,0 +1,1 @@
+"Various encryption algorithms and modes, including AES (Advanced Encryption Standard) in different key sizes and modes (e.g. CBC, CFB, OFB, ECB), as well as other encryption-related concepts such as initialization vectors (IVs), hash functions (e.g. MD5, SHA), and encryption protocols (e.g. SSL, TLS, WEP, WPA)."

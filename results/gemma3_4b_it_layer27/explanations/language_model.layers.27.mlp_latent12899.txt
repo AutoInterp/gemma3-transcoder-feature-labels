@@ -1,0 +1,1 @@
+"Texts often contain citations or references to external sources, typically denoted by a sequence of characters, usually including a year, author's name, and sometimes a title or publication name."

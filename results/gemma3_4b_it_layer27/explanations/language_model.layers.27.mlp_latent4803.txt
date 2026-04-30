@@ -1,0 +1,1 @@
+"The token \"JSON\" and related terms, such as \"JSON object\", \"JSON dictionary\", and \"JSON compatible\", are frequently used in the context of data formats, APIs, and programming languages like JavaScript, indicating a strong emphasis on JSON as a data exchange format."

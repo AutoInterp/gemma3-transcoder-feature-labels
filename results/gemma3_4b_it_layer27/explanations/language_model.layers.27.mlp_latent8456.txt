@@ -1,0 +1,1 @@
+"Numbers and amounts are often written out in words, with specific rules for formatting, such as separating thousands with commas and using ordinal numbers for ages and years."

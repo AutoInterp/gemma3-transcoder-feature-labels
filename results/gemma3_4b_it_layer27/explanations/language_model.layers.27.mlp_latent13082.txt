@@ -1,0 +1,1 @@
+"Geographic locations, names of cities, counties, and states, often used as context for events or descriptions."

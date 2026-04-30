@@ -1,0 +1,1 @@
+"Sequences of text enclosed in angle brackets, often containing names, titles, or phrases, and sometimes representing code or technical information."

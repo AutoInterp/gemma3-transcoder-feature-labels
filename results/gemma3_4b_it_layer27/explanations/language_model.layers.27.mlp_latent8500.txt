@@ -1,0 +1,1 @@
+"Various numerical values, colors, and units of measurement, often used in technical or scientific contexts, such as dimensions, weights, temperatures, and quantities."

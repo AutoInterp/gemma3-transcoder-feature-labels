@@ -1,0 +1,1 @@
+"Various types of text, including medical articles, news articles, and technical documentation, often contain phone numbers, addresses, and other contact information, which are typically formatted in a specific way."

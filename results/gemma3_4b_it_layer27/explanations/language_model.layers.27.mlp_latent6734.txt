@@ -1,0 +1,1 @@
+"Texts that are not actual sentences or meaningful phrases, but rather code snippets, technical descriptions, or other non-narrative content."

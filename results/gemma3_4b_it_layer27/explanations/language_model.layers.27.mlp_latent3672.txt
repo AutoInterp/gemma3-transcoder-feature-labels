@@ -1,0 +1,1 @@
+"Texts containing programming-related concepts, technical terms, and syntax, often with a focus on data processing, formatting, and manipulation, as well as scripting languages and their applications."

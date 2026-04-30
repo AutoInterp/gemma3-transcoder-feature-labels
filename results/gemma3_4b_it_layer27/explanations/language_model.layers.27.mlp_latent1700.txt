@@ -1,0 +1,1 @@
+"The token \"response\" is often used in the context of computer science, particularly in relation to HTTP requests and server interactions, but also in a broader sense to describe a reaction or answer to a stimulus."

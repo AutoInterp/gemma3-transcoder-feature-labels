@@ -1,0 +1,1 @@
+"The token \"col\" and its variants (\"colon\", \"colonies\", \"color\", \"colour\") appear frequently in the text, often in the context of nouns representing groups, objects, or concepts."

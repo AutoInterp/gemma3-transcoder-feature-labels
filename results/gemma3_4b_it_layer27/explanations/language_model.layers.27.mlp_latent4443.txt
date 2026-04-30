@@ -1,0 +1,1 @@
+"Text snippets often appear within delimiters, which may indicate a quote, a specific section of text, or a highlighted phrase. These snippets can be found within various types of documents, including articles, reports, and personal stories."

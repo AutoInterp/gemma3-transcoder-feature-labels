@@ -1,0 +1,1 @@
+"Texts that are not relevant to the analysis, containing various unrelated topics, such as news articles, personal stories, and technical information, with no discernible patterns or commonalities."

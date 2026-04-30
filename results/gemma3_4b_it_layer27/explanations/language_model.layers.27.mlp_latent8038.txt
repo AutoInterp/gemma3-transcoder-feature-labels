@@ -1,0 +1,1 @@
+"The token \"long\" is often used to describe a duration of time, and is frequently paired with other words such as \"time\", \"ago\", \"after\", and \"enough\" to convey a sense of temporal extent."

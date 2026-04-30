@@ -1,0 +1,1 @@
+"Text snippets containing technical or formal language, often from programming documentation, academic papers, or Wikipedia articles, with varying levels of complexity and domain-specific terminology."

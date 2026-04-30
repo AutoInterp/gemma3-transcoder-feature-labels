@@ -1,0 +1,1 @@
+"Large numbers, often in the format of a specific number of zeros, are used to represent quantities, such as amounts of money, population, or other numerical values."

@@ -1,0 +1,1 @@
+"Dates and times, including specific years, months, days, hours, and minutes, often used to provide context or specify events."

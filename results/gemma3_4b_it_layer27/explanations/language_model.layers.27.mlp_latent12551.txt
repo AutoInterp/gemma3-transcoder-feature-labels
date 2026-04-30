@@ -1,0 +1,1 @@
+"Large blocks of text, often from external sources, are being used as context or examples in a discussion or explanation, frequently with low activation values indicating they are not crucial to the main topic."

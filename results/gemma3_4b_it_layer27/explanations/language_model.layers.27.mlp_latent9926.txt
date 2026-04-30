@@ -1,0 +1,1 @@
+"Code snippets in various programming languages, including configuration files, function definitions, and database operations, often with comments and documentation."

@@ -1,0 +1,1 @@
+"The token \"pr\" or \"pre\" at the beginning of a word, often indicating a prefix related to concepts such as priority, preparation, or preceding."

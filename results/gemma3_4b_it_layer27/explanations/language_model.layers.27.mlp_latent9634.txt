@@ -1,0 +1,1 @@
+"Measurements and dimensions in various units, including metric (cm, m) and imperial (inches, feet), often used to describe physical objects, sizes, and quantities."

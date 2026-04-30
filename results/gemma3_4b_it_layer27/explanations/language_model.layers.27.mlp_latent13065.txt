@@ -1,0 +1,1 @@
+"Loops iterating over an array or collection, often used for processing or accessing elements."

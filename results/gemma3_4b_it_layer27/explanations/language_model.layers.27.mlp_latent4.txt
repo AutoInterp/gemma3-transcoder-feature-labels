@@ -1,0 +1,1 @@
+"Various bash commands and options, including verbose mode, echoing, and variable expansion, used for debugging and scripting purposes."

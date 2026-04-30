@@ -1,0 +1,1 @@
+"The token \"seconds\" is often used to describe time intervals, frequently in the context of duration, delay, or elapsed time."

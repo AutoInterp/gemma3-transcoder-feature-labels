@@ -1,0 +1,1 @@
+"Texts discussing computer graphics, 3D modeling, and rendering techniques, including topics such as lighting, materials, and animation."

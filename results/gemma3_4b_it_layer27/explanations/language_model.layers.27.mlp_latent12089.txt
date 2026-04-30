@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are repeated verbatim, likely due to copying and pasting from external sources, resulting in identical or near-identical sequences of words."

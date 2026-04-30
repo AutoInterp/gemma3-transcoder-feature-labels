@@ -1,0 +1,1 @@
+"Technical documentation and programming concepts, including object-oriented programming principles, data structures, algorithms, and best practices for coding and testing."

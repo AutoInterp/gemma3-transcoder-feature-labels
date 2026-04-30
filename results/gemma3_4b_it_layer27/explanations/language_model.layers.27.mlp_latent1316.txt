@@ -1,0 +1,1 @@
+"Various phrases and words that are likely to be used as identifiers or keywords in programming, scientific, or technical contexts, often related to file names, function names, or variable names."

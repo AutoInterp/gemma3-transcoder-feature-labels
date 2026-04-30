@@ -1,0 +1,1 @@
+"Text segments enclosed by delimiters, often containing additional information or explanations, frequently found at the end of a paragraph or section."

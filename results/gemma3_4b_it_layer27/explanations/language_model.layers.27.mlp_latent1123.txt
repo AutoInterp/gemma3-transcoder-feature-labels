@@ -1,0 +1,1 @@
+"Texts containing programming code, commands, and scripts in various programming languages, including bash, PHP, and Perl, often with a focus on system administration, development, and automation."

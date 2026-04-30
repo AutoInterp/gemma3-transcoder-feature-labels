@@ -1,0 +1,1 @@
+"Various commands and scripts for package management, software installation, and development, including terminal commands, configuration settings, and code snippets."

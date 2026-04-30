@@ -1,0 +1,1 @@
+"Various Java-related code snippets, including Spring Boot and Spring Data JPA, with a focus on web development, database interactions, and security."

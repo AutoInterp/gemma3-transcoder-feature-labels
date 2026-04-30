@@ -1,0 +1,1 @@
+"Text snippets containing programming code, technical documentation, and configuration files, often with specific syntax and formatting."

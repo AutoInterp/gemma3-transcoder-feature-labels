@@ -1,0 +1,1 @@
+"Numerical values and units, often in scientific notation, used to describe various quantities such as financial data, physical measurements, and technical specifications."

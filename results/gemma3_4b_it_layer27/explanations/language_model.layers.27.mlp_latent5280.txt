@@ -1,0 +1,1 @@
+"Text snippets with low activation values, often indicating irrelevant or supplementary information, such as citations, references, or minor details."

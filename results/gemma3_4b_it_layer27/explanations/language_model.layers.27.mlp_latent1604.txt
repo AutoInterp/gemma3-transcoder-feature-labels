@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including Python, C, and Mercury Autocode, showcasing different data structures, algorithms, and programming concepts such as stack and queue implementations, sorting, and string manipulation."

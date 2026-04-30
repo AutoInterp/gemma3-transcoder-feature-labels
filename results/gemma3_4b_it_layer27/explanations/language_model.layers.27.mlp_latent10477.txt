@@ -1,0 +1,1 @@
+"Dates and times, often in a specific format, frequently appearing at the beginning of a text."

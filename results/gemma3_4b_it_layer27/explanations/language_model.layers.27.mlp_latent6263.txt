@@ -1,0 +1,1 @@
+"Text snippets often contain technical or specialized information, such as programming code, network scanning tools, or sports rules, which are frequently used in a specific context."

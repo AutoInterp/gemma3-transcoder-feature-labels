@@ -1,0 +1,1 @@
+"Texts often contain implicit or explicit comparisons between two versions of something, with the lower end being a \"mini\" or lesser version and the higher end being a more significant or extreme version."

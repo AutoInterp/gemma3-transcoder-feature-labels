@@ -1,0 +1,1 @@
+"Texts from various sources, including news articles, online forums, and product descriptions, with a focus on extracting key phrases and sentences. The patterns found in these texts include the use of idioms, proper nouns, and technical terms, as well as the presence of quotes, dates, and geographical locations."

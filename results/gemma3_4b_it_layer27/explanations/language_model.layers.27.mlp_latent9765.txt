@@ -1,0 +1,1 @@
+"The token \"long\" is often used in phrases describing duration or extent, and the token \"run\" is used in phrases describing a period of time or a sequence of events."

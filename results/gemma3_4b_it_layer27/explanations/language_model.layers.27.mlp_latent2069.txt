@@ -1,0 +1,1 @@
+"Various types of text data, including phone numbers, addresses, URLs, and text from articles, websites, and social media platforms, with a focus on extracting relevant information such as names, locations, and contact details."

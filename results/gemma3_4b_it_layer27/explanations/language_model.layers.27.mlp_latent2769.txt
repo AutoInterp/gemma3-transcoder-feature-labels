@@ -1,0 +1,1 @@
+"Texts containing specific phrases or sentences that are enclosed in double angle brackets, often indicating a quote or a title, and sometimes followed by a list of activation values."

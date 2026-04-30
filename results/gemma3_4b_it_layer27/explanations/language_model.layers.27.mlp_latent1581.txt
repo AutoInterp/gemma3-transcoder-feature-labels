@@ -1,0 +1,1 @@
+"Various dates and addresses, often in the format of a specific year, month, and day, or a city and state."

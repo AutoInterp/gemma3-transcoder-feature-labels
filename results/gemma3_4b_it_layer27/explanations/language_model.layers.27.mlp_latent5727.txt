@@ -1,0 +1,1 @@
+"Text snippets often appear in a specific format, typically enclosed in angle brackets, and are used to indicate a quote, a title, or a specific piece of information."

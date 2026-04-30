@@ -1,0 +1,1 @@
+"Texts discussing various cryptographic concepts, including encryption modes (e.g. CFB, GCM, OFB), hash functions (e.g. SHA256), and authentication methods (e.g. HMAC, ECDHE)."

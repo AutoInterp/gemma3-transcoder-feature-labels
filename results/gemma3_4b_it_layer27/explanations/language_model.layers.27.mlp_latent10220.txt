@@ -1,0 +1,1 @@
+"Texts often contain informal, conversational language, and sometimes quotes or instructions. The presence of programming code, mathematical formulas, and technical jargon suggests a context of technical documentation, academic writing, or online tutorials."

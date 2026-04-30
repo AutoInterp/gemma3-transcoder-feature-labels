@@ -1,0 +1,1 @@
+"Code snippets and technical instructions, often related to programming, operating systems, and software configuration, frequently including keyboard shortcuts, command-line interfaces, and file paths."

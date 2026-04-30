@@ -1,0 +1,1 @@
+"Text segments enclosed by delimiters often represent quotes, citations, or extracted information from external sources, and are frequently followed by a period or a quotation mark."

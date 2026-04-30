@@ -1,0 +1,1 @@
+"Ranges of values, often numerical, used to describe quantities, measurements, or amounts, frequently found in scientific, technical, or financial contexts."

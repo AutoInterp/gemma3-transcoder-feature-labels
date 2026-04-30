@@ -1,0 +1,1 @@
+"Texts are broken into chunks with various formatting elements such as headings, lists, and short paragraphs, often with a focus on presenting information in a clear and concise manner."

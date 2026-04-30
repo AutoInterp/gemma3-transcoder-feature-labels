@@ -1,0 +1,1 @@
+"Text snippets often contain URLs, scientific article references, or technical information, frequently appearing at the end of a paragraph or section."

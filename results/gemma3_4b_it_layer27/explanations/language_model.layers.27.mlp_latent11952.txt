@@ -1,0 +1,1 @@
+"The token \"key\" is often used in various contexts, including cryptography, data encryption, and access control, as well as in more general senses such as a crucial element or a point of reference."

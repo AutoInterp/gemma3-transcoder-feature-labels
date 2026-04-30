@@ -1,0 +1,1 @@
+"Various numerical values, including IP addresses, population counts, monetary amounts, and other quantifiable data."

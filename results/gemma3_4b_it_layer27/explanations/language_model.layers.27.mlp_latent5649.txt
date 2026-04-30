@@ -1,0 +1,1 @@
+"Dates in the format of \"year\" or \"year-range\" often used to provide context or specify a particular event or period."

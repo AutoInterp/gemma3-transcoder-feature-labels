@@ -1,0 +1,1 @@
+"Large numbers and monetary values, often used in the context of financial transactions, statistics, or historical data."

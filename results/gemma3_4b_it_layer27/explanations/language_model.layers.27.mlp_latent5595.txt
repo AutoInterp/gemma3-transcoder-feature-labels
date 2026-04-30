@@ -1,0 +1,1 @@
+"Text fragments containing URLs, programming code, and specific names of people, places, and organizations, often used to provide context or reference information."

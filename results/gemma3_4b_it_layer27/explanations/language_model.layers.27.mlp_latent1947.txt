@@ -1,0 +1,1 @@
+"Text discussing character encoding, Unicode, and collation rules, including examples of encoding and decoding, and explanations of character set limitations in URIs and other contexts."

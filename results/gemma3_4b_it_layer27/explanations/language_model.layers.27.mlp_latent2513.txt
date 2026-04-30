@@ -1,0 +1,1 @@
+"Text snippets containing URLs, citations, or references, often in the format of a DOI, PMID, or a link to a PDF document."

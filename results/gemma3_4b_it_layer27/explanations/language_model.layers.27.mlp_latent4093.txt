@@ -1,0 +1,1 @@
+"Hexadecimal color codes and RGB color space descriptions, as well as various programming and data-related terms, including function names, variable names, and data types."

@@ -1,0 +1,1 @@
+"Text describing technical instructions, software installation, and file management, often including commands, file paths, and compression methods."

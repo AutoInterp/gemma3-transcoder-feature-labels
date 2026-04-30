@@ -1,0 +1,1 @@
+"Various shell commands and scripts, including configuration, installation, and execution of programs, as well as file management and system administration tasks."

@@ -1,0 +1,1 @@
+"Texts with low activation values are likely to be filler words, punctuation, or other non-essential tokens."

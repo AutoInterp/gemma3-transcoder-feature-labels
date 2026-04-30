@@ -1,0 +1,1 @@
+"Texts containing various types of instructions, recipes, and technical information, often including specific commands, file paths, and usage examples."

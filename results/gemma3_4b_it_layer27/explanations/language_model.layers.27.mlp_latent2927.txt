@@ -1,0 +1,1 @@
+"Text excerpts often appear between delimiters, and their importance is measured by the frequency of their appearance in the given context. These excerpts frequently contain complex sentences, technical terms, and formal language, suggesting they are from academic, professional, or informative sources."

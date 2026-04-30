@@ -1,0 +1,1 @@
+"HTML code snippets, primarily table structures and variable definitions, with some embedded programming code."

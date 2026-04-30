@@ -1,0 +1,1 @@
+"Texts from various sources, including academic papers, news articles, and programming code, with a focus on extracting specific phrases and words. The patterns found include the use of foreign language phrases, technical terms, and programming code snippets, often accompanied by activation values indicating their importance in the text."

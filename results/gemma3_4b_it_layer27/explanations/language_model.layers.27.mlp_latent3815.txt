@@ -1,0 +1,1 @@
+"Various programming code snippets and SQL queries, primarily in JavaScript, PHP, and SQL, with some Russian and English text."

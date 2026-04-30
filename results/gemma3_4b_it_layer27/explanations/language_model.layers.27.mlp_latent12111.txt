@@ -1,0 +1,1 @@
+"Texts about file copying, file systems, and file management, often referencing Visual Basic (VBA) programming language and its FileCopy function."
