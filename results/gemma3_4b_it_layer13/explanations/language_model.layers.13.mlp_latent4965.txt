@@ -1,0 +1,1 @@
+"Texts often contain proper nouns, such as names of people, places, and organizations, which are frequently capitalized. Additionally, sentences often begin with a topic or subject, followed by a verb, and then additional information."

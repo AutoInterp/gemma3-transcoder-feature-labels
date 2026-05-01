@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including C#, Java, and SQL, with a focus on function definitions, method calls, and database operations."

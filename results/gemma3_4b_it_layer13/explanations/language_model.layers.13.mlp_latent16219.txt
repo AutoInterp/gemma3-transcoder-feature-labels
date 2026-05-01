@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are followed by a list of items, instructions, or explanations, which are typically denoted by a colon or a dash. These lists can include various types of information, such as steps to follow, characteristics of something, or examples of related concepts."

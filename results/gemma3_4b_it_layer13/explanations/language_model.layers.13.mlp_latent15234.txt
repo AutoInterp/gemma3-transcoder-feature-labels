@@ -1,0 +1,1 @@
+"SQL code snippets, likely from database schema definitions or queries, containing table and column definitions, and various programming languages such as Java, Python, and Swift, with code snippets related to data processing, string manipulation, and animation."

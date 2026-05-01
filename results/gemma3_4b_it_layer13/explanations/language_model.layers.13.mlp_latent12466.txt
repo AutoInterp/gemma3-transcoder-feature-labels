@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, often with comments and explanations, used to illustrate solutions to specific problems or to demonstrate programming concepts."

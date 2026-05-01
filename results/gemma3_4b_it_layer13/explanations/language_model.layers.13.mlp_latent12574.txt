@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, primarily Python, with a focus on mathematical and algorithmic concepts, including geometry, calculus, and optimization problems."

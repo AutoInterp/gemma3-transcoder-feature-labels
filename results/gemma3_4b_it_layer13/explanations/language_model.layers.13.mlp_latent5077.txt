@@ -1,0 +1,1 @@
+"Code snippets and programming-related text, including function calls, variable declarations, and error messages, often in a programming language such as C or Bash."

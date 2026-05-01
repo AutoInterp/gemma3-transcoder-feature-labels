@@ -1,0 +1,1 @@
+"Various programming languages, frameworks, and libraries, including JavaScript, PHP, Java, and SQL, as well as snippets of code and configuration files."

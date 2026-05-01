@@ -1,0 +1,1 @@
+"Code snippets related to deletion or removal of items, data, or objects, including functions, methods, and operations for deleting vertices, items, recipes, music, playlists, and other entities, as well as clearing data, cache, and browsing history."

@@ -1,0 +1,1 @@
+"The token \"<<\" and \">>\" are used as delimiters to mark the beginning and end of a code snippet or a block of text, often indicating a transition to a different context or a change in format."

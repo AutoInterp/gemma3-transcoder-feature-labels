@@ -1,0 +1,1 @@
+"Text containing color information in various formats, including hexadecimal, RGB, and CMYK values, as well as color descriptions and names."

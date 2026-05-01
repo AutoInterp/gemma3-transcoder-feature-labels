@@ -1,0 +1,1 @@
+"Various programming code snippets, documentation, and technical instructions, often including function or method names, variable names, and data types, as well as text describing software features, user interfaces, and system operations."

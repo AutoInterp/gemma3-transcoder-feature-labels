@@ -1,0 +1,1 @@
+"Various dates and years in the format of two or four digits, often appearing at the beginning of a sentence or in a list."

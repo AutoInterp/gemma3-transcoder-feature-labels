@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are enclosed in delimiters, which are likely used to indicate a quote, a citation, or a specific type of information. These enclosed phrases or sentences often have lower activation values compared to the surrounding text, suggesting that they may be less relevant to the main topic or context."

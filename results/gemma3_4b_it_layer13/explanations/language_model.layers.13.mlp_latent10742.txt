@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, primarily C/C++ and Python, with a focus on algorithmic and mathematical concepts, including sorting, data structures, and number theory."

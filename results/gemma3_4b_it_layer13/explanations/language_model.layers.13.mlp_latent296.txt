@@ -1,0 +1,1 @@
+"Various types of data, including contact information, URLs, database queries, and code snippets, often found in the context of technical documentation, programming, or administrative purposes."

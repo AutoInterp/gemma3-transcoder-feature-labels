@@ -1,0 +1,1 @@
+"Texts often contain numerical references, abbreviations, and proper nouns, which are frequently found at the beginning of a sentence or paragraph."

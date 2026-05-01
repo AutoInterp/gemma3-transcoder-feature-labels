@@ -1,0 +1,1 @@
+"Text fragments containing metadata, such as release dates, assembly details, and technical specifications, as well as formatting and layout elements like headers, footers, and page breaks."

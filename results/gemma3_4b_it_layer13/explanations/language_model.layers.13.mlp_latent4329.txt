@@ -1,0 +1,1 @@
+"SQL queries and database schema definitions, with various keywords and identifiers."

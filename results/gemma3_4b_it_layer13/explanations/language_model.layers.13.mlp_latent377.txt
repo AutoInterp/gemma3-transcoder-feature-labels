@@ -1,0 +1,1 @@
+"Texts from various domains, including news, articles, and product descriptions, with a focus on extracting specific words or phrases that are relevant to the content."

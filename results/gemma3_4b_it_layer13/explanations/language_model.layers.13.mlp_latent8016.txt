@@ -1,0 +1,1 @@
+"HTML/CSS/JavaScript code snippets with variable names and descriptions, likely from a documentation or a code editor. The patterns found include variable names with descriptions, HTML elements with attributes, and JavaScript functions with parameters."

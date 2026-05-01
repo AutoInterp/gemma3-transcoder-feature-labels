@@ -1,0 +1,1 @@
+"The token \"RAM\" is often mentioned in the context of computer memory, and is frequently paired with other technical terms such as \"CPU\", \"buffering\", and \"page file\"."

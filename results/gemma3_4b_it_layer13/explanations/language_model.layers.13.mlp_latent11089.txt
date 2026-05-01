@@ -1,0 +1,1 @@
+"Text snippets often contain instructions, explanations, or advice, frequently in a Q&A format, and sometimes with code or technical information."

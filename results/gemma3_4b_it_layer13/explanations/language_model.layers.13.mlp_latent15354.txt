@@ -1,0 +1,1 @@
+"Text fragments that are book titles, often with a descriptive phrase, and sometimes including the author's name."

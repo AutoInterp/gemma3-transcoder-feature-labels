@@ -1,0 +1,1 @@
+"Texts often contain long, complex sentences or phrases that are enclosed in delimiters, which may indicate a quote, a definition, or a separate idea. These enclosed phrases often have lower activation values, suggesting they may be less central to the main idea of the text."

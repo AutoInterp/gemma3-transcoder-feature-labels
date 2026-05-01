@@ -1,0 +1,1 @@
+"The token \"#\" is used to indicate a comment or a special directive in various programming languages, such as C, C++, Java, and others. It is often used to include header files, such as #include <stdio.h> in C, which is used to include the standard input/output library."

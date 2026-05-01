@@ -1,0 +1,1 @@
+"Various types of text, including articles, conversations, and product descriptions, with a focus on extracting specific information or phrases, often using delimiters to mark important tokens."

@@ -1,0 +1,1 @@
+"SQL queries, specifically CREATE TABLE statements, and code snippets from various programming languages, including Java, C#, and C++."

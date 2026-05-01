@@ -1,0 +1,1 @@
+"Various types of identifiers and codes, including ISBN numbers, MMSI codes, and other unique identifiers, often used to track or reference specific items, people, or locations."

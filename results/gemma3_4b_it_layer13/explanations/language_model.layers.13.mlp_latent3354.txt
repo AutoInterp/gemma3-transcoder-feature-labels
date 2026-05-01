@@ -1,0 +1,1 @@
+"Text fragments often appear at the end of a document or a section, typically containing metadata, links, or references, such as author information, publication dates, or external links."

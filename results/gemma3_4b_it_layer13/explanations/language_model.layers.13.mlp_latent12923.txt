@@ -1,0 +1,1 @@
+"Texts often contain lists of items, questions, or steps, frequently with numerical labels, and sometimes accompanied by explanations or descriptions."

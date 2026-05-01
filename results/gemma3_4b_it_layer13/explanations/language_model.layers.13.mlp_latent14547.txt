@@ -1,0 +1,1 @@
+"Time and date expressions, including specific hours, days of the week, and schedules, often used to convey availability, operating hours, or event timing."

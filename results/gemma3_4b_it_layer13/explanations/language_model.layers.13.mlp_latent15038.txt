@@ -1,0 +1,1 @@
+"Various programming-related terms, including function names, variable names, and constants, as well as HTML and CSS syntax, and some mathematical expressions."

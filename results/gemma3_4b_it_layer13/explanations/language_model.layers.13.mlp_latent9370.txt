@@ -1,0 +1,1 @@
+"Various types of data, including measurements, quantities, and identifiers, often represented as numbers or strings, frequently appearing in scientific, technical, and everyday contexts."

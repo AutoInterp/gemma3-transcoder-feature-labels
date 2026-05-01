@@ -1,0 +1,1 @@
+"Texts often contain quotes, citations, and references to external sources, which are frequently marked with quotation marks or other delimiters. Additionally, the text may include various types of lists, such as enumerations, and code snippets, which are often denoted by specific formatting or syntax."

@@ -1,0 +1,1 @@
+"Texts containing italic and underline formatting, often used to highlight emphasis, and file paths or directory names."

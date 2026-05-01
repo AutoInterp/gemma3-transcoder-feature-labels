@@ -1,0 +1,1 @@
+"Text fragments that appear to be quotes, citations, or references, often with a formal tone and containing proper nouns, titles, or technical terms."

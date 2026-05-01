@@ -1,0 +1,1 @@
+"Various programming code snippets and text from technical documents, including comments, variable names, and function calls, often related to software development, data analysis, and scientific research."

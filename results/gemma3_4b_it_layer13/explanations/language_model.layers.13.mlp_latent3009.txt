@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are not essential to the main message, such as extraneous information, quotes, or tangential thoughts, which are frequently marked by a low activation score."

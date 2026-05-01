@@ -1,0 +1,1 @@
+"Code comments and documentation in various programming languages, including Java, C++, and Python, providing information about the purpose, functionality, and usage of code."

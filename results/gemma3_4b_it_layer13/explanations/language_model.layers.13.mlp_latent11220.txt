@@ -1,0 +1,1 @@
+"Various types of text data, including addresses, phone numbers, email addresses, URLs, and text from articles, letters, and online forums, often containing names, locations, and dates."

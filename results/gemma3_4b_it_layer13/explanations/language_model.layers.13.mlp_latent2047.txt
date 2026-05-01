@@ -1,0 +1,1 @@
+"Various types of metadata and information presented in a structured format, often with specific keywords or phrases used to describe the content, such as weather forecasts, scientific data, and technical specifications."

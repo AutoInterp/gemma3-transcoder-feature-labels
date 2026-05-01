@@ -1,0 +1,1 @@
+"Text containing hexadecimal color codes, RGB values, and CMYK values, often used to describe colors in various contexts, such as design, graphics, and programming."

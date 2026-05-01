@@ -1,0 +1,1 @@
+"Texts are excerpts from academic papers, with various authors, titles, and publication information. The activation values are likely related to the frequency or importance of certain words or phrases within the text."

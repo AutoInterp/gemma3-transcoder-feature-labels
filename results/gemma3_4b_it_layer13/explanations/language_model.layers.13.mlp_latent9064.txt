@@ -1,0 +1,1 @@
+"The token \"monthly\" and \"yearly\" are used to describe recurring time periods, often in the context of financial or scheduling information."

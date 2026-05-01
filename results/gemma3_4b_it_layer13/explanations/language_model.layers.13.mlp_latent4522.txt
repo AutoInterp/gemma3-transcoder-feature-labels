@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including shell scripts, Python, JavaScript, and others, often containing file paths, function calls, and variable assignments."

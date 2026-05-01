@@ -1,0 +1,1 @@
+"Text snippets often contain formatting information, such as lists, tables, and code blocks, which are denoted by specific characters like \"|\" and \"<eos>\"."

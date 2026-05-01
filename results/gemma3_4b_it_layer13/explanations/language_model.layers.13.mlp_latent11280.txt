@@ -1,0 +1,1 @@
+"Text samples from various programming languages, including Java, Python, and Ruby, as well as snippets from web development frameworks and content management systems."

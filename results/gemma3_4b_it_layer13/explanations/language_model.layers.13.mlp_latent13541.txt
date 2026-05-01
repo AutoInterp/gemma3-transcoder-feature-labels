@@ -1,0 +1,1 @@
+"Texts from various programming languages, mathematical texts, and natural language texts, but the provided activations are mostly from programming languages, specifically Java, Python, and Lua."

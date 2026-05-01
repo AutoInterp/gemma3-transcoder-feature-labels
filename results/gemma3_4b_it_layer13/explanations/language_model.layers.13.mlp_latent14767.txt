@@ -1,0 +1,1 @@
+"The presence of boolean values, specifically true and false, used to control conditional statements, function calls, and variable assignments in various programming languages."

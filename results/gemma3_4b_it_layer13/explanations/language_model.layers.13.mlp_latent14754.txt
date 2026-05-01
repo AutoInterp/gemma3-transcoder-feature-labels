@@ -1,0 +1,1 @@
+"Texts that are not in the main language of the document, often in a different language or a quote, are marked with a high activation value, indicating their importance in the text."

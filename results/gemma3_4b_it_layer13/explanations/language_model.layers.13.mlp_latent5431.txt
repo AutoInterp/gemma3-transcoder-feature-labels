@@ -1,0 +1,1 @@
+"Text snippets often appear in a code-like format, possibly indicating programming or technical information, and sometimes in a quotation or dialogue format."

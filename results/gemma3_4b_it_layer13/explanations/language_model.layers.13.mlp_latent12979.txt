@@ -1,0 +1,1 @@
+"Dates in various formats, including ordinal numbers (e.g. 1st, 2nd, 3rd), day of the month (e.g. 15th, 28th), and month-year combinations (e.g. June 2014)."

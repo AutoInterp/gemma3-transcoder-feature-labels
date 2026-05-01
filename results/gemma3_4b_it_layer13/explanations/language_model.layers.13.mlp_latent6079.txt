@@ -1,0 +1,1 @@
+"Texts from various programming languages, including Python, JavaScript, Java, and SQL, as well as texts from other domains such as mathematics, statistics, and computer science. The common pattern is the presence of code snippets, function calls, and variable names, indicating a technical or programming-related context."

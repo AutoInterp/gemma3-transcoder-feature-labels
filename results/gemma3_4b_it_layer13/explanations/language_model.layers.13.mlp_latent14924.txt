@@ -1,0 +1,1 @@
+"Text snippets often contain links, references, or citations, frequently denoted by phrases such as \"See also\" or \"Jump to\", and sometimes accompanied by specific data types or programming-related information."

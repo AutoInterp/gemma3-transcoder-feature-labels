@@ -1,0 +1,1 @@
+"Various numerical values, including integers, floating point numbers, and hexadecimal values, often used in programming or mathematical contexts."

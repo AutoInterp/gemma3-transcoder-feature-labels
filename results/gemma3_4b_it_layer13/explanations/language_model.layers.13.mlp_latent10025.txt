@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are not directly related to the main topic, such as advertisements, recommendations, or unrelated information. These can be found at the end of a paragraph or as a separate block of text, often preceded by a delimiter like \"<eos>\"."

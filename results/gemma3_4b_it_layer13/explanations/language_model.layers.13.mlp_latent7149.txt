@@ -1,0 +1,1 @@
+"SQL queries, database table schema, and programming code snippets, primarily in Java, C#, and SQL, with various keywords and identifiers."

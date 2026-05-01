@@ -1,0 +1,1 @@
+"Various numerical identifiers and codes, including ISBNs, DOIs, PMID, and others, often used to uniquely identify publications, articles, and other academic or scientific resources."

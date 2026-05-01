@@ -1,0 +1,1 @@
+"The token \"etc.\" is often used to indicate a continuation or an extension of a list, typically used to avoid listing every single item in a sequence."

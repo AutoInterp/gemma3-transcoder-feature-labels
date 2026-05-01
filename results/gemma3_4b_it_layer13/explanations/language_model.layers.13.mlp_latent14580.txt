@@ -1,0 +1,1 @@
+"Text fragments often containing special characters, such as <eos> and </eos>, which seem to be used as delimiters or markers, possibly indicating the end of a section or a block of text."

@@ -1,0 +1,1 @@
+"Texts often contain long, informal passages of code comments, academic writing, or technical descriptions, sometimes interrupted by formal or structured sections, and occasionally followed by a summary or conclusion."

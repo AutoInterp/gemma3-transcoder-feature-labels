@@ -1,0 +1,1 @@
+"Named constants and document groups are used to improve code readability and maintainability."

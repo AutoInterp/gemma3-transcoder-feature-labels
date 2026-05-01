@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including Java, Python, C++, and others, containing database schema definitions, function definitions, and other programming constructs."

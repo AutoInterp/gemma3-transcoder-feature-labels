@@ -1,0 +1,1 @@
+"Various programming code snippets, database queries, and technical documentation, often containing SQL commands, function definitions, and variable declarations."

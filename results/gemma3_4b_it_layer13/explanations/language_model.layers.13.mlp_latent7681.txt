@@ -1,0 +1,1 @@
+"Various types of numerical data, including percentages, amounts in dollars or yuan, distances, measurements, and quantities, often used in financial, economic, or scientific contexts."

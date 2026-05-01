@@ -1,0 +1,1 @@
+"Text fragments often contain titles, names, and proper nouns, which are frequently highlighted in the given examples. Additionally, there is a prevalence of article and section titles, as well as quotes and citations, which are often used to provide context and support the main content."

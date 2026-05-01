@@ -1,0 +1,1 @@
+"Text fragments often contain citations, references, or external links, which are typically denoted by a specific format, and sometimes embedded within a larger sentence or paragraph."

@@ -1,0 +1,1 @@
+"Various phrases and sentences that are likely to be code snippets, programming comments, or other non-narrative text, often containing technical jargon and abbreviations."

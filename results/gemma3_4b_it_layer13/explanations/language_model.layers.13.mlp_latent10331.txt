@@ -1,0 +1,1 @@
+"Text snippets often contain company names, product names, and brand names, which are typically enclosed in quotation marks."

@@ -1,0 +1,1 @@
+"Phone numbers and addresses are often presented in a specific format, typically including a country code, area code, and a sequence of digits."

@@ -1,0 +1,1 @@
+"Error messages and debugging statements in various programming languages, often including variable names, function calls, and error codes."

@@ -1,0 +1,1 @@
+"Texts are often terminated with a special marker, followed by a blank line, indicating the end of a section or a document."

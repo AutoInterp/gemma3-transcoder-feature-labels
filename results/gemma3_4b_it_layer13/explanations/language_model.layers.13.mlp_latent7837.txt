@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including HTML, CSS, JavaScript, Java, and C#, with a focus on UI components, layout, and styling."

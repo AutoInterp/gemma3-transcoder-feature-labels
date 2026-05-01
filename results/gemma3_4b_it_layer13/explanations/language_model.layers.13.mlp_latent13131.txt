@@ -1,0 +1,1 @@
+"Text fragments often appear in pairs, typically with a similar structure, and are usually enclosed in angle brackets. These fragments often contain information about a person, place, or thing, and may be used to provide context or clarify a point."

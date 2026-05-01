@@ -1,0 +1,1 @@
+"Texts from various programming languages, including JavaScript, Java, and Python, as well as English texts from articles, books, and conversations. The patterns found in the text include code snippets, variable names, function calls, and English sentences with varying levels of complexity."

@@ -1,0 +1,1 @@
+"Various types of text fragments, including image credits, web addresses, mathematical equations, and quotes, often appearing at the end of a paragraph or section."

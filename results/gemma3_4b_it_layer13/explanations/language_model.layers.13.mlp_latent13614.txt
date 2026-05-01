@@ -1,0 +1,1 @@
+"Texts containing technical or formal descriptions, often related to programming, data analysis, or scientific concepts, frequently accompanied by code snippets or mathematical expressions."

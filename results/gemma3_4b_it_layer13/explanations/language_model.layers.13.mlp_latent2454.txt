@@ -1,0 +1,1 @@
+"Various types of text data, including financial information, mathematical equations, programming code, and articles, with no clear common pattern among them."

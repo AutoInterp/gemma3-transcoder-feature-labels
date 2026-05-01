@@ -1,0 +1,1 @@
+"Various programming languages and code snippets, including function definitions, variable declarations, and mathematical expressions, often with a focus on computer graphics, game development, and data analysis."

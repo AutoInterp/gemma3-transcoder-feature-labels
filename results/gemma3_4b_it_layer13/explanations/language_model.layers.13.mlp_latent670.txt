@@ -1,0 +1,1 @@
+"Various types of text, including academic citations, URLs, code snippets, and articles, often containing unique identifiers, such as DOIs, PubMed IDs, and ISBNs, and sometimes accompanied by metadata like author names, publication dates, and page numbers."

@@ -1,0 +1,1 @@
+"Texts often contain punctuation marks and special characters, such as exclamation marks (!), question marks (?), and periods (.). These marks are used to convey tone, emphasis, and structure in writing."

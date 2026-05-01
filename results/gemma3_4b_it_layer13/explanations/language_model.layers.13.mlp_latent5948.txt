@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including Perl, C, C++, Java, and JavaScript, with a focus on variable declarations, loops, conditional statements, and function calls."

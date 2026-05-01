@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including Java, SQL, and HTML, with some text excerpts from articles and books. The patterns found in the text include code syntax, variable and function names, and database schema definitions."

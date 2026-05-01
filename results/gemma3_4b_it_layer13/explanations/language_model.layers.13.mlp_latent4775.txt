@@ -1,0 +1,1 @@
+"Texts enclosed in delimiters often contain explanations, descriptions, or additional information, such as examples, methods, or results, providing context and clarity to the surrounding text."

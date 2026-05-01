@@ -1,0 +1,1 @@
+"Various programming languages and frameworks, including Java, Spring, JUnit, Apache Shiro, and Microsoft XNA, with a focus on code snippets and method definitions."

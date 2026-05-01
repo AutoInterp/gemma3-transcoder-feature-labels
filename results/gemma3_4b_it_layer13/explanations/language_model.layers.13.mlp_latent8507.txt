@@ -1,0 +1,1 @@
+"Texts often contain titles, subtitles, and author information, which are frequently found at the beginning of a text, and sometimes at the end."

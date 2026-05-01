@@ -1,0 +1,1 @@
+"SQL code snippets, including database schema definitions, queries, and data manipulation statements, as well as programming code in various languages, such as Python, Java, and Ruby, with a focus on database interactions and data processing."

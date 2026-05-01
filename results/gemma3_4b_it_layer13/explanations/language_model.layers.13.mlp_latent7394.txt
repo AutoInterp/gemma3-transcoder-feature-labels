@@ -1,0 +1,1 @@
+"Texts containing phrases or sentences that are often preceded by a delimiter, typically indicating a quote, title, or a specific type of information, such as names, locations, or questions."

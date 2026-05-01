@@ -1,0 +1,1 @@
+"Text fragments often appear at the beginning or end of a paragraph, denoted by \"<eos>\" and sometimes followed by a period or other punctuation. These fragments seem to be used to mark the end of a section or paragraph, possibly for formatting or parsing purposes."

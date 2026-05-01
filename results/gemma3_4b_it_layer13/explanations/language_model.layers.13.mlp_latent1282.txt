@@ -1,0 +1,1 @@
+"Texts often contain phrases indicating a return or reversion to a previous state, such as \"back to\", \"reset to\", \"re-evaluate\", \"re-run\", \"reactivation\", and \"again\"."

@@ -1,0 +1,1 @@
+"Dates in the format of \"year-month-day\" or \"year\" are often found at the end of a sentence or paragraph, often indicating the end of a person's life or a significant event."

@@ -1,0 +1,1 @@
+"Isolated ISBN numbers, often found at the end of a text snippet, typically indicating a reference or citation."

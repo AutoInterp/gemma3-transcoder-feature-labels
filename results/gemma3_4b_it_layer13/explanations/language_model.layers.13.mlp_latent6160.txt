@@ -1,0 +1,1 @@
+"Various numerical values, units, and codes, including pressure units, gene pairs, heights, and dates, as well as technical terms and abbreviations from fields such as computer science, physics, and finance."

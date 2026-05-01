@@ -1,0 +1,1 @@
+"Text snippets often contain proper nouns, technical terms, and foreign words, which are frequently accompanied by citations, references, or explanations."

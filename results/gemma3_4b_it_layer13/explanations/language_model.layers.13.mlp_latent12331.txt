@@ -1,0 +1,1 @@
+"Texts that are likely to be the end of a paragraph or a section, often containing a summary or a conclusion, and sometimes a transition to a new topic."

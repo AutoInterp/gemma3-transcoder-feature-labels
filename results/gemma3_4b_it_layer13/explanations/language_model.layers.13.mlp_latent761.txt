@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are separated by delimiters, indicating a change in context or a new idea. These phrases or sentences may be related to specific topics, such as instructions, descriptions, or explanations."

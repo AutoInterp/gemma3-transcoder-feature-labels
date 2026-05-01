@@ -1,0 +1,1 @@
+"Various numerical values representing quantities, such as costs, prices, and amounts, often used in financial, medical, and scientific contexts."

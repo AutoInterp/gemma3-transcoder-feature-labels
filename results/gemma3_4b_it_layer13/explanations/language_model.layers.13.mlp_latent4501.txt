@@ -1,0 +1,1 @@
+"Text snippets often begin with a title or a heading, followed by a block of text that may contain various formatting elements, such as HTML tags, SQL syntax, or programming code. The text frequently includes technical or specialized vocabulary, and may be related to business, science, technology, or entertainment."

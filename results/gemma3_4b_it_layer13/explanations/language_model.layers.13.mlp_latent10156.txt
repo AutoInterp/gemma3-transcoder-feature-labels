@@ -1,0 +1,1 @@
+"Code comments in various programming languages, providing explanations and descriptions of functions, parameters, and variables."

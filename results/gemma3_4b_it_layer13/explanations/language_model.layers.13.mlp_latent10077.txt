@@ -1,0 +1,1 @@
+"Texts often contain percentages, names, and locations, which are frequently mentioned in conjunction with other words like \"percent\", \"given\", \"between\", and \"involving\"."

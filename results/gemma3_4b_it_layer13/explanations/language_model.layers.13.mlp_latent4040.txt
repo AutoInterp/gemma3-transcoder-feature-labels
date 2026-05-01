@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including C#, Java, and Python, with a focus on functions, methods, and classes, as well as snippets of text from articles, books, and online content."

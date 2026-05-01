@@ -1,0 +1,1 @@
+"Code snippets, often Java or XML, representing class or method definitions, annotations, or resource injections, frequently used in software development and programming contexts."

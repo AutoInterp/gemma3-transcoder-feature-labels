@@ -1,0 +1,1 @@
+"Addresses, locations, and geographical names."

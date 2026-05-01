@@ -1,0 +1,1 @@
+"Texts often contain instructions, warnings, or advice with specific conditions or requirements, such as \"if necessary\", \"if available\", \"if possible\", or \"if you can't\"."

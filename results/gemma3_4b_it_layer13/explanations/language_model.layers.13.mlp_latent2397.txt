@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are cut off or truncated, indicated by the presence of a delimiter such as \"<eos>\" or a phrase like \"…<eos>\". These delimiters often mark the end of a paragraph, section, or quote, and are frequently followed by a new piece of information or a transition to a different topic."

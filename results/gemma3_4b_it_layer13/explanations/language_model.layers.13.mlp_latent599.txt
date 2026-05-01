@@ -1,0 +1,1 @@
+"Text fragments that appear to be incomplete or truncated, often with a question or a prompt, followed by a response or a continuation."

@@ -1,0 +1,1 @@
+"Texts often contain proper nouns, such as names of people, places, and organizations, which are frequently mentioned in conjunction with other words like \"of\", \"the\", and \"and\". Additionally, texts may include quotes, citations, and references to external sources, which are often denoted by phrases like \"according to\", \"as reported by\", and \"as stated in\"."

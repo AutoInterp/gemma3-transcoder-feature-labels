@@ -1,0 +1,1 @@
+"Texts often contain long, complex sentences or phrases that are enclosed in delimiters, which are likely used to indicate a quote, a definition, or a specific example. These enclosed phrases often contain technical or specialized information, and their activations are generally low, suggesting that they are not the primary focus of the text."

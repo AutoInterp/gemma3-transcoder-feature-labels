@@ -1,0 +1,1 @@
+"Various programming languages and frameworks, including Java, PHP, C++, Python, JavaScript, and TypeScript, with code snippets and comments."

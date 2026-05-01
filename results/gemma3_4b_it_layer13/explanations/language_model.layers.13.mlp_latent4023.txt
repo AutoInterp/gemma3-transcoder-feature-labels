@@ -1,0 +1,1 @@
+"The token \".\" is often used to indicate the end of a sentence, but in some cases, it is used as a delimiter to separate a quotation or a phrase from the rest of the text."

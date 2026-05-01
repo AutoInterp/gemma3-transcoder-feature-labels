@@ -1,0 +1,1 @@
+"Texts containing URLs, email addresses, and phone numbers, often used for contact information or references."

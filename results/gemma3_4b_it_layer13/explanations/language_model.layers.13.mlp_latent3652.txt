@@ -1,0 +1,1 @@
+"Text snippets containing database table or column names, SQL queries, programming code, and technical terms from various fields, often used in a context of explaining or describing a concept."

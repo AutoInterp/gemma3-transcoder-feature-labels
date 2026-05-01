@@ -1,0 +1,1 @@
+"Texts often contain idiomatic expressions, proper nouns, and technical terms, which can be identified by their high activation values. Additionally, the text frequently includes phrases that are not grammatically complete, such as incomplete sentences or phrases that are part of a larger quotation."

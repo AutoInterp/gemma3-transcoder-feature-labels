@@ -1,0 +1,1 @@
+"Texts often begin with phrases like \"For example\" or \"Suppose\" to introduce a hypothetical scenario, and may contain mathematical or technical explanations, followed by code snippets or programming examples."

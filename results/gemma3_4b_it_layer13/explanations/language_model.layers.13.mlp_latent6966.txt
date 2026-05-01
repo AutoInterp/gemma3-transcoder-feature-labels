@@ -1,0 +1,1 @@
+"Various types of text delimiters and formatting markers, including HTML tags, XML tags, and special characters, used to denote the beginning and end of specific sections or elements within a text."

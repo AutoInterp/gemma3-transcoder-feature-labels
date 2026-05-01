@@ -1,0 +1,1 @@
+"Text fragments containing HTML code, programming code, or other technical content, often with low activation values, indicating they may be less relevant to the overall meaning of the text."

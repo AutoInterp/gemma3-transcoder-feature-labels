@@ -1,0 +1,1 @@
+"Text fragments containing citations, references, and academic metadata, often in the format of a DOI, PMID, or Google Scholar link, indicating a scholarly or research-oriented context."

@@ -1,0 +1,1 @@
+"Texts are often terminated by a special delimiter, and the preceding text is a title or a name of a location, a person, or an object."

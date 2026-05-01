@@ -1,0 +1,1 @@
+"Mathematical and programming-related text, including equations, variable names, function calls, and data structures, often with a focus on computational complexity, algorithms, and data analysis."

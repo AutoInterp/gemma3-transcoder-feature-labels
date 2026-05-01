@@ -1,0 +1,1 @@
+"Texts are mostly sports-related news articles, with some mentions of movies, TV shows, and other events. The common patterns found in these texts include sports scores, team names, player names, and event descriptions."

@@ -1,0 +1,1 @@
+"Text containing various types of metadata, such as timestamps, author information, and formatting instructions, often found in programming code, documentation, and online content."

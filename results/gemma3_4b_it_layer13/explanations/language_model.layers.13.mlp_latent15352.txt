@@ -1,0 +1,1 @@
+"Code snippets and programming concepts, including mathematical equations, algorithmic descriptions, and variable assignments, often in a programming language such as Java or Python."

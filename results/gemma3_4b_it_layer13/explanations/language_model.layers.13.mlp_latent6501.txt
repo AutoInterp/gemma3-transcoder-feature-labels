@@ -1,0 +1,1 @@
+"SQL code snippets, database table structures, and various programming-related text, including code comments, function names, and variable names."

@@ -1,0 +1,1 @@
+"Texts containing various types of data, including dates, times, and other metadata, often in the context of database or data storage systems, as well as snippets of code and programming-related content."

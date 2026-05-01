@@ -1,0 +1,1 @@
+"Texts from various domains, including technical articles, academic papers, and news reports, with a focus on extracting specific phrases or sentences for analysis. The extracted phrases often contain technical terms, mathematical expressions, or idiomatic expressions, indicating a wide range of topics and styles."

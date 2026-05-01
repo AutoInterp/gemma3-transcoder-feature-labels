@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, primarily C/C++, Java, Python, and C#, exhibiting while loops used for iteration, conditional checks, and data manipulation."

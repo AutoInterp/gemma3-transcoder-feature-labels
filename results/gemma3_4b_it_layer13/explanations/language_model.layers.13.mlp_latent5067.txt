@@ -1,0 +1,1 @@
+"Measurements and dimensions in various units, including inches, centimeters, millimeters, and pixels, often in the context of objects, sizes, and shapes."

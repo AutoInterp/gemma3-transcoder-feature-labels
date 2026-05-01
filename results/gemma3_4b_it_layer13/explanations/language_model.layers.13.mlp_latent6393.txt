@@ -1,0 +1,1 @@
+"Texts from various sources, including news articles, academic papers, and personal blogs, with a focus on extracting specific phrases and sentences for analysis. The extracted phrases often contain proper nouns, such as names of people, places, and organizations, and may include URLs, quotes, and other relevant information."

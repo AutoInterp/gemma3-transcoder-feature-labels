@@ -1,0 +1,1 @@
+"Texts often contain URLs, email addresses, phone numbers, and other contact information, as well as specific instructions or addresses for various purposes, such as event cancellations or product delivery."

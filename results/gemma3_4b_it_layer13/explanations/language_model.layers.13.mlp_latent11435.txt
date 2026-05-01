@@ -1,0 +1,1 @@
+"Numbers representing large quantities, often used to convey magnitude or impact, such as financial values, population sizes, and quantities of items."

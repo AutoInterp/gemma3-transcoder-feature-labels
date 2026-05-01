@@ -1,0 +1,1 @@
+"Text containing various dimensions and resolutions, often in the format of width x height, typically in pixels or inches, and sometimes accompanied by other units such as dpi or mm."

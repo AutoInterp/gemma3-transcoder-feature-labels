@@ -1,0 +1,1 @@
+"Text snippets containing URLs, file paths, or other types of references, often used for navigation or citation purposes."

@@ -1,0 +1,1 @@
+"Code snippets in various programming languages, often Java, used to illustrate examples or provide solutions to specific problems."

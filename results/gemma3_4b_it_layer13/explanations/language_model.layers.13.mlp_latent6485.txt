@@ -1,0 +1,1 @@
+"Various types of data and code snippets, including numerical values, color codes, RGB values, hexadecimal codes, and programming code, often embedded within text."

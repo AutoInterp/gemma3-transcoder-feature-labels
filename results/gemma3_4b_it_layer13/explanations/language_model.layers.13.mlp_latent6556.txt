@@ -1,0 +1,1 @@
+"Texts containing technical information, instructions, and explanations, often related to programming, software development, and engineering, frequently including code snippets and technical jargon."

@@ -1,0 +1,1 @@
+"Text fragments that are not part of the main content, such as navigation menus, disclaimers, legal notices, and technical information."

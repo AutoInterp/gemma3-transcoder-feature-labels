@@ -1,0 +1,1 @@
+"Texts often contain lists of items, frequently with bullet points, and sometimes with a brief description of each item."

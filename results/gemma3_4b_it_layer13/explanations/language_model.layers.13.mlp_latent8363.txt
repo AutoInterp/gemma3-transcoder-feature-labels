@@ -1,0 +1,1 @@
+"Texts often contain quotes, links, or references to external sources, which are frequently denoted by ellipses or URLs."

@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including Java, C#, Python, and Bash, with a focus on error messages, debugging, and troubleshooting."

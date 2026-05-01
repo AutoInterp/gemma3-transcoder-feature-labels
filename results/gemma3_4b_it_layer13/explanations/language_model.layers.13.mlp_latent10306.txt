@@ -1,0 +1,1 @@
+"Texts containing bibliographic information, such as book titles, authors, publication dates, and ISBN numbers, often accompanied by activation values for specific strings or patterns."

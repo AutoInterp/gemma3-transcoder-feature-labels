@@ -1,0 +1,1 @@
+"Various patterns of text, including lists of items, sequences of numbers, and phrases, often with specific formatting such as angle brackets, underscores, and special characters."

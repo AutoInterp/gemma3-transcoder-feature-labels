@@ -1,0 +1,1 @@
+"Various types of text, including dates, times, locations, and programming code, often with specific formatting and syntax."

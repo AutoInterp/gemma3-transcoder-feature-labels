@@ -1,0 +1,1 @@
+"Texts often contain references to other sections or information, denoted by phrases such as \"see below\", \"see above\", or \"see offers below\", indicating a hierarchical structure or supplementary information."

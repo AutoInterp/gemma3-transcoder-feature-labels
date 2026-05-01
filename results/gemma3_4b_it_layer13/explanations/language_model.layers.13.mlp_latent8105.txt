@@ -1,0 +1,1 @@
+"Texts often contain proper nouns, names of people, places, and organizations, which are frequently associated with high activation values. Additionally, the texts frequently include words related to self-improvement, personal growth, and learning, such as \"self-teaching\", \"self-learning\", and \"self-improvement\"."

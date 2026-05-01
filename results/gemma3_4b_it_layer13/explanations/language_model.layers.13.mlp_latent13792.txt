@@ -1,0 +1,1 @@
+"Text snippets from various programming languages, including SQL, Python, Ruby, and JSON, as well as snippets from other languages and domains, often containing variable names, function calls, and mathematical expressions."

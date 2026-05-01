@@ -1,0 +1,1 @@
+"Common programming-related terms and concepts, including data structures, algorithms, and software development methodologies."

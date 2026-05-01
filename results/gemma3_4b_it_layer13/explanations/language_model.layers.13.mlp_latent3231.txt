@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, primarily Java and PHP, with a focus on conditional statements, loops, and object-oriented programming."

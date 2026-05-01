@@ -1,0 +1,1 @@
+"Various phrases and sentences that are likely to be extracted from news articles, often containing proper nouns, technical terms, and quotes from individuals."

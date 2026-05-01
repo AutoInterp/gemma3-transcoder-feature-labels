@@ -1,0 +1,1 @@
+"Text snippets often appear between delimiters, and they frequently contain complete sentences or phrases, sometimes with a specific theme or topic."

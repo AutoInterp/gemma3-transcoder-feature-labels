@@ -1,0 +1,1 @@
+"The token \"await\" is often followed by a Promise object, but in these examples, it is followed by a variety of unrelated text, suggesting that the token \"await\" is being used as a placeholder or a trigger for a specific pattern, but the actual pattern is not related to the token itself."

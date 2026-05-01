@@ -1,0 +1,1 @@
+"Various numerical values and units, including percentages, points, and measurements in meters, centimeters, and pounds, often used to describe quantities, changes, or comparisons."

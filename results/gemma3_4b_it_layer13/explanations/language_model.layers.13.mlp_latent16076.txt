@@ -1,0 +1,1 @@
+"Code snippets containing functions or methods for generating random numbers or permutations, often used for simulation, modeling, or data analysis."

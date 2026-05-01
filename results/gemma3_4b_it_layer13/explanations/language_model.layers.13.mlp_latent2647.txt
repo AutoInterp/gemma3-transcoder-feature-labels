@@ -1,0 +1,1 @@
+"Various numerical values representing quantities, such as amounts of money, units of time, and physical measurements, often used in context to describe specific situations or outcomes."

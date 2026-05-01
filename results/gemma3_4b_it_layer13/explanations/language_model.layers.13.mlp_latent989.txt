@@ -1,0 +1,1 @@
+"Texts that contain links or navigation elements, such as menus, forums, and recent activity, often found at the bottom of a webpage."

@@ -1,0 +1,1 @@
+"Text primarily consists of programming-related content, including code snippets, tutorials, and discussions about various programming languages such as Python, Java, C, and Haskell."

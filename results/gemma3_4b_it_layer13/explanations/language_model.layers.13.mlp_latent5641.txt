@@ -1,0 +1,1 @@
+"Various types of text data, including URLs, academic papers, book titles, addresses, and online content, often with specific formatting and punctuation."

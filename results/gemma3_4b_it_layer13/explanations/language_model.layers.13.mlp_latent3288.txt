@@ -1,0 +1,1 @@
+"Various programming languages, frameworks, and libraries, including Java, Android, Spring, and EMF, as well as general programming concepts and terminology."

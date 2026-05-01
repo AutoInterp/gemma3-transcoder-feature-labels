@@ -1,0 +1,1 @@
+"Texts often contain sequences of words that describe a location or a situation, such as \"inside my house\", \"a church\", \"the weekend\", \"the border between Lebanon and Syria\", or \"the flight deck instruments\". These sequences can be used to establish context or provide additional information about a topic."

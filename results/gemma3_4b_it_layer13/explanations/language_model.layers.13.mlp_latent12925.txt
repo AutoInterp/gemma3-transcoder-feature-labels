@@ -1,0 +1,1 @@
+"Texts from various sources, including articles, emails, and product descriptions, with a focus on extracting specific phrases and words. The patterns found include: extracted phrases often appear to be titles, headings, or key information, and words are frequently extracted from the beginning or end of sentences."

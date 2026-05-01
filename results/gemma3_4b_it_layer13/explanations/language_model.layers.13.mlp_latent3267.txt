@@ -1,0 +1,1 @@
+"Various programming languages, frameworks, and libraries are used in the examples, including Java, JavaScript, Python, and C++. The code snippets demonstrate a wide range of programming concepts, such as data structures, algorithms, and object-oriented programming."

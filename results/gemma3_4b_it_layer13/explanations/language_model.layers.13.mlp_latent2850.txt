@@ -1,0 +1,1 @@
+"Texts often contain citations, references, or abstracts from academic papers, articles, or studies, frequently accompanied by metadata such as publication dates, authors, and identifiers."

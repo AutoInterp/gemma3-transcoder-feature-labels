@@ -1,0 +1,1 @@
+"Texts often contain idiomatic expressions, proper nouns, and technical terms, which are frequently used in specific contexts. Additionally, there are instances of quotes, citations, and references to external sources. The text also includes various types of lists, such as itemized lists and tables, and code snippets in programming languages."

@@ -1,0 +1,1 @@
+"Text fragments containing various types of data, including numbers, dates, URLs, and programming code, often appearing in isolation or as part of a larger context."

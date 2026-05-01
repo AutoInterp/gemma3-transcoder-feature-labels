@@ -1,0 +1,1 @@
+"Texts are often composed of long sentences with multiple clauses, and sometimes include quotes or citations. The activation values are generally high, indicating that these texts are likely formal or academic in nature, possibly from research papers or official documents."

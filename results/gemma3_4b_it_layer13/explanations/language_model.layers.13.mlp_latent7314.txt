@@ -1,0 +1,1 @@
+"Various numerical values and units representing quantities, such as speeds, sizes, times, and amounts, often used in technical or scientific contexts."

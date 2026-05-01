@@ -1,0 +1,1 @@
+"Texts containing scientific and technical information, including statistical data, medical research, and mathematical formulas, often accompanied by error bars, percentages, and quantiles to indicate precision and uncertainty."

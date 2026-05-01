@@ -1,0 +1,1 @@
+"Texts often end with special markers, such as \"<eos>\", indicating the end of a sentence or a block of text. These markers are frequently used in programming and data processing contexts."

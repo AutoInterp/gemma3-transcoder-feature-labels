@@ -1,0 +1,1 @@
+"Texts containing numerical values, currency, and mathematical operations, often in the context of financial transactions, calculations, or measurements."

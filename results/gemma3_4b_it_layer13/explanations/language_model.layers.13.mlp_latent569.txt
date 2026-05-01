@@ -1,0 +1,1 @@
+"Various types of text delimiters and markers, including HTML tags, programming code, and scientific notation, often used to denote the end of a section or the start of a new topic."

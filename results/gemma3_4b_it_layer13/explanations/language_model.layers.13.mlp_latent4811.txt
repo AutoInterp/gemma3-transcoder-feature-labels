@@ -1,0 +1,1 @@
+"Long sequences of text that are likely to be irrelevant or supplementary information, often containing technical details, examples, or explanations, and are not crucial to the main topic or message."

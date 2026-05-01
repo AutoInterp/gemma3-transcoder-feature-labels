@@ -1,0 +1,1 @@
+"Text fragments often appear between delimiters, which seem to be used to denote code snippets, quotes, or other types of extracted information. These fragments often contain technical or formal language, and may be related to programming, business, or other specialized topics."

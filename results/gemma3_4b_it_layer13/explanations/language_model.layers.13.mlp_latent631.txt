@@ -1,0 +1,1 @@
+"Code snippets and programming concepts, including function calls, variable declarations, and mathematical operations, often in the context of explaining technical ideas or providing examples."

@@ -1,0 +1,1 @@
+"Texts that are not part of the main content, often containing metadata, author information, or other supplementary details."

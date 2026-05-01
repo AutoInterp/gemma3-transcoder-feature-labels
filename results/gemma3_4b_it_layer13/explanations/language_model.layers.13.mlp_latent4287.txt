@@ -1,0 +1,1 @@
+"Ranges of values, percentages, and quantities, often used to describe variability, uncertainty, or optimization in various contexts, such as finance, science, and policy."

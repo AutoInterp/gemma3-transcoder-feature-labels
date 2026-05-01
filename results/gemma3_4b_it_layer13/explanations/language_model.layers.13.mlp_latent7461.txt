@@ -1,0 +1,1 @@
+"Dates and days of the week, often in the format of a title or a header, frequently accompanied by a year."

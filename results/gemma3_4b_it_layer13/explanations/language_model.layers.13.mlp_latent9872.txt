@@ -1,0 +1,1 @@
+"Texts from various programming languages, documentation, and articles, with a focus on code snippets, function calls, and variable declarations."

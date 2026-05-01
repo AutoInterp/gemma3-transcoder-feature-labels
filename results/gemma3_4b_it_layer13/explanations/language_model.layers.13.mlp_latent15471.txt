@@ -1,0 +1,1 @@
+"Various types of text delimiters and special characters, including HTML tags, programming syntax, and formatting codes, often used to denote the start or end of a section, a quotation, or a specific type of content."

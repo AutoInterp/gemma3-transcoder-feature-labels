@@ -1,0 +1,1 @@
+"Various types of text enclosed in angle brackets, often containing metadata, citations, or references, such as ISBN numbers, author names, or publication information."

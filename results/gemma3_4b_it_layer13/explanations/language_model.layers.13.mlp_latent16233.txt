@@ -1,0 +1,1 @@
+"Text contains a mix of various data types, including dates, times, locations, measurements, prices, and technical specifications, often in a format that is not typical of natural language."

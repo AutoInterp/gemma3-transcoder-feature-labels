@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including Java, C++, and Python, with some text excerpts from articles, books, and online content. The patterns found in these examples include code blocks, function definitions, and variable declarations, as well as text excerpts that appear to be from academic papers, news articles, and online content."

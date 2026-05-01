@@ -1,0 +1,1 @@
+"Various dates and times, often in a specific format, are embedded within the text."

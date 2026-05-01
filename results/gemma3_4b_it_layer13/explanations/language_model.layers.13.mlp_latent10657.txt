@@ -1,0 +1,1 @@
+"Various types of identifiers and metadata, including ISBN numbers, DOIs, PubMed IDs, and other unique codes, often appearing in academic or technical contexts."

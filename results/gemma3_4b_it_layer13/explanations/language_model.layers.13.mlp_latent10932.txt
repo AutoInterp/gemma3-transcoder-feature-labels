@@ -1,0 +1,1 @@
+"Code comments and documentation, including JavaDoc comments, XML comments, and JavaScript comments, often containing information about method parameters, return types, and usage."

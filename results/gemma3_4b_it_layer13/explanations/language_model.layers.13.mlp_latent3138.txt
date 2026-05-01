@@ -1,0 +1,1 @@
+"Code comments and documentation, often containing information about the purpose of a section of code, function parameters, or variable descriptions."

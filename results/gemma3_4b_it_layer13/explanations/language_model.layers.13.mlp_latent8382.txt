@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including Perl, Java, C, Python, and others, highlighting syntax, data structures, and control flow."

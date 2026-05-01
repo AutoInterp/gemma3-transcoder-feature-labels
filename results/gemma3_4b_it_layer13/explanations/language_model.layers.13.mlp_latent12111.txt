@@ -1,0 +1,1 @@
+"Various programming and technical terms, including file paths, programming languages, and system configurations, often found in code snippets and documentation."

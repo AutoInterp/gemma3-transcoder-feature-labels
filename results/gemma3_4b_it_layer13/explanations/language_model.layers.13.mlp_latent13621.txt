@@ -1,0 +1,1 @@
+"Numerical values representing temperatures, weights, heights, distances, and other physical quantities in both metric and imperial units."

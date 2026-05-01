@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including HTML, CSS, JavaScript, and Python, with a focus on user interface elements, layout, and styling."

@@ -1,0 +1,1 @@
+"Texts containing various types of data, including dates, times, measurements, and numerical values, often in a structured format, such as tables or lists."

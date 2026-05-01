@@ -1,0 +1,1 @@
+"Texts from various domains, including technical documentation, articles, and user-generated content, exhibit patterns of code snippets, mathematical expressions, and formal language usage, often accompanied by activation values indicating the importance of specific words or phrases."

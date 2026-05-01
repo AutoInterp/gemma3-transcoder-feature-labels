@@ -1,0 +1,1 @@
+"Texts are excerpts from various online sources, including blogs, news articles, and social media posts, often with dates and times. The activation values are mostly empty, suggesting that the important tokens are not present in these examples."

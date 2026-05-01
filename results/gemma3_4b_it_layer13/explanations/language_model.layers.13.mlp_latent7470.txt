@@ -1,0 +1,1 @@
+"Code snippets and programming-related text, often in the context of debugging, testing, or explaining technical concepts."

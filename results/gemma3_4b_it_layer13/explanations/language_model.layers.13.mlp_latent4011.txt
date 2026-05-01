@@ -1,0 +1,1 @@
+"Text fragments often appear to be cut off or truncated, with sentences or paragraphs ending abruptly, sometimes in the middle of a thought or idea. This is likely due to the presence of a delimiter or a formatting issue, rather than a natural pause in the text."

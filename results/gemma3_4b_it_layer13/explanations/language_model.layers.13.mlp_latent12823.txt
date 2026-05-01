@@ -1,0 +1,1 @@
+"Texts containing various types of data, including numbers, mathematical expressions, and URLs, often appearing in a format that is not typical of regular text, such as error messages, code snippets, and data summaries."

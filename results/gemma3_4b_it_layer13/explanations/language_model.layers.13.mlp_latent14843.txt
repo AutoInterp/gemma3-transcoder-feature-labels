@@ -1,0 +1,1 @@
+"The token \"older\" is used to indicate a comparison of age, often in a context of time or a sequence."

@@ -1,0 +1,1 @@
+"Text contains a mix of coherent and incoherent sentences, with some being irrelevant to the context. The incoherent sentences often appear to be random phrases or code snippets, suggesting possible instances of spam or automated text generation."

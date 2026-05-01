@@ -1,0 +1,1 @@
+"Text fragments that are likely to be removed or edited out of a document, often containing extraneous information, examples, or explanations."

@@ -1,0 +1,1 @@
+"Code snippets and programming-related text, including variable declarations, conditional statements, and function calls, often in a programming language such as Java or Swift."

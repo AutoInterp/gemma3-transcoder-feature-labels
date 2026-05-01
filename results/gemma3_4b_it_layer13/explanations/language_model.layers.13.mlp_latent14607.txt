@@ -1,0 +1,1 @@
+"Text fragments enclosed in delimiters, often containing sentences or phrases, with low activation values indicating they may be irrelevant or supplementary information."

@@ -1,0 +1,1 @@
+"Text fragments enclosed by a delimiter, often containing code, quotes, or formal language, and frequently indicating a shift in context or a new topic."

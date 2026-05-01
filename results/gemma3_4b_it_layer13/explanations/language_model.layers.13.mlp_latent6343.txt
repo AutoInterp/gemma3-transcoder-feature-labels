@@ -1,0 +1,1 @@
+"Timestamps in the format of \"HH:MM\" or \"HH:MM:SS\" often appear at the end of a quote or a statement, possibly indicating the time of posting or the time a comment was made."

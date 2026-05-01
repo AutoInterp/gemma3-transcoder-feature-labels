@@ -1,0 +1,1 @@
+"Text segments often contain technical or formal language, and sometimes quotes or references to other sources, which are frequently marked by a delimiter. These segments often have lower activation values, suggesting they may be less important for the overall meaning or tone of the text."

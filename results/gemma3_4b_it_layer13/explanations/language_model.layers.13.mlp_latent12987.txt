@@ -1,0 +1,1 @@
+"Various types of data, including scientific research, citations, and references, as well as hexadecimal color codes and RGB values, are embedded in the text."

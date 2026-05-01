@@ -1,0 +1,1 @@
+"Text fragments often appear in a standalone format, sometimes with a preceding or following sentence, and are frequently related to technical or informative content."

@@ -1,0 +1,1 @@
+"The token \"each\" is often used to indicate a repetition or a group, and is frequently accompanied by other words that describe a set or a collection, such as \"row\", \"order\", \"pair\", \"day\", \"year\", \"register\", \"sentence\", \"country\", \"side\", \"core\", \"obligation\", \"program\", \"week\", \"site\", \"game\", \"course\", \"situation\", and \"year\"."

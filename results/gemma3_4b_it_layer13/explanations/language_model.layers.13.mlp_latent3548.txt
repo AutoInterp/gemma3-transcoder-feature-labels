@@ -1,0 +1,1 @@
+"Text snippets from various sources, primarily academic papers, books, and online articles, containing unique identifiers such as DOIs, ISBNs, and PubMed IDs, often accompanied by citations and references."

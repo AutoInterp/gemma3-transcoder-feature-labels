@@ -1,0 +1,1 @@
+"Code snippets and text from various programming languages and environments, including R and Nextjournal, with a focus on data analysis and visualization."

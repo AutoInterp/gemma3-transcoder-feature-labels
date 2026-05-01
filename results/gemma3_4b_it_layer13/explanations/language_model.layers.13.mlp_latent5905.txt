@@ -1,0 +1,1 @@
+"Texts that are being cut off or truncated, often in the middle of a sentence, with the remaining text still being relevant and understandable."

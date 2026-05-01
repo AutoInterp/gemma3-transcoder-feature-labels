@@ -1,0 +1,1 @@
+"Various programming languages and frameworks, including Java, JavaScript, C++, Python, and SQL, with a focus on database connections, data retrieval, and object manipulation."

@@ -1,0 +1,1 @@
+"Texts often contain phrases indicating approximate quantities, such as time, size, or number, often in the form of a range or a specific value, and sometimes accompanied by a unit of measurement."

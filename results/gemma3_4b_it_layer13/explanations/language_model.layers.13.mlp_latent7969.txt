@@ -1,0 +1,1 @@
+"Text fragments that are not part of the main content, often serving as transitional phrases, explanations, or asides, frequently with a low activation score."

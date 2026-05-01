@@ -1,0 +1,1 @@
+"The token \"part of\" is often used to indicate a relationship between two entities, emphasizing that one entity is a component or a subset of another."

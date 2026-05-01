@@ -1,0 +1,1 @@
+"Text contains a wide range of numerical values, including percentages, percentages of percentages, and ratios, often used to express proportions or rates of occurrence."

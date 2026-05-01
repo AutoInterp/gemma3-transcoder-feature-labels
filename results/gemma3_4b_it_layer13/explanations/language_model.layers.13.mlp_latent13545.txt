@@ -1,0 +1,1 @@
+"A collection of academic citations and references, primarily in the format of author names, publication titles, and journal names, often accompanied by activation values indicating the relevance or importance of the information."

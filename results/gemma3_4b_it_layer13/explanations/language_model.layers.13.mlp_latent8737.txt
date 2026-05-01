@@ -1,0 +1,1 @@
+"Timestamps in various formats, often in combination with other information such as dates, times, and locations, are present in the text."

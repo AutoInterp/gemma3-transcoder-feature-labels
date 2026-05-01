@@ -1,0 +1,1 @@
+"File extensions and paths, often used in programming and technical contexts, such as .tar.gz, .php, .img, .gitignore, .DSF, .EXE, and others, indicating specific file types, directories, or operations."

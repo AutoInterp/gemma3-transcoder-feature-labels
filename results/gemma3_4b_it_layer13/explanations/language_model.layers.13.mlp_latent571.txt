@@ -1,0 +1,1 @@
+"Text fragments often appear in a specific format, typically enclosed in double angle brackets, and are used to provide additional information or context, such as options, explanations, or examples."

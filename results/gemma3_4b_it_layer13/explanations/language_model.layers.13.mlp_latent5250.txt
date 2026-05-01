@@ -1,0 +1,1 @@
+"Texts related to password management, security, and authentication, including setting, resetting, and protecting passwords, as well as authentication services and protocols."

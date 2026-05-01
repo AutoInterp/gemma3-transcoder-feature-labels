@@ -1,0 +1,1 @@
+"Texts that are often questions, quotes, or statements that are being referenced or explained, often with a high activation value indicating their importance in the context."

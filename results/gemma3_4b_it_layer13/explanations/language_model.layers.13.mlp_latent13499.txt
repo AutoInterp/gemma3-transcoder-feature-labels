@@ -1,0 +1,1 @@
+"Texts containing various types of addresses, including physical addresses, email addresses, and bitcoin addresses, as well as postal codes and phone numbers."

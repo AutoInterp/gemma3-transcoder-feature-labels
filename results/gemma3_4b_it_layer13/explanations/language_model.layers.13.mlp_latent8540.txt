@@ -1,0 +1,1 @@
+"Code snippets and configuration files from various programming languages and systems, including Linux, Windows, and Docker, showcasing setup, installation, and troubleshooting procedures."

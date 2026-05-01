@@ -1,0 +1,1 @@
+"Texts containing dates and times, names of people, places, and organizations, as well as specific events and activities."

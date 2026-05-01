@@ -1,0 +1,1 @@
+"Text snippets often contain file paths, log file names, and other technical or programming-related information, frequently found in code comments or documentation."

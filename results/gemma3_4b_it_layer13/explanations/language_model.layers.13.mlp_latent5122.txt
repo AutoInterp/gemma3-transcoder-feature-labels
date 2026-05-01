@@ -1,0 +1,1 @@
+"Texts often contain phrases indicating time, location, or cause, such as \"after\", \"in\", \"since\", and \"before\", as well as phrases indicating a range or quantity, such as \"up to\", \"over\", and \"greater than\"."

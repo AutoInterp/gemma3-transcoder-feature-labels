@@ -1,0 +1,1 @@
+"The token \"except\" is used to indicate a negation or exclusion of a particular condition, often used in phrases such as \"all but\", \"except for\", or \"with the exception of\"."

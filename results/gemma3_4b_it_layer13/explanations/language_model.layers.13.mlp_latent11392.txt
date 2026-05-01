@@ -1,0 +1,1 @@
+"Email addresses and contact information, often in the format of \"firstname.lastname@example.org\" or \"email@example.com\", frequently appearing in the text."

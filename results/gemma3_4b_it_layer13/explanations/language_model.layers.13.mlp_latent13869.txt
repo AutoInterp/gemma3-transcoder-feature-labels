@@ -1,0 +1,1 @@
+"Code snippets related to session management, caching, and data storage in web applications, including cookies, session attributes, and caching mechanisms."

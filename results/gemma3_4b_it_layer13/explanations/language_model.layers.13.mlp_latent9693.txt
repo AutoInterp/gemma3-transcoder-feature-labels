@@ -1,0 +1,1 @@
+"Dates and times in various formats, often accompanied by geographical locations, are frequently found in the text."

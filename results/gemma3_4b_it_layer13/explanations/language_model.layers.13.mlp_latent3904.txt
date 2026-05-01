@@ -1,0 +1,1 @@
+"Texts often contain sequences of words that appear to be lists or enumerations, sometimes with a specific structure or format, such as city names, country names, or product names."

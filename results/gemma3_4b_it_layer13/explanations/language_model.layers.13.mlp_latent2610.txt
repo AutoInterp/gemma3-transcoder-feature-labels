@@ -1,0 +1,1 @@
+"Various programming languages, frameworks, and technologies, including SQL, Java, Python, PHP, and C++, as well as database management systems, web development tools, and software development methodologies."

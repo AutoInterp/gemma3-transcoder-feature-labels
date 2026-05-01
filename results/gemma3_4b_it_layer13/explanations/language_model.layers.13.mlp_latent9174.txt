@@ -1,0 +1,1 @@
+"Various addresses and locations, often in the format of \"City, State/Province ZIP/Postal Code\", and sometimes including additional information such as street names, building numbers, and country names."

@@ -1,0 +1,1 @@
+"Texts often contain proper nouns, technical terms, and specific concepts that are crucial for understanding the content. These important tokens are frequently found in titles, headings, and key phrases, and are often accompanied by activation values that indicate their significance."

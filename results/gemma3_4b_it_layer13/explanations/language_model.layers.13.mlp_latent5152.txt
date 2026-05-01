@@ -1,0 +1,1 @@
+"Code snippets with variable names and function parameters highlighted, often with a focus on database queries, HTTP requests, and user authentication."

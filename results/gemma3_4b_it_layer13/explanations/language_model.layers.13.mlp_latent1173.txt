@@ -1,0 +1,1 @@
+"Various types of text data, including but not limited to, idiomatic expressions, proper nouns, numbers, special characters, and programming code, often with varying levels of importance."

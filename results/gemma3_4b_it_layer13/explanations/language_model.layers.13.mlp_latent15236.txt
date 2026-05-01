@@ -1,0 +1,1 @@
+"The token \"<<\" is often used to denote the beginning of a code snippet or a special value, while the token \">>\" is used to denote the end of it."

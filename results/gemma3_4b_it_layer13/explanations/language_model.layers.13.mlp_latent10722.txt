@@ -1,0 +1,1 @@
+"Texts containing foreign language phrases, URLs, programming code, and technical terms, often in the context of documentation, tutorials, or reference materials."

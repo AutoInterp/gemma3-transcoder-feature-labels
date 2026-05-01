@@ -1,0 +1,1 @@
+"Various programming languages and markup languages, including HTML, JavaScript, CSS, PHP, SQL, and XML, as well as code snippets and debugging information."

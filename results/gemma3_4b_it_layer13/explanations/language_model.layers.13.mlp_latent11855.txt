@@ -1,0 +1,1 @@
+"Various programming-related terms, including function names, variable names, class names, and method names, often used in code snippets and documentation."

@@ -1,0 +1,1 @@
+"Texts containing various forms of authentication, including usernames, passwords, login processes, and password reset procedures, often in the context of software development, database management, and online services."

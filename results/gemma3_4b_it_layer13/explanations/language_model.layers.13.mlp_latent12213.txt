@@ -1,0 +1,1 @@
+"Texts often contain specific dates, times, and years, which are frequently mentioned in the context of events, milestones, or comparisons."

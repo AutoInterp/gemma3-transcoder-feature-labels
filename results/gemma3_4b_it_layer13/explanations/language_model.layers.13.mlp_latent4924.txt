@@ -1,0 +1,1 @@
+"Texts are often preceded by a delimiter, followed by a sentence or paragraph of text, and sometimes a link or reference. The delimiter is often used to separate the text from the rest of the document or to indicate a new section."

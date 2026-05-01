@@ -1,0 +1,1 @@
+"Text snippets often contain specific phrases or sentences that are not directly related to the main topic, such as citations, references, or metadata, which are typically marked by a lack of contextual relevance and a high activation value for certain words like \"Activations: NULL\" or \"Activations: ()\"."

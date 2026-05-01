@@ -1,0 +1,1 @@
+"Text fragments that are cut off or truncated, often due to the presence of special characters or formatting issues, such as newline characters, commas, or parentheses."

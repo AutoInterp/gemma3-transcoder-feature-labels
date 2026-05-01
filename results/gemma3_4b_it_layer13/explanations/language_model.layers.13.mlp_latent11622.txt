@@ -1,0 +1,1 @@
+"Paths and file locations in various programming and scripting contexts, often used for navigation, installation, or execution of commands and files."

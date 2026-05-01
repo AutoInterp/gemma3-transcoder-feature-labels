@@ -1,0 +1,1 @@
+"Texts describing problems, issues, or limitations, often in a formal or technical context, and sometimes followed by a solution or explanation."

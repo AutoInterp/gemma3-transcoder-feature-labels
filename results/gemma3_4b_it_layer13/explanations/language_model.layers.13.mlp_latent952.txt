@@ -1,0 +1,1 @@
+"Text fragments often appear at the end of a line or paragraph, denoted by \"<eos>\", indicating the end of a sequence. These fragments frequently contain links, dates, or other metadata, and sometimes appear in a format that suggests they are being used for tracking or analytics purposes."

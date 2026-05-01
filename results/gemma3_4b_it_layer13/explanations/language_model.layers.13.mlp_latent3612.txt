@@ -1,0 +1,1 @@
+"Texts that are quotes, often from other sources, are frequently found in the data, and are usually set apart from the rest of the text."

@@ -1,0 +1,1 @@
+"URLs, file paths, and other types of references to external resources, often used for navigation or to provide additional information."

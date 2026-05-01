@@ -1,0 +1,1 @@
+"Text snippets often contain code, commands, or technical jargon, indicating a context of programming, engineering, or academic writing."

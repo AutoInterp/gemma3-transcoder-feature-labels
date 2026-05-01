@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are cut off or truncated, frequently at the end of a sentence, and sometimes followed by a delimiter or a special character, indicating a continuation or a new section."

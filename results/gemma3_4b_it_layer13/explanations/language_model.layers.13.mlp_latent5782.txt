@@ -1,0 +1,1 @@
+"Text snippets often contain URLs, academic references, or online content, frequently appearing at the end of a sentence or paragraph, and sometimes with a specific format, such as a DOI or a citation."

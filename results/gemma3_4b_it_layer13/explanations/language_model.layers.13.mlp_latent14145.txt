@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including mathematical equations, algorithm implementations, and database queries, often with variable names and function calls."

@@ -1,0 +1,1 @@
+"Text contains various types of dates, including specific years, months, days, and timestamps, often in conjunction with other information such as citations, references, or metadata."

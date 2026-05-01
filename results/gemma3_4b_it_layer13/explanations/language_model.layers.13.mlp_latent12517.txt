@@ -1,0 +1,1 @@
+"Various numerical values representing amounts of money, often in different currencies, used for transactions, rebates, taxes, and other financial purposes."

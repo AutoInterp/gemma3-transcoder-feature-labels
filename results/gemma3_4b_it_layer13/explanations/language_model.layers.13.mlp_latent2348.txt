@@ -1,0 +1,1 @@
+"Various types of geographical locations, phone numbers, and contact information, often used as context or references in text."

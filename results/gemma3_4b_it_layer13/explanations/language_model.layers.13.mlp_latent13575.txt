@@ -1,0 +1,1 @@
+"Text snippets often contain URLs, citations, or references, and sometimes code snippets or technical terms, which are interspersed with regular text."

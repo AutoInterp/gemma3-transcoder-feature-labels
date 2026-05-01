@@ -1,0 +1,1 @@
+"Texts containing scientific or academic references, often in the format of a DOI (Digital Object Identifier) or a PMID (PubMed ID), frequently accompanied by citations and journal names."

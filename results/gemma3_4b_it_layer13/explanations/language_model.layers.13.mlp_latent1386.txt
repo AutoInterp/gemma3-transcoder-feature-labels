@@ -1,0 +1,1 @@
+"Text snippets from various programming languages, documentation comments, and licenses, often containing metadata such as author names, dates, and descriptions."

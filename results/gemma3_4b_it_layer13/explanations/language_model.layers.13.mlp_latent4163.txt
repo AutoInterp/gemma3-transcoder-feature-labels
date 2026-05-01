@@ -1,0 +1,1 @@
+"Text primarily consists of mathematical expressions and formal definitions, with a focus on automata theory, probability, and optimization. The language is technical and dense, with frequent use of mathematical notation and jargon."

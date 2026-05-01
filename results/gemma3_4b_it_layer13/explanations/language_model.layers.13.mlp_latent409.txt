@@ -1,0 +1,1 @@
+"Text snippets often start with quotation marks, and sometimes contain code or technical information, indicating a context of documentation, tutorials, or programming."

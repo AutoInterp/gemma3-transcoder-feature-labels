@@ -1,0 +1,1 @@
+"Texts containing dates and times, often in a structured format, such as hours, minutes, and seconds, or specific days of the week."

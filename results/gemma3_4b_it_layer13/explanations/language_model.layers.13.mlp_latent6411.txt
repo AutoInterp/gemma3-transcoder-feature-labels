@@ -1,0 +1,1 @@
+"Text fragments often containing a title or a name, sometimes followed by a description or a quote, and frequently found at the end of a post or a comment."

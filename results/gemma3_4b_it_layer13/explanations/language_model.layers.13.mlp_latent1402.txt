@@ -1,0 +1,1 @@
+"Text fragments enclosed by delimiters often represent standalone sentences, phrases, or paragraphs, possibly indicating a change in topic, a quote, or a separate idea within the main text."

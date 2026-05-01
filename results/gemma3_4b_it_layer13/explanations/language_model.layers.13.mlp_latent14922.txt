@@ -1,0 +1,1 @@
+"Technical descriptions of various concepts, including programming languages, data formats, and protocols, often accompanied by explanations of their usage and functionality."

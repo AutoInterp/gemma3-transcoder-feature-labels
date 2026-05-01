@@ -1,0 +1,1 @@
+"Text containing various types of metadata, such as code snippets, data, and formatting information, often used in documentation or technical writing."

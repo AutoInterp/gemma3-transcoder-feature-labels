@@ -1,0 +1,1 @@
+"Paths to directories or files, often used in commands or code, and sometimes used as a placeholder for a variable or a user input."

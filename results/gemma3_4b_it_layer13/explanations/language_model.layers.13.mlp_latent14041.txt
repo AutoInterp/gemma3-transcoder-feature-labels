@@ -1,0 +1,1 @@
+"Ranges of values, often numerical, used to describe quantities such as sizes, weights, times, or percentages, frequently found in scientific, medical, or technical contexts."

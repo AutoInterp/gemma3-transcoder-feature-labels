@@ -1,0 +1,1 @@
+"Various programming-related terms, including class and method names, variable names, and file paths, often in the context of specific programming languages or frameworks."

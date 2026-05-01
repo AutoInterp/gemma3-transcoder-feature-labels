@@ -1,0 +1,1 @@
+"Texts often contain product names, company names, and technical terms, which are usually written in a specific format, such as all capital letters or with a specific punctuation."

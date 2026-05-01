@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are set apart from the rest of the text, usually to provide additional information, context, or emphasis. These phrases or sentences are often preceded by a delimiter, such as a newline or a special character, and may contain important information or keywords."

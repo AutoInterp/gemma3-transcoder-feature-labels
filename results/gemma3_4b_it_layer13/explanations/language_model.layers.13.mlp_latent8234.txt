@@ -1,0 +1,1 @@
+"Text fragments often contain links, images, or other external content, sometimes with a brief description or caption."

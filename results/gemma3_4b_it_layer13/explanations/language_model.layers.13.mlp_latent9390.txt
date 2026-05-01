@@ -1,0 +1,1 @@
+"HTML links and anchors, often used to provide additional information or context, and sometimes used to reference external resources or other parts of the document."

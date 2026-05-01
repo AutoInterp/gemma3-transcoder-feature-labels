@@ -1,0 +1,1 @@
+"Text fragments that are not part of the main content, often used to provide additional context or information, such as citations, references, or supplementary details."

@@ -1,0 +1,1 @@
+"Various types of identifiers, such as variable names, function names, and database column names, often containing alphanumeric characters and underscores."

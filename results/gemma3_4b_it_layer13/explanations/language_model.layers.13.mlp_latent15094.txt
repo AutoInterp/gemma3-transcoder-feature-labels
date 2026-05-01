@@ -1,0 +1,1 @@
+"Code snippets and comments related to caching, including data storage, retrieval, and invalidation strategies, as well as examples of caching in various programming languages and contexts."

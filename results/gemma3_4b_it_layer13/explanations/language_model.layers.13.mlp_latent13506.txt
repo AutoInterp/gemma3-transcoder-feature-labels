@@ -1,0 +1,1 @@
+"Numbers representing quantities, such as amounts, sizes, and frequencies, often used to convey scale or magnitude."

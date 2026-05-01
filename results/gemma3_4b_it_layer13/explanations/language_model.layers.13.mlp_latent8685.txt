@@ -1,0 +1,1 @@
+"Various programming-related terms and concepts, including class and method names, variable declarations, and function definitions, often with specific syntax and structure related to different programming languages."

@@ -1,0 +1,1 @@
+"Text snippets containing UUIDs, URLs, and code snippets, often in the context of technical documentation, programming, or academic research."

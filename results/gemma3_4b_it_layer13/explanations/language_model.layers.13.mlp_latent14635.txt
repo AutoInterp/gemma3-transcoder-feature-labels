@@ -1,0 +1,1 @@
+"Various code snippets from different programming languages, primarily Java and C#, showing class and method definitions, property getters and setters, and other programming constructs."

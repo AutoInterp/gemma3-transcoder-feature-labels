@@ -1,0 +1,1 @@
+"Texts from various sources, including news articles, blogs, and social media, with a focus on extracting specific phrases or sentences that may be relevant to the analysis. The extracted phrases often contain proper nouns, such as names of people, places, or organizations, and may also include idiomatic expressions or colloquialisms."
