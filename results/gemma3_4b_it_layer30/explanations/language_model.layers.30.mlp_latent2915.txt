@@ -1,0 +1,1 @@
+"Various programming-related texts, including SQL queries, Python code, and JavaScript examples, with a focus on encryption, data storage, and user authentication."

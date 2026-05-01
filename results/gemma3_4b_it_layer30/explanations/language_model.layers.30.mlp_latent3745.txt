@@ -1,0 +1,1 @@
+"Text snippets that are likely to be article or news summaries, containing information on various topics such as politics, finance, technology, and entertainment."

@@ -1,0 +1,1 @@
+"Time expressions in 24-hour format, often used to specify hours, minutes, and sometimes seconds, in various contexts such as schedules, events, and activities."

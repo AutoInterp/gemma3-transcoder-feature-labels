@@ -1,0 +1,1 @@
+"Text snippets often contain proper nouns, idioms, and phrases that are not directly related to the main topic, but rather serve as examples, explanations, or references. These snippets can be found in various contexts, including programming code, news articles, and personal stories."

@@ -1,0 +1,1 @@
+"Text snippets enclosed in angle brackets, often representing citations, references, or code snippets, with varying levels of activation across different examples."

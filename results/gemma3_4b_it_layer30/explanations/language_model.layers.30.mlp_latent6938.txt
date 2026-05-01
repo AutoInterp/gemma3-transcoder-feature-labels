@@ -1,0 +1,1 @@
+"Texts often contain Chinese characters and English phrases, with a focus on technical and industrial descriptions, including product features, specifications, and usage instructions."

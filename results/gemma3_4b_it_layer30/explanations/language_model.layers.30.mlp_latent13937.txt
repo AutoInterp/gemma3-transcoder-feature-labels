@@ -1,0 +1,1 @@
+"Text fragments containing technical information, programming code, and specific data, often related to computer science, mathematics, and software development."

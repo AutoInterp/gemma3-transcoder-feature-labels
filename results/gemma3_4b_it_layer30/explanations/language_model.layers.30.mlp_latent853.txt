@@ -1,0 +1,1 @@
+"Code snippets in programming languages, often Java, used to illustrate data structures or algorithms."

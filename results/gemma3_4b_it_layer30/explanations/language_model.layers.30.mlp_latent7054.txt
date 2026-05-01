@@ -1,0 +1,1 @@
+"Mathematical text describing abstract algebraic structures, specifically categories and derived categories, with a focus on their construction and properties."

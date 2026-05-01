@@ -1,0 +1,1 @@
+"Text fragments often contain URLs, specific dates, and names of people, places, and organizations, which are frequently used as delimiters to separate important information."

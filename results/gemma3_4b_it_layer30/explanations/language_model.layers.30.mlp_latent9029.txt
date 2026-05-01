@@ -1,0 +1,1 @@
+"The token \"number\" is often used to describe a quantity or count, frequently preceding a noun or a phrase indicating a specific amount, such as \"number of users\", \"number of devices\", \"number of species\", etc."

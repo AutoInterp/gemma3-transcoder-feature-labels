@@ -1,0 +1,1 @@
+"Text contains a wide range of numerical values, including percentages, amounts, and time periods, often used to convey specific information or statistics."

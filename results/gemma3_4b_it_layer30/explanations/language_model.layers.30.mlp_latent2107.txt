@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are set apart from the rest of the text, usually to convey a sense of emphasis, emotion, or introspection, and are frequently followed by a low activation score for the surrounding words, indicating a shift in tone or focus."

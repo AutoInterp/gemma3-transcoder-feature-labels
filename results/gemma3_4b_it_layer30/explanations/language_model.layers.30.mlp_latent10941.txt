@@ -1,0 +1,1 @@
+"Text describing various statistical and data visualization concepts, including regression, residual plots, scatterplots, histograms, Bland-Altman plots, Wind Rose Charts, line charts, violin plots, and more, often referencing mathematical formulas and equations."

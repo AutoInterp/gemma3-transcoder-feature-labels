@@ -1,0 +1,1 @@
+"The token \"<<\" often marks the beginning of a philosophical or logical concept, and the token \">>\" marks the end of it, often followed by a quotation or a statement that expands on the concept."

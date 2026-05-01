@@ -1,0 +1,1 @@
+"Text discussing statistical concepts, including mean, standard deviation, variance, covariance, and regression, often in the context of finance and data analysis."

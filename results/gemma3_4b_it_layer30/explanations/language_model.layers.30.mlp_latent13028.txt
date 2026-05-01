@@ -1,0 +1,1 @@
+"Dates and times in various formats, often appearing at the beginning or end of a text, and sometimes accompanied by other metadata such as author names, event names, or URLs."

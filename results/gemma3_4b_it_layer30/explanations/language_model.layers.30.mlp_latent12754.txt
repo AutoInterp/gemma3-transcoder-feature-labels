@@ -1,0 +1,1 @@
+"The token \"L\" or \"Lisp\" appears frequently in the context of programming, specifically in relation to the Lisp programming language and its principles, such as the Liskov Substitution Principle."

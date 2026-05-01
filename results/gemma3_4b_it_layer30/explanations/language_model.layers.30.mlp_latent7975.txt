@@ -1,0 +1,1 @@
+"The token \"text\" is often used to refer to a file or document containing written content, and is frequently used in conjunction with other words such as \"file\", \"editor\", \"message\", and \"writer\" to describe various aspects of text manipulation and processing."

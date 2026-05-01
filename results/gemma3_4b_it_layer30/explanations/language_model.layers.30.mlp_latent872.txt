@@ -1,0 +1,1 @@
+"Code snippets in various programming languages, including SQL, Java, Python, and Ruby, with a focus on data manipulation, validation, and formatting."

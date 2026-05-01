@@ -1,0 +1,1 @@
+"Texts from various sources, including articles, books, and websites, with a mix of English and non-English languages. The activation values are mostly low, indicating that the model is not strongly focused on any particular part of the text."

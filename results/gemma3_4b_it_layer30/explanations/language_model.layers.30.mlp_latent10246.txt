@@ -1,0 +1,1 @@
+"Various text snippets, often containing specific information, such as addresses, names, and technical terms, are embedded within larger blocks of text. These snippets are often enclosed in delimiters, and their importance is indicated by their activation values."

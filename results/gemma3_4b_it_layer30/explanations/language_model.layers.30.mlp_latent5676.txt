@@ -1,0 +1,1 @@
+"Time units and durations expressed in hours, often used to describe periods of time, intervals, or frequencies."

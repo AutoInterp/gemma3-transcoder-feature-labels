@@ -1,0 +1,1 @@
+"The token \"N\" or \"n\" is often a prefix to various words, abbreviations, or acronyms, indicating a name, noun, or concept, such as \"NDIS\", \"Nmap\", \"Nginx\", \"NMD\", \"NAFLD\", \"NASH\", \"N.I\", \"Nährstoff\", \"nAChR\", \"Narrow Fellow\", \"NLU\", \"NDIS\", \"NTP\", \"Nebenwirkungen\", \"Nicht\", \"Nichts\", etc."

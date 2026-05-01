@@ -1,0 +1,1 @@
+"A list of geographic locations, often in a comma-separated format, representing a collection of places, typically towns or cities."

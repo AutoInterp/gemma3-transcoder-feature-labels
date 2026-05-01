@@ -1,0 +1,1 @@
+"Code snippets from various Java-based applications, including Spring, Hibernate, AWS, and JavaFX, showcasing different programming concepts, frameworks, and libraries."

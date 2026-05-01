@@ -1,0 +1,1 @@
+"Dates and times in various formats, including numerical representations, abbreviations, and full written forms, often used to specify events, publication dates, or other temporal references."

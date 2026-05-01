@@ -1,0 +1,1 @@
+"Text excerpts enclosed in delimiters, often containing quotes, sentences, or phrases, with varying levels of importance indicated by activation values."

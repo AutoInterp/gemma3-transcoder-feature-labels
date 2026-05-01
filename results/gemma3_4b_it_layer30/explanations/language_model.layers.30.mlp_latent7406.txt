@@ -1,0 +1,1 @@
+"Various addresses and locations, often in the format of a postal code and city name, or a street name and city name."

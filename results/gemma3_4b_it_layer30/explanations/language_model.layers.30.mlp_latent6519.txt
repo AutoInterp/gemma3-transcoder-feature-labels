@@ -1,0 +1,1 @@
+"Technical documentation and programming-related text, including code snippets, API descriptions, and explanations of software features and functionality."

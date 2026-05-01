@@ -1,0 +1,1 @@
+"Texts that follow a step-by-step format, often with numbered steps, and sometimes accompanied by images, tables, or figures."

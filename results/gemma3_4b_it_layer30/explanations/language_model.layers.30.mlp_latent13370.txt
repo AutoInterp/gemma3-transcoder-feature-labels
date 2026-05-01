@@ -1,0 +1,1 @@
+"Code snippets in various programming languages, including C, C++, and Java, often containing function calls, variable declarations, and conditional statements."

@@ -1,0 +1,1 @@
+"The token \"4\" or \"45\" often appears in text, frequently representing a quantity or time duration, such as hours, minutes, or years."

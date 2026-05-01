@@ -1,0 +1,1 @@
+"Texts containing programming code, specifically focusing on encoding and character set declarations, such as UTF-8, and related functions and methods."

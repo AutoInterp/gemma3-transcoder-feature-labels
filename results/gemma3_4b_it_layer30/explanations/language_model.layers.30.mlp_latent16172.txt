@@ -1,0 +1,1 @@
+"Texts related to user authentication, password management, and account settings, often containing technical instructions and security guidelines."

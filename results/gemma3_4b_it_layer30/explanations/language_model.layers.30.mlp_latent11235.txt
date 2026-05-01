@@ -1,0 +1,1 @@
+"The token \"int\" is often used as a prefix in various contexts, including programming (e.g., integer, intrinsic functions, Intel intrinsics), idiomatic expressions (e.g., \"intense\", \"intimate\"), and proper nouns (e.g., \"IntelliJ\", \"Intifada\", \"Intramuros\")."

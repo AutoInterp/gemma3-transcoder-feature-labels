@@ -1,0 +1,1 @@
+"Dates and times in various formats, including day of the week, month, year, hour, and minute, often used to specify events, appointments, or publication dates."

@@ -1,0 +1,1 @@
+"Texts often contain hyperlinks, article titles, and names of companies, people, and places, which are frequently mentioned in the context of product reviews, news articles, and educational content."

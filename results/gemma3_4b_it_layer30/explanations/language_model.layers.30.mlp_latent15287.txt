@@ -1,0 +1,1 @@
+"Time-related expressions and durations, including days, weeks, months, and years, used to describe various events, processes, and periods."

@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are set apart from the rest of the text, usually to indicate a quote, a link, or a separate section. These phrases or sentences may be enclosed in quotation marks, or they may be preceded by a delimiter such as \"View Full Document\" or \"Continue Reading Below\"."

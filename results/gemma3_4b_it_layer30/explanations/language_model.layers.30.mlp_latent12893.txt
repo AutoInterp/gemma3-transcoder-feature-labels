@@ -1,0 +1,1 @@
+"Various addresses and locations, often in the format of a street address with a city and postal code, are embedded in the text."

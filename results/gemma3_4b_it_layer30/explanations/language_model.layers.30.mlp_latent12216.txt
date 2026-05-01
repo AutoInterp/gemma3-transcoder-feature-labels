@@ -1,0 +1,1 @@
+"Numbers representing large amounts of money, often used in financial contexts, such as prices, investments, and transactions."

@@ -1,0 +1,1 @@
+"Texts from various domains, including science, technology, engineering, and mathematics (STEM), contain technical terms and phrases, often accompanied by numerical data and activation values, which are likely used for information retrieval or natural language processing tasks."

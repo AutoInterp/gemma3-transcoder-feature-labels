@@ -1,0 +1,1 @@
+"Texts containing various types of data, including measurements, technical specifications, and numerical values, often accompanied by activation values indicating the importance of certain tokens or phrases."

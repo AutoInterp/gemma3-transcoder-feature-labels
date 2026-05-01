@@ -1,0 +1,1 @@
+"Various types of text data, including addresses, phone numbers, names, locations, and quotes, often appearing in a specific format, such as a list of items, a paragraph of text, or a snippet of code."

@@ -1,0 +1,1 @@
+"Text fragments containing numerical values, percentages, and specific dates, often used to provide context or illustrate a point."

@@ -1,0 +1,1 @@
+"Texts from various programming languages, documentation, and technical articles, showcasing code snippets, syntax, and terminology from languages such as C, C++, Python, and others."

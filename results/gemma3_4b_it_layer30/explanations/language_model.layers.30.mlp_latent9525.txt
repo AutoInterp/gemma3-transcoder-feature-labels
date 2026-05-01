@@ -1,0 +1,1 @@
+"Code snippets in various programming languages, including bash, Python, Java, and Go, with a focus on command-line operations, file management, and system configuration."

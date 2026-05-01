@@ -1,0 +1,1 @@
+"The token \"questions\" often appears in the context of inquiry, inquiry about information, or inquiry about a topic, and is frequently paired with other tokens like \"ask\", \"answer\", \"about\", and \"to\"."

@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including Python, R, SQL, and Java, with a focus on mathematical and algorithmic concepts, such as trigonometric integrals, calculus problems, and data analysis."

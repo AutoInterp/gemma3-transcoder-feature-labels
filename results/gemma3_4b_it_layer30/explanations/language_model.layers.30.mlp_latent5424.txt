@@ -1,0 +1,1 @@
+"Text describing technical processes, programming concepts, and problem-solving strategies, often including code snippets and explanations of algorithms."

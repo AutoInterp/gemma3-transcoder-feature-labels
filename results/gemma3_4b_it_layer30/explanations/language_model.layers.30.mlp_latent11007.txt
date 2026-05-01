@@ -1,0 +1,1 @@
+"Locations and rooms within buildings, such as offices, classrooms, restrooms, and emergency departments, as well as areas like parking lots, hallways, and locker rooms."

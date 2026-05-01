@@ -1,0 +1,1 @@
+"Text describing programming concepts, data structures, and technical terminology, often including code snippets and lists of variables, functions, or other programming elements."

@@ -1,0 +1,1 @@
+"Various types of citations, references, and academic article metadata, including DOIs, PubMed IDs, and author names, often appearing in a specific format."

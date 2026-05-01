@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are set off by double angle brackets, indicating a quote, a title, or a specific piece of information, and are sometimes followed by a list of activations, which represent the importance of certain words or phrases in the text."

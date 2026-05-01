@@ -1,0 +1,1 @@
+"Texts from various domains, including news articles, technical papers, and sports reports, with a focus on extracting specific phrases and words. The extracted phrases often relate to technical concepts, sports terminology, or idiomatic expressions."

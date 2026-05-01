@@ -1,0 +1,1 @@
+"Texts often contain lists of items, frequently with a numbered sequence, and sometimes with sub-items."

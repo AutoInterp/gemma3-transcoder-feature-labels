@@ -1,0 +1,1 @@
+"Texts with various topics, including news articles, academic papers, and personal opinions, often contain long sequences of text without significant activations, indicating a lack of importance or relevance to the overall sentiment or meaning."

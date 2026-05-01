@@ -1,0 +1,1 @@
+"Texts from various sources, including programming code, articles, and quotes, with a focus on extracting specific phrases or sentences that may be relevant to the analysis. The patterns found in these examples include programming code snippets, technical terms, and idiomatic expressions, often with varying levels of activation."

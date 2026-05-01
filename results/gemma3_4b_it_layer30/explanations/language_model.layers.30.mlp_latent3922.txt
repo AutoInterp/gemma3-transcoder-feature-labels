@@ -1,0 +1,1 @@
+"The text contains a wide range of words, but a notable pattern is the presence of proper nouns, specifically names of people, places, and organizations, which often have high activation values. Additionally, there are instances of technical terms and jargon from various fields, such as computer science, biology, and engineering, which also have high activation values."

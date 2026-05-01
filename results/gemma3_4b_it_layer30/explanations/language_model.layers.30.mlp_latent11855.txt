@@ -1,0 +1,1 @@
+"SQL code for creating database tables with various data types and constraints, including primary keys, foreign keys, and indexes."

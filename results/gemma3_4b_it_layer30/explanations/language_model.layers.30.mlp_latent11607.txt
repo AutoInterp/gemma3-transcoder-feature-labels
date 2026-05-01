@@ -1,0 +1,1 @@
+"Code snippets and programming concepts, often with specific syntax or configuration details, frequently found in documentation or tutorials."

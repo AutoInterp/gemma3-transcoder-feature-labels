@@ -1,0 +1,1 @@
+"Text snippets often contain URLs, code snippets, or other non-essential information, which are frequently separated from the main content by delimiters. The main content typically consists of coherent sentences or phrases discussing various topics, including health, transportation, food, history, and technology."

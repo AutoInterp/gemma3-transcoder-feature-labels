@@ -1,0 +1,1 @@
+"Texts containing phrases that are likely to be cut off or truncated, often due to formatting or coding constraints, and phrases that are likely to be part of a larger text or article."

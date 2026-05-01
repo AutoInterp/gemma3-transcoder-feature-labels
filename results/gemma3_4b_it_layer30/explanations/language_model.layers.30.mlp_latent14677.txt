@@ -1,0 +1,1 @@
+"Various programming code snippets and technical text, including SQL queries, JavaScript functions, and C# methods, as well as some English text from articles and books."

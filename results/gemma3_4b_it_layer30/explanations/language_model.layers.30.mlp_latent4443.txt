@@ -1,0 +1,1 @@
+"Various numerical values, including times, dates, amounts, and statistics, often in the context of scientific or financial data."

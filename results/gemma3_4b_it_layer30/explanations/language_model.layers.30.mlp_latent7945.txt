@@ -1,0 +1,1 @@
+"Texts often contain proper nouns, such as brand names, company names, and book titles, which are used to identify specific entities. Additionally, the texts frequently include technical terms, scientific concepts, and specialized vocabulary related to various fields, indicating a focus on informative and educational content."

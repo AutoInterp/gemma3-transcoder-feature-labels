@@ -1,0 +1,1 @@
+"Text fragments containing URLs, email addresses, file paths, and other types of technical or formal information, often found at the end of a paragraph or section."

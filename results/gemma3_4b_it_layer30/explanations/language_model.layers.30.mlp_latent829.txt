@@ -1,0 +1,1 @@
+"Text snippets often contain specific phrases or sentences that are enclosed in delimiters, which may indicate a quote, a reference, or a separate piece of information."

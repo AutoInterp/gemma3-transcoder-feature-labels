@@ -1,0 +1,1 @@
+"Text fragments that are not part of the main content, often containing code, quotes, or unrelated information, frequently found at the end of a text block."

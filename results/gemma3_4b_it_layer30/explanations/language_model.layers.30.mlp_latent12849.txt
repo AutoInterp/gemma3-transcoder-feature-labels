@@ -1,0 +1,1 @@
+"Numerical values and dates often appear in the format of \"2\" or \"2.02%\", sometimes as part of a larger sequence or range, and sometimes as a standalone value."

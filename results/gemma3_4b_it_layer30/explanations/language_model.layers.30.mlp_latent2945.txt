@@ -1,0 +1,1 @@
+"The token \"code\" is used to refer to computer programming, including writing, analyzing, and executing software, as well as related concepts such as debugging, optimization, and reusability."

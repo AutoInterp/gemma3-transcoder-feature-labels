@@ -1,0 +1,1 @@
+"Numbers representing large quantities, often used to convey magnitude, scale, or financial value, such as amounts of money, years, or people."

@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are set apart from the rest of the text, typically indicating a quote or a specific legal or technical term, and are frequently accompanied by a lower activation value for surrounding words."

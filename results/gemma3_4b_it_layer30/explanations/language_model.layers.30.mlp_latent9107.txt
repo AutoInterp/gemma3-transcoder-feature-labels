@@ -1,0 +1,1 @@
+"Text fragments that are not part of the main content, often representing citations, references, or external links, frequently found at the end of a paragraph or section."

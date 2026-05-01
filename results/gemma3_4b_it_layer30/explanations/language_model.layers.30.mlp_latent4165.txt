@@ -1,0 +1,1 @@
+"Ranges and intervals of values, often used to describe physical properties, measurements, or quantities, such as temperature, size, or time."

@@ -1,0 +1,1 @@
+"Texts from various programming and technical documentation, including SQL, Java, JavaScript, Ruby, and others, with a focus on syntax, data types, and programming concepts."

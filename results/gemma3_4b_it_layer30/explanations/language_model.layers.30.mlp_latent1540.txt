@@ -1,0 +1,1 @@
+"Texts from various sources, including academic papers, news articles, and online content, with a focus on extracting specific phrases or sentences that may be relevant to the analysis. The extracted phrases often appear to be titles, abstracts, or key points from the original texts, and may be used to identify patterns or themes in the data."

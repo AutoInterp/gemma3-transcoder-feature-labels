@@ -1,0 +1,1 @@
+"Ranges of values, often representing time, percentages, or quantities, used to convey uncertainty or variability in a given context."

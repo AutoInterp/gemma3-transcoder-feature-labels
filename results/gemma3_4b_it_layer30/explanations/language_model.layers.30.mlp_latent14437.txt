@@ -1,0 +1,1 @@
+"Texts often contain proper nouns, such as names of locations, organizations, and people, which are frequently mentioned in conjunction with other contextual information. Additionally, the texts frequently include phrases and sentences that are not directly related to the main topic, but rather serve as tangential information or asides."

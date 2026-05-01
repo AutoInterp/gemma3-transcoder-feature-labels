@@ -1,0 +1,1 @@
+"Texts describing technical specifications, such as memory, storage, and data transfer speeds, often accompanied by numerical values in units like megabytes, gigabytes, and megahertz."

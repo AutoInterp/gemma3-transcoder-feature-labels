@@ -1,0 +1,1 @@
+"Various units of measurement, including physical quantities (e.g. temperature, pressure, speed, distance), energy, and financial values, often presented in a scientific or technical context."

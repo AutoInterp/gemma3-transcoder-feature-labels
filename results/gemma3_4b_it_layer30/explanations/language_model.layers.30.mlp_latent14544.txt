@@ -1,0 +1,1 @@
+"Technical terms and concepts related to cloud computing, data storage, and IT infrastructure, including various services, platforms, and technologies such as IaaS, SaaS, PaaS, VPN, Hadoop, Tor, and Linux."

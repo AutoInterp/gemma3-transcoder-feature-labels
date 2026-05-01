@@ -1,0 +1,1 @@
+"Text fragments containing metadata, such as tags, keywords, or descriptions, often used for categorization or search purposes."

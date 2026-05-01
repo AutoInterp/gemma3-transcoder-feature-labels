@@ -1,0 +1,1 @@
+"Technical text describing error messages, troubleshooting steps, and system behaviors, often involving complex software or hardware interactions."

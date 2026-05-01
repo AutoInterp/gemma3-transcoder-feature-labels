@@ -1,0 +1,1 @@
+"The token \"return\" is often used in the context of functions, methods, or procedures, indicating the end of a calculation or the result of a process. It is frequently accompanied by other keywords such as \"value\", \"yield\", \"prophesied\", \"guarantee\", or \"nothing\", which provide additional context about the nature of the return."

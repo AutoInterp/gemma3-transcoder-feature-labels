@@ -1,0 +1,1 @@
+"The token \"last\" often appears in phrases describing completion, finality, or a point in time, while the token \"first\" is used to describe an initial or inaugural event."

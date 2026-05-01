@@ -1,0 +1,1 @@
+"Text snippets enclosed in delimiters often represent specific information such as dates, locations, and technical terms, while also containing various types of data like URLs, citations, and code snippets."

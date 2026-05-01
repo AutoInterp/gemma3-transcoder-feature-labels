@@ -1,0 +1,1 @@
+"Various dates and years in the format of a four-digit number, often accompanied by a month and day, and sometimes a specific time."

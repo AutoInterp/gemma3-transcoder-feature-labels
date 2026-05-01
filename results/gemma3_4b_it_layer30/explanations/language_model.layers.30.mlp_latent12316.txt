@@ -1,0 +1,1 @@
+"Technical documentation and command-line interface examples, often with a focus on Linux and system administration."

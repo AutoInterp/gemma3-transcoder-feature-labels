@@ -1,0 +1,1 @@
+"Addresses and locations, often in the format of \"City, State ZIP\", and sometimes including country names, are frequently found in the text."

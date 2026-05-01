@@ -1,0 +1,1 @@
+"Text segments enclosed in angle brackets << >> often represent article titles, URLs, or other external references, while those without angle brackets are typically main text."

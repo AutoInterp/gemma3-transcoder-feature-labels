@@ -1,0 +1,1 @@
+"Shell scripts and Perl code snippets, with various patterns and structures such as conditional statements, loops, function definitions, and regular expressions."

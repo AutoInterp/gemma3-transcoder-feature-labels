@@ -1,0 +1,1 @@
+"Strings containing database table or column names, SQL queries, or programming code, often used in context of data retrieval or manipulation."

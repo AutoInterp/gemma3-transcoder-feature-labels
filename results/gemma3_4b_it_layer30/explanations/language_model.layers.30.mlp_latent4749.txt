@@ -1,0 +1,1 @@
+"HTML and XML code snippets, including tags, attributes, and values, often used for web development and application configuration."

@@ -1,0 +1,1 @@
+"Various programming-related terms and concepts, including data-binding mechanisms, regular expressions, fiber bundles, and object-oriented programming terminology."

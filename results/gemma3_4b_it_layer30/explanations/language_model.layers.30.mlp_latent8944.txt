@@ -1,0 +1,1 @@
+"Time intervals in minutes, often used to describe durations of activities, waiting periods, or cooking times."

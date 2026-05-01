@@ -1,0 +1,1 @@
+"Technical text discussing software, programming, and system configuration, often referencing specific commands, functions, and error messages."

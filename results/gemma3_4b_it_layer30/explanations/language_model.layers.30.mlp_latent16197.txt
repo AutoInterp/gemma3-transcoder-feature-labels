@@ -1,0 +1,1 @@
+"Texts discussing various topics, including technology, finance, health, education, and social issues, often contain long sequences of text with low activation values, possibly indicating background information or context, while shorter sequences with higher activation values are more likely to be key points or main ideas."

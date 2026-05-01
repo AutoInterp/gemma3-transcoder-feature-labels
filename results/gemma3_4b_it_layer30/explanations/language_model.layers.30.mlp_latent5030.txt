@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including Python, JavaScript, SQL, and Bash, showcasing syntax, functions, and usage patterns."

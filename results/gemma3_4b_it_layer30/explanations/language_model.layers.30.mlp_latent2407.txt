@@ -1,0 +1,1 @@
+"Texts often contain complex sentences and paragraphs with multiple ideas, but some sections are highlighted as important or technical information, typically marked by a specific phrase or sentence that stands out from the rest of the text."

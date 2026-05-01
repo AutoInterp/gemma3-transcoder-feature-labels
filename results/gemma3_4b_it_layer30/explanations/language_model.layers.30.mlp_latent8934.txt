@@ -1,0 +1,1 @@
+"Texts often contain phrases that describe a change in size or magnitude, such as \"wider\", \"smaller\", \"larger\", and \"more\". Additionally, sentences may be interrupted by phrases that describe a location or a situation, such as \"in the house\", \"in the box\", \"in the way\", and \"in the line element\"."

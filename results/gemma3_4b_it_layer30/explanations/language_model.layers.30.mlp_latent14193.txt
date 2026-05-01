@@ -1,0 +1,1 @@
+"The term \"operating system\" is frequently used in the context of computer software, referring to the underlying platform that manages computer hardware and software resources."

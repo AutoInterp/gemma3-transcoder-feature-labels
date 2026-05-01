@@ -1,0 +1,1 @@
+"Numbers representing quantities, percentages, and time intervals, often used to convey specific information or measurements."

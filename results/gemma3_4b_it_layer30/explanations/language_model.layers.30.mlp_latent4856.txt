@@ -1,0 +1,1 @@
+"Various proper nouns, including company names, book titles, event names, and locations, often used as identifiers in programming code."

@@ -1,0 +1,1 @@
+"Numerical values representing monetary amounts, including costs, prices, revenues, and investments."

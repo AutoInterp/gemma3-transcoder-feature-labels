@@ -1,0 +1,1 @@
+"Various dates and years in the format of \"YYYY\" or \"YYYY<eos>text\", often used as a delimiter or to separate a year from a following sentence or phrase."

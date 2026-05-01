@@ -1,0 +1,1 @@
+"Text discussing various statistical concepts, including regression, covariance, correlation, and distributions such as F-distribution, Chi-squared distribution, and P-distribution, often in the context of scientific research and data analysis."

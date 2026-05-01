@@ -1,0 +1,1 @@
+"The token \"year\" is often found in dates and time-related phrases, and the token \"bill\" is frequently associated with legislation and laws."

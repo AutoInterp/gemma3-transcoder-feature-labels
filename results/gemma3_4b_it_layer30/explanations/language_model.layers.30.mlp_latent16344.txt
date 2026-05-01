@@ -1,0 +1,1 @@
+"Texts often contain long sentences with multiple clauses, and sometimes a phrase or a sentence is a standalone paragraph. The tone of the text can shift between formal and informal, and the language used can be technical or conversational."

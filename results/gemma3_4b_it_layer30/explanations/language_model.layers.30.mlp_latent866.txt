@@ -1,0 +1,1 @@
+"Texts containing numerical values, mathematical concepts, and technical terms, often related to programming, algorithms, and problem-solving, frequently accompanied by activation values indicating the importance of certain words or phrases."

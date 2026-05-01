@@ -1,0 +1,1 @@
+"Text fragments that appear to be recipe instructions, cooking techniques, or food preparation methods, often containing lists of ingredients and steps."

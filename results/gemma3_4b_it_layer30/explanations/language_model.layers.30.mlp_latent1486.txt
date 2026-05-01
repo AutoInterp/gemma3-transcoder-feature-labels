@@ -1,0 +1,1 @@
+"Technical text describing various concepts, algorithms, and software systems, often with a focus on programming, computer science, and engineering."

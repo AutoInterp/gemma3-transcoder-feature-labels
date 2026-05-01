@@ -1,0 +1,1 @@
+"Code snippets in various programming languages, including HTML, CSS, JavaScript, Java, C++, Python, and SQL, with accompanying output or explanations."

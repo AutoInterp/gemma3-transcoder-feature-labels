@@ -1,0 +1,1 @@
+"Texts often contain technical or formal language, such as mathematical expressions, programming code, and scientific terminology, which are typically associated with low activation values. In contrast, informal or conversational language, like idioms and colloquial expressions, tends to have higher activation values."

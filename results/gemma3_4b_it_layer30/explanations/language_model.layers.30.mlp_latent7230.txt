@@ -1,0 +1,1 @@
+"Text fragments enclosed in delimiters often contain technical or scientific information, such as descriptions of biological processes, experimental data, or definitions of terms."

@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including PHP, C++, and JavaScript, as well as text from technical documentation, articles, and books on topics such as computer graphics, audio processing, and photography."

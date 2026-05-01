@@ -1,0 +1,1 @@
+"Various numerical values and sizes, often used in technical or scientific contexts, such as measurements, capacities, or quantities."

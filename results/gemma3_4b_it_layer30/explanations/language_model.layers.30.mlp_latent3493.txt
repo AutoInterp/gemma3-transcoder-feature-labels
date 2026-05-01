@@ -1,0 +1,1 @@
+"Texts that are enclosed in angle brackets << >> are likely code snippets or quotes, while the rest of the text is regular content."

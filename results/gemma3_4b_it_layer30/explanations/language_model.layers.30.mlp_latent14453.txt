@@ -1,0 +1,1 @@
+"Code snippets and programming language syntax, often with comments and documentation."

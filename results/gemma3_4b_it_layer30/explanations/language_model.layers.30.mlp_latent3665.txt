@@ -1,0 +1,1 @@
+"Unique identifiers, typically names, IDs, or labels, often used to distinguish between objects or entities in a system or context."

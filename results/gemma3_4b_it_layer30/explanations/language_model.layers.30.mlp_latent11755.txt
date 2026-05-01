@@ -1,0 +1,1 @@
+"Numerical values representing amounts of money, time, or quantities, often used in financial, scientific, or technical contexts."

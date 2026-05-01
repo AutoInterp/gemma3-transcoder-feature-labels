@@ -1,0 +1,1 @@
+"Texts are often enclosed in << and >> delimiters, which may indicate a quote, a code snippet, or a special text block."

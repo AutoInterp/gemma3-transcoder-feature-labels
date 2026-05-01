@@ -1,0 +1,1 @@
+"Text fragments enclosed in angle brackets, often containing code, technical terms, or specific information, used to provide additional context or clarify a point."

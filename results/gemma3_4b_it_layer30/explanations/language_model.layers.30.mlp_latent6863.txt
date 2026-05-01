@@ -1,0 +1,1 @@
+"Texts from various programming and technical documentation, including man pages, code snippets, and system logs, often containing technical terms, commands, and error messages."

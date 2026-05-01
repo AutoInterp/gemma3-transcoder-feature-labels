@@ -1,0 +1,1 @@
+"The token \"upper\" and \"lower\" are used to describe different levels or positions in a hierarchical structure, often referring to physical locations, such as floors in a building, or abstract concepts, like layers in a model or the atmosphere."

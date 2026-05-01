@@ -1,0 +1,1 @@
+"Texts often contain mentions of physical locations, such as houses, rooms, hotels, and buildings, as well as various amenities and services offered within these spaces, like Wi-Fi, pools, and laundry services."

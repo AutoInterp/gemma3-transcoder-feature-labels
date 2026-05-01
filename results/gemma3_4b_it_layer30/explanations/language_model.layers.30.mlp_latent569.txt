@@ -1,0 +1,1 @@
+"Text fragments often appear in pairs, typically with a similar structure, and are usually enclosed by delimiters. These pairs often represent contrasting ideas, explanations, or examples, and are used to provide additional information or context."

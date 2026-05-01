@@ -1,0 +1,1 @@
+"Technical descriptions of various software, hardware, and data storage concepts, often including comparisons, trade-offs, and examples of usage."

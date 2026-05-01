@@ -1,0 +1,1 @@
+"HTML/XML element names and their corresponding content, often used to represent structured data or formatting in text."

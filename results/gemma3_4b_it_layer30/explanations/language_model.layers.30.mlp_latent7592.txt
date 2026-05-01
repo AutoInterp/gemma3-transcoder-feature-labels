@@ -1,0 +1,1 @@
+"The token \"L\" or \"l\" is often found at the beginning of words that are proper nouns, such as names of people, places, and organizations, or words that are derived from proper nouns."

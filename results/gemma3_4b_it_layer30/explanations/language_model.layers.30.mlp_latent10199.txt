@@ -1,0 +1,1 @@
+"Texts often contain long paragraphs of unrelated information, followed by a short, specific piece of information enclosed in delimiters, which is then followed by a related or unrelated piece of text."

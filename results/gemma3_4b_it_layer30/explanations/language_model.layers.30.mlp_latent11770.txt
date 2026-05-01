@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are book titles, author names, or publication dates, frequently found at the end of a paragraph or section, and sometimes followed by a quotation mark."

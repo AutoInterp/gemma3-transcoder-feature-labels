@@ -1,0 +1,1 @@
+"Texts discussing various programming concepts, data structures, and languages, including Python, JavaScript, Ruby, PHP, and Rust, as well as mathematical and computational topics such as algorithms, data types, and numerical analysis."

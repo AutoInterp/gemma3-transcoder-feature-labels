@@ -1,0 +1,1 @@
+"Texts often contain a specific word or phrase, usually \"change\", that is used as a delimiter to separate two distinct blocks of text, often with different formatting or content."

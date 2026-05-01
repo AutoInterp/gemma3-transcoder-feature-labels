@@ -1,0 +1,1 @@
+"The token \"det\" or \"detr\" is often followed by a word that indicates a negative connotation, such as \"detractor\", \"deteriorated\", \"deteriorate\", \"detriment\", \"deter\", \"detract\", or \"detrimental\"."

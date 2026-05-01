@@ -1,0 +1,1 @@
+"Texts in multiple languages, including English, Russian, and Turkish, with various topics such as technology, politics, sports, and lifestyle. The common pattern is the presence of code snippets, often in C# or other programming languages, and technical terms related to software development, data analysis, and machine learning."

@@ -1,0 +1,1 @@
+"Text segments often contain proper nouns, names of organizations, locations, and events, which are frequently used to provide context and information. Additionally, there are instances of idiomatic expressions, quotes, and technical terms, which are used to convey specific ideas and concepts."

@@ -1,0 +1,1 @@
+"The distinction between the front end and back end of a system, application, or process, often referring to the user interface and the underlying infrastructure or functionality."

@@ -1,0 +1,1 @@
+"Texts often contain phrases that indicate a change in location, a shift in time, or a transition to a new topic, such as \"back to\", \"later\", \"in fact\", \"meanwhile\", and \"in addition\"."

@@ -1,0 +1,1 @@
+"Code snippets in various programming languages, including SQL, Python, JavaScript, and Java, with a focus on encryption, database management, and web development."

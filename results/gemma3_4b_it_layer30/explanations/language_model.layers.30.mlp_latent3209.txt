@@ -1,0 +1,1 @@
+"Long blocks of text, often quotes or passages, with low activation values, suggesting they are not the primary focus of the surrounding text."

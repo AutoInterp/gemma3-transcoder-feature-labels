@@ -1,0 +1,1 @@
+"Texts containing technical information, programming code, and explanations of complex concepts, often with a focus on software development, data processing, and algorithmic analysis."

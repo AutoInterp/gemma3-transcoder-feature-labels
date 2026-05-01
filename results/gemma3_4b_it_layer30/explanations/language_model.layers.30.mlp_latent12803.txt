@@ -1,0 +1,1 @@
+"The token \"window\" is often used as a delimiter for a list of items, and the token \"lock\" is frequently associated with security, encryption, or access control."

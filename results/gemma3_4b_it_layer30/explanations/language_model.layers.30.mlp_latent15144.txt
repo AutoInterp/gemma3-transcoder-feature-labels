@@ -1,0 +1,1 @@
+"The token \"up\" or \"up\" followed by a word, often indicating an increase or movement in a particular direction, and the token \"down\" or \"down\" followed by a word, often indicating a decrease or movement in a particular direction."

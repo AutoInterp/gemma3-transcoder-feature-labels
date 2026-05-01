@@ -1,0 +1,1 @@
+"Various programming languages and frameworks, including JavaScript, C, Bash, and Java, with code snippets and function definitions."

@@ -1,0 +1,1 @@
+"Various phrases and sentences extracted from a large corpus of text, often containing technical or specialized vocabulary, and sometimes including code snippets or references to specific studies or events."

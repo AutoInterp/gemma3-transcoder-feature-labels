@@ -1,0 +1,1 @@
+"The token \"useless\" and \"uselessly\" are often used to describe something that is unnecessary or redundant, implying a principle of avoiding unnecessary complexity or repetition, which is in line with the DRY and YAGNI principles."

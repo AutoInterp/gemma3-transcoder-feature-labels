@@ -1,0 +1,1 @@
+"Time expressions in 24-hour format, often used to specify the start and end times of events, appointments, or activities."

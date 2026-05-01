@@ -1,0 +1,1 @@
+"Texts describing programming errors, exceptions, and error handling in various programming languages, including syntax errors, runtime errors, and logical errors."

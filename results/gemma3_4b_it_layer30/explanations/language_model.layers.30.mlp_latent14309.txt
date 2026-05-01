@@ -1,0 +1,1 @@
+"Text snippets containing programming code, database queries, and SQL commands, often used for data manipulation and analysis."

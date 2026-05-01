@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including Java, Python, and SQL, with some text excerpts from articles and books. The common pattern is the presence of code or programming-related text, often with specific keywords or phrases that indicate a technical context."

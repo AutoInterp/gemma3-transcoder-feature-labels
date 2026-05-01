@@ -1,0 +1,1 @@
+"Text containing numerical values, often representing measurements, statistics, or quantities, frequently accompanied by units of measurement, and sometimes embedded within tables or lists."

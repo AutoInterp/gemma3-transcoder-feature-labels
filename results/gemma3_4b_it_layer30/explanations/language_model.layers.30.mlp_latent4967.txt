@@ -1,0 +1,1 @@
+"Text fragments that are not grammatically complete or meaningful, often indicating a cut-off or incomplete sentence, or a snippet of code."

@@ -1,0 +1,1 @@
+"URLs, article titles, and quotes often appear at the beginning of a text snippet, followed by a brief summary or analysis."

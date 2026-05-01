@@ -1,0 +1,1 @@
+"Texts containing URLs, domain names, and IP addresses, often used for referencing external resources or providing links to further information."

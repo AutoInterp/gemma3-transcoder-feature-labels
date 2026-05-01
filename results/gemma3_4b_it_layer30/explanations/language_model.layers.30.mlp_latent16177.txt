@@ -1,0 +1,1 @@
+"Various numerical values, including years, temperatures, altitudes, and percentages, often used in scientific or statistical contexts."

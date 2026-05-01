@@ -1,0 +1,1 @@
+"Texts containing various types of formatting, such as HTML tags, programming code, and mathematical expressions, often used to convey technical or scientific information."

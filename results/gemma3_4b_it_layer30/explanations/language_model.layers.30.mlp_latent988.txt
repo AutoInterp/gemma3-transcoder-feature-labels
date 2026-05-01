@@ -1,0 +1,1 @@
+"Code snippets and programming examples in various programming languages, including SQL, JavaScript, and C, with a focus on encryption and decryption functions."

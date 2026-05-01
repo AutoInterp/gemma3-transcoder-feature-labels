@@ -1,0 +1,1 @@
+"Time expressions and schedules, including specific times, days of the week, and periods of operation, often used in conjunction with event descriptions or announcements."

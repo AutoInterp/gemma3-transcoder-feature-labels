@@ -1,0 +1,1 @@
+"The token \">>\" is used as a delimiter to indicate the end of a section or a block of code, often followed by a comment or a new line of code."

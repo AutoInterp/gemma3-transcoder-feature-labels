@@ -1,0 +1,1 @@
+"Texts that are likely to be disclaimers, warnings, or terms and conditions, often found at the end of a webpage or document, and are usually ignored by readers."

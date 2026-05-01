@@ -1,0 +1,1 @@
+"Various file paths, directory names, and file extensions are used in the text, often in the context of programming, software, or technical instructions."

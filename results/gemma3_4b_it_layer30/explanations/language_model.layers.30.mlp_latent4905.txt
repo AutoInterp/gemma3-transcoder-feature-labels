@@ -1,0 +1,1 @@
+"Various programming and technical terms, including function names, variable names, and file paths, often used in the context of debugging, testing, and development."

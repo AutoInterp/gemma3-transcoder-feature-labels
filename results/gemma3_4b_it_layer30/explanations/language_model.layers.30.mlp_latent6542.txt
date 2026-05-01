@@ -1,0 +1,1 @@
+"Dates in various formats, including full dates, years, and month-day combinations, often used to provide context or reference a specific event."

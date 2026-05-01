@@ -1,0 +1,1 @@
+"Text describing mathematical concepts, specifically ordinals, derived categories, and fiber bundles, with a focus on abstract algebra and topology."

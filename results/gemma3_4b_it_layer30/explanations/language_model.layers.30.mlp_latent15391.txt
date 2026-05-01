@@ -1,0 +1,1 @@
+"Texts often contain phrases that indicate a change in topic, a shift in perspective, or a transition to a new idea, such as \"Wait, what were we talking about?\" or \"An important thing to understand about this system\"."

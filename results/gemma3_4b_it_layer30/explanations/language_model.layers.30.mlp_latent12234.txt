@@ -1,0 +1,1 @@
+"Phrases and sentences that are interrupted or cut off, often with a sense of abruptness or incompleteness, frequently denoted by the presence of the token \"eos\" or a phrase that suggests a pause or a break in the narrative."

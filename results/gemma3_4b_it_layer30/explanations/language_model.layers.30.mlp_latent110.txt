@@ -1,0 +1,1 @@
+"Text fragments often containing numerical values, scientific or technical terms, and sometimes biblical quotes, frequently appearing at the end of a text block or as a standalone snippet."

@@ -1,0 +1,1 @@
+"Various phrases and sentences that are likely to be database table or column names, SQL commands, or programming code, often containing keywords like \"table\", \"database\", \"column\", \"structure\", \"create\", \"drop\", and \"set\"."

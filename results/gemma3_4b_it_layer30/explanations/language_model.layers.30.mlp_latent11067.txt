@@ -1,0 +1,1 @@
+"Texts with varying lengths, some of which are short and others are long, with no apparent pattern in the distribution of word frequencies."

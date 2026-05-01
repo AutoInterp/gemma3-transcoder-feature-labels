@@ -1,0 +1,1 @@
+"The token \"Varnish\" is associated with caching and HTTP proxy, and the token \"Vape\" is associated with nicotine and vaping products. Additionally, the token \"V\" is used as a prefix in various contexts, such as in programming (e.g., VOWS, VendingMachineItem, Varnish) and in proper nouns (e.g., VIXIA, VIXIA HF G10)."

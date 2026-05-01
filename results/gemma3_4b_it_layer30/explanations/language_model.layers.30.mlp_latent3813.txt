@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are set apart from the rest of the text, sometimes due to their irrelevance or lack of coherence, and are usually marked by a delimiter."

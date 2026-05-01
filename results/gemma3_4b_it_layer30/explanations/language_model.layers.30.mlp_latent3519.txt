@@ -1,0 +1,1 @@
+"Code snippets and programming-related text, including function definitions, variable declarations, and color codes, often in a programming language such as JavaScript or Python."

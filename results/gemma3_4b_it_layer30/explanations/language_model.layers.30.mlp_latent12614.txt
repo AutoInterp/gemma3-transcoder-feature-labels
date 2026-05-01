@@ -1,0 +1,1 @@
+"Code snippets in various programming languages, primarily Java, with comments and variable names in Spanish and English, indicating a multilingual development environment."

@@ -1,0 +1,1 @@
+"Text fragments that are not part of the main content, often containing additional information, explanations, or citations, and are typically separated from the main text by a blank line."

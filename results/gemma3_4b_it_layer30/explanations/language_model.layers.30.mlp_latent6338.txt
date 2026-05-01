@@ -1,0 +1,1 @@
+"Texts often contain proper nouns, names of locations, and technical terms, which are frequently found in scientific and informative articles."

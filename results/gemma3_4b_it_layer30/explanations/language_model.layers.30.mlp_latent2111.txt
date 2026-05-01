@@ -1,0 +1,1 @@
+"Text fragments often contain incomplete sentences or phrases, sometimes with a high activation value, suggesting that they are crucial for the overall meaning or context of the text."

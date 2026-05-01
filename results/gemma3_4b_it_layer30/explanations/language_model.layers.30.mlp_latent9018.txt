@@ -1,0 +1,1 @@
+"Texts containing lists of items, often with similar structures, such as lists of activities available at a location, lists of places, or lists of items for sale."

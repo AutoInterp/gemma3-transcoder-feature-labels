@@ -1,0 +1,1 @@
+"The token \"system\" and its variants (e.g. \"systems\", \"systemic\") are frequently used in the context of computer science, software development, and technical documentation, often referring to operating systems, software systems, or network systems."

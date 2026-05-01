@@ -1,0 +1,1 @@
+"Text fragments often appear in a block format, typically containing a recipe, instructions, or a list of items, and are frequently used to provide additional information or context."

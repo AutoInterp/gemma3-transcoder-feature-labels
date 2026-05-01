@@ -1,0 +1,1 @@
+"Tokens representing various types of lines, including physical lines, lines of code, lines of credit, lines of text, and lines of sight, often used in different contexts such as programming, finance, and everyday language."

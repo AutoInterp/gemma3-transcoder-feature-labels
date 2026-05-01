@@ -1,0 +1,1 @@
+"Frequent mentions of Java-related terms, including J2EE, JSP, EJB, JMS, JUnit, JBehave, Selenium, Joda Time, JSLF, JME, Javadoc, JUnit, JBehave, and others, indicating a technical text focused on Java programming and development."

@@ -1,0 +1,1 @@
+"Various phrases and sentences are cut off in the middle, often with a ellipsis or a tag such as \"http://ow.ly/CN1qC\" or \"<eos> indicating a truncation."

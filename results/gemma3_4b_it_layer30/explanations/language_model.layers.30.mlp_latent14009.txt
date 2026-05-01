@@ -1,0 +1,1 @@
+"Java and Android code snippets with various annotations, methods, and classes, likely from a web or mobile application project."

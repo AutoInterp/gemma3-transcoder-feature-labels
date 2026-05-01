@@ -1,0 +1,1 @@
+"Various types of text data, including dates, names, numbers, mathematical expressions, URLs, and text from books, articles, and conversations, often with specific formatting or syntax."

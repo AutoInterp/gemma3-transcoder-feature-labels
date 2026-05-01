@@ -1,0 +1,1 @@
+"Text snippets often appear in a code block or a quote, and sometimes in a note or a reminder, frequently with a specific formatting or a particular structure."

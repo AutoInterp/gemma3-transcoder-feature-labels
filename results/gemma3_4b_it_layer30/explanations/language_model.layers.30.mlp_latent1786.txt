@@ -1,0 +1,1 @@
+"The token \"times\" is often used in mathematical expressions, and the token \"a\" is frequently used in variable names, often in conjunction with other letters or numbers, in programming code."

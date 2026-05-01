@@ -1,0 +1,1 @@
+"Texts often contain phrases and sentences that convey positive sentiment, such as happiness, growth, motivation, and productivity, while others express negative emotions, like fear, anxiety, or regret."

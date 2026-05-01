@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are set apart from the rest of the text, usually to convey a sense of pause, a new idea, or a shift in narrative. These phrases or sentences often have lower activation values, indicating they may be less central to the main idea or narrative."

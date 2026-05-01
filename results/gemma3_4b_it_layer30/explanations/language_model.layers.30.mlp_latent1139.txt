@@ -1,0 +1,1 @@
+"The token \"This\" is often used as a delimiter to indicate the end of a quote or a block of text, and is frequently followed by a period or other punctuation."
