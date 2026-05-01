@@ -1,0 +1,1 @@
+"Text snippets often contain geographical locations, names of people, places, and events, as well as technical terms and scientific concepts."

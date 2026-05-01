@@ -1,0 +1,1 @@
+"Text snippets often contain URLs, code snippets, and HTML tags, indicating a mix of technical and informative content."

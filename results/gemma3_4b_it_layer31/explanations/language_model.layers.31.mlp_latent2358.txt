@@ -1,0 +1,1 @@
+"URLs and email addresses, often used as delimiters for external links or contact information."

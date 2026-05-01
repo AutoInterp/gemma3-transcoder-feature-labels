@@ -1,0 +1,1 @@
+"The token \"V\" is often used as a prefix in various contexts, including programming (e.g., VBA, VCL, Varnish), technology (e.g., V8, V4, V2), and other fields (e.g., VLE, VMI, VDR)."

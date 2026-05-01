@@ -1,0 +1,1 @@
+"Email addresses, phone numbers, and URLs are often embedded in the text, often at the end of a sentence or in a list of information."

@@ -1,0 +1,1 @@
+"Various numerical values, including dates, pH levels, temperatures, prices, and quantities, often presented in a range or as a specific value."

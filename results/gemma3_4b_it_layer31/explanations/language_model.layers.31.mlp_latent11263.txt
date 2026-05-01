@@ -1,0 +1,1 @@
+"The text contains a wide range of topics, but the most common pattern is the use of proper nouns, such as names of people, places, and organizations, which often have high activation values. Additionally, there is a prevalence of technical and scientific terms, particularly in the fields of medicine, technology, and finance, which also tend to have high activation values."

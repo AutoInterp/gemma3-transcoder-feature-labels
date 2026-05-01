@@ -1,0 +1,1 @@
+"Texts containing mathematical concepts, formulas, and explanations, often with a focus on problem-solving and optimization, including topics such as exponential functions, probability distributions, and algorithms for graph theory and geometry."

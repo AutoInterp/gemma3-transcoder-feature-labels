@@ -1,0 +1,1 @@
+"Text fragments that are likely disclaimers, legal notices, or footnotes, often containing information about copyright, authorship, or other formalities."

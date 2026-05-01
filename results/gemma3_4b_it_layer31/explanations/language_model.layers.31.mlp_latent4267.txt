@@ -1,0 +1,1 @@
+"Texts often contain URLs, usernames, and passwords, which are typically hidden or omitted in the provided examples."

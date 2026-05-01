@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are set apart from the rest of the text, typically to convey a sense of quotation, dialogue, or a distinct narrative voice. These phrases or sentences may be enclosed by delimiters, and their importance is reflected in the activation values."

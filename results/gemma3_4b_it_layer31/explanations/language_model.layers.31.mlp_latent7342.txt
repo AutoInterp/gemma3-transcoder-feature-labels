@@ -1,0 +1,1 @@
+"Text fragments often contain scientific or technical information, including journal titles, author names, and academic references, indicating a formal or educational context."

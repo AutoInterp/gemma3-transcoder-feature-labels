@@ -1,0 +1,1 @@
+"Texts often contain proper nouns such as names of universities, cities, states, and individuals, which are frequently mentioned in conjunction with other geographical or institutional information."

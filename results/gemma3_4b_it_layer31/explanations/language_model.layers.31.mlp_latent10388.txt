@@ -1,0 +1,1 @@
+"Paths to system directories and configuration files, often used in commands and scripts for system administration and development."

@@ -1,0 +1,1 @@
+"Text fragments often represent standalone sentences, paragraphs, or code blocks, sometimes with a specific context or purpose, such as providing information, instructions, or examples."

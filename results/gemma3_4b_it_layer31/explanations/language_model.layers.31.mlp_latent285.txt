@@ -1,0 +1,1 @@
+"Texts with low activation values are likely to be boilerplate or generic information, such as summaries, dates, and citations."

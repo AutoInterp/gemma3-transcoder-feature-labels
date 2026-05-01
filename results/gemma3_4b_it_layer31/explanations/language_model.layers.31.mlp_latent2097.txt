@@ -1,0 +1,1 @@
+"Dates in the format of year, month, and day, often accompanied by other numerical information such as times, page numbers, or specific years."

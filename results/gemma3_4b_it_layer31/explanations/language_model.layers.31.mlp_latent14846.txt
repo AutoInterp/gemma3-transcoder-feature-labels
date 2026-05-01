@@ -1,0 +1,1 @@
+"Texts often contain specific numerical values, such as time durations (e.g., 5 minutes, 10 minutes, 30 minutes), distances (e.g., 3 miles, 40 km), and quantities (e.g., 100 natural remedies, 170 pages). These values are frequently used to describe events, processes, or characteristics, and are often accompanied by descriptive phrases or sentences."

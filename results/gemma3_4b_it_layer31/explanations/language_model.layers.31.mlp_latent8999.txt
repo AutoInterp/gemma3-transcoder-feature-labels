@@ -1,0 +1,1 @@
+"Text snippets often contain phrases or sentences that are cut off or incomplete, frequently due to truncation at the end of a document or conversation, or sometimes due to a deliberate choice to omit certain information."

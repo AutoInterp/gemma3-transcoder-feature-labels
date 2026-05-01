@@ -1,0 +1,1 @@
+"Text fragments that appear to be code snippets, often from programming languages, interspersed with regular text. The code snippets are likely from various programming languages, including Perl, Java, and Python, and are often used to illustrate concepts or provide examples."

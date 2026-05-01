@@ -1,0 +1,1 @@
+"Various mathematical and programming concepts, including complex conjugates, norms, modal logic, axioms, and Riemannian geometry, as well as code snippets in multiple programming languages."

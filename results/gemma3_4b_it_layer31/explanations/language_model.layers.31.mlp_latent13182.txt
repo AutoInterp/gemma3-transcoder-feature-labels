@@ -1,0 +1,1 @@
+"Text snippets enclosed in HTML-like tags, likely representing URLs or links, often containing numerical data or descriptive text."

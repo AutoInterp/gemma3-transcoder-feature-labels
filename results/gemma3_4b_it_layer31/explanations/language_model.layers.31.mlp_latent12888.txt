@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are enclosed in delimiters, which are likely to be important for the context or meaning of the text. These enclosed phrases or sentences often contain key information, such as explanations, examples, or warnings, and are frequently related to health, science, or technology topics."

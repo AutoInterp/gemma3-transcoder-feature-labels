@@ -1,0 +1,1 @@
+"Texts containing log messages, error messages, and debugging information, often related to programming, software development, or technical issues."

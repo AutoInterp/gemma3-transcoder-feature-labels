@@ -1,0 +1,1 @@
+"The token \"u\" often appears in conjunction with \"q\" in words, and also frequently appears in words related to the United States, such as \"U.S.\", \"U.S. government\", \"U.S. Navy\", etc."

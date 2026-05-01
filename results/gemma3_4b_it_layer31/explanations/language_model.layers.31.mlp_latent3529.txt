@@ -1,0 +1,1 @@
+"Text excerpts often start with a code snippet, a programming concept, or a technical term, followed by a quotation, a dialogue, or a narrative that may be unrelated to the initial technical context."

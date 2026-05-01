@@ -1,0 +1,1 @@
+"Texts containing error messages, warnings, or exceptions, often related to programming or system operations, and sometimes followed by code snippets or explanations."

@@ -1,0 +1,1 @@
+"Texts often contain proper nouns, such as names of locations, institutions, and people, which are frequently mentioned in conjunction with other context-specific information. Additionally, the presence of technical terms, idioms, and colloquial expressions can be indicative of the topic or subject matter being discussed."

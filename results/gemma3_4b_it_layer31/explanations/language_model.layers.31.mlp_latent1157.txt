@@ -1,0 +1,1 @@
+"Code snippets, mostly in programming languages, and mathematical expressions, often with variable names and function calls, embedded within larger texts."

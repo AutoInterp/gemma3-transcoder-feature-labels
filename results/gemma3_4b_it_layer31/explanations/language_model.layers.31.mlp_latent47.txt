@@ -1,0 +1,1 @@
+"Texts from various sources, including articles, books, and code, with a focus on extracting specific phrases or sentences that are likely to be important for understanding the content. The extracted phrases often contain key information, such as names, dates, locations, and technical terms."

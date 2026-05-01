@@ -1,0 +1,1 @@
+"Text snippets containing geographical locations, URLs, and specific names of people, places, and organizations, often used as context for the surrounding text."

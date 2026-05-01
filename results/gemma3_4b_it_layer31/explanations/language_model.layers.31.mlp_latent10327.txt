@@ -1,0 +1,1 @@
+"Text contains various types of data, including numbers, dates, addresses, phone numbers, and mathematical expressions, often in a context of technical or informative writing."

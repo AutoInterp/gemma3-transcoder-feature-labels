@@ -1,0 +1,1 @@
+"Text snippets often contain technical or specialized information, including programming code, medical terminology, and scientific concepts, which are frequently embedded within paragraphs of general text."

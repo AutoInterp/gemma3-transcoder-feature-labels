@@ -1,0 +1,1 @@
+"The token \"Varnish\" is a key concept in the text, referring to a web accelerator and cache system. It is often mentioned in conjunction with other technical terms, such as HTTP proxy, cache, and tags. The text also mentions other related concepts, such as Memcached, Node.js, and Virtual Box, but \"Varnish\" is the central theme."

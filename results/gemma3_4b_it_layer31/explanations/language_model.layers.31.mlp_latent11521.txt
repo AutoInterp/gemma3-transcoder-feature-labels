@@ -1,0 +1,1 @@
+"Conditional statements, specifically the phrase \"If\" used to introduce a condition or a hypothetical scenario, often followed by a statement or action that will occur if the condition is met."

@@ -1,0 +1,1 @@
+"The term \"low-level\" is used to describe components, modules, or systems that are fundamental, basic, or primitive, often in contrast to higher-level or more complex entities. It can refer to programming languages, protocols, or even physical systems, emphasizing their underlying nature and simplicity."

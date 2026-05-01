@@ -1,0 +1,1 @@
+"Geographic locations, directions, and distances, often used in conjunction with place names, to describe spatial relationships and travel routes."

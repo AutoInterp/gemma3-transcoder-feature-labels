@@ -1,0 +1,1 @@
+"Text fragments containing names of people, places, events, and titles of movies, books, and songs, as well as specific dates and times."

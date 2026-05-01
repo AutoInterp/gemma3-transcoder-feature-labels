@@ -1,0 +1,1 @@
+"Technical documentation and programming-related text, including code snippets, error messages, and explanations of software functionality and configuration options."

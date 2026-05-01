@@ -1,0 +1,1 @@
+"Various HTML elements and attributes, including links, images, scripts, and metadata, used to structure and enhance web content."

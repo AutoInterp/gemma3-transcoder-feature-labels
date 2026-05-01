@@ -1,0 +1,1 @@
+"Texts containing phone numbers, addresses, and other contact information, often embedded within larger blocks of text."

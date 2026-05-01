@@ -1,0 +1,1 @@
+"The token \"t\" is often followed by a word that starts with the letters \"he\", \"ha\", \"hi\", \"ho\", \"hu\", or \"hy\", but more frequently by words that start with \"he\", \"ha\", \"hi\", and \"ho\"."

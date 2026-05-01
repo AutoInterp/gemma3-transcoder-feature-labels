@@ -1,0 +1,1 @@
+"Decorative terms and formatting characters, such as HTML tags, script elements, and special characters, are often omitted from text."

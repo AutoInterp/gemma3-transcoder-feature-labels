@@ -1,0 +1,1 @@
+"Various types of text data, including addresses, citations, mathematical expressions, and programming code, often containing specific keywords and formatting."

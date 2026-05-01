@@ -1,0 +1,1 @@
+"Various numerical values and units, including monetary amounts, time periods, and quantities, often used in comparisons or to describe changes."

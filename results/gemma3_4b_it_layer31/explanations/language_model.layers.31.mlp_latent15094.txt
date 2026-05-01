@@ -1,0 +1,1 @@
+"Texts have been encrypted by replacing meaningful words with phrases that contain the same number of words, but with unrelated meanings, to avoid detection by Eve."

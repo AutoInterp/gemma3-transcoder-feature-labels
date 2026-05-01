@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are set apart from the rest of the text, typically indicating a change in topic, a quote, or a reference to a specific concept or idea. These phrases or sentences often have lower activation values, suggesting that they may be less central to the overall meaning of the text."

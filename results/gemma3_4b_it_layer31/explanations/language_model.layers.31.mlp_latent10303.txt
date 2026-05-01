@@ -1,0 +1,1 @@
+"Dates and numbers in various formats, including ordinal numbers, fractions, and monetary values, often used to provide context or specify details in a text."

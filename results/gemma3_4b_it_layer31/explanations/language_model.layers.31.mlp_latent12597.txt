@@ -1,0 +1,1 @@
+"Texts containing SQL code, database queries, and table structures, as well as fragments of articles, blog posts, and product descriptions, often with a focus on technology, marketing, and business."

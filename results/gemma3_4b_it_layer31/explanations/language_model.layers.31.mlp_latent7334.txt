@@ -1,0 +1,1 @@
+"Texts often contain specific numbers, such as dates, times, quantities, and prices, which are frequently mentioned in the context of comparisons, measurements, and calculations."

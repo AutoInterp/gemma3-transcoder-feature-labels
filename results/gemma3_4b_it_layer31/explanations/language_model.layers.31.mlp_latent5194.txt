@@ -1,0 +1,1 @@
+"Various lists of items, often with descriptions, and stock market ticker symbols."

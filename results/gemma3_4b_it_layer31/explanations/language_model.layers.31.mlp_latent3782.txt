@@ -1,0 +1,1 @@
+"Code snippets in various programming languages, including JavaScript, SQL, C, CoffeeScript, Ruby, and others, showcasing syntax, functions, and data structures."

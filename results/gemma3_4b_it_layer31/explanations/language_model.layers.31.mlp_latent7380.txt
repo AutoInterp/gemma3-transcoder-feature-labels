@@ -1,0 +1,1 @@
+"The token \"no\" or \"no-\" is often used as a prefix to indicate the absence of something, such as a fee, download, registration, or commitment, and is frequently associated with positive or convenient features, like free services or easy-to-use interfaces."

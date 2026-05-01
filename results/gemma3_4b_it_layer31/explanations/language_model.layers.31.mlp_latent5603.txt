@@ -1,0 +1,1 @@
+"Text contains a mix of metadata, citations, and article content, with various formatting and coding elements, including HTML, LaTeX, and BibTeX."

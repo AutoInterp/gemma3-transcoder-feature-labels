@@ -1,0 +1,1 @@
+"HTML and CSS code snippets describing various UI elements, layout options, and styling properties, often accompanied by code examples in programming languages such as Java, JavaScript, and Ruby."

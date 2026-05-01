@@ -1,0 +1,1 @@
+"Text segments enclosed by delimiters often contain formal or technical information, such as medical or scientific descriptions, product details, or historical data, and are typically written in a more formal tone."

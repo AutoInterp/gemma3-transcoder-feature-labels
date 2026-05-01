@@ -1,0 +1,1 @@
+"Various types of addresses, locations, and geographical information, including city names, street addresses, and zip codes."

@@ -1,0 +1,1 @@
+"The token \"00\" or a year ending in \"00\" is often used to denote a specific year, and is frequently found in the context of dates, events, or milestones."

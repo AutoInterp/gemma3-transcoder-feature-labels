@@ -1,0 +1,1 @@
+"Various programming concepts and mathematical terms, including functions, variables, data types, and algorithms, as well as terminology from category theory, group theory, and other mathematical disciplines."

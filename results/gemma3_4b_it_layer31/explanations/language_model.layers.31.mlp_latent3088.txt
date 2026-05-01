@@ -1,0 +1,1 @@
+"Text fragments containing proper nouns, geographical locations, and specific dates, often indicating the context of the text."

@@ -1,0 +1,1 @@
+"Texts discussing database concepts, SQL, and database management systems, including relational databases, non-relational databases, and data storage solutions."

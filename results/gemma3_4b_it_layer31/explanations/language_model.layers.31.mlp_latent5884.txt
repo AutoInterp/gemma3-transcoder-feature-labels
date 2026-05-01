@@ -1,0 +1,1 @@
+"Addresses and geographical locations, often including street names, city names, and country names, frequently accompanied by activation values indicating their importance in the text."

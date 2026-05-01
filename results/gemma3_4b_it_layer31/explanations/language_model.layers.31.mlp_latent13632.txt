@@ -1,0 +1,1 @@
+"The token \"port\" is often used to refer to a location or a point of entry, such as a harbor, airport, or a specific address on a network. It can also refer to a physical or virtual point of connection, like a USB port or a serial port."

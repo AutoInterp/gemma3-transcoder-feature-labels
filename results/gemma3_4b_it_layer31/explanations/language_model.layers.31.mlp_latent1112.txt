@@ -1,0 +1,1 @@
+"Text snippets containing dates, file paths, URLs, and other metadata, often found in the context of citations, references, or technical documentation."

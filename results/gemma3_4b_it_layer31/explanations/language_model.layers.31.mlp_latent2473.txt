@@ -1,0 +1,1 @@
+"Texts are mostly code snippets from various programming languages, with some being documentation or articles. The common pattern is the presence of code blocks, function definitions, and variable declarations, indicating a focus on programming and software development."

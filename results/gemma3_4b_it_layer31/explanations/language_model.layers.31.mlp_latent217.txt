@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are enclosed in special markers, which may indicate a quote, a title, a section heading, or a separate entity within the text. These phrases or sentences often have higher activation values, suggesting that they are more important or significant in the context."

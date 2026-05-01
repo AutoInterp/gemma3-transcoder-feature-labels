@@ -1,0 +1,1 @@
+"Code snippets in various programming languages, including Java, C++, and Python, with comments and variable names in Spanish."

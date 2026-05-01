@@ -1,0 +1,1 @@
+"Various types of text data, including addresses, phone numbers, email addresses, book titles, article titles, product descriptions, reviews, and personal stories, often containing specific details such as names, dates, and locations."

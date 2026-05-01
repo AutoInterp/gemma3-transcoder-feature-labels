@@ -1,0 +1,1 @@
+"The token \"<<\" is often used to indicate the start of a quotation or a specific term, and the token \">>\" is used to indicate the end."

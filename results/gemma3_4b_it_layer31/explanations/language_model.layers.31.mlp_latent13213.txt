@@ -1,0 +1,1 @@
+"Texts that are not relevant to the analysis, likely due to the presence of irrelevant or nonsensical sentences, or possibly due to the activation values being low, indicating that the model is not strongly activated by these texts."

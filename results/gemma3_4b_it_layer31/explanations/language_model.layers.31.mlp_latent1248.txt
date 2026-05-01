@@ -1,0 +1,1 @@
+"Various types of text data, including dates, times, locations, names, and technical terms, often accompanied by numerical values or codes."

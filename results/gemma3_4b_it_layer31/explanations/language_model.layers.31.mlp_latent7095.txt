@@ -1,0 +1,1 @@
+"Various phrases and sentences extracted from text, often containing proper nouns, technical terms, and idiomatic expressions, likely used for information retrieval or natural language processing tasks."

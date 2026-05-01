@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including C++, Java, Python, and others, with activations indicating the importance of certain lines or tokens. The patterns found in these examples include function calls, variable assignments, conditional statements, and object-oriented programming concepts."

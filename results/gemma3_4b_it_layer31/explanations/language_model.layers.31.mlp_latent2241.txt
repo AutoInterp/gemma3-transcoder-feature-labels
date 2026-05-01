@@ -1,0 +1,1 @@
+"Various types of data and information, including dates, times, locations, names, and numerical values, often presented in a formal or structured format, such as tables, lists, or citations."

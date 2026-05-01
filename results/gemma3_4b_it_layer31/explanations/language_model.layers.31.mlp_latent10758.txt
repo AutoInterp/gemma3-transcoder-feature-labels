@@ -1,0 +1,1 @@
+"Texts containing geographical locations, names of people, institutions, and organizations, often serving as context for the rest of the text."

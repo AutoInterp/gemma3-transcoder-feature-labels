@@ -1,0 +1,1 @@
+"Text fragments often containing URLs, code snippets, or placeholder information, frequently found at the end of a text block, possibly indicating a truncation or a link to additional information."

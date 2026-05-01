@@ -1,0 +1,1 @@
+"Code snippets and variable names from various programming languages, including CSS, Java, JavaScript, and Spring, often related to UI components, styling, and layout."

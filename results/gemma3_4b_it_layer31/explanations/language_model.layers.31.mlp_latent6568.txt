@@ -1,0 +1,1 @@
+"Text fragments containing code snippets, programming languages, mathematical expressions, and technical jargon, often found in documentation, tutorials, and academic papers."

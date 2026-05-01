@@ -1,0 +1,1 @@
+"Text fragments often appear to be cut off or truncated, with various types of content, including news articles, quotes, and code snippets, being abruptly ended with a delimiter."

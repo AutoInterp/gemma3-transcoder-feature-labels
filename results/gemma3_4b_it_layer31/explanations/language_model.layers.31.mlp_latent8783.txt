@@ -1,0 +1,1 @@
+"Texts in Spanish, with various programming languages and technical terms, including Java, JavaFX, Spring, and JavaScript, embedded within the text."

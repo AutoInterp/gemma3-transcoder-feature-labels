@@ -1,0 +1,1 @@
+"Technical text describing computer networking protocols, data transmission, and communication systems, with a focus on TCP/IP, network architecture, and data encapsulation."

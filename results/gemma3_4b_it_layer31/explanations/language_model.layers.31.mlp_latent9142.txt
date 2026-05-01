@@ -1,0 +1,1 @@
+"Dates and times, including specific hours, days of the week, and months, often used to schedule events or provide information about availability."

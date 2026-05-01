@@ -1,0 +1,1 @@
+"Year numbers and dates are often embedded in text, sometimes as part of a larger sentence or phrase, and are frequently used to provide context or reference a specific time period."

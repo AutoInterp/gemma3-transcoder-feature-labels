@@ -1,0 +1,1 @@
+"Text contains various types of delimiters and special characters, including quotation marks, commas, colons, and parentheses, often used to denote emphasis, citations, or code snippets."

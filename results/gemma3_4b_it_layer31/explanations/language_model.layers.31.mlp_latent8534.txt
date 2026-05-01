@@ -1,0 +1,1 @@
+"Texts often contain URLs, citations, and references to external sources, such as Wikipedia, academic articles, and books."

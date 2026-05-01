@@ -1,0 +1,1 @@
+"Texts discussing programming, computer science, and software development, with a focus on Git, coding practices, and technical concepts."

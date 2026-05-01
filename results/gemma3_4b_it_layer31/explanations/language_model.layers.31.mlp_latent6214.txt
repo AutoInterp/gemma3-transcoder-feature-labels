@@ -1,0 +1,1 @@
+"Code snippets and metadata from various programming languages and data formats, including Java, SQL, and XML, as well as text from articles, books, and websites, often containing technical or informative content."

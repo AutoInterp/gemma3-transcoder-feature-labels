@@ -1,0 +1,1 @@
+"Various types of text data, including technical terms, URLs, citations, mathematical expressions, and plain text, often with specific formatting and syntax."

@@ -1,0 +1,1 @@
+"Code snippets and programming instructions, often with specific syntax and commands, frequently related to debugging, troubleshooting, and software installation."

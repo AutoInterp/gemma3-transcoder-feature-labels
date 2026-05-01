@@ -1,0 +1,1 @@
+"Texts often contain phrases that are likely to be quoted or referenced, and phrases that are likely to be the main content of a text, often containing key information or a central idea."

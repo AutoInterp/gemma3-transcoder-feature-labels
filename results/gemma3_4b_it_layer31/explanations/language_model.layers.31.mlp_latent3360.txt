@@ -1,0 +1,1 @@
+"Numbers representing quantities, durations, or amounts, often used in context of comparisons, measurements, or timeframes."

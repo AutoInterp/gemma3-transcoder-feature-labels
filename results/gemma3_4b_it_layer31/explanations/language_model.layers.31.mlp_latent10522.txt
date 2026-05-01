@@ -1,0 +1,1 @@
+"Texts related to HTTP protocol, web development, and network security, including technical terms, API calls, and error messages."

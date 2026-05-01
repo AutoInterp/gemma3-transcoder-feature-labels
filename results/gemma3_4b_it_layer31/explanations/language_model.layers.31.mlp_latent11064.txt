@@ -1,0 +1,1 @@
+"Various numerical values and units, including measurements in different systems (e.g., metric, imperial), representing quantities such as distances, speeds, temperatures, and energies."

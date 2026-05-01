@@ -1,0 +1,1 @@
+"Texts often contain promotional or informative content, frequently including product names, company names, and technical terms, which are sometimes accompanied by activation values indicating their importance in the text."

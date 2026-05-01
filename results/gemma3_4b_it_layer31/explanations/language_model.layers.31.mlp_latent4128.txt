@@ -1,0 +1,1 @@
+"Texts in multiple languages, including SQL queries, programming code, and idiomatic expressions, often with a focus on encryption and data processing."

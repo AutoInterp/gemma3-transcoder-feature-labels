@@ -1,0 +1,1 @@
+"Texts often contain proper nouns, such as names of locations, people, and organizations, which are frequently mentioned in conjunction with other words like \"of\", \"in\", and \"the\". Additionally, phrases describing time periods, events, and actions are common, often including words like \"in\", \"on\", and \"at\"."

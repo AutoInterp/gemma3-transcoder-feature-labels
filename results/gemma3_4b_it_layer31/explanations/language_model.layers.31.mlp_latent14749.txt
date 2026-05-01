@@ -1,0 +1,1 @@
+"The token \"current\" often represents a state or value at a particular point in time, and is frequently used in conjunction with other words such as \"strength\", \"rate\", or \"balance\"."

@@ -1,0 +1,1 @@
+"Text discussing network-related concepts, including network security, protocols, devices, and terminology, often in the context of computer systems and cybersecurity."

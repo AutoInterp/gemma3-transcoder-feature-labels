@@ -1,0 +1,1 @@
+"Texts often contain specific phrases or sentences that provide additional information, such as location, statistics, or details about a particular topic, often marked by a delimiter like \"Activations: (\"...\": ...)\" indicating the importance of the following text."

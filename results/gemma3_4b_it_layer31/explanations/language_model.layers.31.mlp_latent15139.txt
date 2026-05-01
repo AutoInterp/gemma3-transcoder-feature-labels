@@ -1,0 +1,1 @@
+"Text contains various units of measurement, including temperature (°C, °F), speed (m/s, km/h, mph), energy (J, Cal, ft. lbs.), and data transfer rates (kBytes/s, MB/s)."

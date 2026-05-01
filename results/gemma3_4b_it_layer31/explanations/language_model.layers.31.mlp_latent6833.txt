@@ -1,0 +1,1 @@
+"Various types of text data, including news articles, reviews, product information, and code snippets, often containing URLs, domain names, and file paths."

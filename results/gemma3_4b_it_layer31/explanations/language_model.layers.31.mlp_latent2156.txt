@@ -1,0 +1,1 @@
+"Texts from various domains, including technical documentation, news articles, and online content, with a focus on extracting specific keywords and phrases. The extracted phrases often relate to technical terms, product names, and proper nouns, indicating a pattern of extracting relevant information from text."

@@ -1,0 +1,1 @@
+"Texts often contain lists of ingredients, instructions, or items, frequently presented in a structured format with multiple lines and bullet points."

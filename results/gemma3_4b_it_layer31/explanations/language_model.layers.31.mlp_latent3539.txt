@@ -1,0 +1,1 @@
+"Code snippets in various programming languages, primarily C# and Go, with comments and variable names in multiple languages including Turkish, German, Italian, and others."

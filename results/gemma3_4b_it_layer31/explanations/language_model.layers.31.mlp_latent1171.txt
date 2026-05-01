@@ -1,0 +1,1 @@
+"Texts from various sources, including programming code, articles, and product descriptions, with a focus on extracting specific information such as addresses, product names, and technical details."

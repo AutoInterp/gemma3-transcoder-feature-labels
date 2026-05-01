@@ -1,0 +1,1 @@
+"Texts often contain URLs, product names, and other specific references, which are frequently found at the end of a sentence or paragraph."

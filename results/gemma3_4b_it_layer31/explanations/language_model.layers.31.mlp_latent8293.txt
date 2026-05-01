@@ -1,0 +1,1 @@
+"Texts containing scientific or academic references, including journal articles, book titles, and conference proceedings, often with DOI or PubMed IDs, and sometimes accompanied by quotes or summaries."

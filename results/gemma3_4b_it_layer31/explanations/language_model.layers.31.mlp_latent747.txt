@@ -1,0 +1,1 @@
+"Text snippets often contain proper nouns, titles, and names, which are frequently highlighted in the given examples. Additionally, the text frequently includes quotes, citations, and references, suggesting a focus on academic, informative, or conversational writing."

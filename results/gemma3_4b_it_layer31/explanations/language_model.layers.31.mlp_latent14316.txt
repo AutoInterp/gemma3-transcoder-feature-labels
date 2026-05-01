@@ -1,0 +1,1 @@
+"Texts describing architectural styles, designs, and features, often highlighting functionality, accessibility, and aesthetic appeal."

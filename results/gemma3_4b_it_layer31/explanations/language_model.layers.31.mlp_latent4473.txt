@@ -1,0 +1,1 @@
+"Various snippets of code from different programming languages, including SQL, PHP, and Java, as well as some HTML and CSS."

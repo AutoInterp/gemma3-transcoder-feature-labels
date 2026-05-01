@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are questions, requests, or statements that require a response or action, frequently marked by phrases such as \"do you think we should go today?\" or \"where to go?\" indicating a need for decision-making or discussion."

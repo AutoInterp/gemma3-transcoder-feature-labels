@@ -1,0 +1,1 @@
+"Various programming-related terms and code snippets, including class and method names, import statements, and function definitions, often from Java and Spring frameworks."

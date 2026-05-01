@@ -1,0 +1,1 @@
+"Text fragments often represent mathematical formulas, programming code, or technical descriptions, frequently containing special characters and symbols."

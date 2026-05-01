@@ -1,0 +1,1 @@
+"Various units of measurement, including time (hours, minutes, seconds), temperature (°F, °C), and distance (kilometers, miles), as well as scientific and medical terminology."

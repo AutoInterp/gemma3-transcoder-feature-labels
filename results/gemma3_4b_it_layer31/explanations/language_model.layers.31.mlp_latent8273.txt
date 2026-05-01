@@ -1,0 +1,1 @@
+"Texts from various sources, including social media, articles, and code snippets, with a focus on extracting specific phrases or code blocks. The extracted phrases often contain technical or specialized information, and the code snippets are from programming languages such as C++, JavaScript, and Ruby."

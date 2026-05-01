@@ -1,0 +1,1 @@
+"Texts often contain geographical locations, such as countries, cities, and regions, which can be used to identify the context and setting of the narrative."

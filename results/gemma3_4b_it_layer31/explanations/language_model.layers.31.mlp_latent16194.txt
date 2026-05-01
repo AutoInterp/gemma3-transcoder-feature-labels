@@ -1,0 +1,1 @@
+"Texts containing addresses, names of places, and geographical information, often in the format of a list or a description of a location."

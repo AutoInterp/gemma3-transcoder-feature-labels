@@ -1,0 +1,1 @@
+"Text fragments that appear to be dates, times, and event information, often in a structured format, possibly from a blog or news archive."

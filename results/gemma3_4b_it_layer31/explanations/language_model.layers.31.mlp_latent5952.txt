@@ -1,0 +1,1 @@
+"Text discussing IP addresses, network protocols, and internet-related concepts, including IP geolocation targeting, web redirection, and network security."

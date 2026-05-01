@@ -1,0 +1,1 @@
+"Dates in various formats, including year-month-day, month-day, and day-month-year, often accompanied by time."

@@ -1,0 +1,1 @@
+"Text snippets enclosed in delimiters often represent titles, event names, or specific concepts, while the surrounding text provides context and additional information."

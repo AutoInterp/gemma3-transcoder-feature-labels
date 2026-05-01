@@ -1,0 +1,1 @@
+"Text snippets containing various types of data, including numerical values, dates, names, locations, and technical information, often in a format that appears to be extracted from a database or a list."

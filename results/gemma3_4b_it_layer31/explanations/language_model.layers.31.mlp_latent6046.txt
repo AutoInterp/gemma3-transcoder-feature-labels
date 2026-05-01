@@ -1,0 +1,1 @@
+"Text discussing color theory, color spaces, color conversion, and color-related applications, including colorization, color blindness, and color schemes."

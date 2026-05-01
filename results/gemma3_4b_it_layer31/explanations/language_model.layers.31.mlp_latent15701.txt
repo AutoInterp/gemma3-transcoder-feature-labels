@@ -1,0 +1,1 @@
+"Texts containing technical terms, names of people, places, and organizations, as well as various types of data, such as mathematical equations, programming code, and statistical analysis."

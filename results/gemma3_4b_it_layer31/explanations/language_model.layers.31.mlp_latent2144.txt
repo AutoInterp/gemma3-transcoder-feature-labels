@@ -1,0 +1,1 @@
+"Texts discussing time, clocks, and timing mechanisms, including various types of timekeeping devices, synchronization, and temporal concepts."

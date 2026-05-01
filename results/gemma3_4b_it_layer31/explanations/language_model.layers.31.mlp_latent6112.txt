@@ -1,0 +1,1 @@
+"Texts often contain proper nouns and specific locations, which can be used to identify the context and subject matter of the text."

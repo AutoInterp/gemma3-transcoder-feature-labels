@@ -1,0 +1,1 @@
+"Text snippets from various programming languages, including SQL, R, Python, and JavaScript, as well as plain text from articles, books, and websites. The patterns found in the text include code snippets, function definitions, variable declarations, and comments, indicating a mix of programming and non-programming content."

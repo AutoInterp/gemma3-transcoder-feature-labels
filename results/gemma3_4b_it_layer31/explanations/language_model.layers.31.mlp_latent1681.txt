@@ -1,0 +1,1 @@
+"HTML and CSS code snippets, often containing class names, IDs, and other attributes, as well as code from various programming languages such as Java, C#, and Python."

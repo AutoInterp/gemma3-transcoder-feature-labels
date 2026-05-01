@@ -1,0 +1,1 @@
+"Numbers representing various quantities, such as amounts of money, sizes, volumes, and counts, often used in financial, scientific, and everyday contexts."

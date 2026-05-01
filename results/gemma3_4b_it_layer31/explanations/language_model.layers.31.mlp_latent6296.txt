@@ -1,0 +1,1 @@
+"The text contains a mix of mathematical and programming concepts, with various symbols, equations, and code snippets. The patterns found in the text include mathematical expressions and equations, programming code in multiple languages (including Perl, Python, and GLSL), and text with special formatting and syntax highlighting."

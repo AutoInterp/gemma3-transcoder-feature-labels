@@ -1,0 +1,1 @@
+"Texts often contain links to external content, such as articles, videos, or other websites, which are typically denoted by a URL or a reference number."

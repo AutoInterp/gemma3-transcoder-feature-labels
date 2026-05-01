@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including shell scripts, C, Java, and LaTeX, with a focus on mathematical and computational concepts, such as probability distributions, Hilbert spaces, and cellular automata."

@@ -1,0 +1,1 @@
+"Technical documentation and programming interfaces, including code snippets, function descriptions, and system architecture explanations, often using formal language and including specific details about software, hardware, and data structures."

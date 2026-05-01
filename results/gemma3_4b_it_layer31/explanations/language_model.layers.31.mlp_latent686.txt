@@ -1,0 +1,1 @@
+"Code snippets with variable names, function calls, and conditional statements, often with specific syntax and formatting, indicating programming languages such as C, C++, or JavaScript."

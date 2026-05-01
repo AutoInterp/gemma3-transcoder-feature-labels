@@ -1,0 +1,1 @@
+"Texts often contain phrases describing a range of values or quantities, such as temperature, rates, percentages, and heights, which are frequently compared to a baseline or standard."

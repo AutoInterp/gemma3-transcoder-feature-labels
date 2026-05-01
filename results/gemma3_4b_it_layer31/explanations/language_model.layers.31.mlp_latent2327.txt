@@ -1,0 +1,1 @@
+"Code snippets and configuration files, often in a programming language, with a focus on server-side development, web frameworks, and API management."

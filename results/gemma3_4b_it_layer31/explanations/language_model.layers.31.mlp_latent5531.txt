@@ -1,0 +1,1 @@
+"Texts often contain phrases and sentences that are not directly related to the main topic, such as advertisements, quotes, and unrelated information, which can be considered as noise or filler content."

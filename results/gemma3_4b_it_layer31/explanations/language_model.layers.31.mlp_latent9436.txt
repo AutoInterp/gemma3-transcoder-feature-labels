@@ -1,0 +1,1 @@
+"The token \"L\" or \"l\" often appears at the beginning of words, often in proper nouns, abbreviations, or acronyms, and sometimes in the middle of words, often in foreign or technical terms."

@@ -1,0 +1,1 @@
+"Various types of text, including addresses, museum descriptions, medical information, and news articles, often contain proper nouns, such as names of locations, people, and organizations, which are frequently used to provide context and identify specific entities."

@@ -1,0 +1,1 @@
+"Code snippets in various programming languages, primarily C/C++ and Java, with a focus on character encoding and ASCII values."

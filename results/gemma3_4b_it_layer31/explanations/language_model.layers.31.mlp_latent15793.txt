@@ -1,0 +1,1 @@
+"Texts often contain proper nouns, idioms, and phrases that are not relevant to the main topic, such as names of people, places, and organizations, as well as quotes and references to other works."

@@ -1,0 +1,1 @@
+"Texts containing addresses, locations, and geographical information, often in the format of street names, city names, and postal codes, frequently from the United Kingdom and the United States."

@@ -1,0 +1,1 @@
+"The token \"st\" or \"str\" is often found at the beginning of words, indicating a prefix related to size, shape, or location, or sometimes a verb meaning to respond or act."

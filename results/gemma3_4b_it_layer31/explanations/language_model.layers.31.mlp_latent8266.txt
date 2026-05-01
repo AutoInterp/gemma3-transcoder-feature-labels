@@ -1,0 +1,1 @@
+"Text segments that appear to be article excerpts, news stories, or Wikipedia entries, often containing information on various topics such as history, geography, politics, culture, and science."

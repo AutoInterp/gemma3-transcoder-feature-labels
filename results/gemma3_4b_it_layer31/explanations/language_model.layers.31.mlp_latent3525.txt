@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are enclosed in angle brackets, which appear to be code or programming syntax, but are actually used to denote a specific type of text, such as a title, a quote, or a code snippet."

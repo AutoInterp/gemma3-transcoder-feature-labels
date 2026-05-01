@@ -1,0 +1,1 @@
+"Code snippets in various programming languages, including Java, MySQL, and JavaScript, with a focus on database connections, queries, and data manipulation."

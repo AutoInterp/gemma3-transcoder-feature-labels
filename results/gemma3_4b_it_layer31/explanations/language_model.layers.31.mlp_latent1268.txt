@@ -1,0 +1,1 @@
+"Texts discussing technical topics, including programming, computer science, and engineering, with a focus on problem-solving, optimization, and implementation details."

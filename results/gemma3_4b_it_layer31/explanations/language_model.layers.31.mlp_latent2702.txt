@@ -1,0 +1,1 @@
+"Text discussing software design principles, specifically object-oriented programming (OOP) concepts, such as Single Responsibility Principle (SRP), Interface Segregation Principle (ISP), Dependency Inversion Principle (DIP), and others, with a focus on code organization, maintainability, and scalability."

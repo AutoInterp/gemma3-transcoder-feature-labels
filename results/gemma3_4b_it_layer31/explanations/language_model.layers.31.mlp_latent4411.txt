@@ -1,0 +1,1 @@
+"Phone numbers, addresses, and URLs often appear in text as a distinct sequence of characters, sometimes preceded by a descriptive phrase."

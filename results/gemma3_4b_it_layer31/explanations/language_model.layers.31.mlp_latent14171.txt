@@ -1,0 +1,1 @@
+"Various programming and system configuration files and directories, including paths to executable files, configuration files, and source code repositories."

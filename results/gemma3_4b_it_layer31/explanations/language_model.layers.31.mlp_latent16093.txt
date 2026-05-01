@@ -1,0 +1,1 @@
+"Texts containing a mix of formal and informal language, with a prevalence of conversational tone, colloquial expressions, and internet slang. The presence of various formatting elements, such as HTML tags, PHP code, and markdown syntax, suggests a diverse range of sources, including articles, social media posts, and online forums."

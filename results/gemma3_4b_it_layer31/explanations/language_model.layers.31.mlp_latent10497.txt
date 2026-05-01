@@ -1,0 +1,1 @@
+"Various types of text data, including URLs, scientific articles, programming code, mathematical equations, and online forum discussions, with a focus on extracting specific information such as URLs, article IDs, and numerical values."

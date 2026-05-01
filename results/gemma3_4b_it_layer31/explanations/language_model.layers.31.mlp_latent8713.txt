@@ -1,0 +1,1 @@
+"Texts are mostly code snippets in various programming languages, with some English explanations and comments. The patterns found include SQL queries, PHP code, JavaScript functions, and Python scripts, often with specific keywords and syntax highlighting."

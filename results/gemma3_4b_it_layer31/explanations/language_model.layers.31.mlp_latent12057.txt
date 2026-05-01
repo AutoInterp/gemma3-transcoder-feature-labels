@@ -1,0 +1,1 @@
+"The token \"tap\" is used to describe a variety of actions, including pressing a button, accessing information, or utilizing a resource."

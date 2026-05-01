@@ -1,0 +1,1 @@
+"Texts often contain phrases that are not essential to the main message, but provide additional information or context, such as product descriptions, warnings, or advertisements. These phrases are often marked by a decrease in activation values, indicating that they are less important to the overall meaning of the text."

@@ -1,0 +1,1 @@
+"Various types of text fragments, including article titles, section headers, and standalone phrases, often used to separate or introduce different topics, and sometimes containing metadata or citations."

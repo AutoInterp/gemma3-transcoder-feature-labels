@@ -1,0 +1,1 @@
+"Texts containing geographical locations, names of organizations, institutions, and people, as well as fragments of articles, quotes, and code snippets."

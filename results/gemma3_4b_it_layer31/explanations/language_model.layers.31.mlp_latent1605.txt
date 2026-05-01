@@ -1,0 +1,1 @@
+"Texts are often enclosed in HTML tags or other markup languages, and contain code snippets, function definitions, and variable names, indicating a programming or technical context."

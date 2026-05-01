@@ -1,0 +1,1 @@
+"Various phrases and sentences are split across multiple lines, often due to the presence of a comma or other punctuation mark, or to separate a quotation from the surrounding text."

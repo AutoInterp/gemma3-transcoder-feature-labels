@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are set apart from the rest of the text, sometimes with a specific purpose such as providing instructions, definitions, or explanations. These phrases or sentences can be enclosed in quotation marks or other delimiters, and may be accompanied by activation values indicating their importance or relevance to the surrounding text."

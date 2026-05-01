@@ -1,0 +1,1 @@
+"Texts containing technical documentation, programming code, and mathematical explanations, often with specific keywords and phrases used in various contexts, such as variable names, function parameters, and mathematical formulas."

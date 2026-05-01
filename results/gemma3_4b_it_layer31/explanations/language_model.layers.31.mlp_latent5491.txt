@@ -1,0 +1,1 @@
+"Numerical values, specifically dollar amounts ($100, $200, etc.) and quantities (100 shares, 100 miles, etc.), are frequently mentioned in the text."

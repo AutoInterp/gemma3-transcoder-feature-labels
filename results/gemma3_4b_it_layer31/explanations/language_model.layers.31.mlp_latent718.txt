@@ -1,0 +1,1 @@
+"Texts from various sources, including news articles, books, and online content, with a focus on extracting key phrases and sentences. The extracted phrases often contain proper nouns, titles, and specific details, indicating a pattern of information extraction and summarization."

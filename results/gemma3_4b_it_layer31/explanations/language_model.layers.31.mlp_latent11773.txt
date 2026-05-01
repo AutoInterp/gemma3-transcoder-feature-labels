@@ -1,0 +1,1 @@
+"Various types of text data, including addresses, book titles, event descriptions, and code snippets, often containing geographical locations, names, and technical terms."

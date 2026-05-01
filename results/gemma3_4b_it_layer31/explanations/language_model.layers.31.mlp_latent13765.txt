@@ -1,0 +1,1 @@
+"Text snippets often contain technical or specialized terms, names of people, places, or organizations, and sometimes code or programming language syntax."

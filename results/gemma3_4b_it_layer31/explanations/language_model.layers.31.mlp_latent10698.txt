@@ -1,0 +1,1 @@
+"Various sequences of numbers, often representing data points, measurements, or quantities, and sometimes appearing in lists or tables."

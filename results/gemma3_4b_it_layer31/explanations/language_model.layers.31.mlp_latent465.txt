@@ -1,0 +1,1 @@
+"Text fragments often contain quotes, titles, or phrases in a specific format, such as italicized or bolded text, and sometimes accompanied by activation values indicating their importance."

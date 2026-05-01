@@ -1,0 +1,1 @@
+"Code snippets in various programming languages, including SQL, Java, JavaScript, and Python, often used for database operations, data manipulation, and algorithm implementation."

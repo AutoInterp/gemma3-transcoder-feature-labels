@@ -1,0 +1,1 @@
+"Text snippets often contain proper nouns, geographical locations, and names of people, organizations, and events, which are frequently highlighted in the given examples."

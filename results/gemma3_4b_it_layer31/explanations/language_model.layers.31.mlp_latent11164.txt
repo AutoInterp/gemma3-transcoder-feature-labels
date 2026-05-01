@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that describe something as \"one of the [adjective] [noun]\" or \"the [adjective] [noun]\", where the adjective can be a variety of descriptive words such as \"rarest\", \"widest\", \"most powerful\", etc. This pattern is used to emphasize the uniqueness or exceptional quality of the noun being described."

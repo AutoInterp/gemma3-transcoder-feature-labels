@@ -1,0 +1,1 @@
+"Strings of code, often in the form of comments or documentation, embedded within larger blocks of text."

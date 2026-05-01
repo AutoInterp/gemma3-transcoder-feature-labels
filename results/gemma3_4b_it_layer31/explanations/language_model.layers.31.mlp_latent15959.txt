@@ -1,0 +1,1 @@
+"Various addresses and locations, often in the format of \"Street, City, England\" or \"Number Street, City, Postcode, United Kingdom\"."

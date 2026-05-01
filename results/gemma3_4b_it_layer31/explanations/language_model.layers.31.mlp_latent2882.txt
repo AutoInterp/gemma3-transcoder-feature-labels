@@ -1,0 +1,1 @@
+"A mix of scientific and medical literature citations, with some code snippets, containing references to various studies and research papers."

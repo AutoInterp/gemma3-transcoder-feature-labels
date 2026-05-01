@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are followed by a reference or a link to external information, typically denoted by a phrase such as \"for more information\" or a URL."

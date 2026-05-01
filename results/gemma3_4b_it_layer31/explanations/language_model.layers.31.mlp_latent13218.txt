@@ -1,0 +1,1 @@
+"The token \"s\" or \"sink\" is often used as a key word in programming code, especially in JSON or PHP syntax, and also appears in various contexts such as names of people, places, and objects."

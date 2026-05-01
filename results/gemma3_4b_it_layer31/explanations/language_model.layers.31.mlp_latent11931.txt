@@ -1,0 +1,1 @@
+"Text snippets from various programming languages, data files, and online content, including code, configuration files, and documentation."

@@ -1,0 +1,1 @@
+"Texts often contain proper nouns and common knowledge statements, such as names of places, people, and concepts, as well as general facts and definitions."

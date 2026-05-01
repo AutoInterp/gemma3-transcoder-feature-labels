@@ -1,0 +1,1 @@
+"Various numerical values and time frames are mentioned throughout the text, including specific numbers (e.g. 1, 2, 3, 4, 5, 6, 7, 8, 10, 12, 13, 24, 30, 32, 255), time frames (e.g. three months, three years, five years, six months, six weeks), and percentages (e.g. 8.4%, 13%)."

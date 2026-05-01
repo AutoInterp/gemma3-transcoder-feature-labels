@@ -1,0 +1,1 @@
+"The token \"shell\" has multiple meanings, referring to a hard outer layer of an object (e.g. snail shell, eggshell), a container for holding something (e.g. shell bucket, shellfish), a terminal or command-line interface (e.g. shell prompt, shell commands), or a metaphorical protective layer (e.g. going into a shell, getting a few chips in one's shell)."

@@ -1,0 +1,1 @@
+"Various numerical values representing costs, prices, and savings, often used to convey financial information or comparisons."

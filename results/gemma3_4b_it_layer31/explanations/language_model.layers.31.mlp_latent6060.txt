@@ -1,0 +1,1 @@
+"Texts from various programming and technical sources, including code snippets, documentation, and research papers, often discussing topics such as URI syntax, JSON, XML, HTTP requests, and string manipulation."

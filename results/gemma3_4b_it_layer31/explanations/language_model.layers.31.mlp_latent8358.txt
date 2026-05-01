@@ -1,0 +1,1 @@
+"The token \"filter\" is used in various contexts, including data processing, image editing, and language processing, often referring to a mechanism for selecting or modifying specific elements or information."

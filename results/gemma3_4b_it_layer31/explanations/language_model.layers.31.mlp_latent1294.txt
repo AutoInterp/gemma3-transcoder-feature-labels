@@ -1,0 +1,1 @@
+"Code snippets and programming instructions, often in a programming language such as JSON, embedded within a larger text."

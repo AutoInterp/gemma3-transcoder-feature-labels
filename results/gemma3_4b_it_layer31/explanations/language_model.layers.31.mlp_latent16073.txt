@@ -1,0 +1,1 @@
+"Various special words and numbers used in programming, mathematics, and technical contexts, including file paths, directory names, and numerical values."

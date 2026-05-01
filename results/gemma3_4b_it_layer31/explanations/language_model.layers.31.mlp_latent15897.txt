@@ -1,0 +1,1 @@
+"Texts in multiple languages, including English and Persian, containing a mix of programming code, articles, and conversations. The code snippets are primarily in Python and Java, while the articles and conversations cover various topics such as education, fashion, food, and relationships."

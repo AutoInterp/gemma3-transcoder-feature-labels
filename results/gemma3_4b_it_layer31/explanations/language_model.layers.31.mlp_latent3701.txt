@@ -1,0 +1,1 @@
+"Dates and deadlines, often in the format of day, month, and year, and sometimes accompanied by a time."

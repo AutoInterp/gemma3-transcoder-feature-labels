@@ -1,0 +1,1 @@
+"The token \"inter\" and its variants (\"intra\", \"trans\") are used to describe relationships between entities, such as species, domains, or disciplines, often in a context of comparison or connection."

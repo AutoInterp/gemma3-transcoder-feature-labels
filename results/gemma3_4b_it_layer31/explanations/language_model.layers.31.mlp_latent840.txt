@@ -1,0 +1,1 @@
+"Texts often contain specific dates, names, and locations, which are frequently used as context for the main topic. Additionally, there are instances of technical terms, scientific concepts, and historical events being discussed."

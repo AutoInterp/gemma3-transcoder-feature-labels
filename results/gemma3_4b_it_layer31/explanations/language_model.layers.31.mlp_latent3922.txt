@@ -1,0 +1,1 @@
+"Phone numbers, email addresses, and physical addresses are often embedded in text, often at the end of a paragraph or section, and are typically marked by a delimiter."
