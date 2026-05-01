@@ -1,0 +1,1 @@
+"Texts containing phrases that introduce exceptions or limitations, often using the phrase \"including but not limited to\" to specify a list of items that are not exhaustive."

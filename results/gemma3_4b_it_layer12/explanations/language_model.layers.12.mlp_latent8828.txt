@@ -1,0 +1,1 @@
+"Code snippets containing class or method definitions, property declarations, and variable initializations, often with comments and documentation."

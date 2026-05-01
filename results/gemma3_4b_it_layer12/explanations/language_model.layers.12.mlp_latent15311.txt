@@ -1,0 +1,1 @@
+"Null checks and conditional statements in code, often used to handle edge cases and prevent exceptions."

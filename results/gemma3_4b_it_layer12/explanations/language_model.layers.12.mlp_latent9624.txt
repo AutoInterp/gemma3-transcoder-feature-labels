@@ -1,0 +1,1 @@
+"Texts containing metadata, such as dates, times, and version information, often in a format that is not typical of regular text."

@@ -1,0 +1,1 @@
+"Various URLs, timestamps, and mathematical notations."

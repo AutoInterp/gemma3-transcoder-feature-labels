@@ -1,0 +1,1 @@
+"Texts containing programming commands, system administration instructions, and technical documentation, often with a focus on Unix-like systems and various software development tools."

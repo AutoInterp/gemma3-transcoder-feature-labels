@@ -1,0 +1,1 @@
+"Various getter and setter methods in Java classes, used for encapsulation and data access."

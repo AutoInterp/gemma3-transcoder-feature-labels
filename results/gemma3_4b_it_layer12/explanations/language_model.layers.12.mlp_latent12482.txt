@@ -1,0 +1,1 @@
+"Ranges of values or quantities expressed in a specific format, often with a lower and upper bound, used to convey uncertainty, variability, or a spectrum of possibilities."

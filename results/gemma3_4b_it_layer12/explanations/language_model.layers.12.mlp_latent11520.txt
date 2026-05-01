@@ -1,0 +1,1 @@
+"Phrases and sentences that are not part of the main text, often indicating a link, reference, or citation, typically enclosed in HTML tags or other markup."

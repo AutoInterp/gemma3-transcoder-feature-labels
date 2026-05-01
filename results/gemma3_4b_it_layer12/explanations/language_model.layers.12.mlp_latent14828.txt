@@ -1,0 +1,1 @@
+"Various programming code snippets and configuration options, including Java, PHP, and bash scripts, as well as XML and HTML elements, and command-line options."

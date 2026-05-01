@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, mostly error handling and exception handling mechanisms."

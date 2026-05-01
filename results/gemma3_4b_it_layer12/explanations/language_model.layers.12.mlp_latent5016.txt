@@ -1,0 +1,1 @@
+"Code snippets and programming examples, often with comments and explanations, typically enclosed in HTML tags or other markup languages."

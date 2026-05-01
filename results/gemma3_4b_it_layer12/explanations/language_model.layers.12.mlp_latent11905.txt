@@ -1,0 +1,1 @@
+"Ranges of numbers indicating time, duration, or quantity, often used to convey a sense of uncertainty or variability."

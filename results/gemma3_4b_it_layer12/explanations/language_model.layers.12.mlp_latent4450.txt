@@ -1,0 +1,1 @@
+"Dates in various formats, including full date expressions, abbreviations, and numerical representations, often accompanied by time."

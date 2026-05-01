@@ -1,0 +1,1 @@
+"Loops iterating over arrays or lists, often with indices i and j, used for various operations such as data processing, calculations, and string manipulation."

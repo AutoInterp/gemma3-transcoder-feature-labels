@@ -1,0 +1,1 @@
+"Text snippets that are likely code excerpts or technical descriptions, often containing variable names, function calls, and mathematical expressions, but lacking context and surrounding code."

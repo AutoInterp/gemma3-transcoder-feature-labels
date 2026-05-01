@@ -1,0 +1,1 @@
+"Various programming-related text, including function and method descriptions, code snippets, and documentation comments, often containing technical terms and syntax."

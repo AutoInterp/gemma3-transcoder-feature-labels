@@ -1,0 +1,1 @@
+"Code comments and documentation in various programming languages, including Java, C#, Ruby, and others, providing information about methods, classes, and interfaces."

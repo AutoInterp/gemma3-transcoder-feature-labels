@@ -1,0 +1,1 @@
+"Texts are mostly composed of dates, titles, and paragraphs of written content, often with a mix of formal and informal language, and sometimes including code snippets or mathematical expressions."

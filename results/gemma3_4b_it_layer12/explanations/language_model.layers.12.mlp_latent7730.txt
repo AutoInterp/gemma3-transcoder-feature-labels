@@ -1,0 +1,1 @@
+"Texts containing book or publication information, including titles, authors, publication dates, and ISBN numbers."

@@ -1,0 +1,1 @@
+"Text snippets often contain dates, names, and URLs, which are frequently found at the end of a post or comment."

@@ -1,0 +1,1 @@
+"The token \"A\", \"B\", or \"C\" representing options in multiple-choice questions, often used in educational or decision-making contexts."

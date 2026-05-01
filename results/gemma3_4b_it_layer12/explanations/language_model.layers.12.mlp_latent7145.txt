@@ -1,0 +1,1 @@
+"Texts discussing various topics, including technology, philosophy, science, and social issues, often contain long sequences of text with low activation values, indicating less important or background information, and shorter sequences with higher activation values, indicating more important or key points."

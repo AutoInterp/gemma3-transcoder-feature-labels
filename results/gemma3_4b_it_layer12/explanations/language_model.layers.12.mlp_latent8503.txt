@@ -1,0 +1,1 @@
+"Text representing time and date information, including hours, minutes, days of the week, months, and years, often used in scheduling and event planning contexts."

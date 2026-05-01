@@ -1,0 +1,1 @@
+"Texts often contain lists of items, frequently preceded by a phrase such as \"and more\", \"and others\", or \"and so on\", indicating a continuation of a sequence."

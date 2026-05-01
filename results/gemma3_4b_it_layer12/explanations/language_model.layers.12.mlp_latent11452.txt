@@ -1,0 +1,1 @@
+"Code snippets in various programming languages, including MATLAB, Python, and C++, with a focus on color representation and manipulation, as well as graphical user interface elements."

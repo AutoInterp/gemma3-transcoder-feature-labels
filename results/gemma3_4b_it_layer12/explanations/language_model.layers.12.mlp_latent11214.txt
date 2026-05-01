@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are not directly related to the main content, such as comments, replies, or additional information, often marked by phrases like \"You are commenting using your account\" or \"Leave a Reply\"."

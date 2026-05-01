@@ -1,0 +1,1 @@
+"Text fragments often contain incomplete or truncated sentences, possibly due to formatting or data extraction issues."

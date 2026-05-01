@@ -1,0 +1,1 @@
+"Text snippets containing error messages, technical issues, and troubleshooting steps, often with a focus on software, programming, and system administration."

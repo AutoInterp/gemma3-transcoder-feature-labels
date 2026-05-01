@@ -1,0 +1,1 @@
+"Various types of metadata and formatting information, including timestamps, version control information, and copyright notices, often found at the end of a document or article."

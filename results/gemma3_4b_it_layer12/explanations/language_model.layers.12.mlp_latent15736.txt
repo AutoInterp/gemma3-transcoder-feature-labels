@@ -1,0 +1,1 @@
+"Text snippets from various programming languages, documentation, and Wikipedia articles, with a focus on code comments, method descriptions, and data structures."

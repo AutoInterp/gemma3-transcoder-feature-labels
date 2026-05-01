@@ -1,0 +1,1 @@
+"Texts often contain dates, names, and locations, which are frequently used as context for the main topic."

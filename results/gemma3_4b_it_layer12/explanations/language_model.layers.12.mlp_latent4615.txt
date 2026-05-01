@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are enclosed in double angle brackets, which appear to be code or programming syntax, but are actually used to highlight or distinguish specific parts of the text. These phrases often contain technical or programming-related information, and are frequently used in online forums, discussions, or documentation."

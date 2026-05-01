@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including Java, Ruby, Python, and others, highlighting specific lines or blocks of code that are being analyzed."

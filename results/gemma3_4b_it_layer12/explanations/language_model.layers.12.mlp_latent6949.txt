@@ -1,0 +1,1 @@
+"SQL queries and database operations, including insertions, updates, and queries, often with parameterized statements and regular expressions used for pattern matching."

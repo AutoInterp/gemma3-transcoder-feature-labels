@@ -1,0 +1,1 @@
+"Texts containing various types of measurements, including distances in miles and kilometers, temperatures in Celsius and Fahrenheit, and other numerical values."

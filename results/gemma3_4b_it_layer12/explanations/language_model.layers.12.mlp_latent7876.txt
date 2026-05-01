@@ -1,0 +1,1 @@
+"Text fragments that appear to be citations, references, or external links, often containing technical or academic information, and are frequently found at the end of a paragraph or section."

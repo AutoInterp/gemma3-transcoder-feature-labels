@@ -1,0 +1,1 @@
+"Code snippets in various programming languages, primarily Java and PHP, containing assertions and unit tests to verify the correctness of code functionality."

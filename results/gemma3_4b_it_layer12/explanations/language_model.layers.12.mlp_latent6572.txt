@@ -1,0 +1,1 @@
+"SQL code snippets, database table structures, and foreign key constraints, indicating a focus on database design and management."

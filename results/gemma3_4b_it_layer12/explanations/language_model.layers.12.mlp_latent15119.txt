@@ -1,0 +1,1 @@
+"A mix of scientific article metadata and references, including DOIs, publication years, and journal names, often in a format that is machine-readable."

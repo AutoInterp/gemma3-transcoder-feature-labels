@@ -1,0 +1,1 @@
+"Text snippets enclosed in << >> delimiters, often containing quotes, sentences, or phrases, frequently with low activation values, suggesting they may be filler text or placeholder content."

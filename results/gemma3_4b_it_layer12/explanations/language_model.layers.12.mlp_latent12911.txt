@@ -1,0 +1,1 @@
+"Texts containing copyright and licensing information, often found at the beginning or end of documents, and sometimes within code."

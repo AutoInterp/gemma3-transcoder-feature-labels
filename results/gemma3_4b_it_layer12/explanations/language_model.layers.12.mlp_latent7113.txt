@@ -1,0 +1,1 @@
+"Texts with low activation values are likely irrelevant or background information, while texts with higher activation values are likely important or relevant to the context."

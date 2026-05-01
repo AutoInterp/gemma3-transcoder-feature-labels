@@ -1,0 +1,1 @@
+"Texts often contain instructions, explanations, or warnings that are crucial for understanding the content, and are frequently highlighted by being placed at the beginning or end of a sentence, or being separated from the rest of the text by a blank line."

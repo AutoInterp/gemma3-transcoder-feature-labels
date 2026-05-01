@@ -1,0 +1,1 @@
+"The token \"%\" is used to represent percentages in various contexts, including financial calculations, interest rates, and growth rates."

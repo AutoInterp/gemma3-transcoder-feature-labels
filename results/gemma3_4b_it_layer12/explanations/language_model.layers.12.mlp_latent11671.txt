@@ -1,0 +1,1 @@
+"A mix of academic citations, references, and article metadata, often in the format of a digital object identifier (DOI), PubMed ID (PMID), or a specific journal or publication name."

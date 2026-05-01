@@ -1,0 +1,1 @@
+"Code comments and documentation explaining default values, parameters, and behaviors of functions, variables, and options."

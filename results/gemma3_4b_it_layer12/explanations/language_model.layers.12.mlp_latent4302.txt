@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including SQL, Java, Python, and JavaScript, highlighting syntax, data structures, and functions."

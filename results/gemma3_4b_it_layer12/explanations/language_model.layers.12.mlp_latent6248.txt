@@ -1,0 +1,1 @@
+"Token sequences that appear to be incomplete or truncated, often followed by an ellipsis or a delimiter, indicating a cut-off or a continuation of text."

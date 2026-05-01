@@ -1,0 +1,1 @@
+"Various types of text data, including URLs, HTML code, programming code, and plain text, with a focus on identifying and extracting specific patterns and keywords."

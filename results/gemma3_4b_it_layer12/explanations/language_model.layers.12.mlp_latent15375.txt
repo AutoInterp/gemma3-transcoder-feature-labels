@@ -1,0 +1,1 @@
+"Texts are academic articles, primarily from medical and scientific fields, with citations and references to other studies and publications, often in the format of [Google Scholar]."

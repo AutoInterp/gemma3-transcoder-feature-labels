@@ -1,0 +1,1 @@
+"Dates and times of events, appointments, and meetings, often accompanied by additional information such as locations, schedules, and ticketing details."

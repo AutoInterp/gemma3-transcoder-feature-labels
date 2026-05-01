@@ -1,0 +1,1 @@
+"The token \"you\" is often used as a pronoun to address someone directly, and the token \"we\" is used to refer to a group of people, often including the speaker."

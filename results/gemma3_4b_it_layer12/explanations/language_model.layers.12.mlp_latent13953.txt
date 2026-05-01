@@ -1,0 +1,1 @@
+"Various types of text data, including addresses, phone numbers, product descriptions, color codes, and text from books or articles, often with formatting and styling information."

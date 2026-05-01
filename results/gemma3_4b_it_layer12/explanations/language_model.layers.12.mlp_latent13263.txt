@@ -1,0 +1,1 @@
+"Various units of measurement, including distances (yards, meters, centimeters), time (minutes, hours), and monetary values (dollars, euros), often used in sports, finance, and everyday contexts."

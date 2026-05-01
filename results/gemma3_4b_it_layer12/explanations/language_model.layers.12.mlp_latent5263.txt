@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, primarily Java and JavaScript, related to session management, user authentication, and data storage, including cookies, local storage, and shared preferences."

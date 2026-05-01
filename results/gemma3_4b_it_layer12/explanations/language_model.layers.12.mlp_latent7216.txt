@@ -1,0 +1,1 @@
+"Text fragments often appear at the beginning of a line, sometimes followed by a period, and are likely to be titles, headings, or introductory phrases."

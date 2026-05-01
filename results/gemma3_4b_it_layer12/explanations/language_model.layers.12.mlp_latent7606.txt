@@ -1,0 +1,1 @@
+"Text segments indicating funding sources, acknowledgments, and references, often containing specific grant numbers, names of organizations, and authors."

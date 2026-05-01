@@ -1,0 +1,1 @@
+"Text fragments often appear to be code snippets, mathematical equations, or technical descriptions, suggesting a high presence of technical or scientific content."

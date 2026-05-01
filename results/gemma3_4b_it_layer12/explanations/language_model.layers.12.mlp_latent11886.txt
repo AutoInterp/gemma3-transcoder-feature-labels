@@ -1,0 +1,1 @@
+"Error messages and prompts in code, often used to inform users of potential issues or to request user input."

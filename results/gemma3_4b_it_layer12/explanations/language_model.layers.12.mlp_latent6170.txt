@@ -1,0 +1,1 @@
+"A collection of addresses, primarily in the format of \"Street Address, City, Country\" or \"Suite Number, Building Name, City\", often followed by additional information such as phone numbers, hours of operation, or contact details."

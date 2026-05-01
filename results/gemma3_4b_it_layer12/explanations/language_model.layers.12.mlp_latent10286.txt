@@ -1,0 +1,1 @@
+"Text fragments often appear between delimiters, which may indicate a change in topic, a quote, or a separate section of text. These fragments can be standalone sentences, phrases, or even just a few words, and they often have varying levels of importance and relevance to the surrounding text."

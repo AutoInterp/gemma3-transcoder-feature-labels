@@ -1,0 +1,1 @@
+"Texts are often terminated with a specific delimiter, such as \"<eos>\", and contain various types of information, including dates, names, and quotes, often with a specific format."

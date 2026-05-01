@@ -1,0 +1,1 @@
+"Various types of citations, quotations, and references in text, including book pages, figures, tables, and URLs, as well as code snippets and mathematical equations."

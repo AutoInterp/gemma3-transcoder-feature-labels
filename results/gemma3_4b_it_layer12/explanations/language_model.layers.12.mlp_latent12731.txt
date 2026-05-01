@@ -1,0 +1,1 @@
+"Various numerical values and ranges, often used to describe quantities, measurements, or statistics, frequently accompanied by units of measurement, percentages, or other descriptive terms."

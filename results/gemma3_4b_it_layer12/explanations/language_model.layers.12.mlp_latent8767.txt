@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are set apart from the rest of the text, usually to indicate a quote, a separate thought, or a distinct section. These phrases or sentences are often preceded by a delimiter, such as a double angle bracket, and may be followed by a period or other punctuation."

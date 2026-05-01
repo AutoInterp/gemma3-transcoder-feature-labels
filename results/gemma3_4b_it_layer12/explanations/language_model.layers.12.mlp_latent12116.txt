@@ -1,0 +1,1 @@
+"Various programming-related terms, including class and method names, annotations, and function parameters, as well as some general programming concepts and data structures."

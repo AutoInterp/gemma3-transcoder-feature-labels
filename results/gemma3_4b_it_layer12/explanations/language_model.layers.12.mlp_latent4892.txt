@@ -1,0 +1,1 @@
+"Database schema and SQL code snippets, including foreign keys, constraints, and table references, as well as programming code and error messages."

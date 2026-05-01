@@ -1,0 +1,1 @@
+"Time and date information, including hours, minutes, and locations, often in conjunction with geographical coordinates."

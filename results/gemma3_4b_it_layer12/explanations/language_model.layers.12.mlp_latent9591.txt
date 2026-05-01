@@ -1,0 +1,1 @@
+"Texts that are not idiomatic expressions or phrases, but rather appear to be fragments of various documents, including programming code, academic papers, news articles, and social media posts."

@@ -1,0 +1,1 @@
+"Texts are often truncated with \"Continue reading\" or \"Read more\" to encourage users to click on links to access full content."

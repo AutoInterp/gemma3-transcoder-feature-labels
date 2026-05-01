@@ -1,0 +1,1 @@
+"Mathematical text describing various concepts, formulas, and functions, primarily in the fields of calculus, algebra, and probability theory, with a focus on exponential growth and decay, complex singularities, and combinatorial circuits."

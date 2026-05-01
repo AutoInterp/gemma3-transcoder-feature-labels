@@ -1,0 +1,1 @@
+"Various types of lists, including ordered lists, bullet points, and numbered lists, used to present information in a structured and organized manner."

@@ -1,0 +1,1 @@
+"Various types of text, including articles, blog posts, and job listings, with a focus on extracting specific information such as phone numbers, addresses, and activation values."

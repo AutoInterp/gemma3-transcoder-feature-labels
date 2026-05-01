@@ -1,0 +1,1 @@
+"Text excerpts containing numerical values, often representing dates, times, or quantities, frequently appearing at the beginning or end of a sentence."

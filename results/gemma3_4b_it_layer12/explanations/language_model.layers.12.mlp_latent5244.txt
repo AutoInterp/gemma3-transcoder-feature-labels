@@ -1,0 +1,1 @@
+"Text fragments containing instructions, commands, or steps to be taken, often in a technical or procedural context."

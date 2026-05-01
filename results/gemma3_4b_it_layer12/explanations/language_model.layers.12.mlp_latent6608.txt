@@ -1,0 +1,1 @@
+"Text snippets often contain dates, times, and other metadata, which are frequently embedded within the main text. Additionally, there are instances of URLs, citations, and references, which are often denoted by specific keywords or phrases."

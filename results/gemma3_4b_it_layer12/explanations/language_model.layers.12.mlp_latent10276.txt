@@ -1,0 +1,1 @@
+"Texts often contain phrases and sentences that describe locations or positions in three-dimensional space, such as \"under\", \"above\", \"behind\", \"in front of\", and \"on top of\", as well as words that describe physical objects and their properties, like \"walls\", \"church\", \"frame\", \"hull\", and \"boat\"."

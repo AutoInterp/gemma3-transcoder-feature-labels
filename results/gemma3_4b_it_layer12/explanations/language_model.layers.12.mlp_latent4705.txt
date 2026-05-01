@@ -1,0 +1,1 @@
+"Texts from various sources, including tutorials, guides, and documentation, covering a wide range of topics such as software installation, programming, and system administration. The common patterns found in these texts include step-by-step instructions, code snippets, and technical jargon."

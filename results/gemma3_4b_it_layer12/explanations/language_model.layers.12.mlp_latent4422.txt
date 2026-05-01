@@ -1,0 +1,1 @@
+"Numbers representing quantities, amounts, or rates, often used for measurement or comparison, such as time, money, or frequency."

@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, primarily SQL, C++, Java, and Python, showcasing database schema design, data types, and variable declarations."

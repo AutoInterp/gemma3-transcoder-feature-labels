@@ -1,0 +1,1 @@
+"Text snippets from various programming languages, scripts, and configuration files, including bash, perl, python, SQL, and TeX. The patterns found in these examples include code snippets, variable assignments, function calls, and database queries, indicating a collection of programming-related text."

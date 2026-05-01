@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including Java, C#, Perl, and Ruby, as well as HTML, SQL, and shell scripts, with some text from articles and websites."

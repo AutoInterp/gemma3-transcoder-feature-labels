@@ -1,1 +1,1 @@
-"Code snippets from various programming languages, including Java, Python, SQL, and others, with a focus on data structures, algorithms, and system interactions."
+"Code snippets from various programming languages, including comments, function definitions, and data structures, often with syntax highlighting and formatting."

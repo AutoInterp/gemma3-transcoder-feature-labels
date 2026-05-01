@@ -1,0 +1,1 @@
+"Texts are broken into chunks with headings, lists, and short sentences and paragraphs to improve readability and clarity."

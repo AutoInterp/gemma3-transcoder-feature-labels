@@ -1,0 +1,1 @@
+"Dates in the format of \"month, day, year\" and times in the format of \"hour:minute\" or \"hour AM/PM\" are present in the text."

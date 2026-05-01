@@ -1,0 +1,1 @@
+"Various metadata and formatting information embedded within text, including dates, author information, and HTML tags."

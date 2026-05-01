@@ -1,0 +1,1 @@
+"Texts often contain proper nouns, such as names of places, organizations, and people, which are typically capitalized. Additionally, technical and scientific texts frequently include mathematical expressions, chemical formulas, and programming code, which are often denoted by specific symbols and formatting."

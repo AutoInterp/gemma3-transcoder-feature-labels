@@ -1,0 +1,1 @@
+"Texts containing URLs, database queries, and error messages, indicating a mix of technical and informative content."

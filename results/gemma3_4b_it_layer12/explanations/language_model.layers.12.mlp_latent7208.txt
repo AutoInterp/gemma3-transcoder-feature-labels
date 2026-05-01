@@ -1,0 +1,1 @@
+"Text snippets often appear between delimiters, which are typically used to set off quotes, citations, or references, and may contain additional information such as dates, locations, or context."

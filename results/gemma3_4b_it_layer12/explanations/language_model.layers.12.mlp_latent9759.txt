@@ -1,0 +1,1 @@
+"Various types of identifiers, including phone numbers, fax numbers, email addresses, ISBNs, DOIs, PMID numbers, and other unique codes, often used for citation, referencing, or official purposes."

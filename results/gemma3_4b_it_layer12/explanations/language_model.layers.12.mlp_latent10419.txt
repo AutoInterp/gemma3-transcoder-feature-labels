@@ -1,0 +1,1 @@
+"Texts often contain long sentences or phrases that provide additional information, explanations, or context, which are usually marked by a higher activation value."

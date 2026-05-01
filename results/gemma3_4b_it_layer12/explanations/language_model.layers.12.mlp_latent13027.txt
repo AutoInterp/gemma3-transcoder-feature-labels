@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including Java, Python, C++, PHP, and others, with a focus on algorithmic and data structure implementations, such as dynamic programming, graph traversal, and string manipulation."

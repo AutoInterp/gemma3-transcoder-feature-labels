@@ -1,0 +1,1 @@
+"Various types of numerical data, including measurements, quantities, and statistics, often presented in a specific format with units and context."

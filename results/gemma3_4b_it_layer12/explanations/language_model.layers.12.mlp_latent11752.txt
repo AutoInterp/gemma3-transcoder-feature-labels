@@ -1,0 +1,1 @@
+"Various numerical values and monetary amounts, often in different currencies, presented in text."

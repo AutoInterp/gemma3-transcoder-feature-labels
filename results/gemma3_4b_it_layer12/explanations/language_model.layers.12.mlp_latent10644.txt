@@ -1,0 +1,1 @@
+"Various getter and setter methods in object-oriented programming languages, used to access and modify the state of an object."

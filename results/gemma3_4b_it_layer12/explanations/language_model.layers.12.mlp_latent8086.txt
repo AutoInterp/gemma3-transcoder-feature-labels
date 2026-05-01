@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including Java, Python, JavaScript, and C++, with a focus on algorithmic and mathematical concepts, such as sorting, searching, and game development."

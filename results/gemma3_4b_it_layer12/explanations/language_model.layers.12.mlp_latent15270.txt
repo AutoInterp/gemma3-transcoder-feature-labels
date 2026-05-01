@@ -1,0 +1,1 @@
+"Text describing color information, including hexadecimal codes, RGB values, and color conversions, often with accompanying color charts and descriptions."

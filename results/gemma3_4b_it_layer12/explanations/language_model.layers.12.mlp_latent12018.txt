@@ -1,0 +1,1 @@
+"Various programming-related terms and concepts, including function parameters, data types, and method calls, as well as general text describing programming and software development."

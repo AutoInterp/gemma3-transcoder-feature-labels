@@ -1,0 +1,1 @@
+"IP addresses and related concepts, such as network segments, DNS servers, and VPNs, are frequently mentioned in the text."

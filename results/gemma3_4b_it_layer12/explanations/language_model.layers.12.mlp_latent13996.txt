@@ -1,0 +1,1 @@
+"Texts containing sensitive information, such as personal data, health details, or financial information, often accompanied by warnings or explanations about the importance of confidentiality and data protection."

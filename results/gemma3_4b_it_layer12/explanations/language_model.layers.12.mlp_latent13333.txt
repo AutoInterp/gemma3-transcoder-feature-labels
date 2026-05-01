@@ -1,0 +1,1 @@
+"Text fragments that appear to be cut off or incomplete, often ending with a delimiter such as \"<eos>\". These fragments may be from various sources, including articles, conversations, or code snippets, and are likely being analyzed for patterns or context."

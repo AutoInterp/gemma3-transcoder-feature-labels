@@ -1,0 +1,1 @@
+"Texts containing metadata about books, documents, and other written content, including page counts, ISBN numbers, publication dates, and author information."

@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are set apart from the rest of the text, usually to provide additional context or information, and are often followed by a low activation score, indicating they may be less relevant or important to the main topic."

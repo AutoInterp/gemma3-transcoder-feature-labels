@@ -1,0 +1,1 @@
+"Months of the year, often used as temporal references in sentences."

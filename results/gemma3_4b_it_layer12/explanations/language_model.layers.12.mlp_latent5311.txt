@@ -1,0 +1,1 @@
+"Text fragments often appear to be cut off or truncated, with sentences or phrases ending abruptly, sometimes in the middle of a word. This is likely due to the text being extracted or copied from a larger source, such as a book, article, or online conversation, and then truncated for some reason."

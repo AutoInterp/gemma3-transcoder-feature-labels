@@ -1,0 +1,1 @@
+"Texts describing algorithms, specifically sorting algorithms such as quicksort, and their implementation details, including partitioning schemes and time complexity analysis."

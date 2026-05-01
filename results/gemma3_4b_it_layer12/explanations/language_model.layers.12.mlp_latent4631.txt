@@ -1,0 +1,1 @@
+"Texts containing error messages, technical issues, and troubleshooting information, often with a focus on software, programming, and computer-related problems."

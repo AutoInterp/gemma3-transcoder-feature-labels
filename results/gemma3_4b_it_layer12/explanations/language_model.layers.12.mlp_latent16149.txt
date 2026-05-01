@@ -1,0 +1,1 @@
+"Text contains various types of formatting, including italics, bold, and underlining, used to convey emphasis, highlight important information, and distinguish between different types of text, such as titles, headings, and hyperlinks."

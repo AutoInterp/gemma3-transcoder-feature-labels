@@ -1,0 +1,1 @@
+"Geographic information and coordinates, including latitude, longitude, and location names, often accompanied by additional data such as elevation, distance, and time."

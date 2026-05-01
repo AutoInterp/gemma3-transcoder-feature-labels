@@ -1,0 +1,1 @@
+"Texts often contain quotes, citations, and code snippets, which are typically denoted by quotation marks or other delimiters, and are frequently accompanied by activation values that are low or zero, indicating that these elements are not the primary focus of the text."

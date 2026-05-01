@@ -1,0 +1,1 @@
+"Text snippets often contain hashtags (#), links, and other metadata, which are not necessarily relevant to the main content. The main text may include quotes, references, or citations, and sometimes contains phrases or sentences that are not directly related to the topic."

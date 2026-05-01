@@ -1,0 +1,1 @@
+"Code snippets and technical terms from various programming languages and data analysis tools, including references to specific functions, variables, and IDs, often accompanied by activation values indicating their importance in the text."

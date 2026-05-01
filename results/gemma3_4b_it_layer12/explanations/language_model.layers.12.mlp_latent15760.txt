@@ -1,0 +1,1 @@
+"Texts containing explicit content, advertisements, and unrelated topics, often with low activation values for most tokens, suggesting a lack of coherent or meaningful language patterns."

@@ -1,0 +1,1 @@
+"Text snippets containing URLs, IP addresses, and other network-related information, often used for malicious or phishing purposes."

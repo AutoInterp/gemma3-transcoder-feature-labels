@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are enclosed in delimiters, which appear to be code snippets, quotes, or other types of embedded content. These embedded sections often have lower activation values compared to the surrounding text, suggesting that they may be less important for the overall meaning or context."

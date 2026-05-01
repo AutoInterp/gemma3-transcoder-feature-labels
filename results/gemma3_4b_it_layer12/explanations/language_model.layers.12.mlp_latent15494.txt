@@ -1,0 +1,1 @@
+"Text fragments often contain geographical locations, names of people, and technical terms, but the most common pattern is the presence of sentences or phrases that are not directly related to the main topic, often serving as tangential information or asides."

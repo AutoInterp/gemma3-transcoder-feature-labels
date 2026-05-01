@@ -1,0 +1,1 @@
+"Various numerical values and measurements in different units, including degrees, minutes, seconds, kilometers, miles, millibars, inches of mercury, and grams per milliliter, often used in scientific, geographical, or technical contexts."

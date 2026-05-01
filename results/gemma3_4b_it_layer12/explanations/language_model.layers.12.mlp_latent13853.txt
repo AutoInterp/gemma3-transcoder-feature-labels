@@ -1,0 +1,1 @@
+"Texts often contain numerical values, such as quantities of people, objects, or money, and sometimes specific dates or times. These numerical values can be used to convey information about the context, statistics, or events being described."

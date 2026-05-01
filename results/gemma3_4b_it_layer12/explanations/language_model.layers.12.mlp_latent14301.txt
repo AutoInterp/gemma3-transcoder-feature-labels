@@ -1,0 +1,1 @@
+"Texts often end with a special delimiter, likely indicating the end of a document or a section, denoted as \"eos\"."

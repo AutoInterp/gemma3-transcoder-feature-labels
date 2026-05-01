@@ -1,0 +1,1 @@
+"Java code snippets with various annotations and methods, likely from a Spring or Java-based web application, containing comments and documentation in English."

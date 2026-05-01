@@ -1,0 +1,1 @@
+"Text contains various numerical values, including percentages, decimal fractions, and scientific notation, often used to represent quantities, measurements, or probabilities."

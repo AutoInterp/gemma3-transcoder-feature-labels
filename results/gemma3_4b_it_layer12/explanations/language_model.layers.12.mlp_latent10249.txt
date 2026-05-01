@@ -1,0 +1,1 @@
+"Dates in various formats, including numerical, ordinal, and written representations, often accompanied by other metadata such as time, location, and event information."

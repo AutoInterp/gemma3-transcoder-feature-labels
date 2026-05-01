@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, primarily Java, JavaScript, and C#, with a focus on object-oriented programming, data structures, and algorithms."

@@ -1,0 +1,1 @@
+"Strings of characters representing digital object identifiers (DOIs) or URLs, often used to cite academic sources or provide references."

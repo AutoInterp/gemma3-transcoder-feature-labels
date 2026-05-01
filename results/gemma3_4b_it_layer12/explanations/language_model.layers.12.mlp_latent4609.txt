@@ -1,0 +1,1 @@
+"Code snippets from various programming languages and database queries, often containing foreign keys, constraints, and other database-related terms."

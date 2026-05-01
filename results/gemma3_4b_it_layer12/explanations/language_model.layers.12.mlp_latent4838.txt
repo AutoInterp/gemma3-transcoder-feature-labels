@@ -1,0 +1,1 @@
+"Texts often begin or end with a delimiter, followed by a period of text that is not necessarily related to the delimiter, and then another delimiter. The delimiter is sometimes followed by a period, indicating the end of a sentence."

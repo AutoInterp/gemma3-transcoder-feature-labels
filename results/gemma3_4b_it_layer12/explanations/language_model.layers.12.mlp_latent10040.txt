@@ -1,0 +1,1 @@
+"Various phrases and sentences extracted from a large corpus of text, often containing proper nouns, titles, and names, likely from news articles, academic papers, and online content."

@@ -1,0 +1,1 @@
+"Text fragments often containing a title, a brief description, or a quote, frequently followed by a link, a reference, or a call to action, often denoted by a delimiter."

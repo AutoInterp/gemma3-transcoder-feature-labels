@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, mostly related to data structures, functions, and object-oriented programming."

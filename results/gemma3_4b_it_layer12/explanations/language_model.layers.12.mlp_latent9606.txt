@@ -1,0 +1,1 @@
+"Text snippets often contain timestamps, URLs, and metadata, frequently accompanied by end-of-sentence markers, indicating a structured or formal text format, possibly from online articles, forums, or documentation."

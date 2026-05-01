@@ -1,0 +1,1 @@
+"Texts containing specific phrases or sentences that are likely to be extracted or identified by a system, often due to their relevance to a particular topic or context, such as business information, idioms, or technical terms."

@@ -1,0 +1,1 @@
+"Texts containing ISBN numbers, book titles, and author names, often accompanied by publication information and activation values for specific tokens."

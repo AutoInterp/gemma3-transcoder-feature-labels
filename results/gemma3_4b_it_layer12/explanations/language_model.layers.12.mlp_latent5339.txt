@@ -1,0 +1,1 @@
+"Dates in the format of \"year\" or \"year-month\" or \"year-month-day\" or \"year-month-day hour:minute:second\" are present in the text."

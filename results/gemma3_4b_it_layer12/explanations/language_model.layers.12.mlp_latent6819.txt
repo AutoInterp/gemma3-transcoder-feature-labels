@@ -1,0 +1,1 @@
+"Text fragments containing various types of information, including sentences, paragraphs, and code snippets, often separated by special characters or tags, and sometimes followed by activation values indicating the importance of certain words or phrases."

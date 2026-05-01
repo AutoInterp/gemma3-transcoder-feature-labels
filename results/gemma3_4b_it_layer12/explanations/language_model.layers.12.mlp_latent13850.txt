@@ -1,0 +1,1 @@
+"Email addresses, URLs, and other specific data formats, such as file paths, mathematical equations, and programming code, often appear in the text."

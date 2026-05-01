@@ -1,0 +1,1 @@
+"Text enclosed in << and >> delimiters often represents a block of text that is being referenced or quoted, and is frequently used in programming code, articles, and other written content."

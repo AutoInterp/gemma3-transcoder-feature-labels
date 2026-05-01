@@ -1,0 +1,1 @@
+"Various types of text fragments, including article titles, subtitles, and metadata, often containing keywords or phrases related to the content."

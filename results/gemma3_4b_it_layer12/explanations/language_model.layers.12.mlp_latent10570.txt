@@ -1,0 +1,1 @@
+"Texts from various programming and technical documentation, including code snippets, API descriptions, and explanations of programming concepts, often with a focus on web development and Ruby on Rails."

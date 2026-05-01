@@ -1,0 +1,1 @@
+"Code snippets and mathematical expressions, often representing game logic, algorithms, or statistical models, frequently involving conditional statements, loops, and function calls."

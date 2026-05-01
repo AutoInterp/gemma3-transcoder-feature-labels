@@ -1,0 +1,1 @@
+"Texts containing mathematical formulas, equations, and proofs, often related to geometry, algebra, and calculus, as well as programming code snippets in various languages."

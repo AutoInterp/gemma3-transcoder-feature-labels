@@ -1,0 +1,1 @@
+"Timestamps in various formats, often preceding or following a message or post, and sometimes including additional information such as user names, locations, or actions."

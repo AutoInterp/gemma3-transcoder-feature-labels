@@ -1,0 +1,1 @@
+"Texts containing login or sign-up prompts, error messages, and website navigation elements, often related to user authentication and account management."

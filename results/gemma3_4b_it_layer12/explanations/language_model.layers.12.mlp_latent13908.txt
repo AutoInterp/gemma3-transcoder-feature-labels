@@ -1,0 +1,1 @@
+"Locations of various types, including physical addresses, geographic regions, and business establishments."

@@ -1,0 +1,1 @@
+"Text snippets often start with a number, a specific date, or a unique identifier, followed by a title or a question, and sometimes a link or a reference."

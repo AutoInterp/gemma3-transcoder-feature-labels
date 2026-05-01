@@ -1,0 +1,1 @@
+"Texts from various sources, including news articles, blog posts, and comments, with a focus on extracting specific words or phrases from the text. The extracted words or phrases are often related to the topic or context of the text, but may also include common words or phrases such as \"Leave a Reply\", \"Activations:\", and \"Comments:\"."

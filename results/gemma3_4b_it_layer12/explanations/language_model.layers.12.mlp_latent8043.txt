@@ -1,0 +1,1 @@
+"Text snippets from various academic papers, articles, and online content, including research studies, conference proceedings, and Wikipedia entries, often with DOI or PMID identifiers, and sometimes with code or mathematical expressions."

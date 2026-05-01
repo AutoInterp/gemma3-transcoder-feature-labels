@@ -1,0 +1,1 @@
+"HTML table structure with variable names and descriptions, likely from a documentation or configuration file."

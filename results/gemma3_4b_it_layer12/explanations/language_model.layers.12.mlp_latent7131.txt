@@ -1,0 +1,1 @@
+"Various tables and lists containing structured information, often with specific formatting and styling, such as font sizes, colors, and padding."

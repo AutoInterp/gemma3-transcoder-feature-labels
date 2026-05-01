@@ -1,0 +1,1 @@
+"Various programming-related terms, including class names, method names, file paths, and import statements, often accompanied by comments and author information."

@@ -1,0 +1,1 @@
+"Texts describing various concepts and theories from mathematics, computer science, and logic, including modal logic, graph theory, and database systems, often using formal notation and technical terminology."

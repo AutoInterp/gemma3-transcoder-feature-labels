@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including Java, C++, Python, and XAML, as well as XML and HTML fragments, and text from articles and books on various topics, including science, technology, and social issues."

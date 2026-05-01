@@ -1,0 +1,1 @@
+"Dates and times in various formats, often accompanied by location information, and sometimes followed by a description of an event or activity."

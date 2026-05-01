@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including Java, C++, and PHP, containing class definitions, method implementations, and variable declarations, often with comments and annotations."

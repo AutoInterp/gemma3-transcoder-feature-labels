@@ -1,0 +1,1 @@
+"SQL queries and database operations, including data retrieval and manipulation, as well as database schema and trigger definitions."

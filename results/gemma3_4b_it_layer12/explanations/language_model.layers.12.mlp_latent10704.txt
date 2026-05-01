@@ -1,0 +1,1 @@
+"Various programming code snippets and data formats, including SQL, JSON, JavaScript, Python, Java, and Perl, with a focus on string manipulation, data parsing, and encoding."

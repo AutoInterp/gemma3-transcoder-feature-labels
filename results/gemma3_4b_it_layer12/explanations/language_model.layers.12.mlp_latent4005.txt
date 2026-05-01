@@ -1,1 +1,1 @@
-"Texts containing various mathematical formulas and equations, often from physics, engineering, and statistics, used to describe and calculate different physical properties and phenomena."
+"Texts containing various mathematical formulas and equations from different fields, including physics, chemistry, finance, and computer science, often used to describe relationships between variables or to calculate specific values."

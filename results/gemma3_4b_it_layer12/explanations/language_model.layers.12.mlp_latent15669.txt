@@ -1,0 +1,1 @@
+"Text latents related to user authentication and login processes, including username and password input fields, login forms, error messages for incorrect credentials, and password reset functionality."

@@ -1,0 +1,1 @@
+"Texts often contain phrases that can be thought of as vectors or signatures, representing a matrix of words and documents. These phrases can be used to describe various concepts, such as idioms, comparative adjectives, and nouns representing distinct objects."

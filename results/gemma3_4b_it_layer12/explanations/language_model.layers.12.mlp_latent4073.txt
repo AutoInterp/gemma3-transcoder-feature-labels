@@ -1,1 +1,1 @@
-"Texts containing phrases or sentences enclosed within delimiters, often indicating a quote, citation, or a specific piece of information, and frequently accompanied by a numerical value or a specific date."
+"Texts containing phrases or sentences enclosed within delimiters, often indicating a quote, a title, or a specific piece of information, and frequently appearing in a formal or academic context."

@@ -1,0 +1,1 @@
+"Various programming and system-related commands, file paths, and technical terms, often used in a context of troubleshooting, configuration, or development."

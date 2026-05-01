@@ -1,0 +1,1 @@
+"Texts containing product descriptions, return and refund policies, technical instructions, and software documentation, often including specific details about product features, usage, and troubleshooting."

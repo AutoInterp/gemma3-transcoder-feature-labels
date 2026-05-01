@@ -1,0 +1,1 @@
+"Texts containing programming code, database queries, and cryptographic functions, often involving string data types and encryption modes."

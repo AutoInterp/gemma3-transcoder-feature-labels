@@ -1,0 +1,1 @@
+"Various programming languages and code snippets, including loops, conditional statements, and function definitions, often with variable declarations and assignments."

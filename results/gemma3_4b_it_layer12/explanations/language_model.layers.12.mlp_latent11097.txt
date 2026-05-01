@@ -1,0 +1,1 @@
+"Various programming and technical terms, including file paths, commands, and function calls, often related to software development, system administration, and data analysis."

@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, primarily C++ and Java, demonstrating the use of RAII (Resource Acquisition Is Initialization) pattern for memory management, as well as other programming concepts such as event handling, GUI management, and data structures."

@@ -1,0 +1,1 @@
+"Geographic locations, addresses, and coordinates, often used to provide information about a specific place, such as hours of operation, directions, or reviews."

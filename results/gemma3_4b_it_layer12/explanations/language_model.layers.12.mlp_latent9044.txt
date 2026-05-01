@@ -1,0 +1,1 @@
+"Code snippets in various programming languages, primarily in C/C++, Java, and Python, with a focus on data structures, algorithms, and mathematical operations."

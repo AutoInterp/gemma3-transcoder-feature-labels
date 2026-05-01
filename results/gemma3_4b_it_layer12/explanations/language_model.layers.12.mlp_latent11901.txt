@@ -1,0 +1,1 @@
+"Code snippets in various programming languages, including bash, Java, JavaScript, and C, with a focus on syntax and function definitions."

@@ -1,0 +1,1 @@
+"Dates and times, often in the format of day of the week, followed by a specific time, and sometimes including a location or event details."

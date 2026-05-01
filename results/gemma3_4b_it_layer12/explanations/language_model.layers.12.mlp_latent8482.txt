@@ -1,0 +1,1 @@
+"Text contains mathematical expressions, equations, and formulas, often involving algebra, geometry, and calculus, as well as numerical computations and data representation in various formats, including RGB color spaces and hexadecimal codes."

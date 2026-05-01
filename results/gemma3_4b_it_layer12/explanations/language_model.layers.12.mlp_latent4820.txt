@@ -1,0 +1,1 @@
+"Numerical values, often in scientific notation, and sometimes accompanied by units, are embedded within the text."

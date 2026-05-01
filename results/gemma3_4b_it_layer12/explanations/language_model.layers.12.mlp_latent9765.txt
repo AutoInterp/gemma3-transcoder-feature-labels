@@ -1,0 +1,1 @@
+"Text fragments often contain dates, names, and specific details, which are frequently used to provide context and information."

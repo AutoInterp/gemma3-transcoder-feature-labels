@@ -1,0 +1,1 @@
+"Text snippets often contain specific phrases or sentences that are enclosed in a distinct format, such as HTML tags, markdown, or other markup languages, which are used to represent metadata or formatting information."

@@ -1,0 +1,1 @@
+"Text contains various types of metadata, including book information (ISBN, publisher, author), academic references (DOI, PMID, Google Scholar), and formatting elements (page numbers, dates, citations)."

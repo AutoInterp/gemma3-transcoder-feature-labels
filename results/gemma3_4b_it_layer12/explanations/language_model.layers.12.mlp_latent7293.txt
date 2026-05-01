@@ -1,0 +1,1 @@
+"Various numerical values, dates, and hexadecimal color codes, often used in programming or data representation."

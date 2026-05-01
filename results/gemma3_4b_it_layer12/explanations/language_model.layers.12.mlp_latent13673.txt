@@ -1,0 +1,1 @@
+"Various types of identifiers and references, including ISBN numbers, article citations, and URLs, often found at the end of a text or in a footnote."

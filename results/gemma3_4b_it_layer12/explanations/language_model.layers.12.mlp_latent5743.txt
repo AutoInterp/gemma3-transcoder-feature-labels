@@ -1,0 +1,1 @@
+"Text contains a large number of proper nouns, including names of institutions, locations, people, and organizations, often accompanied by their affiliations and credentials."

@@ -1,1 +1,1 @@
-"Street addresses and locations, often including city, country, and postal code information, frequently appearing in a specific format."
+"Street addresses and locations, often including country names, city names, and specific street names, frequently accompanied by additional information such as postal codes, building names, or directions."

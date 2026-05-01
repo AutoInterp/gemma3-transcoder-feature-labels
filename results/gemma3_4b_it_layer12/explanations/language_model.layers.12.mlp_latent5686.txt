@@ -1,0 +1,1 @@
+"Texts containing technical explanations, mathematical formulas, and descriptions of algorithms, often with a focus on computer science, physics, and engineering concepts."

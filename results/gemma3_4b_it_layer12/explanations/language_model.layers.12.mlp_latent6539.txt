@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, mostly mathematical and algorithmic in nature, with a focus on problem-solving and optimization."

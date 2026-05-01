@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are not directly related to the main topic, such as navigation menus, comments, or side notes, which can be identified by their lack of activation values."

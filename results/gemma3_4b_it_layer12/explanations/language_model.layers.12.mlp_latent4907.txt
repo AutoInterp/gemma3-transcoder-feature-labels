@@ -1,0 +1,1 @@
+"Code snippets from various programming languages and testing frameworks, often containing method calls, assertions, and variable assignments, but lacking context and clear patterns."

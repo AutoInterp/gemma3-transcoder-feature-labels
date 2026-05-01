@@ -1,0 +1,1 @@
+"Numbers representing monetary values, including amounts spent, earned, or allocated, often in the context of business, finance, or government."

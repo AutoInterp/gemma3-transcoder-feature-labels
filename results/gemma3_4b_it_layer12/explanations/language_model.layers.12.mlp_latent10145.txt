@@ -1,0 +1,1 @@
+"Various digital object identifiers (DOIs) and journal article references, often containing a unique identifier and a link to the article, frequently accompanied by a citation or reference number."

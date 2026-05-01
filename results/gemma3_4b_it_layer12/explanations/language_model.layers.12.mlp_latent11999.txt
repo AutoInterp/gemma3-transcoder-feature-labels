@@ -1,0 +1,1 @@
+"Texts from various sources, including news articles, biographies, and advertisements, with a focus on extracting specific words or phrases. The extracted words often represent proper nouns, such as names of people, places, and organizations, as well as common nouns like titles, occupations, and locations."

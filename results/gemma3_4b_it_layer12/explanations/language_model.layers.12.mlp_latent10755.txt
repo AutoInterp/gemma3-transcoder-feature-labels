@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are interrupted by a pause or a shift in thought, indicated by a delimiter, followed by a continuation of the idea or a new thought."

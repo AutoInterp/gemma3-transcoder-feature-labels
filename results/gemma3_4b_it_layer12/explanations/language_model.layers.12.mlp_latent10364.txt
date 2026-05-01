@@ -1,0 +1,1 @@
+"SQL code snippets, including table creation, data manipulation, and database management commands, often used in database development and administration."

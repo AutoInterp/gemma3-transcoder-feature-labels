@@ -1,0 +1,1 @@
+"Text fragments often appear at the beginning of a new paragraph or section, and sometimes at the end, indicating a transition or a new topic."

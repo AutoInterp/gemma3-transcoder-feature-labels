@@ -1,0 +1,1 @@
+"Code snippets containing assertions, error handling, and conditional statements, often used for testing and debugging purposes."

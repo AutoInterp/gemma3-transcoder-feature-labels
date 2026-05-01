@@ -1,0 +1,1 @@
+"Texts discussing various topics, including scientific research, law, technology, health, and finance, often contain technical terms and jargon. The activation patterns suggest that the model is able to identify and extract key concepts and phrases, such as specific diseases, medical treatments, and technical features, while also recognizing the context in which they are used."

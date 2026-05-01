@@ -1,0 +1,1 @@
+"Texts from various sources, including academic papers, news articles, and technical documents, with a focus on extracting specific phrases or sentences that may be relevant to the task. The extracted phrases often appear to be titles, headings, or quotes, and may be used to identify key concepts or ideas within the text."

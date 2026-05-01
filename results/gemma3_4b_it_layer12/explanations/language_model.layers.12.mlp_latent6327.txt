@@ -1,0 +1,1 @@
+"Texts often contain dates in the format \"year-month\" or \"year-month-day\", and sometimes accompanied by a description of an event."

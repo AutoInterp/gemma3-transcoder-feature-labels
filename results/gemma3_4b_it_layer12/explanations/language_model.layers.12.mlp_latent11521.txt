@@ -1,0 +1,1 @@
+"Strings representing character encodings, database settings, and SQL commands, often used in programming and database management."

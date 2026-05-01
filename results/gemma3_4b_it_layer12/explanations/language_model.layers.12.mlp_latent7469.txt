@@ -1,0 +1,1 @@
+"Locations, names of cities, countries, and geographical features."

@@ -1,0 +1,1 @@
+"Texts from various sources, including programming documentation, online help, and articles, with common patterns including code snippets, instructions, and formatting guidelines."

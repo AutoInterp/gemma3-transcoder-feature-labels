@@ -1,0 +1,1 @@
+"Large blocks of text, often containing complex sentences or paragraphs, are used to provide context or information, and are not necessarily related to the surrounding code or text."

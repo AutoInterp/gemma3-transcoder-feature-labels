@@ -1,0 +1,1 @@
+"Various programming languages and frameworks, including Java, Python, C++, Spring, Android, and more, with a focus on class and method definitions, annotations, and imports."

@@ -1,0 +1,1 @@
+"The use of double colon (::) as a delimiter in programming syntax, and its usage in various programming languages and frameworks."

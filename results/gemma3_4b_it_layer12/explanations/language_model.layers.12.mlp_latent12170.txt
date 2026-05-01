@@ -1,0 +1,1 @@
+"Various article and book references, often with DOI or PubMed IDs, and sometimes accompanied by a quote or a statement."

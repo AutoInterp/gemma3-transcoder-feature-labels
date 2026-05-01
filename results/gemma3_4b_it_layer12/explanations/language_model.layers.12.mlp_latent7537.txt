@@ -1,0 +1,1 @@
+"Texts from various sources, including news articles, product descriptions, and academic papers, with a focus on extracting specific phrases or sentences that may be relevant to the analysis. The patterns found in these examples include product descriptions, news headlines, and quotes from various sources, often with a focus on highlighting key information or emotions."

@@ -1,0 +1,1 @@
+"Code comments and documentation in various programming languages, including Java, C++, and JavaScript, often containing information about the purpose of a method, class, or function, as well as explanations of the code's functionality."

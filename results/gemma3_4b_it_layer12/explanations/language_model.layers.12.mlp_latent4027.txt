@@ -1,1 +1,1 @@
-"Code snippets from various programming languages, often containing function calls, variable assignments, and control flow statements."
+"Code snippets from various programming languages, including Java, Python, C++, JavaScript, and others, with a focus on function calls, variable assignments, and conditional statements."

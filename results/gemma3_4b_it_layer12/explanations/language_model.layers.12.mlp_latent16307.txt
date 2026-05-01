@@ -1,0 +1,1 @@
+"Text segments often contain phrases or sentences that are set apart from the rest of the text, typically indicating a change in topic, a quote, or a separate idea. These segments often have lower activation values for surrounding words, suggesting a distinctiveness from the surrounding context."

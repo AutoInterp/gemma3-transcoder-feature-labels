@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are interrupted or embedded within another sentence, sometimes with a quotation mark, and may be followed by a clarification or explanation."

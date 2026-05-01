@@ -1,0 +1,1 @@
+"Texts containing citations or references to external sources, often in the form of \"(see [source])\" or \"as mentioned above\"."

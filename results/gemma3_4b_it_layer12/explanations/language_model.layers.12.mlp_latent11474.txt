@@ -1,0 +1,1 @@
+"References to external information, such as links, tables, or other sections, often denoted by phrases like \"see below\", \"see table\", or \"see also\"."

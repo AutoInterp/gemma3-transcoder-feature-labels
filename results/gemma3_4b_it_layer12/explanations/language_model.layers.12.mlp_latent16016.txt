@@ -1,0 +1,1 @@
+"Code excerpts with comments and variable names, often containing IP addresses, server names, and other technical information."

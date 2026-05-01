@@ -1,1 +1,1 @@
-"Code snippets in various programming languages, including comments, function definitions, and variable assignments, showcasing different programming concepts and data structures."
+"Code snippets in various programming languages, primarily in C/C++ and Java, with a focus on algorithmic and data structure implementations, such as hash joins, prime number generation, and graph traversal."

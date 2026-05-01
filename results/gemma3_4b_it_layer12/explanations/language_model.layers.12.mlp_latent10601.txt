@@ -1,0 +1,1 @@
+"Texts describing problems, issues, or errors, often with a focus on troubleshooting, diagnosis, and resolution."

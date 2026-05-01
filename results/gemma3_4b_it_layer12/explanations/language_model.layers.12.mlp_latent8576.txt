@@ -1,0 +1,1 @@
+"Text fragments that are not part of the main content, often containing metadata, references, or additional information."

@@ -1,0 +1,1 @@
+"IP addresses, numerical values, and octets, often used in programming and technical contexts."

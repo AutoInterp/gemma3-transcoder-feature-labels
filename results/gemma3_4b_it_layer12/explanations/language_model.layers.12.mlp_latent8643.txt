@@ -1,0 +1,1 @@
+"Technical text discussing computer networking protocols, specifically TCP, with a focus on state diagrams, connection establishment, and security mechanisms."

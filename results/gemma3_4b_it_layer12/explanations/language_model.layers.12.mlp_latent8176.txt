@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are frequently found at the beginning or end of a list, indicating a structured format."

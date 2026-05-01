@@ -1,0 +1,1 @@
+"Texts describing step-by-step instructions or guides for various tasks, often including software installation, configuration, and troubleshooting, frequently using imperative language and listing numbered steps."

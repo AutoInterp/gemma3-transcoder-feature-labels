@@ -1,0 +1,1 @@
+"Various programming languages and frameworks, including Java, C++, Python, and Spring, with a focus on class and method definitions, data structures, and object-oriented programming concepts."

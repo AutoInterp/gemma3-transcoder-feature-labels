@@ -1,0 +1,1 @@
+"Code snippets and mathematical expressions, often involving programming languages, mathematical formulas, and algorithmic descriptions, frequently containing variable names, function calls, and logical operators."

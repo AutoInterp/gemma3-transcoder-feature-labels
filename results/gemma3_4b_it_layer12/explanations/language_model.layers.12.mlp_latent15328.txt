@@ -1,0 +1,1 @@
+"Text primarily consists of mathematical concepts and theorems, with a focus on differential geometry, fiber bundles, and Banach algebras. The language is technical and formal, with frequent use of abstract mathematical notation and terminology."

@@ -1,0 +1,1 @@
+"Texts often end with a delimiter, such as \"<eos>\", indicating the end of a document or a section."

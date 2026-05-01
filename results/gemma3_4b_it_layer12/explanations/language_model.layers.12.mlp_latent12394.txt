@@ -1,0 +1,1 @@
+"Texts often contain long sequences of sentences that are not necessarily related to the main topic, but rather provide additional information, examples, or explanations. These sequences can be found in various contexts, such as articles, blog posts, or online discussions."

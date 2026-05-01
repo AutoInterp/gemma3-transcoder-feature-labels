@@ -1,0 +1,1 @@
+"Code snippets and instructions for various programming languages and tools, including configuration files, batch files, and setup procedures."

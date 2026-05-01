@@ -1,0 +1,1 @@
+"Text fragments that appear to be the start of a sentence or a new topic, often containing a transition word or phrase, frequently with a colon or other punctuation mark."

@@ -1,0 +1,1 @@
+"Text snippets often appear at the beginning or end of a paragraph, sometimes containing metadata or additional information, and are frequently enclosed in quotation marks or other delimiters."

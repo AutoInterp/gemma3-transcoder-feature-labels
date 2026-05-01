@@ -1,0 +1,1 @@
+"Text fragments often appear between delimiters, sometimes containing code, sometimes being part of a larger text, and sometimes being a standalone quote."

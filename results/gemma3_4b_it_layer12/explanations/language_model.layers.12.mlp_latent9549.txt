@@ -1,0 +1,1 @@
+"Tokens indicating a transition to a new topic, idea, or section, often used to signal a change in context or to provide additional information."

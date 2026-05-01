@@ -1,0 +1,1 @@
+"Numbers representing quantities, percentages, and rankings, often used to convey statistics, scores, or other numerical data."

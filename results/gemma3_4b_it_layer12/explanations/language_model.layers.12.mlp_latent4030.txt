@@ -1,1 +1,1 @@
-"Text segments enclosed by delimiters often represent product descriptions, advertisements, or product information, frequently containing details about products, services, or events."
+"Text segments enclosed by delimiters often represent product descriptions, advertisements, or product information, frequently containing product names, features, and prices."
