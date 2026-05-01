@@ -1,0 +1,1 @@
+"Text fragments often represent lists, instructions, or definitions, frequently using bullet points and numbered items to organize information."

@@ -1,0 +1,1 @@
+"Various commands and scripts for software development, deployment, and configuration, including installation of packages, running tests, and executing scripts in different programming languages."

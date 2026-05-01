@@ -1,0 +1,1 @@
+"Various programming languages and frameworks, including C++, Java, Python, C#, and Go, as well as database management systems like MySQL and Hibernate, and libraries like SFML and Boost."

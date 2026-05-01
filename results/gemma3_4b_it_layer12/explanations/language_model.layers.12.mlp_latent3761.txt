@@ -1,0 +1,1 @@
+"Dates and years are often mentioned in the text, frequently in the format of a specific day and month (e.g., \"Jan. 21, 1950\") or a year only (e.g., \"2015\")."

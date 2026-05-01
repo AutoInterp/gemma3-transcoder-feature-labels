@@ -1,0 +1,1 @@
+"Code snippets and programming-related text, including SQL queries, database connections, and API calls, as well as comments and documentation in various programming languages."

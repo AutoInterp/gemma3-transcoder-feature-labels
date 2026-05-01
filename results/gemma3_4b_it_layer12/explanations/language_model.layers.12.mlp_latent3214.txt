@@ -1,0 +1,1 @@
+"Various technical and troubleshooting instructions, including error messages, code snippets, and step-by-step guides, often related to software development, system administration, and computer hardware."

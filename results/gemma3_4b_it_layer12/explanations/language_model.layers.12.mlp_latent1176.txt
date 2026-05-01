@@ -1,0 +1,1 @@
+"Texts with low activation values are likely to be introductory phrases, titles, or standalone sentences, while higher activation values are associated with more complex or meaningful content."

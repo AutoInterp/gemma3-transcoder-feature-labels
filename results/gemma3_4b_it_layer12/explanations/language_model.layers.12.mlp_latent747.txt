@@ -1,0 +1,1 @@
+"Text fragments often contain links or references to other parts of the text, denoted by phrases like \"here\", \"ago\", or \"above\", indicating a hierarchical or sequential structure."

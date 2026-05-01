@@ -1,0 +1,1 @@
+"Code snippets, often in a programming language, enclosed within delimiters, typically indicating a block of code or a specific section of a program."

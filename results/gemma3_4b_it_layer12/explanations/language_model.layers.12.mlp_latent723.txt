@@ -1,0 +1,1 @@
+"Text fragments containing contact information, addresses, phone numbers, and URLs, often in a format that appears to be a mix of structured data and unstructured text."

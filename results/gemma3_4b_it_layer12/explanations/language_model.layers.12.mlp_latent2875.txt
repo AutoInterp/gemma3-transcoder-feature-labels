@@ -1,0 +1,1 @@
+"Text describing user interface elements, such as buttons, menus, and settings, often with code snippets and technical details."

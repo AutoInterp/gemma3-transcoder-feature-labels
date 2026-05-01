@@ -1,0 +1,1 @@
+"Various types of text data, including addresses, phone numbers, book titles, and scientific articles, often containing specific formatting and punctuation."

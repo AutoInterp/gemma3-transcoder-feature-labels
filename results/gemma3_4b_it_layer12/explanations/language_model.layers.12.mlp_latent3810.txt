@@ -1,0 +1,1 @@
+"Various types of text, including programming code, articles, and social media posts, often containing specific phrases or sentences that are not necessarily idiomatic or grammatically significant, but rather serve as a delimiter or a marker for the end of a thought or a section of text, such as \"<eos>\"."

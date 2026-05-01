@@ -1,0 +1,1 @@
+"Code snippets and programming concepts, including variable declarations, loops, conditional statements, and function calls, often within a specific programming language or framework."

@@ -1,0 +1,1 @@
+"Text primarily consists of mathematical and technical language, with a focus on abstract algebra, category theory, and theoretical computer science. The text features complex equations, definitions, and theorems, often with specialized notation and terminology. The language is formal and precise, with a focus on conveying abstract concepts and ideas."

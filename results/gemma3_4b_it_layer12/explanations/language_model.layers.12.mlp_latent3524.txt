@@ -1,0 +1,1 @@
+"Texts often contain proper nouns, such as names of people, places, and organizations, which are frequently mentioned in conjunction with other words like \"of\", \"in\", \"the\", and \"and\". Additionally, there are instances of technical or specialized vocabulary, including terms from fields like medicine, finance, and computer science."

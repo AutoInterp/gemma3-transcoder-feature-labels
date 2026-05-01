@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including Java, Spring, and Thymeleaf, as well as text from articles, Wikipedia, and other sources, indicating a mixed dataset of programming code and natural language text."

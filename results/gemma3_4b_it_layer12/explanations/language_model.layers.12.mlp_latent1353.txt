@@ -1,0 +1,1 @@
+"Text snippets containing code, technical terms, and references to external sources, often found in the context of programming, documentation, and academic articles."

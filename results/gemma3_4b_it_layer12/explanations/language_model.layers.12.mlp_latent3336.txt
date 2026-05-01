@@ -1,0 +1,1 @@
+"Various types of text fragments, including geographic locations, proper nouns, and citations, often found at the end of a paragraph or section, and sometimes followed by a reference or link."

@@ -1,0 +1,1 @@
+"Texts often contain proper nouns, names of locations, and specific terms that are crucial for understanding the context, but have varying levels of importance."

@@ -1,0 +1,1 @@
+"Text fragments that are code snippets, mathematical equations, or technical descriptions, often found in instructional or informative content."

@@ -1,0 +1,1 @@
+"Texts that contain a narrative or descriptive passage, often with a specific tone or theme, followed by a quote or a statement from someone, usually with a lower activation value, indicating a shift in focus or a change in speaker."

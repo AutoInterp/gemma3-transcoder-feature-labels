@@ -1,0 +1,1 @@
+"Various programming-related terms, including class names, method names, annotations, and variable names, from multiple programming languages such as Java, Spring, Kotlin, and Swift."

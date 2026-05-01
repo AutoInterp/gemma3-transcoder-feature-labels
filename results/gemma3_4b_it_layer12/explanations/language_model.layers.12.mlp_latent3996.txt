@@ -1,0 +1,1 @@
+"Time and date formats, including 24-hour clock, AM/PM, and specific times, often used to provide context for events or actions."

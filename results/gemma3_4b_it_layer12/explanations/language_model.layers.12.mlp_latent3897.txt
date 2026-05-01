@@ -1,0 +1,1 @@
+"The token \"north\", \"south\", \"east\", and \"west\" are used to describe directions and locations in relation to a particular point or area."

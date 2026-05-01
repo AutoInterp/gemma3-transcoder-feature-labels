@@ -1,0 +1,1 @@
+"Various types of text data, including scientific articles, academic citations, programming code, and news articles, often containing numerical data, citations, and technical terms."

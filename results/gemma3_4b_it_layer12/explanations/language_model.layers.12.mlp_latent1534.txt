@@ -1,0 +1,1 @@
+"Text snippets often contain links to external resources, such as PDF files, videos, or websites, which are frequently embedded within the text."

@@ -1,0 +1,1 @@
+"Text fragments often containing metadata, such as author information, publication dates, and copyright notices, typically found at the end of a text."

@@ -1,0 +1,1 @@
+"Various programming languages and frameworks, including JavaScript, HTML, CSS, Java, Python, Ruby, C++, and PHP, as well as specific libraries and tools such as React, Bundler, and Buildkite."

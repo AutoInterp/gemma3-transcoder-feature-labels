@@ -1,0 +1,1 @@
+"Text containing measurements and units, such as inches, feet, meters, and degrees, often in the context of instructions or product descriptions."

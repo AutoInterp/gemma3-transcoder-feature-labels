@@ -1,0 +1,1 @@
+"Text snippets containing dates, times, and numerical values, often in the context of scheduling, measurements, or data representation."

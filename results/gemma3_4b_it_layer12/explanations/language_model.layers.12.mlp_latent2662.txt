@@ -1,0 +1,1 @@
+"Text snippets often contain specific phrases or sentences that are not directly related to the main topic, such as advertisements, links to external resources, or unrelated quotes. These snippets are often separated from the main content by delimiters or are embedded within the text."

@@ -1,0 +1,1 @@
+"Timestamps in the format of \"YYYY-MM-DDTHH:MM:SS+00:00\" or \"YYYY-MM-DD HH:MM:SS\" indicating dates and times of various events, posts, or revisions."

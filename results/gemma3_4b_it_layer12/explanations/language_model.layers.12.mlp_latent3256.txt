@@ -1,0 +1,1 @@
+"Code snippets with JavaScript, Java, and other programming languages, containing function definitions, method implementations, and event handlers, often with comments and variable declarations."

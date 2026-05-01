@@ -1,0 +1,1 @@
+"Various programming code snippets in different languages, including C, C++, Java, and C#, with a focus on data structures, algorithms, and object-oriented programming."

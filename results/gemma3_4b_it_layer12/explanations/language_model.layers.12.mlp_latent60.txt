@@ -1,0 +1,1 @@
+"Text contains various types of sensitive information, including phone numbers, email addresses, and potentially objectionable content, which are often censored or redacted."

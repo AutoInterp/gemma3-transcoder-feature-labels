@@ -1,0 +1,1 @@
+"Textual representations of time, schedules, and hours of operation, including specific days of the week, time ranges, and frequency of events."

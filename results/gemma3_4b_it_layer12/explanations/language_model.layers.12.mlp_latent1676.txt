@@ -1,0 +1,1 @@
+"Texts often contain quotes, references to external sources, and snippets of code, which are typically denoted by quotation marks or code tags. These are often interspersed with regular text, and may be used to provide additional context or information."

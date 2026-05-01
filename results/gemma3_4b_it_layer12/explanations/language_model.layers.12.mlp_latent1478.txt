@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are set apart from the rest of the text, sometimes indicating a change in scene, a quote, or a separate thought. These phrases or sentences can be found at the end of a paragraph or section, and are often preceded by a delimiter such as a period or a new line."

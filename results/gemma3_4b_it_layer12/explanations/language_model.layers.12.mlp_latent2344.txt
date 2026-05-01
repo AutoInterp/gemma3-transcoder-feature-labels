@@ -1,0 +1,1 @@
+"Text fragments often appear at the end of a paragraph or article, typically containing links, tags, or additional information, and are usually separated from the main content by a delimiter."

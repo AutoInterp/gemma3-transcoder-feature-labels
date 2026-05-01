@@ -1,0 +1,1 @@
+"Code snippets and programming concepts, often with variable names and function calls, interspersed with text from various sources including articles, books, and Wikipedia entries."

@@ -1,0 +1,1 @@
+"Error messages and phrases indicating a problem or issue, often related to technical or system-related errors, such as access denied, file not found, or unhandled lexing errors."

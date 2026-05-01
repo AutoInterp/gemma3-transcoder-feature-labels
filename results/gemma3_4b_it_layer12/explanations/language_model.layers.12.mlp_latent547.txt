@@ -1,0 +1,1 @@
+"The token \"pivot\" is used in the context of a sorting algorithm, specifically the quicksort algorithm, to divide a list of values into three groups: values less than the pivot, values equal to the pivot, and values greater than the pivot."

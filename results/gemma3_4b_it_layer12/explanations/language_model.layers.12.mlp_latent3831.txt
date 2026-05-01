@@ -1,0 +1,1 @@
+"Texts containing mathematical concepts, equations, and theorems, often involving abstract algebra, topology, and number theory, with a focus on ordinal numbers, cardinals, and well-ordering."

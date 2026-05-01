@@ -1,0 +1,1 @@
+"Texts containing URLs, file paths, and version numbers, often used for referencing or citing sources, and sometimes used for technical documentation or instructions."

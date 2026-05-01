@@ -1,0 +1,1 @@
+"Code snippets with method definitions, variable declarations, and function implementations, often with specific syntax and structure related to object-oriented programming, such as Java, C#, and C++."

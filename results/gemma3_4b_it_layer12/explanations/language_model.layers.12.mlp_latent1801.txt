@@ -1,0 +1,1 @@
+"Various types of data, including numbers, currency, percentages, and units of measurement, often presented in a formal or technical context."

@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are enclosed in delimiters, which are typically used to set apart quotes, explanations, or additional information. These enclosed phrases or sentences often have a lower activation value, suggesting that they may be secondary or supplementary to the main text."

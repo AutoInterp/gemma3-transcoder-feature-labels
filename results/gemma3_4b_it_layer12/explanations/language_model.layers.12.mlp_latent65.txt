@@ -1,0 +1,1 @@
+"Texts containing titles, subtitles, and other metadata, such as author names, publication dates, and URLs, often found at the beginning or end of articles, books, and online content."

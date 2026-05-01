@@ -1,0 +1,1 @@
+"Numerical values and ranges, often used for measurements, quantities, or time intervals, frequently accompanied by units of measurement or other descriptive text."

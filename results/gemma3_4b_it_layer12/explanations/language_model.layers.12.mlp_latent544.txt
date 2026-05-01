@@ -1,0 +1,1 @@
+"Texts that are enclosed in double angle brackets << >> are descriptions or explanations of a particular concept, system, or process, often providing additional context or information."

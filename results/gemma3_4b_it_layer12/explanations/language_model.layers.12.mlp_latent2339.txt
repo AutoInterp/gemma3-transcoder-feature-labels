@@ -1,0 +1,1 @@
+"Texts with low activation values are often informative or descriptive passages, while those with higher activation values are typically titles, subtitles, or other metadata."

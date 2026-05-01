@@ -1,0 +1,1 @@
+"Various types of text fragments, including citations, references, and code snippets, often containing numbers and special characters, frequently found at the end of a line or paragraph."

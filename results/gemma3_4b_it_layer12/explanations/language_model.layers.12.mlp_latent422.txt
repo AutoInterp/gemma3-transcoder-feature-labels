@@ -1,0 +1,1 @@
+"Text fragments that appear to be code snippets, programming commands, or technical jargon, often with low activation values, suggesting they are not the primary focus of the text."

@@ -1,0 +1,1 @@
+"Text snippets often appear in a specific format, typically enclosed in angle brackets, and are frequently related to programming, technical documentation, or online content."

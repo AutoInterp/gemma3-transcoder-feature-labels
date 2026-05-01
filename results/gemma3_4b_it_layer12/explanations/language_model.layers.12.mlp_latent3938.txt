@@ -1,0 +1,1 @@
+"Various programming languages and frameworks, including Java, Spring, Android, and Firebase, with a focus on database interactions, API calls, and object-oriented programming."

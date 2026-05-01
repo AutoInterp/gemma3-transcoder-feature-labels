@@ -1,0 +1,1 @@
+"Texts often contain addresses, names, and locations, which are typically found at the beginning of a sentence or paragraph. Additionally, there are instances of formal or official titles, such as \"Commission members\" or \"Funeral services\", which are often followed by a description of their role or function."

@@ -1,0 +1,1 @@
+"Texts from various sources, including articles, books, and code, with a focus on extracting specific phrases, sentences, or code snippets. The patterns found include: extracted phrases or sentences often start with a specific word or phrase, and code snippets are often related to programming concepts, data structures, or algorithms."

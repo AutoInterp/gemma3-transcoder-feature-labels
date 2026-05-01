@@ -1,0 +1,1 @@
+"Texts often contain addresses, names of locations, and specific details about events, people, and organizations, which are frequently embedded within larger blocks of text."

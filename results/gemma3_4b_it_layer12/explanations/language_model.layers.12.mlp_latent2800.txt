@@ -1,0 +1,1 @@
+"Various types of metadata and formatting information, including timestamps, version numbers, and file information, often found at the beginning or end of text documents."

@@ -1,0 +1,1 @@
+"Text snippets often appear at the end of a post, typically containing links, references, or additional information, and are usually separated from the main content by a delimiter such as \"<eos>\"."

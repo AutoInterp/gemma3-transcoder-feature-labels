@@ -1,0 +1,1 @@
+"Various types of text, including product descriptions, articles, and online content, with a focus on extracting specific information such as prices, dimensions, and other numerical data."

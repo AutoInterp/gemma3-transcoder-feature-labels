@@ -1,0 +1,1 @@
+"Text fragments often appear between delimiters, which seem to be used to denote quotes, figures, or other types of content. These fragments often contain standalone sentences, paragraphs, or even entire documents, and may be related to various topics such as science, technology, literature, or everyday life."

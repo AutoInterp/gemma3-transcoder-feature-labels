@@ -1,0 +1,1 @@
+"HTML and CSS code snippets, including class and id attributes, used for styling and layout purposes."

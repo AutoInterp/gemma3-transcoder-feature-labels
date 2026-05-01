@@ -1,0 +1,1 @@
+"Various programming-related terms and concepts, including database queries, object-oriented programming, and web development."

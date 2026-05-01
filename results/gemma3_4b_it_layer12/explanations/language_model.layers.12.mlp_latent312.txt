@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are set off by a delimiter, typically indicating a pause or a shift in context, and are often followed by a new paragraph or a change in topic."

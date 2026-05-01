@@ -1,0 +1,1 @@
+"Various types of text fragments, including book and article metadata, URLs, contact information, instructions, and snippets of text from different sources, often with a focus on technical or informative content."

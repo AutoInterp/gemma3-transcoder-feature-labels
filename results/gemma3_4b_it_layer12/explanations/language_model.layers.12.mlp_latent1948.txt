@@ -1,0 +1,1 @@
+"Various programming code snippets, technical documentation, and data descriptions in different formats, including JSON, XML, and plain text, often related to software development, data analysis, and scientific research."

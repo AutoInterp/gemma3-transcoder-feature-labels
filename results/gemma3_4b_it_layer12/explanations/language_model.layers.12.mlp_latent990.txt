@@ -1,0 +1,1 @@
+"Text fragments that are not part of the main content, often indicating the end of a document or a section, such as HTML tags, page generation information, and advertisements."

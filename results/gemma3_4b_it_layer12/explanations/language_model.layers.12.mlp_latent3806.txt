@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are not directly related to the main topic, such as URLs, email addresses, phone numbers, and irrelevant words or phrases. These can be considered as noise or irrelevant information in the text."

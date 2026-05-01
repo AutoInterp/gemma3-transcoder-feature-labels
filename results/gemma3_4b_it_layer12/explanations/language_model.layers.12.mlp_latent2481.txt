@@ -1,0 +1,1 @@
+"Text snippets containing various types of data, including article titles, citations, mathematical expressions, programming code, and plain text, often with specific formatting or syntax."

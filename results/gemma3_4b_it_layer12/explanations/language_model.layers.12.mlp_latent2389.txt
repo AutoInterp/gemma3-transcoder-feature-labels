@@ -1,0 +1,1 @@
+"Class names that do not represent any domain concept, but rather serve as a technical abstraction or a utility class, often used to encapsulate specific functionality or behavior."

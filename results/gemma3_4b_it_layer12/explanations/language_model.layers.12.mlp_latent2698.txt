@@ -1,0 +1,1 @@
+"Various types of text data, including book information, product descriptions, addresses, phone numbers, GPS coordinates, and text from articles or books, often containing specific details such as ISBN numbers, publication dates, and author names."

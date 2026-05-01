@@ -1,0 +1,1 @@
+"Various types of data, including book titles, ISBN numbers, dates, coordinates, mathematical expressions, and URLs, often appearing in isolation or as part of a larger text."

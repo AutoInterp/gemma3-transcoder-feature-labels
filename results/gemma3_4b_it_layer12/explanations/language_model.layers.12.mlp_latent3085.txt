@@ -1,0 +1,1 @@
+"Various types of dates and times, including specific dates, times of day, and periods of time, often used to provide context or specify a duration."

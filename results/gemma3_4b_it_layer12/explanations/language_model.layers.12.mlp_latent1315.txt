@@ -1,0 +1,1 @@
+"Text fragments that appear to be cut off or truncated, often with a sentence or phrase ending abruptly, frequently with a specific punctuation mark such as \"<eos>\"."

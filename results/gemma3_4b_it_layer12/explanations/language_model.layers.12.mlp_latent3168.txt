@@ -1,0 +1,1 @@
+"Various numerical values, including large numbers, percentages, and times, often used in financial, scientific, or technical contexts."

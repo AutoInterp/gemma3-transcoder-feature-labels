@@ -1,0 +1,1 @@
+"Various programming concepts, technical terms, and domain-specific language used in software development, data analysis, and scientific research."

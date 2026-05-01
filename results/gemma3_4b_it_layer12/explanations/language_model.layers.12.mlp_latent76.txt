@@ -1,0 +1,1 @@
+"Text fragments often appear at the end of a paragraph or section, denoted by a special symbol or keyword, and are typically used to indicate the end of a unit of text, such as a sentence, paragraph, or section."

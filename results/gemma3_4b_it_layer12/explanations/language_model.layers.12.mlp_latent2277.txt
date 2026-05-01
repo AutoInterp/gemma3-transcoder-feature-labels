@@ -1,0 +1,1 @@
+"Various types of text data, including but not limited to, book titles, episode names, product descriptions, programming code, and text from online articles, often containing specific keywords or phrases that are not necessarily related to each other."

@@ -1,0 +1,1 @@
+"Texts from various sources, including Wikipedia articles, external links, and programming code, with a focus on extracting specific phrases and words. The patterns found include: extracted phrases and words from tables, lists, and code snippets; use of external links and references; and a mix of formal and informal language."

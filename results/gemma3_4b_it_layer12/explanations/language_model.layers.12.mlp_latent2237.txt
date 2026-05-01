@@ -1,0 +1,1 @@
+"URLs and code snippets, often containing instructions or references, frequently found in online articles, GitHub comments, and programming documentation."

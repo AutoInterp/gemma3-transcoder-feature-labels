@@ -1,0 +1,1 @@
+"Texts are often nested within other texts, such as code, quotes, or paragraphs, and the activations are focused on the inner text, excluding the surrounding context."

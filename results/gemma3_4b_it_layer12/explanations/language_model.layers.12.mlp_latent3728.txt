@@ -1,0 +1,1 @@
+"Timestamps in various formats, including date and time, often in 24-hour format, and sometimes with additional information such as AM/PM, GMT, or timezone."

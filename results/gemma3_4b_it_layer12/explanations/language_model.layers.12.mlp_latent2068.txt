@@ -1,0 +1,1 @@
+"Various special characters and symbols used in programming, markup languages, and mathematical notation, including brackets, parentheses, and quotation marks, often used to denote scope, grouping, or delimiting strings."

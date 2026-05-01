@@ -1,0 +1,1 @@
+"Texts discussing security vulnerabilities, specifically cross-site scripting (XSS) and SQL injection, as well as general security best practices and the importance of validation."
